@@ -1,0 +1,9 @@
+{{ define "content" }}
+  <p>Current FAQs and Logistics pages</p>
+
+  <ol>
+    {{ range $.Data.Pages }}
+      <li><a href="{{.Permalink}}">{{.Title}}</a></li>
+    {{ end }}
+
+{{ end }}
