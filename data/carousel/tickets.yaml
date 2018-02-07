@@ -1,10 +1,10 @@
 weight: 3
-title: "Design"
+title: "Buy your ticket today!"
 description: >
-  <ul class="list-style-none">
-    <li>Clean and elegant design</li>
-    <li>Full width and boxed mode</li>
-    <li>Easily readable Roboto font and awesome icons</li>
-    <li>7 preprepared colour variations</li>
-  </ul>
-image: "img/carousel/template-easy-customize.png"
+  <div style="width:100%; text-align:left;">
+    # here sould come the eventbrite iframe (breaks the carousel)   
+  </div>
+  <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left">
+   <a class="powered-by-eb" style="color:#ADB0B6; text-decoration:none;" target="_blank" href="http://www.eventbrite.be">Ticket registrations with Eventbrite</a>
+  </div>
+image: ""
