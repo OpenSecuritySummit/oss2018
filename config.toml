@@ -16,30 +16,56 @@ paginate = 10
 [menu]
 
 # Main menu
-
 [[menu.main]]
-    name = "Home"
-    url  = "/"
+    name = "Tracks"
+    identifier = "tracks"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 1
-
+    url = "/session/"
+#[[menu.main]]
+#    name = "Outcomes"
+#    identifier = "outcomes"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 2
+#    url = "/outcome/"
+[[menu.main]]
+    name = "Participants"
+    identifier = "participants"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 3
+    url = "/participant/"
+[[menu.main]]
+    name = "Venue"
+    identifier = "venue"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 4
+    url = "/venue/"
+[[menu.main]]
+    name = "Faq"
+    identifier = "faq"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 5
+    url = "/faq/"
 [[menu.main]]
     name = "Blog"
-    url  = "/blog/"
-    weight = 2
-
+    identifier = "blog"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 6
+    url = "/blog/"
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
-    weight = 3
-
+    name = "Sponsors"
+    identifier = "sponsors"
+    weight = 7
+    url = "/sponsor/"
 [[menu.main]]
-    name = "Contact"
-    url  = "/contact/"
-    weight = 4
+    name = "About"
+    identifier = "about"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 8
+    url = "/about/"
+
 
 # Top bar social links menu
-
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
