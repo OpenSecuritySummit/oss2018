@@ -1,9 +1,3 @@
-[submodule "oss-owasp-projects"]
-	path = themes/oss-owasp-projects
-	url = https://github.com/devcows/hugo-universal-theme.git
 [submodule "oss-owasp"]
 	path = themes/oss-owasp
-	url = https://github.com/devcows/hugo-universal-theme.git
-[submodule "oss"]
-	path = themes/oss
 	url = https://github.com/devcows/hugo-universal-theme.git
