@@ -7,4 +7,4 @@ description: >
   <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left">
    <a class="powered-by-eb" style="color:#ADB0B6; text-decoration:none;" target="_blank" href="http://www.eventbrite.be">Ticket registrations with Eventbrite</a>
   </div>
-image: ""
+image: "img/carousel/ticket.png"

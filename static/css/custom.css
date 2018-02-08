@@ -9,6 +9,13 @@
   min-height: 230px;
 }
 
+/* change opacity in carousel */
+.home-carousel .dark-mask {
+  opacity: 0.8;
+  filter: alpha(opacity=80);
+}
+
+
 @media screen {
   .participants .card {
     min-height: 305px;
