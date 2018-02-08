@@ -15,6 +15,9 @@
   filter: alpha(opacity=80);
 }
 
+.plus-box {
+  width: 30px;
+}
 
 @media screen {
   .participants .card {
