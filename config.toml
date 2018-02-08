@@ -56,7 +56,7 @@ paginate = 10
     name = "Sponsors"
     identifier = "sponsors"
     weight = 7
-    url = "/sponsor/"
+    url = "/sponsors/"
 [[menu.main]]
     name = "About"
     identifier = "about"
