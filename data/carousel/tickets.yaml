@@ -1,10 +1,7 @@
 weight: 3
-title: "Buy your ticket today!"
+title: "Buy your tickets!"
 description: >
-  <div style="width:100%; text-align:left;">
-    # here sould come the eventbrite iframe (breaks the carousel)   
-  </div>
-  <div style="font-family:Helvetica, Arial; font-size:12px; padding:10px 0 5px; margin:2px; width:100%; text-align:left">
-   <a class="powered-by-eb" style="color:#ADB0B6; text-decoration:none;" target="_blank" href="http://www.eventbrite.be">Ticket registrations with Eventbrite</a>
-  </div>
+  <ul class="list-style-none">
+    <li>Go to <a style="color:blue;" href="/tickets/">Ticket registrations</a> and buy your tickets today</li>
+  </ul>
 image: "img/carousel/ticket.png"
