@@ -17,51 +17,57 @@ paginate = 10
 
 # Main menu
 [[menu.main]]
+    name = "Tickets"
+    identifier = "tickets"
+    pre = "<i class='fa fa-ticket'></i>&nbsp;"
+    weight = 10
+    url = "/tickets/"
+[[menu.main]]
     name = "Tracks"
     identifier = "tracks"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 1
+    weight = 11
     url = "/session/"
 #[[menu.main]]
 #    name = "Outcomes"
 #    identifier = "outcomes"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 2
+#    weight = 12
 #    url = "/outcome/"
 [[menu.main]]
     name = "Participants"
     identifier = "participants"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 3
+    weight = 13
     url = "/participant/"
 [[menu.main]]
     name = "Venue"
     identifier = "venue"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 4
+    weight = 14
     url = "/venue/"
 [[menu.main]]
     name = "Faq"
     identifier = "faq"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 5
+    weight = 15
     url = "/faq/"
 [[menu.main]]
     name = "Blog"
     identifier = "blog"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 6
+    weight = 16
     url = "/blog/"
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 7
+    weight = 17
     url = "/sponsors/"
 [[menu.main]]
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 8
+    weight = 18
     url = "/about/"
 
 
