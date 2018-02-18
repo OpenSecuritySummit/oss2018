@@ -12,7 +12,7 @@ ticket-cost     : 1500
 funded-amount   : 1500
 required-funds  : 1500
 travel-from     : Germany
-image           : https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAknAAAAJGRjYjM4YTAwLWI0OTAtNDg3Ny1iMGMxLWQwOTZmNTNlNzRkYg.jpg
+image           : https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAqrAAAAJDljNjNmOTJlLWNkZDAtNDA5NC1hZjFhLTk2ZTBjMjJhOTdjYw.jpg
 linkedin        : r-grace
 twitter          : robertgracesa1
 facebook        :

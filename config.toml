@@ -27,7 +27,7 @@ paginate = 10
     identifier = "tracks"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 11
-    url = "/session/"
+    url = "/tracks/"
 #[[menu.main]]
 #    name = "Outcomes"
 #    identifier = "outcomes"
@@ -52,12 +52,12 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 15
     url = "/faq/"
-[[menu.main]]
-    name = "Blog"
-    identifier = "blog"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 16
-    url = "/blog/"
+#[[menu.main]]
+#    name = "Blog"
+#    identifier = "blog"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 16
+#    url = "/blog/"
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
