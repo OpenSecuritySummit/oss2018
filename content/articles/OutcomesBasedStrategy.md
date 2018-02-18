@@ -23,15 +23,20 @@ In the next couple weeks, we need each Working Session leader to explicitly defi
 
 Here are some examples of what these outcomes/deliverables could look like:
 
-- Artefacts (Diagrams)
-- Documents or Books
-- Playbooks
-- Roadmaps (for next meeting)
-- [Wiki pages](http://www.owasp.org)
-- Code
-- Statement of Position (signed by the Working Sessions Participants)
-- Security Review (of a particular application or api)
-- Lessons Learned
+
+-Artefacts (Diagrams)
+-Code
+-Documents or Books
+-Flowchart
+-Lessons Learned
+-Playbooks
+-Policies
+-Roadmaps (for next meeting)
+-Security Review (of a particular application or api)
+-Statement of Position (signed by the Working Sessions Participants)
+-Surveys
+-Wiki pages <!--- this was linked to OWASP wiki pages, should that still be the case?-->
+
 
 All materials must be ready by end of the day (or Working Session), so that we can release them to the world in a consumable format (there will be some logistical support provided to Working Sessions organisers). For reference, all materials need to be released under and <!--- does this need update? --> CC BY 4.0 or Apache 2.0 licenses.
 
