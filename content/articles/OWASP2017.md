@@ -18,9 +18,9 @@ The energy was incredible. This was an environment just bursting with geek-syner
 
 OWASP is the epicentre of AppSec. The issues we fix impact people the world over. From browser security to securing GitHub integrations, the man on the street has no concept of what we are doing to keep their data safe.
 
-Thanks to everyone who (attended/organised??): [Alexander Antukh](link each organiser to current company?), Bjoern Kimminich, Colin Domoney, David Rook, Dinis Cruz, Francois Raynaud, Geoff Hill, Lucus Ferreira, Mike Milner, Nanne-Baars, Ofer Maor, Sam Stepanyan, Sebastien Deleersnyder, Stefan Streichsbier, Steven van der Baan, Sven Schleier and Viktorija Almazova.
+Thanks to everyone who attended <!--- organised--> : Alexander Antukh<!---(link each organiser to current company?)-->, Bjoern Kimminich, Colin Domoney, David Rook, Dinis Cruz, Francois Raynaud, Geoff Hill, Lucus Ferreira, Mike Milner, Nanne-Baars, Ofer Maor, Sam Stepanyan, Sebastien Deleersnyder, Stefan Streichsbier, Steven van der Baan, Sven Schleier and Viktorija Almazova.
 
 ## OWASP 2018 
-The summit is back in [2018](link). Do you have an AppSec issue that is burning your business, your team or your brain? Do you want to take a leadership role and lead a workshop?
+The summit is back in [2018]<!--- where is the index/landing page (link)-->. Do you have an AppSec issue that is burning your business, your team or your brain? Do you want to take a leadership role and lead a workshop?
 
-Do you know people on OWASP projects, Devs, DevOps and C-level execs that need to [be there](link to registration form?)?
+Do you know people on OWASP projects, Devs, DevOps and C-level execs that need to [be there]<!---(link to registration form?)-->?
