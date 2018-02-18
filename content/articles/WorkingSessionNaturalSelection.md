@@ -1,6 +1,6 @@
 ---
 draft		    : true
-title       : "OWASP Natural Selection 2018"
+title       : "OSS Natural Selection"
 date        : "2018-02-12"
 tags        : ["GDPR", "Data Protection", "Data Protection", "CyberSecurity"]
 categories  : ["OWASP"]
@@ -11,7 +11,7 @@ author      : Dinis Cruz
 
 ## Responding to the Zeitgeist
 
-One of the incredible strengths of the [OWASP 2018 summit]<!---(booking link??)--> is that we keep our finger on the zeitgeist. The schedule is created by a process of natural selection, where the most popular Working Sessions survive and become the [‘official schedule’]<!---(link?)-->.
+One of the incredible strengths of the [OS Summit](http://www.opensecsummit.org) is that we keep our finger on the zeitgeist. The schedule is created by a process of natural selection, where the most popular Working Sessions survive and become the [‘official schedule’]<!---(link?)-->.
 
 Only those Working Sessions that have the focused objectives, realistic outcomes and the support of registered participants will run.
 
@@ -51,7 +51,7 @@ Key to the success of these Working Sessions, is the amount of preparation that 
 
 It is very important to make the point that the hard work for the Working Session happens _before_ the Summit. The most valuable resource that exists at the Summit, is the Participant’s time, and since each Working Session is ‘competing’ for that time, the Darwinian model of the Working Sessions will mean that only the most prepared will have the critical mass to survive.
 
-<!--- is this the same plan for 2018?--> A core idea for Working Session’s web page(s) at [OSS](https://open-security-summit.netlify.com)is for them to be used as a location to present all supporting data/information for that particular Working Session. It should also be used to show/link the work done before, during and after the Summit (please [contact] <!---no contact page yet OR use (mailto: *****)--> a Summit Editor if you need assistance adding content to your Working Session).
+<!--- is this the same plan for 2018?--> A core idea for Working Session’s web page(s) at [OSS]http://www.opensecsummit.org) is for them to be used as a location to present all supporting data/information for that particular Working Session. It should also be used to show/link the work done before, during and after the Summit (please [contact] <!---no contact page yet OR use (mailto: *****)--> a Summit Editor if you need assistance adding content to your Working Session).
 
 ## The role of the Working Session participant
 
@@ -61,9 +61,9 @@ Be disciplined and map out which Track or Technology or Working Session you ‘h
 
 Yes, there will be conflicts when two working sessions that you really want are happening at the same time. We will schedule to avoid these conflicts as far as possible. One of the advantages of participants staying the 5 days, is that is it much easier to move things around to create the best possible schedule for everybody.
 
-Therefore, it is important that you register your participation in the Working Sessions you want to attend (you can already do this on your [Individual Participant page] <!--- no page yet--(link to FAQ or register now????))--> .
+Therefore, it is important that you register your participation in the Working Sessions you want to attend (you can already do this on your [Individual Participant page] <!--- no page yet--(http://www.opensecsummit.org/participate??)--> .
 
-For the Participants that are only going to attend a couple days or who will participating remotely, it is REALLY important that you let us know your availability ASAP (so that we can try to fit the Working Sessions you are keen to participate in, with the times you are available).
+For the Participants that are only attending for a couple days, or who will participating remotely, it is _really_ important that you let us know your availability ASAP (so that we can try to fit the Working Sessions you are keen to participate in, with the times you are available).
 
 ## Schedule creation
 
