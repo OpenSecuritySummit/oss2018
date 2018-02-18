@@ -7,7 +7,7 @@ title    : Remote participant
 
 We created, for each room, a Google Hangouts link.
 
-Here you can acces each room directly:
+Here you can acces each room directly: <!--- these all need recreating for 2018-->
 
 [Room 1](https://hangouts.google.com/hangouts/_/owasp.org/summit-room-1)
 [Room 2](https://hangouts.google.com/hangouts/_/owasp.org/summit-room-2)
@@ -18,11 +18,13 @@ Here you can acces each room directly:
 
 We will update this list with the links to the Villa sessions when available.
 
-You can also reach the remote link [browsing the schedule by room](https://owaspsummit.org/pages/schedule/by-room/Mon.html) (this example is for Monday, please check the day you are interested in), and then selecting the session you are interested in.
+You can also reach the remote link [browsing the schedule by room](https://owaspsummit.org/pages/schedule/by-room/Mon.html) <!--- these all need recreating for 2018-->
+(this example is for Monday, please check the day you are interested in), and then select the session you are interested in.
 
 On the session there will be a 'Remote Link' shown, like this one:
 
-![remote link](http://i.imgur.com/PODBmt2.png){:style="width:420px"}
+![remote link](http://i.imgur.com/PODBmt2.png){:style="width:420px"} <!--- these all need recreating for 2018-->
+
 
 #### 2. **As an organizer, how do I start my remote participation?**
 
