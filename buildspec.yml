@@ -1,9 +1,9 @@
 version: 0.1
 phases:
-  install:
-    commands:
+  #install:
+  #  commands:
       # Install hugo 
-      - go get -v github.com/gohugoio/hugo
+  #    - go get -v github.com/gohugoio/hugo
   build:
     commands:
       - hugo
