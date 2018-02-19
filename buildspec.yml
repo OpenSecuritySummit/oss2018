@@ -1,12 +1,22 @@
 version: 0.1
+
+environment_variables:
+  plaintext:
+    HUGO_VERSION: "0.36.1"
+    BUCKET_NAME: "open-security-summit.com-cdn"
+
 phases:
-  #install:
-  #  commands:
+  install:
+    commands:
       # Install hugo 
-  #    - go get -v github.com/gohugoio/hugo
+      - curl -Ls https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
+      - hugo version
   build:
     commands:
       - hugo
   post_build:
     commands:
-      - aws s3 sync --delete public/ "s3://${BUCKET_NAME}"
+      - aws s3 sync --acl "public-read" --sse "AES256" --delete public/ "s3://${BUCKET_NAME}"
+      - aws configure set preview.cloudfront true
+      - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths /index.html / /page/* /css/* /blog/*
