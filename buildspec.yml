@@ -14,8 +14,10 @@ phases:
       - hugo version
   pre_build:
     commands:
+      - pushd $CODEBUILD_SRC_DIR
       - git submodule init
       - git submodule update
+      - popd
   build:
     commands:
       - hugo
