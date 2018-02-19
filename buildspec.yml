@@ -18,7 +18,3 @@ phases:
   build:
     commands:
       - hugo
-  post_build:
-    commands:
-      - aws configure set preview.cloudfront true
-      - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths /index.html / /page/* /css/* /blog/*
