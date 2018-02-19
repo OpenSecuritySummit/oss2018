@@ -12,6 +12,10 @@ phases:
       - curl -Ls https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
       - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
       - hugo version
+  pre_build:
+    commands:
+      - git submodule init
+      - git submodule update
   build:
     commands:
       - hugo
