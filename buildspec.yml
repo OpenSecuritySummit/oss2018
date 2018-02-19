@@ -1,4 +1,4 @@
-version: 0.1
+version: 0.2
 
 environment_variables:
   plaintext:
@@ -14,8 +14,7 @@ phases:
       - hugo version
   pre_build:
     commands:
-      - cd $CODEBUILD_SRC_DIR && git submodule init
-      - cd $CODEBUILD_SRC_DIR && git submodule update
+      - cd $CODEBUILD_SRC_DIR && git clone https://github.com/devcows/hugo-universal-theme.git themes/oss-owasp
   build:
     commands:
       - hugo
