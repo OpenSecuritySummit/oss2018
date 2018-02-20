@@ -51,7 +51,7 @@ Key to these Working Sessions success is the amount of preparation that goes int
 
 It is very important to make the point that the hard work for the Working Session happens _before_ the Summit. The most valuable resource that exists at the Summit, is the Participant’s time, and since each Working Session is ‘competing’ for that time, the Darwinian model of the Working Sessions will mean that only the most prepared will have the critical mass to survive.
 
-A core idea for Working Session’s web page(s) at [owaspsummit.org](http://www.owaspsummit.org <!--- check link is valid--> ) is for them to be used as a location to present all supporting data/information for that particular Working Session. It should also be used to show/link the work done before, during and after the Summit (please [contact](mailto: *****) a Summit Editor if you need assistance adding content to your Working Session).
+A core idea for Working Session’s web page(s) at [owaspsummit.org](https://owaspsummit.org) is for them to be used as a location to present all supporting data/information for that particular Working Session. It should also be used to show/link the work done before, during and after the Summit (please [contact](mailto: *****) a Summit Editor if you need assistance adding content to your Working Session).
 
 ## The role of the Working Session participant
 
