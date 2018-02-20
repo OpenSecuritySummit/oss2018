@@ -22,7 +22,7 @@ Leave at Junction 13, take the second exit on the roundabout and then turn right
 
 **From the South using the M1**
 
-Leave at junction 13, NOT at junction 12 as suggested by some 'Sat Navs'. Take the third exit on the roundabout for the A507, continue through the next roundabout and turn right at the traffic signals onto the A507 signposted to Ampthill. Continue on the A507 for 4 miles to Millbrook roundabout. Take the third exit into Fordfield Road. The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
+Leave at Junction 13, NOT at Junction 12 as suggested by some 'Sat Navs'. Take the third exit on the roundabout for the A507, continue through the next roundabout and turn right at the traffic signals onto the A507 signposted to Ampthill. Continue on the A507 for 4 miles to Millbrook roundabout. Take the third exit into Fordfield Road. The entrance to Center Parcs, Woburn Forest is 500 yards on the right.
 
 **From the East and West using the M1**
 

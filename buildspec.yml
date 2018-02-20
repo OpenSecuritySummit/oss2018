@@ -1,0 +1,28 @@
+version: 0.2
+
+environment_variables:
+  plaintext:
+    HUGO_VERSION: "0.36.1"
+    STOUT_VERSION: "1.3.1"
+    BUCKET_NAME: "open-security-summit.com-cdn"
+
+phases:
+  install:
+    commands:
+      # Install hugo 
+      - curl -Ls https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
+      - curl -Ls https://github.com/cloudflare/Stout/releases/download/v${STOUT_VERSION}/stout-linux -o /usr/local/bin/stout
+      - chmod 755 /usr/local/bin/stout
+      - hugo version
+  pre_build:
+    commands:
+      - cd $CODEBUILD_SRC_DIR && git clone https://github.com/devcows/hugo-universal-theme.git themes/oss-owasp
+  build:
+    commands:
+      - hugo
+  post_build:
+    commands:
+      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}
+      - aws configure set preview.cloudfront true
+      - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths /index.html / /page/* /css/* /blog/*

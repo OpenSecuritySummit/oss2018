@@ -53,6 +53,7 @@ It is very important to make the point that the hard work for the Working Sessio
 
 <!--- is this the same plan for 2018?--> A core idea for Working Session’s web page(s) at [OSS]http://www.opensecsummit.org) is for them to be used as a location to present all supporting data/information for that particular Working Session. It should also be used to show/link the work done before, during and after the Summit (please [contact] <!---no contact page yet OR use (mailto: *****)--> a Summit Editor if you need assistance adding content to your Working Session).
 
+
 ## The role of the Working Session participant
 
 As a participant, you will be coming to the Summit because you care deeply about certain AppSec / InfoSec / Security topics.
