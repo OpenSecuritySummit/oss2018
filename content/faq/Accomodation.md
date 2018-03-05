@@ -28,7 +28,7 @@ The 24h-5day tickets cover catering/lodging from Monday morning until Friday eve
 
 #### 4. Does the 24h-5 day ticket include Sunday night?
 
-It does **not** include Sunday night.
+It does **not** include Sunday or Friday night.
 
 #### 5. Do I need to bring towels and bed linen?
 
