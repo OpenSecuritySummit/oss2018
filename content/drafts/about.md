@@ -12,9 +12,9 @@ author      : Harrie Bickle
 
 ## About OSS
 
-OSS started life as OWASP and has grown from its beginnings in [2008](https://www.owasp.org/index.php/OWASP_EU_Summit_2008), when we hosted our first collaborative conference in Portugal. It is the most hand-ons participant-driven conference dedicated to Application Security <!-- key term?? --->. We bring together industry experts who are dedicated to the building security into the development processes. 
+OSS started life as OWASP and has grown from its beginnings in [2008](https://www.owasp.org/index.php/OWASP_EU_Summit_2008), when we hosted our first collaborative conference in Portugal. It is the most hand-ons participant-driven conference dedicated to Application Security. We bring together industry experts who are dedicated to the building security into the development processes. 
 
-Do you work in Development, AppSec, DevOps or Web Security? Then OSS can empower you. If you would like to contribute there is a [call for submissions](link here) for this years summit.
+Do you work in Development, Application Security, threat modeling, DevOps, GDPR, or Web Security? Then OSS can empower you. If you would like to contribute there is a [call for submissions](link here) for this years summit.
 
 
 ## Smarter not faster
