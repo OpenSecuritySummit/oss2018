@@ -15,7 +15,7 @@ Take a look at our [Summit Schedule]<!---(link)--> and you will see that one of 
 
 The Summit enables each Participant to engage in a highly focused and energized environment. We respect that you are donating your most valuable assets: Time and Knowledge. In return we recognise that our responsibility is to create the most effective and productive environments for you.
 
-In practice, this means that we need to be very disciplined in the Working Sessions. Each session must create something tangible and actionable. Working Session organisers must create detailed action plans and to-dos lists that are easy pick up and start contributing to [(our recommendation is to use GitHub Issues and Projects).]<!---(link)--->
+In practice, this means that we need to be very disciplined in the Working Sessions. Each session must create something tangible and actionable. Working Session organisers must create detailed action plans and to-dos lists that are easy pick up and start contributing to [(our recommendation is to use GitHub Issues and Projects).] <!---(link)--->
 
 In the next couple weeks, we need each Working Session leader to explicitly define their ‘Definition of Done’ (which will affect the location and duration of that Working Session in the main Summit’s schedule).
 
@@ -53,7 +53,7 @@ Given the time restrictions of the talent pool available (a couple days in June)
 
 Please don’t wait for the Summit to start thinking/sharing/working on the Working Sessions you want to be involved in. Start collaborating now with the Participant’s already registered, and leave the hard questions or work for the Summit.
 
-We have a great opportunity to really make the difference in our industry and (more importantly) to make the world a bit safer.
+We have a great opportunity to really make the difference in our industry and (more importantly) to make the world a little safer.
 
 This is your opportunity to create something special.
 
