@@ -1,6 +1,7 @@
 ---
 title        : OWASP Game Security Framework
-year		: 2017type         : workshop
+year		: 2017
+type         : workshop
 owasp-project: yes
 track        : Project Summit
 status       : final stage; need-working materials

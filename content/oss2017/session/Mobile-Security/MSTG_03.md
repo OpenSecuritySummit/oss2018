@@ -1,6 +1,5 @@
 ---
-title           : MSTG Book Sprint - Android Testing 
-Guide
+title           : MSTG Book Sprint - Android Testing Guide
 year		: 2017
 type            : workshop
 track           : Mobile Security

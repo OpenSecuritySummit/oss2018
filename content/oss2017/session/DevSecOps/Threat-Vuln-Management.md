@@ -1,7 +1,6 @@
 ---
-title        : Threat and Vulnerability Management 
+title        : Threat and Vulnerability Management Playbook
 year		: 2017
-Playbook
 type         : workshop
 owasp-project: no
 track        : DevSecOps

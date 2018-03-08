@@ -1,7 +1,6 @@
 ---
-title        : Integrating Security into a Portfolio 
+title        : Integrating Security into a Portfolio Kanban
 year		: 2017
-Kanban
 type         : workshop
 owasp-project: no
 track        : Agile AppSec

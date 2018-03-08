@@ -1,7 +1,6 @@
 ---
-title        : Application Security BSc/Masters
+title        : Application Security BSc/Masters Curriculum Design
 year		: 2017
-Curriculum Design
 type         : workshop
 status       : done
 track        : Education
