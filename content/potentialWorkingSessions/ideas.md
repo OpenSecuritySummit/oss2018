@@ -35,6 +35,65 @@ The OSS philosophy is of participant-driven focus. So it is up to you to shape y
 - The future of privacy
 - Women in Cyber
 
+## CISO
+
+- Application Security Guide for CISO
+- AppSec Article 5 Collective Defence Agreement
+- AppSec for CISOs
+- CISO Round Table
+- CISO Survey
+- Cyber Insurance
+- GDRP DPO and AppSec
+- Growing the AppSec Industry
+
+## DevSecOps
+
+- AppSec SoC Monitoring Visualisation
+- BDD for Cloud Security
+- Docker Security
+- ELK Security Dashboards
+- index
+- Integrating Security Tools in SDL
+- JIRA Risk Workflow
+- Netflix Security Automation
+- Node Security Round Table
+- Real Time SAST Engine Architecture
+- Review Docker Security Workshop
+- Securing GitHub Integrations
+- Securing Legacy Applications
+- Securing the CI Pipeline
+- Security Guidance and Feedback in IDE
+- SRE Security Activities
+- Threat Vuln Management
+- WAF best practices
+- Writing Security Tests
+
+## Education
+
+- AppSec BSc Masters Curriculum Design
+- Creating AppSec Talent
+- Creating AppSec Teams
+- CTFs
+- Cyber Security Economics
+- Hackathon Beyond OWASP Top Ten
+- index
+- learning objectives.
+- Recruiting AppSec Talent
+- Security Book Club
+- Software Defined Everything (SDx)
+- takeaways.
+- Teaching Attacker Perspective to Developers
+- Visit Bletchley Park
+
+## IOT
+
+- GSMA-IoT-Security-Guidelines
+- Internet-of-Things-Project
+- Security-Architecture-Recommendations-for-IoT
+- TLS-for-Local-IoT
+
+## Juice Shop
+
 
 
 
