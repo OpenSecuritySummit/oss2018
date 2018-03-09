@@ -1,5 +1,6 @@
 ---
 title    : Attendee Information
+date: 2018-03-09T17:22:38-03:00
 ---
 
 ### Funding my ticket
