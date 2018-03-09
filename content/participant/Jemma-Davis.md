@@ -1,9 +1,9 @@
 ---
-title           : Jemma Davis
+title           : Jemma Davis-Smith
 type            : participant
 role            : Summit Event Manager
 job-title       : Summit Event Manager
-company         : OWASP
+company         : Photobox Group
 expenses        : owasp
 funded          : yes
 funded-who      : Summit Budget
