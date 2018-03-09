@@ -4,11 +4,11 @@ title    : Attendee Information
 
 ### Expectations for Attendees
  
-The OWASP Summit is the most energizing InfoSec event in the world. Each of the 140+ working sessions will create a published deliverable for the greater InfoSec Community to engage with.  This high level of productivity does require certain commitments from the attendees.  As an OWASP Summit Attendee we have these expectations of you. 
+The Open Security Summit is the most energizing InfoSec event in the world. Each of the 140+ working sessions will create a published deliverable for the greater InfoSec Community to engage with.  This high level of productivity does require certain commitments from the attendees.  As an Open Security Summit Attendee we have these expectations of you. 
  
 ### Participation 
  
-The key to the OWASP Summit is its participatory nature.  Unlike at a conference, attendees are expected to immerse themselves in each working session collaborating to create a published deliverable in a compressed amount of time.  The expectation is that every attendee will actively engage with their peers to create during the event. 
+The key to the Open Security Summit is its participatory nature.  Unlike at a conference, attendees are expected to immerse themselves in each working session collaborating to create a published deliverable in a compressed amount of time.  The expectation is that every attendee will actively engage with their peers to create during the event. 
  
 ### Mutual Respect
  
@@ -30,7 +30,7 @@ This doesn’t mean that you are allowed to tear down others.  While challenging
  
 You may have passionate opinions about many of the items we will be discussing, this is a good thing.  However, you are expected to be able to examine each issue with objective distance.  This means that as we attempt to create consensus (or simply examine where it cannot be found) you are expected to weigh the ideas of others without subordinating them to your own preconceived ideas unduly.  This also needs to be applied to your Summit Colleagues whom you may encounter again during the summit after passionate disagreements.  You are expected to be able to deal with each issue from a fresh perspective.  
  
-All criticism during the OWASP Summit must be directed at the topics of your working session.  Personal criticisms will derail conversations and poison the collaborative atmosphere, the latter will not be tolerated.  
+All criticism during the Open Security Summit must be directed at the topics of your working session.  Personal criticisms will derail conversations and poison the collaborative atmosphere, the latter will not be tolerated.  
  
  
 ### Offer supporting documents for value judgments
@@ -43,14 +43,14 @@ When noting that an action is sub par, you should always propose a solution that
  
 ### Harassment
  
-The OWASP Summit is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of summit participants in any form in any summit venue, including working sessions, social events, or other channels of communication. Harassment includes, but is not inappropriate questioning, sustained personal criticism, unwelcome following or touching, repeated unwelcome cornering of individuals away from the group and uninvited touching.
+The Open Security Summit is dedicated to providing a harassment-free event experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of summit participants in any form in any summit venue, including working sessions, social events, or other channels of communication. Harassment includes, but is not inappropriate questioning, sustained personal criticism, unwelcome following or touching, repeated unwelcome cornering of individuals away from the group and uninvited touching.
  
-If you need to report harassment contact Tiffany Long 
+If you need to report harassment contact a member of the Open Security Summit team.
  
 > A summit participant who violates these rules will be addressed immediately. Should the participant not comply, the participant may be expelled from the summit without a refund. The summit organisers reserve the right to expel anyone who violates these rules..  
  
 ### Hacking the Venue
-By attending the OWASP Summit you agree that you will not engage in any illegal activity including Hacking or altering the wifi of the venue or other guests.
+By attending the Open Security Summit you agree that you will not engage in any illegal activity including Hacking or altering the wifi of the venue or other guests.
  
 ## The Summit Experience
  
@@ -60,9 +60,9 @@ Here is the Villa set up:
  
 The key to the Summit dynamic is having villas where you can interact with other participants on your own schedule around the clock.  To this end the venue is organized into a series of villas that are supplemented by the conference center (conveniently named The Venue).  The villas will serve the dual purpose of accommodations as well as locations for the more informal evening sessions. Some venues will also serve as locations for standard working sessions (these will be marked on the schedule)
  
-### Accommodations
+### Accommodation
  
-When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference.  Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  If their are any difficulties please email the organizers at OWASPSummit@gmail.org.
+When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference.  Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  
  
 ### General Housekeeping 
  
@@ -106,7 +106,7 @@ The point of the summit is to create concrete deliverables from each working ses
  
 ### Vendor Neutrality
  
-The OWASP Vendor Neutrality policy has to be observed at this conference.  Please do not use the working sessions as a place to pitch your product.  Maintaining neutrality enhances the value of collaborative tone of this week.  
+We will observe a  Vendor Neutrality policy at this conference.  Please do not use the working sessions as a place to pitch your product.  Maintaining neutrality enhances the value of collaborative tone of this week.  
  
 ### Dynamic Sessions
 Dynamic Sessions are scheduled but do not have a leader, or have deliverables expected.  They are envisaged as organic and dynamic dinner or post-dinner round-table conversations.  The topic of conversation could also be prompted by one of the earlier scheduled sessions.  
