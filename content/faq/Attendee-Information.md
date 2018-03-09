@@ -2,6 +2,10 @@
 title    : Attendee Information
 ---
 
+### Funding my ticket
+
+Unfortunately, we are unable to sponsor tickets for attendees at this time. If you are an OWASP leader you may be entitled to funding through the [OWASP Community Engagement Funding](https://www.owasp.org/index.php/Funding) programme. 
+
 ### Expectations for Attendees
  
 The Open Security Summit is the most energizing InfoSec event in the world. Each of the 140+ working sessions will create a published deliverable for the greater InfoSec Community to engage with.  This high level of productivity does require certain commitments from the attendees.  As an Open Security Summit Attendee we have these expectations of you. 
