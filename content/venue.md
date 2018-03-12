@@ -16,6 +16,6 @@ If you have questions about getting to the venue then check the [FAQ](/content/f
 
 ## Checking in
 
-If you have questions about getting to the venue then check the [FAQ](/content/faq/Accomodation.md)
+If you have questions about the checking-in process check the [FAQ](/content/faq/Accomodation.md)
 
 <!--- email link to contact us?? mailto: --->
