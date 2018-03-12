@@ -1,21 +1,24 @@
 ---
 draft		    : true
-title       : "OWASP Natural Selection 2018"
+title       : "OSS Natural Selection 2018"
 date        : "2018-02-12"
 tags        : ["GDPR", "Data Protection", "Data Protection", "CyberSecurity"]
-categories  : ["OWASP"]
+categories  : ["summit_info"]
 banner      : ""
 images      : ""
 author      : Dinis Cruz
+year        : 2018
+notes : adapted by harrie (TW) from 2017 article
+
 ---
 
 ## Responding to the Zeitgeist
 
-One of the incredible strengths of the [OWASP 2018 summit](booking link??) is that we keep our finger on the zeitgeist. The schedule is created by a process of natural selection, where the most popular Working Sessions survive and are placed into the [‘official schedule’](link?).
+One of the incredible strengths of the [OSS 2018 summit](https://open-security-summit.org/) is that we respond to the zeitgeist. The schedule is created by a process of natural selection, where the most popular Working Sessions survive and are placed into the [‘official schedule’](https://open-security-summit.org/tracks/).
 
 Only those Working Sessions that have the focused objectives, realistic outcomes and the support of registered participants will run.
 
-We respect our participant's time and work to maximise it by focussing on topics they deeply care about. Although this means that there will be many Working Sessions that will not be included in the official schedule, this doesn’t mean that they can’t happen. Part of the Summit’s framework is to provide a large number of ‘meeting spaces’, where groups of 5 to 10 participants can run dropped, or new Working Sessions. We even create specific times during the day that are allocated for these ad-hoc meetings, (find these in the [dynamic schedule](link)).
+We respect our participants' time and work to maximise it by focussing on topics they deeply care about. Although this means that there will be many Working Sessions that will not be included in the official schedule, this doesn’t mean that they can’t happen. Part of the Summit’s framework is to provide a large number of ‘meeting spaces’, where groups of 5 to 10 participants can run dropped, or new Working Sessions. We even create specific times during the day that are allocated for these ad-hoc meetings, (find these in the [dynamic schedule](https://open-security-summit.org/tracks/).
 
 During the last Summit, some of the most incredible Working Sessions were those ‘created’ during the actual Summit, which included only a small number of Participants (it is amazing what can be achieved when highly knowledgeable and passionate individuals come together in the same physical location).
 
@@ -27,7 +30,7 @@ In terms of where the working sessions will occur, we have two main areas:
 
 2) the lodges/villas - About 100 meters from the conference facility there are 10 Lodges (already booked) which have enough space for 2 Working Sessions to occur in parallel. Each of these meeting spaces will be kitted with flip charts and the TVs have HDMI ports to connect to laptops (suitable for presenting supporting materials and to including remote participants).
 
-This means that we could (if it made sense) have a maximum of 25 Working Sessions happening in parallel (now I don’t expect that to happen, but it is good to know that we can scale up).
+This means that we could (if it made sense) have a maximum of 25 Working Sessions happening in parallel (this is not predicted, but it is good to know that we can scale up).
 
 ## Working Sessions format
 
