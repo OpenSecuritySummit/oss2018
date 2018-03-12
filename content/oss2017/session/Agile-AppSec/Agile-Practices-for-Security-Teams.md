@@ -1,8 +1,8 @@
 ---
 title        : Agile Practices for Security Teams
-year		: 2017
+year		      : 2017
 type         : workshop
-tags        : [""Data Protection" "OSS_2017", "OSS_2018"]
+tags        : ["Data Protection", "OSS_2017", "OSS_2018"]
 categories  : ["Outcomes", "AgileAppSec"]
 owasp-project: no
 track        : Agile AppSec
@@ -13,9 +13,10 @@ when-day     : Tue
 when-time    : PM-1
 location     : Room-3
 notes :
-- previous organizers   : Irene Michlin
-- organizers   : David Clarke
-- participants : Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Duncan Hurwood,Stuart Gunter, Stephen de Vries, Don Gibson, Robert Morschel
+- previous organizers, Irene Michlin
+- organizers, David Clarke
+- participants, Ante Gulam,Avi Douglen,Irene Michlin,Mamta Vuppu,Duncan Hurwood,Stuart Gunter, Stephen de Vries, Don Gibson, Robert Morschel
+
 ---
 
 Until recently, cyber security was often considered as “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes.
