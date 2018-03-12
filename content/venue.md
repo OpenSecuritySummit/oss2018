@@ -9,4 +9,4 @@ notes : link down to the FAQS pages
 
 ## Arriving at the venue
 
-If you have questions about arriving at the venue then check the [FAQ](blob/master/content/faq/Accomodation.md)
+If you have questions about arriving at the venue then check the [FAQ]{{< relref "blob/master/content/faq/Accomodation.md" >}}
