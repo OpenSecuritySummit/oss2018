@@ -1,9 +1,9 @@
 ---
 draft : true
-title : "About the Open Security Summit"
+title : "Behind the Open Security Summit"
 date        : "2018-03-06"
-tags        : ["Summit"]
-categories  : ["Info"]
+tags        : ["Summit", "OSS", "About"]
+categories  : ["summit_info"]
 banner      : ""
 images      : ""
 author      : Harrie Bickle
