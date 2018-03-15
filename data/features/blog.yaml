@@ -1,5 +1,5 @@
 weight: 6
 name: "Blog"
 icon: "fa fa-list"
-description: "Providing you news updates and opinons on the latest AppSec developments"
+description: "Providing you news updates and opinions on the latest AppSec developments"
 link: "/blog/"
