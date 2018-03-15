@@ -10,9 +10,11 @@
 		{{ end }}
 				<div class="col-md-4">
                     <div class="box-simple">
+                      <a href="{{ .link }}">
                         <div class="icon">
-                          <a href="{{ .link }}"><i class="{{ .icon }}"></i></a>
+                          <i class="{{ .icon }}"></i>
                         </div>
+                        </a>
                         <h3>{{ $element.name }}</h3>
                         <p>{{ $element.description | markdownify }}</p>
                     </div>
