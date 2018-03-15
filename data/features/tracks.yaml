@@ -2,3 +2,4 @@ weight: 2
 name: "Tracks"
 icon: "fa fa-road"
 description: "There will be plenty of tracks to choose from."
+link: "/tracks/"

@@ -2,3 +2,4 @@ weight: 4
 name: "Venue"
 icon: "fa fa-map-signs"
 description: "This venue will let us collaborate and create awesome things!"
+link: "/venue/"

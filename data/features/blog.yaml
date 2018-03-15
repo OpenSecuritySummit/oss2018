@@ -2,3 +2,4 @@ weight: 6
 name: "Blog"
 icon: "fa fa-list"
 description: "Check our latests posts to keep updated."
+link: "/blog/"

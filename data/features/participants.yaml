@@ -2,3 +2,4 @@ weight: 3
 name: "Participants"
 icon: "fa fa-users"
 description: "See the list of participants to the Open Security Summit."
+link: "/participant/"

@@ -2,3 +2,4 @@ weight: 1
 name: "Buy Tickets"
 icon: "fa fa-ticket"
 description: "Go and book your tickets!"
+link: "/tickets/"

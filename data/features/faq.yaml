@@ -2,3 +2,4 @@ weight: 5
 name: "FAQ"
 icon: "fa fa-question"
 description: "See our frequently asked questions if you have doubts."
+link: "/faq/"
