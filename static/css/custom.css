@@ -13,6 +13,7 @@
 .home-carousel .dark-mask {
   opacity: 0.8;
   filter: alpha(opacity=80);
+  background: #082451;
 }
 
 .plus-box {
@@ -134,4 +135,29 @@
 }
 .participants a:link {
   text-decoration: none;
+}
+
+.edit-link ul.github {
+  list-style: none;
+  padding-left: 0;
+}
+.edit-link ul.github li {
+  display: inline-block;
+}
+.edit-link ul.github li a {
+  display: inline-block;
+  padding: 5px;
+  border: solid 1px #eeeeee;
+  border-radius: 0;
+  color: #8FC43E;
+  margin: 5px 5px 5px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-size: 12px;
+}
+.edit-link ul.github li a:hover {
+  color: #8FC43E;
+  text-decoration: none;
+  border-color: #8FC43E;
 }

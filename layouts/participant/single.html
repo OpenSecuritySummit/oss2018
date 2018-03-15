@@ -1,0 +1,58 @@
+{{ define "content" }}
+
+<div class="participant">
+    <div class="participant-main-section">
+      <div class="container">
+      <h1>{{ .Title }}</h1>
+      <h3>{{ .Params.job }}
+          {{ with .Params.company }} &#32;, {{ . }} {{ end }}
+      </h3>
+
+      {{ with .Params.image }}
+      <img class="img-fluid participant" src="{{ . }}" alt="" />
+      {{ end }}
+
+      {{ .Content }}
+
+      {{ partial "schedule/participant" . }}
+
+      <h2>Contact details</h2>
+      <ul>
+        {{ with .Params.email }}
+        <li>
+            <a href="mailto:{{ . }}" target="_blank">Email</a>
+        </li>
+        {{ end }}
+        {{ with .Params.website }}
+        <li>
+            <a href="{{ . }}" target="_blank">Website</a>
+        </li>
+        {{ end }}
+        {{ with .Params.twitter }}
+          <li>
+            <a href="https://twitter.com/{{ . }}" target="_blank"> Twitter</a>
+        </li>
+        {{ end }}
+        {{ with .Params.linkedin }}
+        <li>
+            <a href="https://linkedin.com/in/{{ . }}" target="_blank">LinkedIn</a>
+        </li>
+        {{ end }}
+        {{ with .Params.facebook }}
+        <li>
+            <a href="https://facebook.com/{{ . }}" target="_blank">LinkedIn</a>
+        </li>
+        {{ end }}
+       </ul>
+      <br />
+      <h3>(for Working Sessions organisers)</h3>
+
+      <p>To invite {{ .Title }} to your Working Session use &#32;
+          <code class="highlighter-rouge">invited: {{ .Title }}</code>
+
+      <hr />
+      <p>Back to list of <a href='/participants/'>all Participants</a></p>
+
+      {{ partial "edit-link" . }}
+
+{{ end }}
