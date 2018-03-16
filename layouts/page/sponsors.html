@@ -1,0 +1,170 @@
+{{ define "content" }}
+
+<section id="sponsors">
+    <div class="container">
+        <h2>Platinum Sponsors</h2>
+        <div class="row">
+            {{ range .Site.Data.sponsors.platinum }}
+            <div class="col-md-4 col-sm-6 sponsors-item text-center">
+              <a href="{{ .url }}"><img class="img img-responsive centered" src="{{ .image }}" /></a>
+              <div class="sponsors-caption">
+                <h4>{{ .name }}</h4>
+                {{ with .funds }}<p class="muted">{{ . }}</p>{{ end }}
+              </div>
+            </div>
+            {{ end }}
+        </div>
+
+        {{ with .Site.Data.sponsors.gold }}
+        <h2>Gold Sponsors</h2>
+        <div class="row">
+            {{ range $index, $element := sort . "weight" }}
+            <div class="col-xs-3 col-sm-2">
+                <div class="card">
+                    <div class="card-top">{{ .element.name }}</div>
+                    <div class="card-block">{{ .element.money }}</div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Site.Data.sponsors.silver }}
+        <h2>Silver Sponsors</h2>
+        <div class="row">
+            {{ range $index, $element := sort . "weight" }}
+            <div class="col-xs-3 col-sm-2">
+                <div class="card">
+                    <div class="card-top">{{ .element.name }}</div>
+                    <div class="card-block">{{ .element.money }}</div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Site.Data.sponsors.bronze }}
+        <h2>Bronze Sponsors</h2>
+        <div class="row">
+            {{ range $index, $element := sort . "weight" }}
+            <div class="col-xs-3 col-sm-2">
+                <div class="card">
+                    <div class="card-top">{{ .element.name }}</div>
+                    <div class="card-block">{{ .element.money }}</div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
+        {{ with .Site.Data.sponsors.other }}
+        <h2>Other</h2>
+        <div class="row">
+            {{ range $index, $element := sort . "weight" }}
+            <div class="col-xs-3 col-sm-2">
+                <div class="card">
+                    <div class="card-top">{{ .element.name }}</div>
+                    <div class="card-block">{{ .element.money }}</div>
+            </div>
+            {{ end }}
+        </div>
+        {{ end }}
+
+<div class="sponsorship-options">
+    <div class="container">
+        <h1>Sponsors</h1>
+            OPEN SECURITY SUMMIT 2018 SPONSORSHIP OPTIONS
+        <p>If you are interested in one of the sponsorships packages below please contact <a href="mailto:francois@devseccon.com">Francois Raynaud</a></p>
+        <div class="row">
+            <div class="col-xs-6">
+                <h2>Platinum sponsor: $10,000 (villa and project)</h2>
+                <ul>
+                    <li>5 full tickets including accommodation and foodname associated with villa</li>
+                    <li> sponsor a project</li>
+                    <li>swag/promotional material in people accommodations</li>
+                    <li>logo posted on event website</li>
+                    <li>logo included in printed summit guide</li>
+                    <li>social media announcement</li>
+                    <li>logo on tote bag</li>
+                </ul>
+
+                <h2>Gold sponsor: $7,000 (project)</h2>
+                <ul>
+                    <li>4 full tickets including accommodation and food</li>
+                    <li>sponsor a project</li>
+                    <li>swag/promotional material in people accommodations</li>
+                    <li>name right in project work</li>
+                    <li>logo posted on event website</li>
+                    <li>logo included in printed summit guide</li>
+                    <li>social media announcement</li>
+                    <li>logo on tote bag</li>
+                </ul>
+                <h2>Silver sponsor: $3,500</h2>
+                <ul>
+                    <li>2 full tickets including accommodation and food</li>
+                    <li>swag/promotional material in people accommodations</li>
+                    <li>logo posted on event website</li>
+                    <li>logo included in printed summit guide</li>
+                    <li>social media announcement</li>
+                </ul>
+
+                <h2>Bronze sponsor: $1,500</h2>
+                <ul>
+                    <li>1 full ticket including accommodation and food</li>
+                    <li>logo posted on event website under Bronze sponsors</li>
+                    <li>logo included in printed summit guide</li>
+                </ul>
+            </div>
+            <div class="col-xs-6">
+
+                <h2>Other Sponsoring Opportunities:</h2>
+
+                <h4>Drinks (display of company logo co-branded)</h4>
+                <ul>
+                    <li>daily: $500</li>
+                    <li>end of summit party: $2500</li>
+                </ul>
+                <h4>Entertainment (display of company logo co-branded) - $1,500 per activity</h4>
+                <ul>
+                    <li>clay pigeon shooting</li>
+                    <li>tennis</li>
+                    <li>bowling</li>
+                    <li>…</li>
+                  </ul>
+                <h4>Meals (display of company logo co-branded) - $1,500</h4>
+                <ul>
+                    <li>breakfast</li>
+                    <li>lunch</li>
+                    <li>dinner</li>
+                    </ul>
+                <h4>Visit Bletchley Park - $3,000</h4>
+                <ul>
+                    <li>sponsorship of bus trip</li>
+                    <li>sponsorship of dinner</li>
+                    </ul>
+                <h4>Villa company naming right</h4>
+                <ul>
+                    <li>per day: $500</li>
+                    <li>for 5 days: $2000</li>
+                    </ul>
+                <h4>Lanyard sponsorship co-branding - $1,000 (Veracode)</h4>
+                <ul>
+                    <li>logo on lanyard</li>
+                  </ul>
+                <h4>Badges sponsorship co-branding - $750</h4>
+                <ul>
+                    <li>logo on badges</li>
+                    </ul>
+                <h4>Notepad sponsorship co-branding - $250</h4>
+                <ul>
+                    <li>supplied by sponsor</li>
+                    <li>located in attendee bags</li>
+                    </ul>
+                <h4>Pens sponsorship co-branding - $250 (Veracode)</h4>
+                <ul>
+                    <li>supplied by sponsor</li>
+                    <li>located in attendee bags</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ end }}

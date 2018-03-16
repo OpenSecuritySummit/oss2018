@@ -1,23 +1,15 @@
-<div class="col-xs-4 col-sm-2">
-  <div class="card">
-      <div class="card-top">
-        <a href="{{ .Permalink }}">
-        {{ if isset .Params "image" }}
-          <img class="img-fluid" src="{{ .Params.image }}" alt="{{ .Params.title }}" />
-        {{ else }}
-          <img class="img-fluid" src="img/blocks/400x400.png" alt="400x400 placeholder" />
-        {{ end }}
-        </a>
-      </div>
-    <div class="card-block">
-      <a href={{ .Permalink }}>
-        <p class="participant-name">{{ .Params.title }}</p>
-        {{ if isset .Params "job" }}
-        <p class="participant-title">{{ .Params.job }}</p>
-        {{ else }}
-        <p class="participant-title">...</p>
-        {{ end }}
-      </a>
-    </div>
+<div class="col-sm-2 col">
+  <div class="participant-item">
+    <a href="{{ .Permalink }}">
+    {{ if .Params.image }}
+      <img src="{{ .Params.image }}" class="img img-responsive img-circle" alt="{{ .Title }}" />
+      {{ else }}
+        <img src="/img/blocks/400x400.png" class="img img-responsive img-circle"  alt="400x400 placeholder" />
+      {{ end }}
+    </a>
+    <h3>{{ .Title | markdownify }}</h3>
+    {{ with .Params.job }}
+    <h4>{{ . | markdownify }}</h4>
+    {{ end }}
   </div>
 </div>
