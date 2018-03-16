@@ -7,9 +7,9 @@
         <img src="/img/blocks/400x400.png" class="img img-responsive img-circle"  alt="400x400 placeholder" />
       {{ end }}
     </a>
-    <h3>{{ .Title | markdownify }}</h3>
+    <h3>{{ .Title }}</h3>
     {{ with .Params.job }}
-    <h4>{{ . | markdownify }}</h4>
+    <h4>{{ . }}</h4>
     {{ end }}
   </div>
 </div>
