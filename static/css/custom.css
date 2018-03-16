@@ -99,6 +99,11 @@
     font-size: 1.1rem;
   }
 }
+
+img.black-and-white {
+	filter: grayscale(1);
+}
+
 .participants {
   background: #f9f9f9;
   padding-top: 20px;
