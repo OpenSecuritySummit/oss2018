@@ -14,6 +14,17 @@
   unicode-range: U + 0000 -00FF, U + 0131 , U + 0152 -0153, U + 02 C6, U + 02 DA, U + 02 DC, U + 2000 -206F, U + 2074 , U + 20 AC, U + 2212 , U + 2215;
 }
 
+body * {
+    font-family: 'Roboto Slab',! serif important;
+}
+
+body h3 {
+  font-family: 'Oswald';
+  color: #00549E;
+}
+body h4 {  color: #00549E;
+}
+
 .box-image-text .image {
   min-height: 200px;
   max-height: 200px;
@@ -104,10 +115,14 @@ img.black-and-white {
 	filter: grayscale(1);
 }
 
+img.black-and-white.participant {
+	width: 140px;
+  margin-bottom: 10px;
+}
+
 .participants {
   background: #f9f9f9;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  overflow: auto;
 }
 .participants h1 {
   padding-bottom: 20px;
@@ -156,6 +171,9 @@ img.black-and-white {
   text-decoration: none;
 }
 
+img.participants {
+  width: 150px;
+}
 .edit-link ul.github {
   list-style: none;
   padding-left: 0;
@@ -166,9 +184,9 @@ img.black-and-white {
 .edit-link ul.github li a {
   display: inline-block;
   padding: 5px;
-  border: solid 1px #eeeeee;
+  border: solid 1px #082451;
   border-radius: 0;
-  color: #8FC43E;
+  color: #082451;
   margin: 5px 5px 5px 0;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -199,16 +217,19 @@ img.black-and-white {
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
   justify-content: flex-start;
-  align-items: stretch;
+  align-items: center;
 }
 
 .flexbox-center {
-  justify-content: center;
+  justify-content: space-around;
 }
 
 .participant-item {
     margin-bottom: 50px;
     text-align: center;
+    margin-left: 5 auto;
+    background-color: #f9f9f9;
+    width: 140px;
 }
 
 .participant-item img {
@@ -223,6 +244,7 @@ img.black-and-white {
     text-transform: none;
     font-weight: 600;
     color: #333;
+    font-family: 'Oswald';
 }
 
 .participant-item h4 {
@@ -280,8 +302,9 @@ ul.social-buttons li a {
     font-size: 20px;
     line-height: 40px;
     outline: 0;
+    text-align: center;
     color: #fff;
-    background-color: #222;
+    background-color: #00549E;
     -webkit-transition: all .3s;
     -moz-transition: all .3s;
     transition: all .3s;
@@ -293,6 +316,9 @@ ul.social-buttons li a:active {
     background-color: #fed136;
 }
 
+ul.social-buttons li a i.fa {
+  text-align:center;
+}
 /* Sponsors */
 
 #sponsors .sponsors-item {
@@ -369,4 +395,8 @@ ul.social-buttons li a:active {
     #sponsors .sponsors-item {
         margin: 0 0 30px;
     }
+}
+
+.participant-main-section .container p {
+    font-family: 'Roboto Slab',! serif important;
 }

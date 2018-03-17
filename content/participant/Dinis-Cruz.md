@@ -1,7 +1,7 @@
 ---
 title           : Dinis Cruz
 type            : participant
-job-title       : CISO
+job_title       : CISO
 topics          : CISO,.Net,GDPR,SAST
 company         : PhotoBox Group
 image           : https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
@@ -11,7 +11,7 @@ twitter         : DinisCruz
 website         : http://blog.diniscruz.com
 ticket          : 5x24h
 status          : done
-pre-summit      : Sat,Sun
+pre_summit      : Sat,Sun
 working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 ---
 

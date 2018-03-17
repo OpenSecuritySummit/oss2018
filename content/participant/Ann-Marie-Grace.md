@@ -1,28 +1,28 @@
 ---
 title           : Anne-Marie Grace
 type            : participant
-role            : 
-job-title       : 
+role            :
+job_title       :
 company         : Photobox Group
 expenses        : owasp
 funded          : yes
-funded-who      : Summit Budget
-flight-cost     : 0
-ticket-cost     : 1500
+funded_who      : Summit Budget
+flight_cost     : 0
+ticket_cost     : 1500
 funded-amount   : 1500
 required-funds  : 1500
 travel-from     : United Kingdom
-image           : 
-linkedin        : 
+image           :
+linkedin        :
 twitter          :
 facebook        :
 website         :
 email           :
-project-leader  :
-chapter-leader  :
+project_leader  :
+chapter_leader  :
 ticket          : 5x24h
 regonline       : Yes
-pre-summit      : 
+pre-summit      :
 status          : add details
 notes :
 - AM to fill her details
