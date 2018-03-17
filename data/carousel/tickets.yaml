@@ -2,6 +2,8 @@ weight: 3
 title: "Buy your tickets!"
 description: >
   <ul class="list-style-none">
-    <li>Go to <a style="color:blue;" href="/tickets/">Ticket registrations</a> and buy your tickets today</li>
+    <li>Get the early registrations</li>
+    <li>Go to <a href="/tickets/" class="btn green" role="button">Ticket registrations</a></li>
+    <li>Buy your tickets today!</li>
   </ul>
 image: "img/carousel/ticket.png"

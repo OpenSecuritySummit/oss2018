@@ -10,15 +10,19 @@
                 <div class="item">
                     <div class="row">
                         <div class="col-sm-5 right">
-                            <h1 class="carousel-header-title">{{ .title }}</h1>
+                            <p class="carousel-header-title">{{ .title }}</p>
                             {{ .description | safeHTML }}
                         </div>
                         <div class="col-sm-7">
                             <img class="img-responsive" src="{{ .image }}" alt="">
                         </div>
                     </div>
+                    <div class="row waves">
+                        <img class="img-responsive" src="/img/carousel/waves.png" />
+                    </div>
                 </div>
                 {{ end }}
+
             </div>
             <!-- /.project owl-slider -->
         </div>

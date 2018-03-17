@@ -198,12 +198,13 @@ img.participants {
   border-color: #8FC43E;
 }
 
-.carousel-header-title {
+p.carousel-header-title {
+  padding-top: 60px;
   font-family: 'Oswald';
   font-size: 26px;
   font-weight: medium;
   text-transform  : uppercase;
-  background-color: #87BB40;
+  color: #87BB40;
 }
 
 /* PArticipants */
@@ -396,6 +397,26 @@ ul.social-buttons li a i.fa {
     }
 }
 
-.participant-main-section .container p {
-    font-family: 'Roboto Slab',! serif important;
+ul.list-style-none li.roboto-slab-big {
+  font-family: 'Roboto Slab',! serif important;
+  font-size: 60px;
+  color: #fff;
 }
+
+ul.list-style-none li a.green {
+    font-size: 16px;
+    font-family: "Oswald-Medium";
+    text-transform: uppercase;
+    color: #fff;
+    background-color: #87bb40;
+    padding: 15px;
+}
+/* CArousel */
+.homepage .owl-wrapper-outer {
+  background-color: #082451;
+}
+
+.homepage .owl-wrapper-outer .waves {
+  z-index: 100;
+  height: 150px;
+}​​​​​​​​​
