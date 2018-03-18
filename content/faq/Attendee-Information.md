@@ -67,7 +67,7 @@ The key to the Summit dynamic is having villas where you can interact with other
  
 ### Accommodation ([FAQ](/oss2018/content/faq/Accomodation.md))
  
-When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference.  Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  
+When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference. Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  
  
 ### General Housekeeping 
  
@@ -83,7 +83,7 @@ You need to have everything out of your room/villa by 10:00 a.m. on the day you 
  
 ### Session timings
  
-Sessions are 60 minutes long.  So that we can achieve our goals, follow this schedule. Please try to get to your session so we can start as close to the start time as possible.  
+Sessions are 60 minutes long. So that we can achieve our goals, follow this schedule. Please try to get to your session so we can start as close to the start time as possible.  
  
 If you are the organiser, please have a draft agenda ready for your sessions, so attendees know what to expect. Here is the typical breakdown for a session:
  
@@ -99,7 +99,7 @@ We highly recommend appointing a timekeeper at the beginning of the meeting to w
  
 ### Outcomes
  
-The point of the summit is to create concrete deliverables from each working session.  These deliverables can take many forms including:  
+The point of the summit is to create concrete deliverables from each working session. These deliverables can take many forms including:  
 - Diagrams
 - Flowchart
 - Policies
@@ -111,11 +111,11 @@ The point of the summit is to create concrete deliverables from each working ses
  
 ### Vendor Neutrality
  
-We will observe a  Vendor Neutrality policy at this conference.  Please do not use the working sessions as a place to pitch your product.  Maintaining neutrality enhances the value of collaborative tone of this week.  
+We will observe a Vendor Neutrality policy at this conference. Please do not use the working sessions as a place to pitch your product. Maintaining neutrality enhances the value of collaborative tone of this week.  
  
 ### Dynamic Sessions
-Dynamic Sessions are scheduled but do not have a leader, or have deliverables expected.  They are envisaged as organic and dynamic dinner or post-dinner round-table conversations.  The topic of conversation could also be prompted by one of the earlier scheduled sessions.  
+Dynamic Sessions are scheduled but do not have a leader, or have deliverables expected. They are envisaged as organic and dynamic dinner or post-dinner round-table conversations. The topic of conversation could also be prompted by one of the earlier scheduled sessions.  
  
 ### Evening Sessions
-Evening sessions take place at villas, later in the evening.  There are scheduled topics, but topic will more than likely evolve organically.  
+Evening sessions take place at villas. There are scheduled topics, but topic will more than likely evolve organically.  
  
