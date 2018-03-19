@@ -5,7 +5,6 @@ status       : featured
 categories   : ["Threat Model"]
 description  : Working Sessions related to Threat Modeling Security
 organizers   : 
-participants : 
 ---
 
 ### Summary

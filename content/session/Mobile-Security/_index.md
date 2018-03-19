@@ -6,7 +6,6 @@ categories  : ["Mobile"]
 status      : featured
 description : Working Sessions related to Mobile Security
 organizers  : 
-participants: 
 ---
 
 ## Summary

@@ -5,5 +5,4 @@ status       : featured
 category     : ["Agile AppSec"]
 organizers   :
 description  : Working Sessions for Agile related topics
-participants :
 ---

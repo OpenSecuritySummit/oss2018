@@ -5,7 +5,6 @@ owasp-project: yes
 categories   : ["OWASP SAMM"]
 description  : Working Sessions related to the Owasp SAMM Project
 organizers   : 
-participants : 
 ---
 
 Several [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) Working-Sessions will form part of the OWASP summit.
