@@ -3,7 +3,7 @@ draft		: true
 title       : "OSS Outcomes 2018"
 date        : "2018-02-12"
 tags        : ["Summit"]
-categories  : [""]
+categories  : ["Working-Sessions"]
 banner      : ""
 images      : ""
 author      : Dinis Cruz
@@ -47,7 +47,7 @@ If you are a Working Session organiser, please start mapping your ‘Definition 
 
 We will be adding a ‘Definition of Done’ to all Working Sessions, and any Working Session that doesn't have one, will NOT be added to the main schedule or benefit from being part of the Summit Participant’s individual daily schedule.
 
-We create better outcomes by providing a smaller number of Working Sessions, highly focused on a common objective (for 1,3,6,9 hours) than by creating a large number of Working Sessions composed of _‘great conversations and debates’_ (this happens anyway due to the Summit’s 18hr-day collaborative environment).
+We create better outcomes by providing a smaller number of Working Sessions, highly focused on a common objective - than by creating a large number of Working Sessions composed of _‘great conversations and debates’_ (this happens anyway due to the Summit’s 18hr-day collaborative environment).
 
 Given the time restrictions of the talent pool available (a couple days in June), the best way to achieve solid results at the Summit, is to work on the Working Sessions topics before the Summit. This means NOW!
 
