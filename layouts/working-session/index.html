@@ -1,0 +1,27 @@
+{{ define "content" }}
+
+    {{ .Content }}
+    <h2>Pre-Summit Working Sessions</h2>
+
+    A number of Working Sessions are happening before the Summit, please see the details below and participate
+
+    {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
+    <br><br>
+    <ul>
+        {{ range $sessions }}
+        <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
+        {{ end}}
+    </ul>
+
+    <h2>Summit Working Sessions</h2>
+
+    Here are the Working Sessions currently planned for the Summit
+    {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
+    <br><br>
+    <ul>
+    {{ range $sessions }}
+        <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
+    {{ end}}
+    </ul>
+
+{{ end }}

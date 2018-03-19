@@ -1,6 +1,6 @@
 ---
 title        : Security Playbooks
-type         : track
+type         : working-session
 technology   :
 categories   : ["Security Playbooks"]
 description  : Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents.
