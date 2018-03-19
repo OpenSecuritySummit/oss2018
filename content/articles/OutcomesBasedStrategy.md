@@ -14,7 +14,7 @@ Take a look at our [Summit Schedule] <!--- (link) --> and you will see that one 
 
 The Summit enables each Participant to engage in a highly focused and energized environment. We respect that you are donating your most valuable assets: Time and Knowledge. In return we recognise that our responsibility is to create the most effective and productive environments for you.
 
-In practice, this means that we need to be very disciplined in the Working Sessions. Each session must create something tangible and actionable. Working Session organisers must create detailed action plans and to-dos lists that are easy pick up and start contributing to [(our recommendation is to use GitHub Issues and Projects).]  <!--- (link) --->
+In practice, this means that we need to be very disciplined in the Working Sessions. Each session must create something tangible and actionable. Working Session organisers must create detailed action plans and to-dos lists that are easy pick up and start contributing to [(our recommendation is to use GitHub Issues and Projects)](https://github.com/OpenSecuritySummit/oss2018/issues).
 
 In the next couple weeks, we need each Working Session leader to explicitly define their ‘Definition of Done’ (which will affect the location and duration of that Working Session in the main Summit’s schedule).
 
