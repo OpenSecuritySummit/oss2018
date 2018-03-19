@@ -1,5 +1,4 @@
 ---
-draft		: true
 title       : "OSS Outcomes 2018"
 date        : "2018-02-12"
 tags        : ["Summit"]
@@ -35,10 +34,10 @@ Here are some examples of what these outcomes/deliverables could look like:
 - Security Review (of a particular application or api)
 - Statement of Position (signed by the Working Sessions Participants)
 - Surveys
-- Wiki pages <!--- this was linked to OWASP wiki pages, should that still be the case?-->
+- [Wiki pages](https://www.owasp.org/index.php/Main_Page) 
 
 
-All materials must be ready by end of the day (or Working Session), so that we can release them to the world in a consumable format (there will be some logistical support provided to Working Sessions organisers). For reference, all materials need to be released under and <!--- does this need update? -->  CC BY 4.0 or Apache 2.0 licenses.
+All materials must be ready by end of the day (or Working Session), so that we can release them to the world in a consumable format (there will be some logistical support provided to Working Sessions organisers). For reference, all materials need to be released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or [Apache 2.0 licenses](https://www.apache.org/licenses/LICENSE-2.0).
 
 
 ## Define "Done"
