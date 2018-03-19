@@ -46,7 +46,7 @@ At the last Summit we had 3 main types of Working Sessions:
 
 As you can see, there is a large degree of flexibility in the setup, with the main objective being to create the most productive environment for participants, and for real deliverables/outcomes to be created during the Summit.
 
-If you are organising a Working Session and have an idea for how it should be setup, please [talk to us](mailto:****) and we will do our best to accommodate your ideas.
+If you are organising a Working Session and have an idea for how it should be setup, please [talk to us](mailto:info@opensecsummit.org) and we will do our best to accommodate your ideas.
 
 ## The role of the Working Session organiser
 
