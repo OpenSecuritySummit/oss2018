@@ -420,3 +420,7 @@ ul.list-style-none li a.green {
   z-index: 100;
   height: 150px;
 }​​​​​​​​​
+
+.align-flex-center {
+  align-items:center;
+}

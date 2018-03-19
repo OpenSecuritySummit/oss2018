@@ -7,18 +7,28 @@
   </div>
 </div>
 <div class="row">
-  <div class="col-xs-0"></div>
-  <div class="col-xs-12">
-    <div class="row">
-      {{ $tracks := where .Data.Pages ".Params.type" "track" }}
-      {{ range $tracks }}
-      <div class="col-xs-4 col-sm-2">
-        <div class="ws-box">
-          <div class="ws-title">
-            <a href="{{ .Permalink }}">{{ truncate 45 .Title }}</a>
-          </div>
+    <div class="flexbox align-flex-center">
+      {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+      {{ range $index, $element := $tracks }}
+      {{ if eq (mod $index 3) 0 }}
+      <div class="col-xs-12">
+          <div class="row">
+          {{ end }}
+        <div class="col-xs-4">
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h3 class="panel-title">{{ truncate 45 .Title }}</h3>
+            </div>
+            <div class="panel-body">
+              <p class="lead">{{ .Params.description }}</p>
+              <p><a class="btn btn-lg btn-success" role="button" href="{{ .Permalink }}">{{ truncate 45 .Title }}</a></p>
+            </div>
+            </div>
         </div>
-      </div>
+        {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $tracks) 1 )) }}
+    			</div>
+    		</div>
+    		{{ end }}
       {{ end }}
     </div>
     <div class="col-xs-0"></div>
