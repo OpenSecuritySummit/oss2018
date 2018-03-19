@@ -1,8 +1,11 @@
 ---
 title        : Security Crowdsourcing
-type         : track
+type         : working-session
+
 status       :
 categories   : ["Crowdsourcing"]
 organizers   : 
 description  : Working Sessions for Security Crowdsourcing
 ---
+
+{{< description >}}
