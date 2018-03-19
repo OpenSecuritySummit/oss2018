@@ -1,5 +1,5 @@
 ---
-draft		    : true
+draft       : true
 title       : "OSS Natural Selection 2018"
 date        : "2018-02-12"
 tags        : ["GDPR", "Data Protection", "Data Protection", "CyberSecurity"]
