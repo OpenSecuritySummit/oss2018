@@ -97,17 +97,9 @@ If you are the organiser, please have a draft agenda ready for your sessions, so
  
 We highly recommend appointing a timekeeper at the beginning of the meeting to warn speakers 5 minutes or so before the deadline for the next part of the session, in order to keep things moving and on schedule.  
  
-### Outcomes
+### Working Session Outcomes
  
-The point of the summit is to create concrete deliverables from each working session. These deliverables can take many forms including:  
-- Diagrams
-- Flowchart
-- Policies
-- Positions
-- Statements
-- Surveys
-- Documents
-...
+The point of the summit is to create concrete deliverables from each working session. These deliverables can take many forms, it is vital that each working session have a [definition of done](/content/articles/OutcomesBasedStrategy.md)
  
 ### Vendor Neutrality
  
@@ -117,5 +109,5 @@ We will observe a Vendor Neutrality policy at this conference. Please do not use
 Dynamic Sessions are scheduled but do not have a leader, or have deliverables expected. They are envisaged as organic and dynamic dinner or post-dinner round-table conversations. The topic of conversation could also be prompted by one of the earlier scheduled sessions.  
  
 ### Evening Sessions
-Evening sessions take place at villas. There are scheduled topics, but topic will more than likely evolve organically.  
+Evening sessions take place at villas. There are scheduled topics, but debate will, more than likely, evolve organically.  
  

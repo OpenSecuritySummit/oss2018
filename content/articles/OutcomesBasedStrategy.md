@@ -1,9 +1,8 @@
 ---
-draft		: true
 title       : "OSS Outcomes 2018"
 date        : "2018-02-12"
 tags        : ["Summit"]
-categories  : [""]
+categories  : ["Working-Sessions"]
 banner      : ""
 images      : ""
 author      : Dinis Cruz
@@ -15,7 +14,7 @@ Take a look at our [Summit Schedule] <!--- (link) --> and you will see that one 
 
 The Summit enables each Participant to engage in a highly focused and energized environment. We respect that you are donating your most valuable assets: Time and Knowledge. In return we recognise that our responsibility is to create the most effective and productive environments for you.
 
-In practice, this means that we need to be very disciplined in the Working Sessions. Each session must create something tangible and actionable. Working Session organisers must create detailed action plans and to-dos lists that are easy pick up and start contributing to [(our recommendation is to use GitHub Issues and Projects).] <!--- (link) --->
+In practice, this means that we need to be very disciplined in the Working Sessions. Each session must create something tangible and actionable. Working Session organisers must create detailed action plans and to-dos lists that are easy pick up and start contributing to [(our recommendation is to use GitHub Issues and Projects)](https://github.com/OpenSecuritySummit/oss2018/issues).
 
 In the next couple weeks, we need each Working Session leader to explicitly define their ‘Definition of Done’ (which will affect the location and duration of that Working Session in the main Summit’s schedule).
 
@@ -35,10 +34,10 @@ Here are some examples of what these outcomes/deliverables could look like:
 - Security Review (of a particular application or api)
 - Statement of Position (signed by the Working Sessions Participants)
 - Surveys
-- Wiki pages <!--- this was linked to OWASP wiki pages, should that still be the case?-->
+- [Wiki pages](https://www.owasp.org/index.php/Main_Page) 
 
 
-All materials must be ready by end of the day (or Working Session), so that we can release them to the world in a consumable format (there will be some logistical support provided to Working Sessions organisers). For reference, all materials need to be released under and <!--- does this need update? -->  CC BY 4.0 or Apache 2.0 licenses.
+All materials must be ready by end of the day (or Working Session), so that we can release them to the world in a consumable format (there will be some logistical support provided to Working Sessions organisers). For reference, all materials need to be released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) or [Apache 2.0 licenses](https://www.apache.org/licenses/LICENSE-2.0).
 
 
 ## Define "Done"
@@ -47,7 +46,7 @@ If you are a Working Session organiser, please start mapping your ‘Definition 
 
 We will be adding a ‘Definition of Done’ to all Working Sessions, and any Working Session that doesn't have one, will NOT be added to the main schedule or benefit from being part of the Summit Participant’s individual daily schedule.
 
-We create better outcomes by providing a smaller number of Working Sessions, highly focused on a common objective (for 1,3,6,9 hours) than by creating a large number of Working Sessions composed of _‘great conversations and debates’_ (this happens anyway due to the Summit’s 18hr-day collaborative environment).
+We create better outcomes by providing a smaller number of Working Sessions, highly focused on a common objective - than by creating a large number of Working Sessions composed of _‘great conversations and debates’_ (this happens anyway due to the Summit’s 18hr-day collaborative environment).
 
 Given the time restrictions of the talent pool available (a couple days in June), the best way to achieve solid results at the Summit, is to work on the Working Sessions topics before the Summit. This means NOW!
 
