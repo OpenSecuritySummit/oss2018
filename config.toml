@@ -18,29 +18,23 @@ paginate = 10
 
 # Main menu
 [[menu.main]]
-    name = "Tickets"
-    identifier = "tickets"
-    pre = "<i class='fa fa-ticket'></i>&nbsp;"
-    weight = 10
-    url = "/tickets/"
-[[menu.main]]
     name = "Tracks"
     identifier = "tracks"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 11
     url = "/tracks/"
 #[[menu.main]]
-#    name = "Outcomes"
-#    identifier = "outcomes"
+#    name = "Working Sessions"
+#    identifier = "working-sessions"
 #    pre = "<i class='fa fa-road'></i>&nbsp;"
 #    weight = 12
-#    url = "/outcome/"
-[[menu.main]]
-    name = "Participants"
-    identifier = "participants"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 13
-    url = "/participant/"
+#    url = "/working-sessions/"
+#[[menu.main]]
+#    name = "Participants"
+#    identifier = "participants"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 13
+#    url = "/participant/"
 [[menu.main]]
     name = "Venue"
     identifier = "venue"
@@ -70,6 +64,12 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 18
     url = "/about/"
+[[menu.main]]
+    name = "Tickets"
+    identifier = "tickets"
+    pre = "<i class='fa fa-ticket'></i>&nbsp;"
+    weight = 20
+    url = "/tickets/"
 
 
 # Top bar social links menu

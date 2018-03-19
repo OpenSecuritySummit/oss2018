@@ -1,5 +1,5 @@
 ---
-draft : true
+draft : false
 title : "Suggestions for Working Sessions"
 year : 2018
 date        : "2018-03-06"
