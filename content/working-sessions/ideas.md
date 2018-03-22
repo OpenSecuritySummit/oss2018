@@ -136,19 +136,18 @@ The OSS philosophy is one of participant-driven focus. So it is up to you to sha
 - Hackathon Daily Sessions
 - Internal Bug Bounties Programmes
 - Lessons learned from public bug bounties programmes
-- Owasp Bug Bounty
+- OWASP Bug Bounty
+- OWASP Top Ten
 - Responsible disclosure
 - GDPR
+- Java
+- Node
+- SAST
+- SOC
+- TLS
 
 
-<!-- These have been excluded for lack of heading only
 
-Java
-Node
-SAST
-SOC
-TLS
---->
 
 
 
