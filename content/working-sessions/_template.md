@@ -1,10 +1,9 @@
 ---
-title        : CISO
+title        : ..
 type         : working-session
 status       : featured
-categories   : ["CISO"]
 organizers   : 
-description  : Working Sessions for CISOs
+description  : ..
 ---
 
 (add intro)
@@ -14,7 +13,7 @@ description  : Working Sessions for CISOs
 (...)
 
 ## What
-bin
+
 (...)
 
 ## Outcomes
@@ -24,5 +23,4 @@ bin
 ## References
 
 (...)
-
 
