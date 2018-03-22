@@ -1,10 +1,9 @@
 ---
-title        : ..
+title        : Remediate the flag
 type         : working-session
 status       : draft
 organizers   : 
-description  : ..
-hide         : true
+description  : Working session on the Remediate the flag project
 ---
 
 (add intro)

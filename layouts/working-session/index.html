@@ -20,7 +20,9 @@
     <br><br>
     <ul>
     {{ range $sessions }}
-        <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
+        {{ if ne .Params.hide true }}
+            <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
+        {{ end }}
     {{ end}}
     </ul>
 
