@@ -1,9 +1,9 @@
 ---
-title        : Working Session 1
+title        : Mobile Security Working Session 1
 type         : working-session
 status       : featured
 organizers   : 
-description  : SAMM Working Session
+description  : Mobile Security Working Session
 ---
 
 (add intro)

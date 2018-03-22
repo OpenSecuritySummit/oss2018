@@ -1,9 +1,9 @@
 ---
-title        : User Session 1
+title        : Mobile Security User Session 1
 type         : user-session
 status       : featured
 organizers   : 
-description  : SAMM User Session
+description  : Mobile Security User Session
 ---
 
 (add intro)

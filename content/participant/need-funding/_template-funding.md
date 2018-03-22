@@ -1,8 +1,10 @@
 ---
 title           :
-type            : participant-remote
+type            : participant-funding
 job_title       :
 company         :
+need-funding-for:
+travel-from     :
 image           :
 linkedin        :
 twitter         :
