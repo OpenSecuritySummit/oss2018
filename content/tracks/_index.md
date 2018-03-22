@@ -1,3 +1,4 @@
 ---
-url: "/tracks/"
+url   : "/tracks/"
+layout: tracks-main
 ---
