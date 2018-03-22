@@ -1,57 +1,42 @@
 {{ define "content" }}
     <div class="featured-ws">
       <div class="container">
-        <div class="row">
-          <p class="lead">For reference see the <a href="https://owaspsummit.org/website/working-sessions.html">Sessions we had at the last summit</a></p>
-        </div>
 
-        {{/* Only show track list in the initial tracks */}}
-        {{ if eq .URL "/tracks/" }}
-          {{ partial "tracks.html" . }}
-        {{ end }}
-
-        {{ partial "topics.html" . }}
 
         <div class="row">
           <div class="col-xs-0"></div>
           <div class="col-xs-12">
-          {{ $sessions := where (where .Data.Pages ".Params.type" "workshop") ".Params.status" "ne" "draft"}}
-            <h1>Working Sessions <span class="badge">{{ len $sessions }}</span></h1>
-            <p>Here are the other Working Sessions that we will occur at the Summit which have reached a good level of thinking and maturity (see list of draft Working Sessions below)</p>
-          </div>
-          <div class="col-xs-0"></div>
-        </div>
-        <div class="row">
-          <div class="col-xs-0"></div>
-          <div class="col-xs-12">
+            {{ $working_sessions :=  where .Data.Pages ".Params.type" "working-session"  }}
+            {{ $user_sessions :=  where .Data.Pages ".Params.type" "user-session"  }}
+            <h3>Working Sessions <span class="badge">{{ len $working_sessions }}</span></h3>
+            <p>Here are the working sessions that are currently being planned.
+            </p>
+
             <ol>
-              {{ range $sessions }}
-                {{ if ne ".Param.status" "featured" }}
-                <li>
-                  <a href="{{ .RelPermalink }}"> {{ .Title }}</a>
-                </li>
-                {{ end }}
+              {{ range $working_sessions }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
               {{ end }}
             </ol>
-          </div>
-          <div class="col-xs-0"></div>
-        </div>
-        <div class="row">
-          <div class="col-xs-0"></div>
-          <div class="col-xs-12">
-          {{ $draft := where (where .Data.Pages ".Params.type" "workshop") ".Params.status" "eq" "draft" }}
-            <h1>Draft Working Sessions <span class="badge">{{ len $draft }}</span></h1>
-            <p>Here are the working sessions that are currently being worked on, but need more content and help. If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.</p>
+
+            <h3>User Sessions <span class="badge">{{ len $user_sessions }}</span></h3>
+            <p>Here are the users sessions that are currently being planned.
+            </p>
+
+            <ol>
+              {{ range $user_sessions }}
+              <li>
+                <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+              {{ end }}
+            </ol>
+
+            <h3>Please help</h3>
+            <p>
+              If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.</p>
             <p>If you feel that there is missing working session that we NEED to have at the Summit, please create it.</p>
-            <ol>
-              {{ range $draft }}
-                {{ if ne ".status" "featured" }}
-                <li>
-                  <a href="{{ .Permalink }}">{{ .Title }}</a>
-                </li>
-                {{ end }}
-              {{ end }}
-            </ol>
+
           </div>
         </div>
       </div><!-- container -->

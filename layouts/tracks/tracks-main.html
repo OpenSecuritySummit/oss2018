@@ -1,16 +1,25 @@
 {{ define "content" }}
 <div class="featured-ws">
     <div class="container">
-        <div class="row">
-            <p class="lead">For reference see the <a href="https://owaspsummit.org/website/working-sessions.html">Sessions we had at the last summit</a></p>
-        </div>
-
         {{/* Only show track list in the initial tracks */}}
         {{ if eq .URL "/tracks/" }}
         {{ partial "tracks.html" . }}
         {{ end }}
 
         <!--{{ partial "topics.html" . }}-->
+
+
+        <div class="row">
+            <div class="col-xs-0"></div>
+            <div class="col-xs-12">
+                <h2>Owasp Summit 2017</h2>
+                <p class="lead">For reference see the <a href="https://owaspsummit.org/website/working-sessions.html">Tracks we had at the last summit</a></p>
+
+            </div>
+        </div>
+
+
+
 
     </div>
 </div>
