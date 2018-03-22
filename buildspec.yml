@@ -25,4 +25,4 @@ phases:
     commands:
       - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}
       - aws configure set preview.cloudfront true
-      - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths /index.html / /page/* /css/* /tickets/* /track/* /venue/* /blog/* /faq/* /img/* /sponsors/* /participant/* /oss2017/* /categories/* /tags/*
+      - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths *
