@@ -13,7 +13,7 @@
     <div class="row">
       {{ $topics := where .Data.Pages ".Params.technology" "" }}
       {{ range $topics }}
-      <div class="col-xs-4.col-sm-2">
+      <div class="col-xs-4 col-sm-2">
         <a href="{{ .Permalink }}">{{ .Params.title }}</a>
       </div>
       {{ end }}
