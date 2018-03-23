@@ -424,3 +424,43 @@ ul.list-style-none li a.green {
 .align-flex-center {
   align-items:center;
 }
+
+/* IE 10/11... */ 
+@media (min-width:700px){
+  .oss-grid{
+    display:grid;
+    -ms-grid-gap:30px
+  }
+  .oss-grid--3{
+    -ms-grid-columns: 1fr 1fr 1fr;
+  }
+}
+@supports (display: grid){
+  @media (min-width:700px){
+    .oss-grid{
+      display:grid;
+      grid-gap:30px;
+    }
+    .oss-grid--3{
+      grid-template-columns: repeat(2, 1fr);
+    }
+    .oss-grid .panel{
+      /* grid-gap takes care of that */
+      margin-bottom:0;
+    }
+    .oss-grid .panel-with-btn{
+      position: relative;
+      padding-bottom:calc(3em + 15px);
+    }
+    .oss-grid .panel-with-btn .btn{
+      position: absolute;
+      bottom:15px;
+    }
+  }
+  @media (min-width:992px){
+    .oss-grid--3{
+      grid-template-columns: repeat(3, 1fr);
+      -ms-grid-columns: 1fr 1fr 1fr;
+    }
+  }
+}
