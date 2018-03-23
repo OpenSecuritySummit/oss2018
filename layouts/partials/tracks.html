@@ -1,36 +1,17 @@
-<div class="row">
-  <div class="col-xs-0"></div>
-  <div class="col-xs-12">
-    <h1>Tracks</h1>
-    <p>Here are the current Tracks (with multiple Working Sessions)</p>
-    <div class="col-xs-0"></div>
-  </div>
-</div>
-<div class="row">
-    <div class="flexbox align-flex-center">
-      {{ $tracks := where .Site.Pages ".Params.type" "track" }}
-      {{ range $index, $element := $tracks }}
-      {{ if eq (mod $index 3) 0 }}
-      <div class="col-xs-12">
-          <div class="row">
-          {{ end }}
-        <div class="col-xs-4">
-          <div class="panel panel-default">
+<h1>Tracks</h1>
+<p>Here are the current Tracks (with multiple Working Sessions)</p>
+
+<div class="oss-grid oss-grid--3">
+    {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+    {{ range $index, $element := $tracks }}
+        <div class="panel panel-default panel-with-btn">
             <div class="panel-heading">
-              <h3 class="panel-title">{{ truncate 45 .Title }}</h3>
+                <h3 class="panel-title">{{ truncate 45 .Title }}</h3>
             </div>
             <div class="panel-body">
-              <p class="lead">{{ .Params.description }}</p>
-              <p><a class="btn btn-lg btn-success" role="button" href="{{ .Permalink }}">{{ truncate 45 .Title }}</a></p>
-            </div>
+                <p class="lead">{{ .Params.description }}</p>
+                <a class="btn btn-lg btn-success" role="button" href="{{ .Permalink }}">{{ truncate 45 .Title }}</a>
             </div>
         </div>
-        {{ if or (eq (mod $index 3) 2) (eq $index (sub (len $tracks) 1 )) }}
-    			</div>
-    		</div>
-    		{{ end }}
-      {{ end }}
-    </div>
-    <div class="col-xs-0"></div>
-  </div>
+    {{ end }}
 </div>
