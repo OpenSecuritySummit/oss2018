@@ -1,6 +1,6 @@
 ---
 title           : Adam Shostack
-type            : participant-funding
+type            : participant
 job_title       : author
 company         :
 need-funding-for: travel 
