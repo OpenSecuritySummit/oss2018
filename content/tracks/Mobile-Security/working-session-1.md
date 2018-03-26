@@ -26,16 +26,16 @@ A consistent and structured approach need to be used to continously test the req
 
 ## What
 
-Automated testing of the MASVS requriements, based on the research of Davide Cioccia through combination of
+Automated testing of the MASVS requriements, based on the [research of Davide Cioccia](https://www.owasp.org/images/f/fb/V2_-_OWASP_Buscharest_Davide_Cioccia.pdf) through combination of:
 - BDD with Cucumber and Gherkin and
 - [Calaba.sh](http://calaba.sh/)
 
 
 ## Outcomes
 
-We want to use the Open Security Summit in order to extend the existing test cases and transform the MASVS requirements into Gherkin Syntax wherever possible and applicble. 
+We want to use the Open Security Summit in order to extend the existing test cases for iOS and Android and transform the MASVS requirements into Gherkin Syntax wherever possible and applicable. 
 
-The existing approach and test cases will be shared before the Open Security Summit via Github and will be used as basis for other test cases. 
+The existing technical approach and test cases will be shared before the Open Security Summit via Github and will be used as basis for other test cases. 
 
 
 ## Who 
