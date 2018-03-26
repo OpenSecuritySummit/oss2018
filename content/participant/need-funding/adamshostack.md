@@ -1,15 +1,15 @@
 ---
-title           :
+title           : Adam Shostack
 type            : participant-funding
-job_title       :
+job_title       : author
 company         :
-need-funding-for:
-travel-from     :
+need-funding-for: travel 
+travel-from     : Seattle
 image           :
 linkedin        :
 twitter         :
 facebook        :
-website         :
+website         : https://adam.shostack.org
 email           :
 project_leader  :
 chapter_leader  :
