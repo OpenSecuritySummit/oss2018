@@ -26,15 +26,16 @@ A consistent and structured approach need to be used to continously test the req
 
 ## What
 
-Based on the research of Davide Cioccia by automating the MASVS through combination of
+Automated testing of the MASVS requriements, based on the research of Davide Cioccia through combination of
 - BDD with Cucumber and Gherkin and
 - [Calaba.sh](http://calaba.sh/)
-
 
 
 ## Outcomes
 
 We want to use the Open Security Summit in order to extend the existing test cases and transform the MASVS requirements into Gherkin Syntax wherever possible and applicble. 
+
+The existing approach and test cases will be shared before the Open Security Summit via Github and will be used as basis for other test cases. 
 
 
 ## Who 
