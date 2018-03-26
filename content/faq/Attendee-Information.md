@@ -5,7 +5,7 @@ date: 2018-03-09T17:22:38-03:00
 
 ### Funding my ticket
 
-Unfortunately, we are unable to sponsor tickets for attendees at this time. If you are an OWASP leader you may be entitled to [funding](/content/faq/sponsored_tickets.md) through the [OWASP Community Engagement Funding](https://www.owasp.org/index.php/Funding) programme. 
+Unfortunately, we are unable to sponsor tickets for attendees at this time. If you are an OWASP leader you may be entitled to [funding]({{< ref "faq/sponsored_tickets.md" >}}) through the [OWASP Community Engagement Funding](https://www.owasp.org/index.php/Funding) programme. 
 
 ### Expectations for Attendees
  
