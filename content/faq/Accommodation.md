@@ -1,5 +1,5 @@
 ---
-title    : Accomodation
+title    : Accommodation
 ---
 
 ## Accommodation
