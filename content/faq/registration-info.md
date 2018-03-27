@@ -20,7 +20,7 @@ There are two types of participants -- Onsite and Remote
 
 - To register as a remote participant:
 
-   Please make a copy of this remote participant template (https://github.com/OpenSecuritySummit/oss2018/blob/master/archetypes/participant.md) and add it to this folder (https://github.com/OpenSecuritySummit/oss2018/content/participant/remote).
+   Please make a copy of this remote participant template (https://github.com/OpenSecuritySummit/oss2018/blob/master/content/participant/Template.md) and add it to this folder (https://github.com/OpenSecuritySummit/oss2018/content/participant/remote).
 
 - To register as an onsite participant:
 
