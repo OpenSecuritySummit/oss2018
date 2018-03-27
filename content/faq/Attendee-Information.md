@@ -65,7 +65,7 @@ Here is the Villa set up:
  
 The key to the Summit dynamic is having villas where you can interact with other participants on your own schedule around the clock. To this end the venue is organized into a series of villas that are supplemented by the conference center (conveniently named The Venue).  The villas will serve the dual purpose of accommodations as well as locations for the more informal evening sessions. Some venues will also serve as locations for standard working sessions (these will be marked on the schedule).
  
-### Accommodation ([FAQ]({{< ref "faq/Accomodation.md" >}}))
+### Accommodation ([FAQ]({{< ref "faq/Accommodation.md" >}}))
  
 When you arrive at Woburn Center Parcs proceed to the conference center (conveniently called The Venue) you will recive your house key and accommodation information package when you register for the conference. Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide with your housemates on the sleeping arrangements.  
  
