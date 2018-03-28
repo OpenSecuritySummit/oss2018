@@ -1,5 +1,5 @@
 ---
-title        : Mobile Security Working Session 1
+title        : Automation of MASVS with BDD
 type         : working-session
 status       : featured
 organizers   : Sven Schleier
