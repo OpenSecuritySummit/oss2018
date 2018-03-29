@@ -1,25 +1,23 @@
 ---
-title        : Working Session 2
+title        : Attack chains as TM technique
 type         : working-session
 status       : featured
 organizers   : 
 description  : Threat Modeling Working Session
 ---
 
-(add intro)
-
 ## WHY
 
-(...)
+We need different techniques to discover threats against a system to complement the traditional ones if they do not work.
 
 ## What
 
-(...)
+Create attack chains as TM technique. Extedend possibly using DFD as connection maps, layered defence and attack patterns.
 
 ## Outcomes
 
-(...)
+An example of an attack chain.
 
 ## References
 
-(...)
+
