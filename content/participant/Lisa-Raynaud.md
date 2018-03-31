@@ -16,7 +16,7 @@ chapter_leader  :
 ticket          :
 status          : working-sessions mappings
 ticket          : 5x24h
-working_sessions: Securing the CI Pipeline,DevSecOps vs SecDevOps
+working_sessions: Securing the CI Pipeline, DevSecOps vs SecDevOps
 # add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
 ---
 
