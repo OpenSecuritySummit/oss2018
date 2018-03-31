@@ -7,11 +7,11 @@ In order to update your schedule, follow these steps:
 
   1. Visit your profile page. For example, http://opensecsummit.org/participant/francois-raynaud/
 
-  4. On the next page, add the "Working Sessions:" that you want to attend. (Please have a tab space after the colon ":")
+  4. On the next page, add the "Working Sessions:" that you want to attend. Use a space after the colon and a space after each comma.
 
-  5. "Create a new branch for this commit and start a pull request" and commit changes
+  5. Create a new branch for this commit, create a pull request and commit changes.
 
-  6. When merged, it should reflect on your main profile page after a delay of a minute or so.
+  6. When merged, changes should reflect on your main profile page after a delay of a minute or so.
 
 
 #### 2. How do I register as a participant on GitHub?
@@ -20,7 +20,7 @@ There are two types of participants -- Onsite and Remote
 
 - To register as a remote participant:
 
-   Please make a copy of this remote participant template (https://github.com/OpenSecuritySummit/oss2018/blob/master/content/participant/Template.md) and add it to this folder (https://github.com/OpenSecuritySummit/oss2018/content/participant/remote).
+   Please make a copy of this remote participant template (https://github.com/OpenSecuritySummit/oss2018/blob/master/content/participant/template.md) and add it to this folder (https://github.com/OpenSecuritySummit/oss2018/content/participant/remote).
 
 - To register as an onsite participant:
 
