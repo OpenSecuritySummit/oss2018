@@ -2,6 +2,8 @@ weight: 4
 title: "Sponsors"
 description: >
   <ul class="list-style-none">
-    <li>Be a Summit sponsor!</li>
+    <li>Support the Open Security Summit and take</li>
+    <li>advantage of one of our great packages</li>
+    <a href="/sponsors/" class="btn green" role="button">Learn More</a></li>
   </ul>
 image: "img/carousel/sponsor.png"
