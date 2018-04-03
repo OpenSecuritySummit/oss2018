@@ -9,7 +9,7 @@ be solved by working together, in a collaborative and open environment.
 
 This Summit is such an event, where the community comes together, and works tirelessly on topics that they are passionate about.
 
-As you can see from the tracks, outcomes, attendees and photos from [last year's Summit](https://owaspsummit.org/Outcomes/)),
+As you can see from the tracks, outcomes, attendees and photos from [last year's Summit](https://owaspsummit.org/Outcomes/),
 this explosive combination of talent, challenges and enclosed location (venue and villas) creates a highly productive environment.
 
 Where else in the world do you find 15 x Threat Modeling experts, thought-leaders and
