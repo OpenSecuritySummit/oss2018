@@ -2,8 +2,7 @@ weight: 3
 title: "Buy your tickets!"
 description: >
   <ul class="list-style-none">
-    <li>Get the early registrations</li>
-    <li>Go to <a href="/tickets/" class="btn green" role="button">Ticket registrations</a></li>
-    <li>Buy your tickets today!</li>
+    <li>Book your tickets now and take advantage of the early bird discount</li>
+    <li><a href="/tickets/" class="btn green" role="button">Order Now</a></li>
   </ul>
 image: "img/carousel/ticket.png"
