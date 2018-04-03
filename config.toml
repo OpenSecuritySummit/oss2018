@@ -56,19 +56,19 @@ paginate = 10
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 17
+    weight = 6
     url = "/sponsors/"
 [[menu.main]]
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 18
+    weight = 4
     url = "/about/"
 [[menu.main]]
     name = "Tickets"
     identifier = "tickets"
     pre = "<i class='fa fa-ticket'></i>&nbsp;"
-    weight = 20
+    weight = 2
     url = "/tickets/"
 
 
