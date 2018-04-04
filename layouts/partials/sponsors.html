@@ -1,6 +1,6 @@
 {{ if isset .Site.Params "sponsors" }}
 {{ if .Site.Params.sponsors.enable }}
-{{ if gt (len .Site.Data.sponsors) 0 }}
+{{ if gt (len .Site.Data.sponsors.platinum) 0 }}
 <section class="bar background-gray no-mb">
     <div class="container">
         <div class="row">
@@ -14,7 +14,7 @@
                 </p>
 
                 <ul class="owl-carousel customers">
-                    {{ range .Site.Data.sponsors }}
+                    {{ range .Site.Data.sponsors.platinum }}
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}
                           <a href="{{ .url }}" target="_blank">
