@@ -3,7 +3,7 @@ title        : OWASP Cloud Security Workshop (BETA)
 type         : working-session
 status       : draft
 organizers   : Fraser Scott
-description  : A beta session of the OWASP Cloud Security Workshop.
+description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
 hide         : false
 ---
 
