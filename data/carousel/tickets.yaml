@@ -3,6 +3,6 @@ title: "Buy your tickets!"
 description: >
   <ul class="list-style-none">
     <li>Book your tickets now and take advantage of the early bird discount</li>
-    <li><a href="/tickets/" class="btn green" role="button">Order Now</a></li>
+    <a href="/tickets/" class="btn green" role="button">Order Now</a>
   </ul>
 image: "img/carousel/ticket.png"
