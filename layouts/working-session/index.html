@@ -14,11 +14,13 @@
 
     <h2>Summit Working Sessions</h2>
 
-    Here are the Working Sessions currently planned for the Summit
+    <p>
+        Here are the Working Sessions currently planned for the Summit
+    </p>
 
     {{/* $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit" */}}
     {{ $sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
-    <br><br>
+
     <ul>
     {{ range $sessions }}
         {{ if ne .Params.hide true }}
@@ -33,7 +35,6 @@
     <p>We are also going to have an number of User Sessions</p>
 
     {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
-    <br><br>
     <ul>
         {{ range $sessions }}
         {{ if ne .Params.hide true }}
