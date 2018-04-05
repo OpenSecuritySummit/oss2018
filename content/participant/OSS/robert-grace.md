@@ -4,7 +4,7 @@ type            : participant
 role            : Summit Content Manager
 job_title       : Summit Content Manager
 travel_from     : Germany
-image           : https://media-exp2.licdn.com/media/AAEAAQAAAAAAAAqrAAAAJDljNjNmOTJlLWNkZDAtNDA5NC1hZjFhLTk2ZTBjMjJhOTdjYw.jpg
+image           :
 linkedin        : r-grace
 twitter         : robertgracesa1
 facebook        :
