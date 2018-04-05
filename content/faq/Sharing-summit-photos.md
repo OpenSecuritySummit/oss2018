@@ -1,5 +1,6 @@
 ---
 title    : Sharing summit photos
+draft    : true
 ---
 
 ## Sharing summit photos
