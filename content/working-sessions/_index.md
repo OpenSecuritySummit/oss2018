@@ -1,6 +1,7 @@
 ---
 title  : Working Sessions
 type   : working-session
+hide   : true
 layout : index
 ---
 

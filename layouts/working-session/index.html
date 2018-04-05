@@ -1,5 +1,4 @@
 {{ define "content" }}
-
     {{ .Content }}
     <h2>Pre-Summit Working Sessions</h2>
 
@@ -16,7 +15,9 @@
     <h2>Summit Working Sessions</h2>
 
     Here are the Working Sessions currently planned for the Summit
-    {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
+
+    {{/* $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit" */}}
+    {{ $sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
     <br><br>
     <ul>
     {{ range $sessions }}
