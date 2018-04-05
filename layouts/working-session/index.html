@@ -27,4 +27,10 @@
     {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
     {{ partial "sessions/simple-table.html" $sessions }}
 
-    {{ end }}
+
+
+    <br>
+    <hr>
+    <br>
+
+{{ end }}
