@@ -1,5 +1,5 @@
 ---
-title           : Head of Risk
+title           : John Killilea
 type            : participant
 job_title       :
 company         : Photobox GS
