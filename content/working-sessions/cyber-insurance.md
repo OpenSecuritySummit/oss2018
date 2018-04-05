@@ -2,7 +2,7 @@
 title        : Cyber Insurance
 type         : working-session
 status       : draft
-organizers   : 
+organizers   : Yvette Connor
 description  : Session on Cyber Insurance
 ---
 
