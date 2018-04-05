@@ -2,7 +2,7 @@
 title        : Describe different ways of implementing TM in agile organisations.
 type         : working-session
 status       :
-organizers   : 
+organizers   : Steven Wierckx
 description  : Describe different ways of implementing TM in agile organisations.
 ---
 
