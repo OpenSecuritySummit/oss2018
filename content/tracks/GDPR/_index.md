@@ -10,4 +10,4 @@ organizers  :
 
 ## Summary
 
-....
+GDPR related sessions

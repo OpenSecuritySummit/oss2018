@@ -7,8 +7,9 @@
         <div class="row">
           <div class="col-xs-0"></div>
           <div class="col-xs-12">
-            {{ $working_sessions :=  where .Data.Pages ".Params.type" "working-session"  }}
-            {{ $user_sessions :=  where .Data.Pages ".Params.type" "user-session"  }}
+            {{ $working_sessions := where .Data.Pages ".Params.type" "working-session"  }}
+            {{ $user_sessions    := where .Data.Pages ".Params.type" "user-session"  }}
+
             <h3>Working Sessions <span class="badge">{{ len $working_sessions }}</span></h3>
             <p>Here are the working sessions that are currently being planned.
             </p>

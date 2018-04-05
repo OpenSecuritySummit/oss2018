@@ -1,9 +1,10 @@
 ---
-title        : SAMM Working Session 2
+title        : GDPR Working Session 2
 type         : working-session
 status       : featured
 organizers   : 
-description  : SAMM Working Session
+description  : GDPR Working Session
+hide         : true
 ---
 
 (add intro)

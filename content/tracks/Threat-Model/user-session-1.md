@@ -1,7 +1,7 @@
 ---
 title        : Update the web site
 type         : user-session
-status       : featured
+status       : need-content
 organizers   : 
 description  : Threat Modeling User Session
 ---

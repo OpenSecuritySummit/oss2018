@@ -4,6 +4,7 @@ type         : working-session
 status       : featured
 organizers   : 
 description  : Mobile Security Working Session
+hide         : true
 ---
 
 (add intro)

@@ -1,7 +1,7 @@
 ---
 title        : Describe different ways of implementing TM in agile organisations.
 type         : working-session
-status       : featured
+status       :
 organizers   : 
 description  : Describe different ways of implementing TM in agile organisations.
 ---

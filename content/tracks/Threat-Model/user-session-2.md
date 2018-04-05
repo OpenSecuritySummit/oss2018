@@ -1,9 +1,10 @@
 ---
 title        : User Session 2
 type         : user-session
-status       : featured
 organizers   : 
 description  : Threat Modeling User Session
+hide         : true
+status       : no-content
 ---
 
 (add intro)

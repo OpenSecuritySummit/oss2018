@@ -4,6 +4,7 @@ type         : user-session
 status       : featured
 organizers   : 
 description  : Mobile Security User Session
+hide         : true
 ---
 
 (add intro)
