@@ -4,7 +4,7 @@ type            : participant
 job_title       : DevOps/AppSec
 company         : Photobox GS
 travel-from     : Uruguay
-image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
+image           : https://avatars1.githubusercontent.com/u/3012076?s=460&v=4
 linkedin        : felipezipitria
 twitter         :
 facebook        :
