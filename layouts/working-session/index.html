@@ -27,4 +27,20 @@
     {{ end}}
     </ul>
 
+
+    <h2>User Sessions</h2>
+
+    <p>We are also going to have an number of User Sessions</p>
+
+    {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
+    <br><br>
+    <ul>
+        {{ range $sessions }}
+        {{ if ne .Params.hide true }}
+        <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
+        {{ end }}
+        {{ end}}
+    </ul>
+
+
 {{ end }}
