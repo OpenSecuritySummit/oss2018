@@ -2,15 +2,12 @@
     {{ .Content }}
     <h2>Pre-Summit Working Sessions</h2>
 
-    A number of Working Sessions are happening before the Summit, please see the details below and participate
+    <p>
+        A number of Working Sessions are happening before the Summit, please see the details below and participate
+    </p>
 
     {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
-    <br><br>
-    <ul>
-        {{ range $sessions }}
-        <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
-        {{ end}}
-    </ul>
+    {{ partial "sessions/simple-table.html" $sessions }}
 
     <h2>Summit Working Sessions</h2>
 
@@ -18,30 +15,14 @@
         Here are the Working Sessions currently planned for the Summit
     </p>
 
-    {{/* $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit" */}}
     {{ $sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
-
-    <ul>
-    {{ range $sessions }}
-        {{ if ne .Params.hide true }}
-            <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
-        {{ end }}
-    {{ end}}
-    </ul>
-
+    {{ partial "sessions/simple-table.html" $sessions }}
 
     <h2>User Sessions</h2>
 
     <p>We are also going to have an number of User Sessions</p>
 
     {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
-    <ul>
-        {{ range $sessions }}
-        {{ if ne .Params.hide true }}
-        <li><a href="{{.Permalink }}">{{.Params.title}}</a> - {{ .Params.description}}</li>
-        {{ end }}
-        {{ end}}
-    </ul>
-
+    {{ partial "sessions/simple-table.html" $sessions }}
 
 {{ end }}

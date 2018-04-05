@@ -13,26 +13,12 @@
             <h3>Working Sessions <span class="badge">{{ len $working_sessions }}</span></h3>
             <p>Here are the working sessions that are currently being planned.
             </p>
-
-            <ol>
-              {{ range $working_sessions }}
-              <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-              </li>
-              {{ end }}
-            </ol>
+            {{ partial "sessions/simple-table-show-all.html" $working_sessions }}
 
             <h3>User Sessions <span class="badge">{{ len $user_sessions }}</span></h3>
             <p>Here are the users sessions that are currently being planned.
-            </p>
-
-            <ol>
-              {{ range $user_sessions }}
-              <li>
-                <a href="{{ .Permalink }}">{{ .Title }}</a>
-              </li>
-              {{ end }}
-            </ol>
+            </p> 
+            {{ partial "sessions/simple-table-show-all.html" $working_sessions }}
 
             <h3>Please help</h3>
             <p>
