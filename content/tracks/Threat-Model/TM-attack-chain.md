@@ -2,7 +2,7 @@
 title        : Attack chains as TM technique
 type         : working-session
 status       : featured
-organizers   : 
+organizers   : Steven Wierckx
 description  : Threat Modeling Working Session
 ---
 
