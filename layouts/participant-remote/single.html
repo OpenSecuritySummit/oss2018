@@ -1,0 +1,59 @@
+{{ define "content" }}
+
+  <div class="participant">
+      <div class="participant-main-section">
+        <div class="container">
+        {{ if .Params.job_title}}
+          <h3>{{ .Params.job_title }}{{ with .Params.company }}, {{ . }}{{ end }}</h3>
+        {{ else }}
+          <h3>{{ .Params.company }} </h3>
+        {{ end }}
+
+        {{ with .Params.image }}
+        <img class="black-and-white participant" src="{{ . }}" alt="" />
+        {{ end }}
+
+        {{ .Content }}
+
+        <!--{{ partial "schedule/participant" . }}-->
+
+        <!--<h4>Contact details</h4>-->
+        <ul class="list-inline social-buttons">
+          {{ with .Params.email }}
+          <li>
+              <a href="mailto:{{ . | safeHTML }}" target="_blank"><i class="fa fa-envelope"></i></a>
+          </li>
+          {{ end }}
+          {{ with .Params.website }}
+          <li>
+              <a href="{{ . }}" target="_blank"><i class="fa fa-location-arrow"></i></a>
+          </li>
+          {{ end }}
+          {{ with .Params.twitter }}
+            <li>
+              <a href="https://twitter.com/{{ . }}" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          {{ end }}
+          {{ with .Params.linkedin }}
+          <li>
+              <a href="https://linkedin.com/in/{{ . }}" target="_blank"><i class="fa fa-linkedin"></i></a>
+          </li>
+          {{ end }}
+          {{ with .Params.facebook }}
+          <li>
+              <a href="https://facebook.com/{{ . }}" target="_blank"><i class="fa fa-facebook"></i></a>
+          </li>
+          {{ end }}
+         </ul>
+        <br />
+        <!--<h3>(for Working Sessions organisers)</h3>-->
+
+        <!--<p>To invite {{ .Title }} to your Working Session use &#32;-->
+            <!--<code class="highlighter-rouge">invited: {{ .Title }}</code>-->
+
+        <!--<hr />-->
+        <p>Back to list of <a href='/participant/'>all Participants</a></p>
+      </div>
+    </div>
+</div>
+{{ end }}

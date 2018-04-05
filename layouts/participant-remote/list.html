@@ -1,0 +1,28 @@
+{{ define "content" }}
+
+<div class="page-content">
+  {{ .Content }}
+
+  <div id="participants" class="participants">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading">Current list of Summit attendees</h2>
+          </div>
+        </div>
+        <div class="row">
+          <div class="flexbox">
+            {{ $local := where .Data.Pages ".Params.type" "participant-remote" }}
+            {{ range $local }}
+              {{ if .Params.title }}
+                {{ partial "participant" . }}
+              {{ end }}
+            {{ end }}
+          </div>
+        </div>  
+      </div><!-- container -->
+  </div><!-- participants -->
+
+</div>
+
+  {{ end }}
