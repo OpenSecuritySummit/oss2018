@@ -1,17 +1,17 @@
 ---
 title           : Felipe Zipitria
 type            : participant
-job_title       :
+job_title       : DevOps/AppSec
 company         : Photobox GS
-travel-from     :
-image           :
-linkedin        :
+travel-from     : Uruguay
+image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAsMAAAAJGQ2NWMyNjBmLTBmNTItNGIyMC1iNWQyLTZkZDRmNjBiNGJkNg.jpg
+linkedin        : felipezipitria
 twitter         :
 facebook        :
 website         :
-email           :
+email           : felipe.zipitria@owasp.org
 project_leader  :
-chapter_leader  :
+chapter_leader  : Uruguay
 regonline       :
 pre-summit      :
 status          : add details
@@ -20,5 +20,5 @@ notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 
 ---
+Felipe is a Msc. in Computer Security from University of the Republic (Uruguay). He has been working as a DevOps / System Administrator for 20 years, and as a Security Consultant for 10+ years. He has been teaching Computer Security Fundamentals to pregraduate students and Web Application Security for postgraduates at the local public University.
 
-<!-- put more details about participant here -->
