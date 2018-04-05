@@ -1,9 +1,10 @@
 ---
 title        :
 type         : working-session
-status       : draft
+status       : review-content
 organizers   : 
 description  :
+participants :
 ---
 
 

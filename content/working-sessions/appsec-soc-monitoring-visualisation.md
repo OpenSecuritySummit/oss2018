@@ -1,7 +1,7 @@
 ---
 title        : AppSec SOC Monitoring Visualisation
 type         : working-session
-status       : draft
+status       : review-content
 organizers   :
 participants :
 description  : AppSec SOC Monitoring Visualisation

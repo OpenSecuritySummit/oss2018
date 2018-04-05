@@ -1,8 +1,9 @@
 ---
 title        : Agile Practices for Security Teams
 type         : working-session
-status       : draft
-organizers   : 
+status       : review-content
+organizers   :
+participants :
 description  : Agile Practices for Security Teams
 ---
 

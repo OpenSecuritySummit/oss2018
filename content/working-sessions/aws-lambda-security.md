@@ -1,8 +1,9 @@
 ---
 title        : AWS Lambda Security
 type         : working-session
-status       : draft
-organizers   : 
+status       : review-content
+organizers   :
+participants :
 description  : How to secure Lambda functions
 ---
 

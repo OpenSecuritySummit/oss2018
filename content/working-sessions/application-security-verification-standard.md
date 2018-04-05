@@ -1,8 +1,9 @@
 ---
 title        : Application Security Verification Standard
 type         : working-session
-status       : draft
-organizers   : 
+status       : review-content
+organizers   :
+participants :
 description  : Session on ASVS
 participants :
 ---
