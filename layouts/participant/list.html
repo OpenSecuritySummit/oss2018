@@ -14,7 +14,9 @@
           <div class="flexbox">
             {{ $local := where .Data.Pages ".Params.type" "participant" }}
             {{ range $local }}
-              {{ partial "participant" . }}
+              {{ if .Params.title }}
+                {{ partial "participant" . }}
+              {{ end }}
             {{ end }}
           </div>
         </div>  
