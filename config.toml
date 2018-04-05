@@ -1,15 +1,12 @@
 #baseurl = "https://ossummit.org"
-baseurl = "/"
-title = "Open Security Summit"
-theme = "oss-owasp"
-languageCode = "en-us"
-# Site language. Available translations in the theme's `/i18n` directory.
-defaultContentLanguage = "en"
-# Enable comments by entering your Disqus shortname
+baseurl                 = "/"
+title                   = "Open Security Summit"
+theme                   = "oss-owasp"
+languageCode            = "en-us"
+defaultContentLanguage  = "en"
+googleAnalytics         = "UA-97001849-2"
+enableGitInfo           = false
 #disqusShortname = "devcows"
-# Enable Google Analytics by entering your tracking code
-googleAnalytics = ""
-enableGitInfo = false
 
 # Define the number of posts per page
 paginate = 10
