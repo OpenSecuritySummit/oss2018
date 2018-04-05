@@ -1,13 +1,5 @@
 {{ define "content" }}
     {{ .Content }}
-    <h2>Pre-Summit Working Sessions</h2>
-
-    <p>
-        A number of Working Sessions are happening before the Summit, please see the details below and participate
-    </p>
-
-    {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
-    {{ partial "sessions/simple-table.html" $sessions }}
 
     <h2>Summit Working Sessions</h2>
 
@@ -20,9 +12,19 @@
 
     <h2>User Sessions</h2>
 
-    <p>We are also going to have an number of User Sessions</p>
+    <p>This year we are introducing User Sessions</p>
 
     {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
     {{ partial "sessions/simple-table.html" $sessions }}
 
-{{ end }}
+
+    <h2>Pre-Summit Working Sessions</h2>
+
+    <p>
+        A number of Working Sessions are happening before the Summit, please see the details below and participate
+    </p>
+
+    {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.when" "eq" "pre-summit"}}
+    {{ partial "sessions/simple-table.html" $sessions }}
+
+    {{ end }}
