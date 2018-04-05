@@ -1,17 +1,12 @@
 ---
-title        : Working Session 1
+title        : Owasp Devslop Working Session 2
 type         : working-session
 status       : featured
 organizers   : 
-description  : SAMM Working Session
+description  : Owasp Devslop Working Session
 ---
 
 (add intro)
-
- - asd
- - asdsa
-
-
 
 ## WHY
 
