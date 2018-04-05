@@ -26,12 +26,12 @@ paginate = 10
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 12
     url = "/working-sessions/"
-#[[menu.main]]
-#    name = "Participants"
-#    identifier = "participants"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 13
-#    url = "/participant/"
+[[menu.main]]
+    name = "Participants"
+    identifier = "participants"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 13
+    url = "/participant/"
 [[menu.main]]
     name = "Venue"
     identifier = "venue"
