@@ -1,5 +1,5 @@
 ---
-title           :
+title           : Stu Hirst
 type            : participant
 job_title       :
 company         :
