@@ -1,10 +1,9 @@
 ---
-title        : GDPR Working Session 2
+title        : GDPR Compliance what does it mean?
 type         : working-session
 status       : featured
 organizers   : 
-description  : GDPR Working Session
-hide         : true
+description  : Now that GDPR is in force, what does GDPR Compliance mean and how to measure it
 ---
 
 (add intro)

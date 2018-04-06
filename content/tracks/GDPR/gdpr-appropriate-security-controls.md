@@ -1,10 +1,9 @@
 ---
-title        : SAMM Working Session 3
+title        : GDPR Appropriate Security Controls
 type         : working-session
 status       : featured
 organizers   : 
-description  : GDPR Working Session
-hide         : true
+description  : Map out what these are and what is the best way to measure them
 ---
 
 (add intro)

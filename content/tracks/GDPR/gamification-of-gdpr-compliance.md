@@ -1,15 +1,12 @@
 ---
-title        : OWASP Devslop project
+title        : Gamification of GDPR compliance
 type         : working-session
 status       : featured
-categories   : ["CISO"]
 organizers   : 
-description  : Devslop
+description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 ---
 
 (add intro)
-
-Based on https://www.owasp.org/index.php/OWASP_DevSlop_Project project
 
 ## WHY
 
@@ -26,4 +23,3 @@ Based on https://www.owasp.org/index.php/OWASP_DevSlop_Project project
 ## References
 
 (...)
-

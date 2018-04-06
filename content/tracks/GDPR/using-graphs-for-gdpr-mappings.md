@@ -1,10 +1,9 @@
 ---
-title        : GDPR User Session 3
+title        : Using graphs for GDPR mappings and visualiations
 type         : user-session
 status       : featured
 organizers   : 
-description  : GDPR User Session
-hide         : true
+description  : Hands on sessions of mapping GDPR data to graphs
 ---
 
 (add intro)

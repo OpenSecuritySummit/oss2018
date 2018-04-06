@@ -1,10 +1,9 @@
 ---
-title        : GDPR Working Session 1
+title        : European GDPR variations
 type         : working-session
 status       : featured
 organizers   : 
-description  : GDPR Working Session
-hide         : true
+description  : Mapping out the multiple differences across the EU
 ---
 
 (add intro)

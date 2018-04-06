@@ -1,10 +1,9 @@
 ---
-title        : GDPR User Session 2
+title        : Real world GDPR practices
 type         : user-session
 status       : featured
 organizers   : 
-description  : GDPR User Session
-hide         : true
+description  : Learn from companies that have implemented GDPR plans
 ---
 
 (add intro)
