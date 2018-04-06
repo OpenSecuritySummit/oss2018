@@ -1,5 +1,5 @@
 ---
-title        : Creating Steady State Hypothesis
+title        : Hands on Chaos Experiments
 type         : user-session
 status       : draft
 organizers   : 

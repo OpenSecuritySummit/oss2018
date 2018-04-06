@@ -1,5 +1,5 @@
 ---
-title        : Using chaos Toolkit
+title        : Improving chaos Toolkit
 type         : working-session
 status       : draft
 organizers   : 
