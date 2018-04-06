@@ -2,7 +2,7 @@
 title        : DevSecOps Maturity Model (DSOMM)
 type         : working-session
 status       : no-content
-organizers   : Puneet Thapliyal
+organizers   : Puneet Thapliyal, Imran Mohammed A
 description  :
 ---
 

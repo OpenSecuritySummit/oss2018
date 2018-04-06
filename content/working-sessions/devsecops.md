@@ -4,7 +4,7 @@ type         : working-session
 technology   :
 categories   : ["DevSecOps"]
 description  : Working Sessions related to DevSecOps
-organizers   : 
+organizers   : Imran Mohammed A
 ---
 
 {{< description >}}

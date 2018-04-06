@@ -217,7 +217,7 @@ p.carousel-header-title {
   -webkit-flex-flow: row wrap;
   flex-flow: row wrap;
   justify-content: flex-start;
-  align-items: center;
+  align-items: flex-start;
 }
 
 .flexbox-center {
@@ -416,10 +416,13 @@ ul.list-style-none li a.green {
   background-color: #082451;
 }
 
+.smaller {
+  width: 70%;
+}
 .homepage .owl-wrapper-outer .waves {
   z-index: 100;
   height: 150px;
-}​​​​​​​​​
+}
 
 .align-flex-center {
   align-items:center;
