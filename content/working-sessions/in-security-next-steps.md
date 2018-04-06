@@ -1,6 +1,6 @@
 ---
 title        : IN Security - next steps
-type         : user-session
+type         : working-session
 status       : draft
 organizers   : 
 description  :

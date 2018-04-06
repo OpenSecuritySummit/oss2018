@@ -1,6 +1,6 @@
 ---
 title        : Getting more women in Cyber-security
-type         : user-session
+type         : working-session
 status       : draft
 organizers   : 
 description  :
