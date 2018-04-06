@@ -1,10 +1,9 @@
 ---
-title        : ..
-type         : working-session
+title        : Creating Steady State Hypothesis
+type         : user-session
 status       : draft
 organizers   : 
 description  :
-hide         : true
 ---
 
 (add intro)

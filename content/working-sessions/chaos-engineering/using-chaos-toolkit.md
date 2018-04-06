@@ -1,10 +1,9 @@
 ---
-title        : ..
-type         : working-session
+title        : Using chaos Toolkit
+type         : user-session
 status       : draft
 organizers   : 
 description  :
-hide         : true
 ---
 
 (add intro)
