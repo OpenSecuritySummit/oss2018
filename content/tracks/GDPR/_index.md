@@ -5,7 +5,7 @@ technology  : ["Android", "iOS"]
 categories  : ["Mobile"]
 status      : featured
 description : Working Sessions related to GDPR
-organizers  : 
+organizers  : Tony Richards
 ---
 
 ## Summary

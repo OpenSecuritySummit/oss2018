@@ -2,8 +2,9 @@
 title        : Meet the ICO
 type         : working-session
 status       : featured
-organizers   : 
 description  : If you could meet the ICO, what questions would you ask
+organizers   : Tony Richards
+participants :
 ---
 
 (add intro)
