@@ -98,7 +98,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "PhotoBox"
     defaultKeywords = ["open", "summit", "security"]
-    defaultDescription = "Open Security Summit 2018 Site"
+    defaultDescription = "The Open Security Summit 2018 is focused on the collaboration between Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
     ghRepo = "https://github.com/OpenSecuritySummit/oss2018/"
 
     # Google Maps API key (if not set will default to not passing a key.)
