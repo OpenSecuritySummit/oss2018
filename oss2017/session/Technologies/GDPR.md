@@ -1,6 +1,6 @@
 ---
 title        : GDPR
-year		: 2017
+year		 : 2017
 type         : technology
 technology   :
 description  : GDPR (General Data Protection Regulation) is a regulation by which the European Parliament, the European Council and the European Commission intend to strengthen and unify data protection for all individuals within the European Union.

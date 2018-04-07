@@ -1,0 +1,31 @@
+<h3> Participating in:</h3>
+
+{{ $pages := where .Site.Pages  ".Params.organizers" "in" "Tony Richards" }}
+{{ $name  := .Params.title}}
+
+<table class="table">
+    <!--<thead>-->
+        <!--<th> Name </th>-->
+        <!--<th> Type </th>-->
+        <!--<th>  </th>-->
+    <!--</thead>-->
+
+{{- range .Site.Pages}}
+
+    {{- if in .Params.organizers $name }}
+    <tr>
+        <th><a href="{{.Permalink}}">{{.Params.title}}</a></th>
+        <td>{{ .Params.type }}</td>
+        <td> <span class="label label-primary">organiser</span> </td>
+    </tr>
+    {{ end }}
+
+    {{ if in .Params.participants $name  }}
+        <tr>
+            <th><a href="{{.Permalink}}">{{.Params.title}}</a></th>
+            <td>{{ .Params.type }}</td>
+            <td> <span class="label label-success">participant</span> </td>
+        </tr>
+    {{ end }}
+{{ end }}
+</table>

@@ -19,7 +19,7 @@
             {{ $local := where .Data.Pages ".Params.type" "participant" }}
             {{ range $local }}
               {{ if .Params.title }}
-                {{ partial "participant" . }}
+                {{ partial "participant/card.html" . }}
               {{ end }}
             {{ end }}
           </div>

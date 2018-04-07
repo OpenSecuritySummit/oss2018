@@ -2,8 +2,9 @@
 title        : Publishing apps in a VSTS security pipeline
 type         : user-session
 status       : draft
-organizers   : OWASP DevSlop Project Team, Lead for this session: Tanya Janca
 description  : Beginner level session on DevSecOps and publishing to the Cloud
+organizers   : Tanya Janca
+participants :
 ---
 
 For many people 'the cloud' and DevSecOps can be a bit mysterious.  Let's clear this up with a nice, long, slow demo of how to load up an app in your editor, make a change, run it through your pipeline (and pass the security checkes!), then publish it into the cloud.  One step at a time.

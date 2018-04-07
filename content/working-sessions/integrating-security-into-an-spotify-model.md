@@ -2,8 +2,9 @@
 title        : Integrating Security into an Spotify Model
 type         : working-session
 status       : review-content
-organizers   : 
 description  :
+organizers   :
+     - Tony Richards
 participants :
 ---
 

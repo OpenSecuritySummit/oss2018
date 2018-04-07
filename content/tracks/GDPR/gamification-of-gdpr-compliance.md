@@ -4,7 +4,7 @@ type         : working-session
 status       : featured
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 organizers   :
-participants :
+participants : Tony Richards
 ---
 
 (add intro)
