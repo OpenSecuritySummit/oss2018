@@ -27,6 +27,9 @@
                         <div id="post-content">
                           {{ .Content }}
                         </div>
+
+                        {{ partial "edit-link" . }}
+
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
