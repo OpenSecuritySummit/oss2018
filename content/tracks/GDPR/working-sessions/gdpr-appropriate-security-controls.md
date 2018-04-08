@@ -8,6 +8,7 @@ organizers   :
     - Tony Richards
 participants :
     - Dinis Cruz
+    - Mario Platt
 ---
 
 (add intro)

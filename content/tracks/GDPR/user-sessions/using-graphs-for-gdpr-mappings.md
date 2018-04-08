@@ -4,8 +4,10 @@ type         : user-session
 track        : GDPR
 status       : featured
 description  : Hands on sessions of mapping GDPR data to graphs
-organizers   : Dinis Cruz
+organizers   :
+    - Dinis Cruz
 participants :
+    - Mario Platt
 ---
 
 (add intro)
