@@ -1,6 +1,8 @@
 {{ define "content" }}
     {{ .Content }}
 
+    See also the planned <a href="/user-sessions">User Sessions</a>
+
     <h2>Summit Working Sessions</h2>
 
     <p>
@@ -9,14 +11,6 @@
 
     {{ $sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
     {{ partial "sessions/simple-table.html" $sessions }}
-
-    <h2>User Sessions</h2>
-
-    <p>This year we are introducing User Sessions</p>
-
-    {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
-    {{ partial "sessions/simple-table.html" $sessions }}
-
 
     <h2>Pre-Summit Working Sessions</h2>
 

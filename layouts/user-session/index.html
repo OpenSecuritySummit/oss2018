@@ -1,0 +1,10 @@
+{{ define "content" }}
+    {{ .Content }}
+
+    <h2>Current User Sessions</h2>
+
+
+    {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
+    {{ partial "sessions/simple-table.html" $sessions }}
+
+{{ end }}
