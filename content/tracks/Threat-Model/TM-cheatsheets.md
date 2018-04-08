@@ -2,7 +2,7 @@
 title        : Threat model cheat sheets
 type         : working-session
 status       : featured
-organizers   : Steven Wierckx
+organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 ---
 
