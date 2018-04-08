@@ -6,19 +6,12 @@
     <tr>
         <th>Organizers</th>
         <td>
-            {{ range .Params.organizers}}
-                {{ $name := . }}
-                {{ $page := (where $.Site.Pages ".Params.title" $name) }}
-                {{ if $page }}
-                {{ $user := (index $page 0) }}
-                <a href="{{ $user.Permalink }}">{{ $user.Params.title }}</a>
-                {{ end }}
-            {{ end }}
-
-            </td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.organizers)   }}
+        </td>
     </tr>
     <tr>
         <th>Participants</th>
-        <td>{{ .Params.participants }} </td>
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.participants)   }}</td>
     </tr>
 </table>

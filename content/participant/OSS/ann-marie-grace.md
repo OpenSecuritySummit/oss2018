@@ -17,11 +17,11 @@ ticket          : 5x24h
 regonline       : Yes
 pre-summit      :
 status          : add details
-working-sessions: 
+sessions:
 notes :
 - AM to fill her details
-working-sessions:
-# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title) e.g. working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+sessions:
+# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->

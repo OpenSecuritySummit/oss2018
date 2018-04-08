@@ -2,7 +2,7 @@
 title        : AWS Lambda Security
 type         : working-session
 status       : review-content
-organizers   :
+organizers   : abc
 participants :
 description  : How to secure Lambda functions
 ---

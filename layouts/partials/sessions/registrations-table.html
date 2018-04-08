@@ -1,11 +1,17 @@
+{{ $sessions := where .this.Site.Pages ".Params.type" .type}}
+
 <h2>{{.title}} (registrations)</h2>
 
-<table class="table table-sm">
+<table class="table table-condensed">
     <thead>
-    <th width="300">Title</th>
-    <th>Description</th>
+        <th width="300">Title</th>
+        <th>Description</th>
+        <th>Status</th>
+        <th width="100">Organizers</th>
+        <th width="10"></th>
+        <th width="100">Participants</th>
     </thead>
-    {{ range .sessions }}
+    {{ range $sessions }}
     {{ if ne .Params.hide true }}
     <tr>
         <td>
@@ -14,6 +20,18 @@
         <td>
             {{ .Params.description}}
         </td>
+        <td>{{ .Params.status }}</td>
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "value" .Params.organizers) }}
+        </td>
+        <td>
+            {{ partial "utils/array-size-badge.html" (dict "this" . "value" .Params.participants) }}
+        </td>
+
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "value" .Params.participants) }}
+        </td>
+
     </tr>
     {{ end}}
     {{ end}}

@@ -1,7 +1,9 @@
 {{ define "content" }}
 
-    {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
 
-    {{ partial "sessions/registrations-table.html" (dict "sessions" $sessions "title" "User Sessions") }}
+
+    {{ partial "sessions/registrations-table.html" (dict "this" . "type" "user-session"    "title" "User Sessions") }}
+
+    {{ partial "sessions/registrations-table.html" (dict "this" . "type" "working-session" "title" "Working Sessions") }}
 
 {{ end}}

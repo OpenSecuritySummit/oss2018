@@ -1,0 +1,16 @@
+
+{{ if eq (printf "%T"  .value) "string" }}
+    {{ partial "utils/title-to-link" (dict "this" .this "title" .value ) }}
+{{ end }}
+
+{{ if eq (printf "%T"  .value) "[]string" }}
+    {{ $len := (len .value) }}
+    {{ range $index, $element := .value }}
+        {{ partial "utils/title-to-link" (dict "this" $.this "title" $element ) }}
+        {{ if eq (add $index 1) $len }}
+
+        {{ else }}
+            ,
+        {{ end }}
+    {{ end }}
+{{ end }}

@@ -15,9 +15,9 @@ chapter_leader  :
 regonline       :
 status          : done
 pre_summit      : Sat,Sun
-working-sessions: Update the web site
+sessions: ["Update the web site"]
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 
 ---
 
