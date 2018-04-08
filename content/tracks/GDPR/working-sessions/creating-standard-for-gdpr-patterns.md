@@ -1,5 +1,5 @@
 ---
-title        : Creating an standard for GDPR Patterns
+title        : Creating an standard for GDPR patterns
 type         : working-session
 track        : GDPR
 status       : featured
@@ -7,6 +7,8 @@ description  : Working Session on reviewing and agreeing on a set of GDPR patter
 organizers   :
     - Mario Platt
 participants :
+    - Dinis Cruz
+    - Tony Richards
 ---
 
 (add intro)
