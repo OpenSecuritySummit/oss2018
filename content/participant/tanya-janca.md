@@ -5,8 +5,8 @@ job_title       : Senior Cloud Developer Advocate
 company         : Microsoft
 travel-from     : Ottawa, Canada
 image           : https://avatars0.githubusercontent.com/u/26744843?s=400&u=dbc5bb5fe5d719419efce1bb3e9870dd58a4c7ba&v=4
-linkedin        : https://www.linkedin.com/in/tanya-janca-60ab0998/
-twitter         : https://twitter.com/shehackspurple
+linkedin        : tanya-janca-60ab0998
+twitter         : shehackspurple
 facebook        : https://developer.microsoft.com/en-us/advocates/tanya-janca
 website         : http://www.DevSlop.com
 email           : Tanya.Janca - at - Microsoft - dot - com
