@@ -2,8 +2,9 @@
 title        : Hands on Chaos Experiments
 type         : user-session
 status       : draft
-organizers   : 
 description  :
+organizers   : 
+participants :
 ---
 
 (add intro)
