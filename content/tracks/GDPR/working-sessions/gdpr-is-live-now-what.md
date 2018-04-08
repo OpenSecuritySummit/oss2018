@@ -5,7 +5,9 @@ track        : GDPR
 status       : featured
 description  : Plan for the next phase of GDPR
 organizers   :
-participants : Tony Richards
+    - Ante Gulam
+participants :
+    - Tony Richards
 ---
 
 (add intro)

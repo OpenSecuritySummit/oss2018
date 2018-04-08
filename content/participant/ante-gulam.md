@@ -15,12 +15,9 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions:
-user-sessions   :
 keynote         :
-notes           :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
+sessions        :
+    - GDPR Appropriate Security Controls
 ---
 
 <!-- put more details about participant here -->

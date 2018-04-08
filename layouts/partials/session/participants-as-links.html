@@ -1,0 +1,26 @@
+{{ $title := .Params.title }}
+
+{{ if eq (printf "%T"  .Params.participants) "string" }}
+    {{ $.Scratch.Add "participants" (slice .Params.participants) }}
+{{ else }}
+    {{ range .Params.participants}}
+        {{ $.Scratch.Add "participants" (slice .) }}
+    {{ end }}
+{{ end }}
+
+{{ range .Site.Pages}}
+    {{if in .Params.sessions $title}}
+        {{ $.Scratch.Add "participants" (slice .Params.title) }}
+    {{ end }}
+{{ end }}
+
+{{ $value := $.Scratch.Get "participants" }}
+
+{{ if $value}}
+    {{ partial "utils/titles-with-link.html" (dict "this" . "value" $value) }}
+    <span class="label label-primary">{{ len $value }}</span>
+{{ end }}
+
+
+
+

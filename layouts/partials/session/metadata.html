@@ -12,6 +12,6 @@
     <tr>
         <th>Participants</th>
         <td>
-            {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.participants)   }}</td>
+            {{ partial "session/participants-as-links.html" . }}
     </tr>
 </table>

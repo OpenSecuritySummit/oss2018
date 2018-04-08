@@ -13,9 +13,12 @@ ticket          : 5x24h
 status          : done
 pre_summit      : Sat,Sun
 sessions        :
- - Security Playbooks Diagrams
- - Hackathon Daily Sessions
  - Hands on Chaos Experiments
+ - CISO
+ - Hands-on GDPR Patterns
+ - Using Threat Models for GDPR
+ - Threat model cheat sheets
+ - GDPR is live, now what?
 ---
 
 
