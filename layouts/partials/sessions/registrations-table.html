@@ -1,0 +1,20 @@
+<h2>{{.title}} (registrations)</h2>
+
+<table class="table table-sm">
+    <thead>
+    <th width="300">Title</th>
+    <th>Description</th>
+    </thead>
+    {{ range .sessions }}
+    {{ if ne .Params.hide true }}
+    <tr>
+        <td>
+            <a href="{{.Permalink }}">{{.Params.title}}</a>
+        </td>
+        <td>
+            {{ .Params.description}}
+        </td>
+    </tr>
+    {{ end}}
+    {{ end}}
+</table>
