@@ -22,12 +22,8 @@ sessions        :
 ---
 
 
-Dinis Cruz is a CISO, Developer and Application Security Engineer dedicated to developing secure applications.
+Dinis Cruz is the CISO of the Photobox Group and is focused on creating an team and environment where security is an enabler and accelerator for the business, while securing and protecting the digital assets from existing threats.
 
-A key focus is: 'Automating Application Security Knowledge and Workflows', which also happens to be the main concept behind the OWASP O2 Platform.
-
-After many years (and multiple roles) Dinis is still very active at OWASP, currently leading the O2 Platform project and helping out other projects and initiatives. He is a driving force behind OSS and pasionate about an integrated approach to security.
-
-After failing to scale his own security knowledge, Dinis: learned Git, created security vulnerabilities in code published to production servers, delivered training to developers, and built multiple CI (Continuous Integration) environments. Dinis then had the epiphany that the key to application security is "Secure Continuous Delivery", allowing a "Developer’s Immediate Connection to What They’re Creating". This 'Immediate Connection/Feedback' concept is deep rooted in the development of the O2 Platform, and is something that will keep Dinis busy for many years.
+Dinis is very active in open source communities like OWASP, where he was a board member. He is currently part of the leadership team behind the Open Security Summit 2018, which brings together the Security community in an open and collaborative environment to work on hard security challenges we face today.
 
 For more details [see blog](http://blog.diniscruz.com/)
