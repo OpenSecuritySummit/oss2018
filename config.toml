@@ -18,25 +18,25 @@ paginate = 10
     name = "Tracks"
     identifier = "tracks"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 1
+    weight = 2
     url = "/tracks/"
 [[menu.main]]
     name = "Working Sessions"
     identifier = "working-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 2
+    weight = 3
     url = "/working-sessions/"
 [[menu.main]]
     name = "User Sessions"
     identifier = "user-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 3
+    weight = 4
     url = "/user-sessions/"
 [[menu.main]]
     name = "Participants"
     identifier = "participants"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 4
+    weight = 5
     url = "/participant/"
 [[menu.main]]
     name = "Venue"
