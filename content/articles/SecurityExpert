@@ -1,0 +1,40 @@
+---
+draft		: true
+title       : "How to become a Security Expert"
+date        : "2018-02-12"
+tags        : ["GDPR", "Data Protection", "Data Protection", "CyberSecurity"]
+categories  : ["OSS"]
+banner      : ""
+images      : ""
+author      : Dinis Cruz
+---
+
+
+## How to become a security expert
+
+The best way to really get your head around security is to exploit security vulnerabilities. 
+I encourage this in a professional context. This is especially important for all developers. Without a good understanding of the 
+technology, developers will continue to work within a silo mentality, that security is somehow an "add-in" that comes later.
+
+This means getting hands-on experience. The first step is to find the vulnerabilities, then write the exploits for them. Next, 
+try to fix them. This workflow will walk a developer through many necessary paradigm shifts. There are many issues that surround data: 
+data validation, or data handling, or the problems with data injections. Developers must understand the problems with 
+authentication authorization. They must be conscious of who has ownership of the data, and analyse who is making the decisions. 
+
+Key to successful security is data encryption and data protection, a developer must work with an understanding of the value of assets. 
+They must understand risk conditions, the human element, the workflows, and the use of the pipeline. 
+
+## Developing developers
+
+At Photobox we provide our teams with hands on exercises. We use Avatron, the Hackathon platform, which we have available for everybody.
+Avatron is excellent for providing hands on experience of vulnerabilities. Another good exercise that our developers undertake is to take 
+some applications, like for example, the Juice Shop or other vulnerable-by-design applications, first exploit them, and then write fixes for them. This is incredibly powerful, because it allows them to understand that actually 
+fixing things and creating security protectors is, much harder than exploiting the vulnerabilities in the first place.
+
+## Engage
+
+The key is to really engage with the issues at the chalk face. There is simply no substitute to improve a person's consciousness with regards 
+to security.
+
+OSS organiser and participant [Dinis Cruz](http://blog.diniscruz.com/)
+
