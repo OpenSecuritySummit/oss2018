@@ -1,9 +1,10 @@
 ---
-title        : GDPR Compliance what does it mean?
+title        : Creating an standard for GDPR Patterns
 type         : working-session
+track        : GDPR
 status       : featured
 organizers   : 
-description  : Now that GDPR is in force, what does GDPR Compliance mean and how to measure it
+description  : Working Session on reviewing and agreeing on a set of GDPR patterns
 ---
 
 (add intro)

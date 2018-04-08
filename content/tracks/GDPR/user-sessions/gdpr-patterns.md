@@ -1,9 +1,11 @@
 ---
-title        : Using graphs for GDPR mappings and visualiations
+title        : Hands-on GDPR Patterns
 type         : user-session
+track        : GDPR
 status       : featured
-organizers   : 
-description  : Hands on sessions of mapping GDPR data to graphs
+description  : Using GDPR Patterns
+organizers   :
+participants :
 ---
 
 (add intro)

@@ -1,10 +1,13 @@
 ---
-title        : European GDPR variations
+title        : Meet the ICO
 type         : working-session
+track        : GDPR
 status       : featured
-description  : Mapping out the multiple differences across the EU
+description  : If you could meet the ICO, what questions would you ask
 organizers   :
-participants : Tony Richards
+    - Tony Richards
+    - ABC
+participants :
 ---
 
 (add intro)

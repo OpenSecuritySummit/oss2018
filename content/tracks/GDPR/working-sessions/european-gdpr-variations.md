@@ -1,8 +1,9 @@
 ---
-title        : GDPR is live, now what?
+title        : European GDPR variations
 type         : working-session
+track        : GDPR
 status       : featured
-description  : Plan for the next phase of GDPR
+description  : Mapping out the multiple differences across the EU
 organizers   :
 participants : Tony Richards
 ---

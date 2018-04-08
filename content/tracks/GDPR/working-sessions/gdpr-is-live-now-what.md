@@ -1,8 +1,9 @@
 ---
-title        : Gamification of GDPR compliance
+title        : GDPR is live, now what?
 type         : working-session
+track        : GDPR
 status       : featured
-description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
+description  : Plan for the next phase of GDPR
 organizers   :
 participants : Tony Richards
 ---

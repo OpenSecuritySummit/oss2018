@@ -1,12 +1,13 @@
 ---
-title        : Meet the ICO
+title        : GDPR Appropriate Security Controls
 type         : working-session
+track        : GDPR
 status       : featured
-description  : If you could meet the ICO, what questions would you ask
+description  : Map out what these are and what is the best way to measure them
 organizers   :
     - Tony Richards
-    - ABC
 participants :
+    - Dinis Cruz
 ---
 
 (add intro)
