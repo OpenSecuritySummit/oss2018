@@ -1,14 +1,17 @@
 ---
 title        : Describe different ways of implementing TM in agile organisations
 type         : working-session
-status       :
-organizers   : 
-description  : Describe different ways of implementing TM in agile organisations.
+status       : featured
+description  :
+organizers   :
+    - Steven Wierckx
+participants :
+
 ---
 
 ## WHY
 
-Many organisations are struggeling to implement a threat model methodology in their agile way of working. 
+Many organisations are struggling to implement a threat model methodology in their agile way of working.
 
 ## What
 
