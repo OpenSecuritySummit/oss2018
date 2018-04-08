@@ -1,5 +1,5 @@
 ---
-title        : Update the web site
+title        : Update Threat Modeling pages on owasp web site
 type         : user-session
 status       : need-content
 organizers   : 
