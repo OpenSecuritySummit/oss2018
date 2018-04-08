@@ -2,8 +2,8 @@
 title        : Adding security to VSTS pipeline
 type         : working-session
 status       : draft
-organizers   : OWASP DevSlop Project Team, Lead for this session: Tanya Janca
-description  : DevSecOps: adding security testing, review and configurations to a VSTS pipeline, 
+organizers   : Tanya Janca
+description  : DevSecOps: adding security testing, review and configurations to a VSTS pipeline
 ---
 
 The OWASP DevSlop VSTS pipeline, affectionately known as "Patty", needs to produce the absolute most secure code possible, as not it is used to release DevSlop.com (our website), it is a proof of concept pipeline for anyone to use, anywhere, for free.  Come help us improve the security of this proof of concept but hacking it and helping us add more checks!    
