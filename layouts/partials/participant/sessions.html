@@ -2,8 +2,10 @@
 
 {{ $pages := where .Site.Pages  ".Params.organizers" "in" "Tony Richards" }}
 {{ $name  := .Params.title}}
-{{ .Params.sessions }}
+
 <table class="table">
-    {{ partial "participant/session-row.html" (dict "this" . "name" .Params.title "field" "organizers")   }}
-    {{ partial "participant/session-row.html" (dict "this" . "name" .Params.title "field" "participants") }}
+
+    {{ partial "participant/session-row-by-page.html"   (dict "this" . "name"   .Params.title "field" "organizers"  ) }}
+    {{ partial "participant/session-row-by-page.html"   (dict "this" . "name"   .Params.title "field" "participants") }}
+    {{ partial "participant/session-row-by-titles.html" (dict "this" . "titles" .Params.sessions                  ) }}
 </table>

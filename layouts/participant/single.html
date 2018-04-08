@@ -27,6 +27,8 @@
       <!--<p>To invite {{ .Title }} to your Working Session use &#32;-->
           <!--<code class="highlighter-rouge">invited: {{ .Title }}</code>-->
 
+      {{ partial "session/register-as-organizer.html" . }}
+
       <hr />
       <p>Back to list of <a href='/participant/'>all Participants</a></p>
       </div>

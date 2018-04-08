@@ -2,7 +2,4 @@
 title    : FAQs and Logistics
 ---
 
-Coming Soon
-
-See FAQ from the last Summit https://owaspsummit.org/pages/faq/
-
+Current FAQs and Logistics pages (see also these [help](/faq/help) pages:

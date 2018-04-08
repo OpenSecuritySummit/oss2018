@@ -1,10 +1,9 @@
 ---
-title        : Owasp Devslop Working Session 1
+title        : Pixi Roadmap and Enhancement
 type         : working-session
 status       : featured
-organizers   : 
-description  : Owasp Devslop Working Session
-hide         : true
+description  :
+organizers   : Tanya Janca
 ---
 
 (add intro)

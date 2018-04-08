@@ -16,13 +16,9 @@ regonline       :
 pre-summit      : 
 status          : add details
 sessions:
-    - Adding security to VSTS pipeline
-    - Publishing apps in a VSTS security pipeline
     - Put Pixi, Core Rule Set 3 for ModSecurity
     - Integra into Azure (SaaS) and also into DevSecOps Studio(SaaS)
     - SDL in practice
-    - DevSlop Project
-    - Pixi Roadmap & Enhancement
     - Securing CI/CD pipeline
     - Intro to HTTP v2
 ---

@@ -1,0 +1,25 @@
+{{ range .titles }}
+    {{ $title   := .}}
+    {{ $matches := (where $.this.Site.Pages ".Params.title" $title) }}
+    <tr>
+        {{ if $matches }}
+            {{ $page := (index $matches 0) }}
+            <th>
+                <a href="{{$page.Permalink }}">{{$page.Params.title}}</a>
+            </th>
+            <td>
+                {{ $page.Params.type }}
+            </td>
+            <td>
+                <span class="label label-success">participant</span>
+            </td>
+        {{ else }}
+            <td>
+                <a class='text-danger' href="/faq/help/session-not-found">
+                    {{ partial "icons/question-sign.html"    $title }}
+                </a>
+            </td>
+        {{ end }}
+    </tr>
+
+{{ end }}
