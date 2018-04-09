@@ -654,15 +654,17 @@ ul.list-style-none li a.green {
 }
 
 // Visual clues for sessions
-#clues ul.visual-clues {
-  list-style: none;
-  padding-left: 0px;
-  padding-inline-start: 0px;
+.clues {
+  padding: 0;
 }
-#clues ul.visual-clues li {
+.clues ul.visual-clues {
+  list-style: none;
+  margin-left: -40px;
+}
+.clues ul.visual-clues li {
   display: inline-block;
 }
-#clues ul.visual-clues li a {
+.clues ul.visual-clues li a {
   display: inline-block;
   padding: 5px;
   border: solid 1px #eeeeee;
@@ -674,7 +676,7 @@ ul.list-style-none li a.green {
   font-weight: 700;
   font-size: 12px;
 }
-#clues ul.visual-clues li a:hover {
+.clues ul.visual-clues li a:hover {
   color: #38a7bb;
   text-decoration: none;
   border-color: #38a7bb;
