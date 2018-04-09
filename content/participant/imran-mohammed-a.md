@@ -15,9 +15,14 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-working-sessions: DevSecOps,DevSecOps Maturity Model (DSOMM),OWASP Devslop project,Securing the CI Pipeline,Security Champions
+sessions:
+    - DevSecOps
+    - DevSecOps Maturity Model (DSOMM)
+    - OWASP Devslop project
+    - Securing the CI Pipeline
+    - Security Champions
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 ---
 
 Author of Practical DevSecOps, DevSecOps Studio and Integra Projects.

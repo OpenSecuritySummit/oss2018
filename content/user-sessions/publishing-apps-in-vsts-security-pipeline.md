@@ -3,7 +3,8 @@ title        : Publishing apps in a VSTS security pipeline
 type         : user-session
 status       : draft
 description  : Beginner level session on DevSecOps and publishing to the Cloud
-organizers   : Tanya Janca
+organizers   :
+    - Tanya Janca
 participants :
 ---
 

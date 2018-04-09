@@ -1,0 +1,8 @@
+{{ $page := (where .this.Site.Pages ".Params.title" .title) }}
+{{ if $page }}
+    {{ $user := (index $page 0) }}
+    <a href="{{$user.Permalink }}">{{$user.Params.title}}</a>
+{{ else}}
+     <span class="text-danger">
+         <small><small><span class="glyphicon glyphicon-exclamation-sign"></span> </small></small>  </span>{{ .title }}
+{{ end }}

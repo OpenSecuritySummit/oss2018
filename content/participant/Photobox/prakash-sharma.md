@@ -13,7 +13,7 @@ project_leader  :
 regonline       : 
 pre-summit      :
 status          : add details
-working-sessions:
+sessions        :
    - Agile Practices for Security Teams
    - Application Security Verification Standard
    - Automation of MASVS with BDD
@@ -34,10 +34,6 @@ working-sessions:
    - Security Champions
    - Security Crowdsourcing
    - Security Playbooks
-user-sessions   :
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. working-sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
 ---
 
 <!-- put more details about participant here -->

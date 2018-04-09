@@ -2,7 +2,8 @@
 title        : Adding security to VSTS pipeline
 type         : working-session
 status       : draft
-organizers   : Tanya Janca
+organizers   :
+     - Tanya Janca
 description  : "DevSecOps: adding security testing, review and configurations to a VSTS pipeline"
 ---
 

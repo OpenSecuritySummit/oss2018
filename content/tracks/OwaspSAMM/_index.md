@@ -1,5 +1,5 @@
 ---
-title        : OwaspSAMM
+title        : Owasp SAMM
 type         : track
 owasp-project: yes
 categories   : ["OWASP SAMM"]

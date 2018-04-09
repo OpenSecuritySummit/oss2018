@@ -3,8 +3,8 @@ title        : Using Pixi
 type         : user-session
 status       : featured
 track        : Owasp-Devslop
-organizers   : 
 description  : Owasp Devslop User Session
+organizers   : Tanya Janca
 ---
 
 This will be a user sessions focused on using Devslop pixi

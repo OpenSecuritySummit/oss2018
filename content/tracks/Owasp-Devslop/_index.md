@@ -3,7 +3,7 @@ title        : Owasp Devslop
 type         : track
 owasp-project: yes
 description  : Working Sessions related to the Security Pipelines
-organizers   : 
+organizers   : Tanya Janca
 ---
 
 This track is focused on the [OWASP DevSlop Project](https://www.owasp.org/index.php/OWASP_DevSlop_Project) Tool Project.

@@ -2,7 +2,7 @@
 title        : Agile Practices for Security Teams
 type         : working-session
 status       : review-content
-organizers   :
+organizers   : Ante Gulam
 participants :
 description  : Agile Practices for Security Teams
 ---

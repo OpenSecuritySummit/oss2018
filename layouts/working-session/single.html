@@ -1,8 +1,11 @@
 {{ define "content" }}
 
+    {{ partial "session/metadata.html" . }}
+
     {{ .Content }}
 
+    {{ partial "session/register-as-participant.html" . }}
+
     <hr/>
-    <a href="/working-sessions"> Back to list of all Working Sessions</a>
-    <hr/>
+    <a href="/working-sessions">Back to list of all Working Sessions</a>
 {{ end }}

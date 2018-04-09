@@ -3,7 +3,7 @@ title        : GDPR Patterns (based on Threat Models)
 type         : working-session
 when         : pre-summit
 description  : Reusable mappings of data journeys across specific threat modeling scenarios.
-organizers   : Dinis Cruz
+organizers   : ["Dinis Cruz"]
 ---
 
 ### Next working session (20th March)

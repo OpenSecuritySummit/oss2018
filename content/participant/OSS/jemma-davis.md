@@ -5,7 +5,7 @@ role            : Summit Event Manager
 job_title       : Summit Event Manager
 company         : Photobox Group
 travel_from     : United Kingdom
-image           :
+image           : https://media.licdn.com/dms/image/C4E03AQFilU-N4SysPQ/profile-displayphoto-shrink_800_800/0?e=1528390800&v=beta&t=DAFO4sobIYd9KsXRgVSucs1XV6bRPVtPPUsqhJeEnBw
 linkedin        : jemma-davis-smith-6a562792
 twitter         :
 facebook        :

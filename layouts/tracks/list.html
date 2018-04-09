@@ -2,6 +2,7 @@
     <div class="featured-ws">
       <div class="container">
 
+
         {{ .Content }}
 
         <div class="row">
@@ -27,6 +28,16 @@
 
           </div>
         </div>
+        <h3>Metadata</h3>
+        <table class="table table-condensed">
+          <tr>
+
+            <th>Organizers</th>
+            <td>
+              {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.organizers)   }}
+            </td>
+          </tr>
+        </table>
       </div><!-- container -->
     </div><!-- featured-ws -->
 
