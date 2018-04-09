@@ -100,6 +100,10 @@ paginate = 10
     url = "mailto:your@email.com"
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
     viewMorePostLink = "/blog/"
     author = "PhotoBox"
@@ -162,7 +166,7 @@ paginate = 10
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
-    tags = true
+    tags = false
     search = true
 
 [params.carousel]
