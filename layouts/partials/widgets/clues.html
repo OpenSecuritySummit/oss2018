@@ -1,0 +1,17 @@
+<div id="clues">
+ <ul class="visual-clues">
+   {{ if eq .Params.type "user-session" }}
+   <li><a href=""><i class="fa fa-user-circle"></i> session </a></li>
+   {{ end }}
+   {{ if eq .Params.type "working-session" }}
+   <li><a href=""><i class="fa fa-wrench"></i> session </a></li>
+   {{ end }}
+   {{ if eq .Params.status "draft" }}
+   <li><a href=""><i class="fa fa-info"></i> draft </a></li>
+   {{ end }}
+   {{ with .Params.organizers }}
+   {{ else }}
+   <li><a href=""><i class="fa fa-exclamation-circle"></i> needs organizer </a></li>
+   {{ end }}
+ </ul>
+</div>
