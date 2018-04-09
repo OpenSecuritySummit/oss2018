@@ -2,8 +2,10 @@
 title        : IN Security - next steps
 type         : working-session
 status       : draft
-organizers   : 
 description  :
+organizers   :
+  - Prakash Sharma 
+participants :   
 ---
 
 (add intro)
