@@ -2,9 +2,9 @@
 title        : Application Security Verification Standard
 type         : working-session
 status       : review-content
-organizers   :
-participants :
 description  : Session on ASVS
+organizers   : 
+  - Prakash Sharma
 participants :
 ---
 
