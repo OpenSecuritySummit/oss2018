@@ -2,7 +2,7 @@
 title        : Integrating Security Tools in the SDL
 type         : working-session
 status       : review-content
-organizers   :
+organizers   : Imran Mohammed A
 participants :
 description  :
 ---
