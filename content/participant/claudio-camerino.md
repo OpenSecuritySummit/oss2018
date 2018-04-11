@@ -15,10 +15,9 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions: Agile Practices for Security Teams, Application Security Verification Standard, Attack chains as TM technique, DevSecOps, DevSecOps Maturity Model (DSOMM), 
+sessions: Agile Practices for Security Teams, Application Security Verification Standard, Attack chains as TM technique, DevSecOps, DevSecOps Maturity Model (DSOMM), Integrating Security Tools in the SDL, Integrating Security into an Spotify Model, JIRA Risk Workflow, OWASP Cloud Security Workshop (BETA), Owasp Projects, Owasp Testing Guide v5, Owasp Top 10 2017, Securing the CI Pipeline, Security Playbooks, Threat model cheat sheets
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions, Integrating Security Tools in the SDL, Integrating Security into an Spotify Model, JIRA Risk Workflow, OWASP Cloud Security Workshop (BETA), Owasp Projects, Owasp Testing Guide v5, Owasp Top 10 2017 - usage
-, Securing the CI Pipeline, Security Playbooks, Threat model cheat sheets
+
 ---
 
 <!-- put more details about participant here -->
