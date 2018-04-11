@@ -3,13 +3,13 @@ title           : Manuel Almeida
 type            : participant
 job_title       :
 company         : Photobox GS
-travel-from     :
-image           :
-linkedin        :
+travel-from     : Portugal
+image           : https://www.linkedin.com/in/manuel-almeida-49799b18/detail/photo/
+linkedin        : https://www.linkedin.com/in/manuel-almeida-49799b18/
 twitter         :
 facebook        :
 website         :
-email           :
+email           : almeidam.itc@gmail.com
 project_leader  :
 chapter_leader  :
 regonline       :

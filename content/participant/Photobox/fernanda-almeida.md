@@ -3,9 +3,9 @@ title           : Fernanda Almeida
 type            : participant
 job_title       :
 company         : Photobox GS
-travel-from     :
-image           :
-linkedin        :
+travel-from     : Portugal
+image           : https://media.licdn.com/dms/image/C4D03AQENxsUndN5h0g/profile-displayphoto-shrink_800_800/0?e=1528664400&v=beta&t=mbEsUNg9FXg8NCGxXnrs7HJIUL6_V8iBGIh9fBC8r0E
+linkedin        : https://www.linkedin.com/in/faguiaralmeida/
 twitter         :
 facebook        :
 website         :
