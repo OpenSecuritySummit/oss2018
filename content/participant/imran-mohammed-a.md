@@ -8,18 +8,15 @@ image           : https://pbs.twimg.com/profile_images/772735727025074176/Hw04tW
 linkedin        : secfigo
 twitter         : secfigo
 facebook        :
-website         :
+website         : www.teachera.io
 email           : 
-project_leader  :
+project_leader  : OWASP DevSecOps Studio
 chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
 sessions:
-    - DevSecOps
-    - DevSecOps Maturity Model (DSOMM)
     - OWASP Devslop project
-    - Securing the CI Pipeline
     - Security Champions
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
