@@ -1,5 +1,5 @@
 ---
-title        : WebAuthn - How to use it
+title        : WebAuthn - Getting started workshop
 type         : working-session
 status       : draft
 organizers   : 
