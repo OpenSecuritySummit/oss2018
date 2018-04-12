@@ -3,7 +3,7 @@ title        : Creating Appsec metrics and visualisation
 type         : user-session
 track        : DevSecOps 
 status       : no-content
-organizers   : Imran Mohammed A.
+organizers   : Imran Mohammed A
 participants :
 description  : AppSec Metrics and Visualisation
 ---

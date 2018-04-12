@@ -4,7 +4,7 @@ type         : track
 owasp-project: no 
 description  : Working Sessions related to the DevSecOps and Integrating Security in CI/CD pipelines. 
 organizers   : 
-  - Imran Mohammed A. 
+  - Imran Mohammed A 
   - Prakash Sharma 
 ---
 
