@@ -1,11 +1,10 @@
 ---
-title        : Meet the ICO
+title        : DPO what to expect
 type         : working-session
 track        : GDPR
 status       : featured
-description  : If you could meet the ICO, what questions would you ask
+description  : What should be expected of DPOs (Data Protection Officers)
 organizers   :
-    - Tony Richards
 participants :
 ---
 

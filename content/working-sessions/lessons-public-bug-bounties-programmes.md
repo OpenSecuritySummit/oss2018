@@ -2,23 +2,27 @@
 title        : Lessons learned from public bug bounties programmes
 type         : working-session
 status       : review-content
-organizers   : 
+organizers   :  
+  - Prakash Sharma
 description  :
-participants :
+participants : 
+  - Prakash Sharma
 ---
 
 
-Many individuals and companies attending the Summit have experience running or participating in public bug bounty programmes; they want to grow and improve this market.
+A bug bounty program is a crowdsourcing initiative offering compensations for discovery and responsible disclosure of potential security vulnerabilities. Many organizations offer compenstations in terms of cash or goodies while others only offer acknolwedgements. Bug bounties are commonly seen as the most effective and inexpensive way to identify vulnerabilities in live systems and products.
+<!-- Many individuals and companies attending the Summit have experience running or participating in public bug bounty programmes; they want to grow and improve this market. -->
 
 ## Why
 
-This Working Session seeks to leverage the knowledge and experience present at the Summit and learn and understand very valuable lessons about public bug bounty programmes.
+While bug bounties are seen as a lucrative way to make quick money for researchers, it's equally seen as an effective and inexpensive way to perform security audit for vendors/organizations. This session seeks to help both parties leverage their knowledge and experience to learn and understand each other and grow in a collaborative way, sharing ideas and experience to further improve the security industry and people in it.
 
 ## What
 
 -	Top 10 lessons that people have learned
 -	How to improve bug bounty programmes
 -	How to anticipate and therefore avoid problems
+-   How to responsibly disclose potential security vulnerabilities
 
 ## Outcomes
 
@@ -27,7 +31,7 @@ This Working Session seeks to leverage the knowledge and experience present at t
 
 ## Who
 
-The target audience for this Working Session is:
+The target audiences for this Working Session are:
 
 -	People who have participated in or managed bug bounties in the past
 -	People who want to run bug bounties in the future

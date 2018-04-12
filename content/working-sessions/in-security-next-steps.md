@@ -4,7 +4,6 @@ type         : working-session
 status       : draft
 description  :
 organizers   :
-  - Prakash Sharma 
 participants :   
 ---
 

@@ -11,16 +11,16 @@ participants :
 
 ## WHY
 
-Many organisations are struggling to implement a threat model methodology in their agile way of working.
+Many organisations are struggling to fit threat modeling to their agile way of working.
 
 ## What
 
-We will describe one of more ways to implement the different actions of threat modeling in the different actions of SCRUM and Kanban. 
-For example, when during the SCRUM process would you update the models? When do you discover new threats? Who will perform what actions to get all of this done?
+We will describe one of more ways to implement the different building blocks of threat modeling in the different actions of SCRUM and Kanban.  What "deliverables" make sense in agile?
+For example, when during the SCRUM process would you update the model of what's being worked on? When do you discover new threats? Who will perform what actions to get all of this done?
 
 ## Outcomes
 
-Describe a typical SCRUM and Kanban process and show where threat model related actions need to take place. Describe why the specific action is done during that specific phase of the agile methodology.
+Describe a typical SCRUM and Kanban process and show where threat model related building blocks fit. Describe why the specific action is done during that specific phase of the agile methodology.
 
 ## References
 

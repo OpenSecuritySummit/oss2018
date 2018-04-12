@@ -1,11 +1,10 @@
 ---
-title        : Meet the ICO
+title        : DPO how to become one
 type         : working-session
 track        : GDPR
 status       : featured
-description  : If you could meet the ICO, what questions would you ask
+description  : What is the best way to become an DPO (Data Protection Officer)
 organizers   :
-    - Tony Richards
 participants :
 ---
 

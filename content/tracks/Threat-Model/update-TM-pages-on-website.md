@@ -1,6 +1,6 @@
 ---
 title        : Update Threat Modeling pages on owasp web site
-type         : user-session
+type         : working-session
 status       : need-content
 organizers   : 
 description  : Threat Modeling User Session
