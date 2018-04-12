@@ -4,12 +4,12 @@ type            : participant
 job_title       :
 company         : Photobox GS
 travel-from     : Portugal
-image           : https://www.linkedin.com/in/manuel-almeida-49799b18/detail/photo/
+image           : https://media.licdn.com/dms/image/C4E03AQEinmI_5ExVOQ/profile-displayphoto-shrink_800_800/0?e=1528664400&v=beta&t=nIGoQtOdgbwL_XbB-r8lV3NT_yGu33VbHSN8ktW-8n4
 linkedin        : https://www.linkedin.com/in/manuel-almeida-49799b18/
 twitter         :
 facebook        :
 website         :
-email           : almeidam.itc@gmail.com
+email           :
 project_leader  :
 chapter_leader  :
 regonline       :
