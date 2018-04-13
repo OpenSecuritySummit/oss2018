@@ -2,7 +2,7 @@
 title    : Infrastructure needs
 ---
 
-#### 1. **What infrastructure will be available at the venue?**
+#### 1. **What infrastructure will be available at the Venue?**
 
 We will try to setup some Docker servers and maybe even a Kubernetes or Open Stack set-up, depending on needs/time.
 
@@ -12,6 +12,6 @@ This setup should be reachable from the Venue network, and its initial purpose w
 
 #### 2. **What should I do if I need to run X on that infrastructure?**
 
-If X can be run on the infrastructure setup at the Venue, sure, it can be hosted there.
+If X can be run on the infrastructure setup at the Venue, it can be hosted there.
 
 You are welcome to bring your own hardware.
