@@ -8,7 +8,7 @@ organizers   :
 participants :
 ---
 
-The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and also provides developers with a list of requirements for secure development.
+The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and a list of requirements for secure development for developers.
 
 ## Why
 
@@ -30,7 +30,7 @@ This Working Session will result in a short summary which will include the list 
 
 ## Who
 
-The target audience for this Working Session is:
+The target audiences for this Working Session are:
 - Security champions
 - Security architects
 - DevOps Roles
@@ -41,7 +41,7 @@ The target audience for this Working Session is:
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
-- <a href="https://www.owasp.org/images/f/f0/OWASP_Application_Security_Verification_Standard_3.0.1.docx">ASVS 3.0.1 in English (docx)</a>
+- <a href="https://github.com/OWASP/ASVS/raw/master/OWASP%20Application%20Security%20Verification%20Standard%203.1.pdf">ASVS 3.1 in English (pdf)</a>
 - <a href="https://github.com/OWASP/ASVS">ASVS GitHub</a>
 
 

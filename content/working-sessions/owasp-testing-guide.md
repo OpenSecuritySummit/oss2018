@@ -21,20 +21,21 @@ There are usually a common pattern to detect and test for security vulnerabiliti
 
 ## Outcomes
 
-All sections in v4 reviewed
-Project aligned with the ASVS and OWASP Top 10 vulnerabilities
-A more readable guide created that eliminates sections that are not useful
-New testing techniques inserted
-New section created: Client side security and Firefox extensions testing
+All sections in v4 reviewed    
+Project aligned with the ASVS and OWASP Top 10 vulnerabilities    
+A more readable guide created that eliminates sections that are not useful    
+New testing techniques inserted    
+New section created: Client side security and Firefox extensions testing    
 
 ## Who
 
-The target audiences for this Working Session are:
-- Security professionals
-- Security aware individual and companies
+The target audiences for this Working Session are:    
+- Security professionals    
+- Security aware individual and companies    
 
 ## Working materials
 
-https://github.com/OWASP/OWASP-Testing-Guide-v5/
+https://github.com/OWASP/OWASP-Testing-Guide-v5/    
 http://www.owasp.org/index.php/OWASP_Testing_Project
+
 
