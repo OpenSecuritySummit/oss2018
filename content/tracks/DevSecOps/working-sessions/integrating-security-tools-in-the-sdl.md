@@ -3,7 +3,7 @@ title        : Integrating Security Tools in the SDL
 type         : working-session
 status       : review-content
 organizers   : Imran Mohammed A
-participants :
+participants : Francois Raynaud
 description  :
 ---
 
