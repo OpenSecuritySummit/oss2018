@@ -10,6 +10,7 @@ description  : owasp small iot tools  project https://www.owasp.org/index.php/OW
 ## WHY
 OWASP Securete can help someone
 To alert the user via twitter, whenever her laptop had been accessed someone.<br>
+Nit just alert via twitter we want to add some feture by sms, line,telegram and whatsapp
 
 ## What
 The OWASP SecureTea Project that was developed to be used by anyone who is interested in Security IOT (Internet of Things) and still needs further development.<br>
@@ -27,6 +28,7 @@ Some add feature
 Need your help to contribute
 
 Roadmap:
+
 Notify by Twitter (done)
 
 Notify by Whatsapp
