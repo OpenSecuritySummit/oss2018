@@ -1,17 +1,17 @@
 ---
-title           :
-type            : participant-remote
-job_title       :
-company         :
-image           :
-linkedin        :
+title           :Ade Yose man 
+type            : participant-remote
+job_title       : CEO 
+company         : andromeda teknologi
+image           : https://www.owasp.org/index.php/File:Adeyoseman.jpg
+linkedin        :
 twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
-regonline       :
+project_leader  : OWASP SecureTea
+chapter_leader  : OWASP Indonesia
+regonline       :
 status          : add-details
 sessions:
 notes :
