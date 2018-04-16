@@ -1,20 +1,20 @@
 ---
-title        : OWASP Securetea tools project
-type         : working-session
-status       : review-content
-organizers   : ade yoseman
+title        : OWASP Securetea tools project<br>
+type         : working-session<br>
+status       : review-content<br>
+organizers   : ade yoseman<br>
 description  : Small IoT (Internet of Things) to notify users via twitter, whenever someone accesses their laptop. This application uses the touchpad / mouse / wireless mouse to determine activity and is developed in Python and tested on Linux.
 
-The purpose of this application is to warn the user (via twitter) whenever their laptop accessed. This small application was developed and tested in python in linux machine is likely to work well on the Raspberry Pi as well.
+The purpose of this application is to warn the user (via twitter) whenever their laptop accessed. This small application was developed and tested in python in linux machine is likely to work well on the Raspberry Pi as well.<br>
 
 
 
 ## WHY
 OWASP Securete can help someone
-To alert the user via twitter, whenever her laptop had been accessed someone.
+To alert the user via twitter, whenever her laptop had been accessed someone.<br>
 
 ## What
-The OWASP SecureTea Project that was developed to be used by anyone who is interested in Security IOT (Internet of Things) and still needs further development.
+The OWASP SecureTea Project that was developed to be used by anyone who is interested in Security IOT (Internet of Things) and still needs further development.<br>
 
 How it functions:
 
