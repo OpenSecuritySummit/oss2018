@@ -1,5 +1,5 @@
 ---
-##title        : OWASP Securetea tools project
+title        : OWASP Securetea tools project
 
 type         : working-session
 
@@ -34,7 +34,7 @@ Need your help to contribute
 Roadmap:
 Notify by Twitter (done)
 
-Notify by Whatsapp<br><br>
+Notify by Whatsapp
 
 Notify by SMS Alerts
 
