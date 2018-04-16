@@ -2,7 +2,7 @@
 title        : OWASP Securetea tools project
 type         : working-session
 status       : review-content
-organizers   : ["ade yoseman"]
+organizers   : ["Ade yoseman"]
 Participant   :
 description  : owasp small iot tools  project https://www.owasp.org/index.php/OWASP_SecureTea_Project
 ---
