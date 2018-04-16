@@ -3,6 +3,8 @@ title        : WebAuthn - Getting started workshop
 type         : working-session
 status       : draft
 organizers   : 
+participants : 
+ - Prakash Sharma
 description  :
 ---
 
