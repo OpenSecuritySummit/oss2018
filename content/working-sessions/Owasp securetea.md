@@ -4,6 +4,7 @@ title        : OWASP Securetea tools project
 type         : working-session
 
 status       : review-content
+
 organizers   : ade yoseman
 
 description  : Small IoT (Internet of Things) to notify users via twitter, whenever someone accesses their laptop. This application uses the touchpad / mouse / wireless mouse to determine activity and is developed in Python and tested on Linux.
