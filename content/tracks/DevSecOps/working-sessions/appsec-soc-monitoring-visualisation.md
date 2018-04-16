@@ -3,7 +3,7 @@ title        : AppSec SOC Monitoring Visualisation
 type         : working-session
 status       : review-content
 organizers   :
-participants :
+participants : Francois Raynaud
 description  : AppSec SOC Monitoring Visualisation
 ---
 
