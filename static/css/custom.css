@@ -213,6 +213,10 @@ p.carousel-header-title {
 	letter-spacing: normal;
 }
 
+div.home-carousel {
+	padding-top:20px;
+}
+
 /* PArticipants */
 .flexbox {
   display: -webkit-box;
@@ -692,5 +696,5 @@ ul.list-style-none li a.green {
 
 @media (min-width: 992px)
 .home-carousel {
-    text-align: left;
+    text-align: left !important;
 }
