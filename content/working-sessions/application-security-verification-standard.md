@@ -6,6 +6,7 @@ description  : Session on ASVS
 organizers   : 
   - Prakash Sharma
 participants :
+  - Dinis Cruz
 ---
 
 The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and a list of requirements for secure development for developers.
