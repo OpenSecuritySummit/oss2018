@@ -691,5 +691,6 @@ ul.list-style-none li a.green {
 }
 
 @media (min-width: 992px)
-.home-carousel .right {
+.home-carousel {
     text-align: left;
+}
