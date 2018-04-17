@@ -15,7 +15,7 @@
 }
 
 body * {
-    font-family: 'Roboto Slab', serif !important;
+    font-family: 'Roboto Slab', serif;
 }
 
 body h3 {
@@ -199,11 +199,18 @@ img.participants {
 
 p.carousel-header-title {
   padding-top: 60px;
-  font-family: 'Oswald';
+  font-family: 'Oswald' !important;
   font-size: 26px;
   font-weight: medium;
   text-transform  : uppercase;
   color: #87BB40;
+}
+
+.home-carousel ul {
+	text-transform:none;
+	font-size: 36px;
+	font-weight: 100;
+	letter-spacing: normal;
 }
 
 /* PArticipants */
@@ -682,3 +689,7 @@ ul.list-style-none li a.green {
   text-decoration: none;
   border-color: #38a7bb;
 }
+
+@media (min-width: 992px)
+.home-carousel .right {
+    text-align: left;
