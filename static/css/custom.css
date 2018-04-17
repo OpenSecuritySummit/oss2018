@@ -214,7 +214,8 @@ p.carousel-header-title {
 }
 
 div.home-carousel {
-	padding-top:20px;
+	padding-top:20px !important;
+	text-align: left !important;
 }
 
 /* PArticipants */
