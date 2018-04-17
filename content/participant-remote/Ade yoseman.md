@@ -1,5 +1,5 @@
 ---
-title           :Ade Yose man 
+title           : Ade Yose man
 type            : participant-remote
 job_title       : CEO 
 company         : andromeda teknologi
