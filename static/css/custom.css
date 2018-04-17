@@ -34,6 +34,9 @@ body h4 {  color: #00549E;
   min-height: 230px;
 }
 
+a.nav {
+	font-family: 'oswald';}
+
 /* change opacity in carousel */
 .home-carousel .dark-mask {
   opacity: 0.8;
