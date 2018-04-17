@@ -15,7 +15,7 @@
 }
 
 body * {
-    font-family: 'Roboto Slab',! serif important;
+    font-family: 'Roboto Slab', serif !important;
 }
 
 body h3 {
@@ -411,16 +411,17 @@ ul.list-style-none li a.green {
     padding: 15px;
 }
 /* CArousel */
-.homepage .owl-wrapper-outer {
+/*.homepage .owl-wrapper-outer {
   background-color: #082451;
-}
+}*/
 
 .smaller {
   width: 70%;
 }
 .homepage .owl-wrapper-outer .waves {
-  z-index: 100;
-  height: 150px;
+  display:none;
+/*z-index: 100;
+  height: 150px;*/
 }
 
 .align-flex-center {
