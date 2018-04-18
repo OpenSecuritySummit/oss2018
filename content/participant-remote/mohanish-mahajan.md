@@ -13,7 +13,7 @@ project_leader  :
 chapter_leader  :
 regonline       :
 status          : add-details
-sessions:AWS Lambda Security, AppSec SOC Monitoring Visualisation, Cloud brokerage - authentication and authorisation, Creating an standard for GDPR patterns, Cyber Insurance, DevSecOps, GDPR Appropriate Security Controls, Security Crowdsourcing, Securing GitHub Integrations, Securing the CI Pipeline
+sessions        : AWS Lambda Security, AppSec SOC Monitoring Visualisation, Cloud brokerage - authentication and authorisation, Creating an standard for GDPR patterns, Cyber Insurance, DevSecOps, GDPR Appropriate Security Controls, Security Crowdsourcing, Securing GitHub Integrations, Securing the CI Pipeline
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 ---
