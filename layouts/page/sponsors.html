@@ -5,7 +5,7 @@
         <h2>Platinum Sponsors</h2>
         <div class="row">
             {{ range .Site.Data.sponsors.platinum }}
-            <div class="col-md-4 col-sm-6 sponsors-item text-center">
+            <div class="col-md-4 col-sm-6 sponsors-item text-center platinum">
               <a href="{{ .url }}"><img class="img img-responsive centered" src="{{ .image }}" /></a>
               <div class="sponsors-caption">
                 <h4>{{ .name }}</h4>
@@ -19,7 +19,7 @@
         <h2>Gold Sponsors</h2>
         <div class="row">
             {{ range $index, $element := sort . "weight" }}
-            <div class="col-xs-3 col-sm-2">
+            <div class="col-xs-3 col-sm-2 gold">
                 <div class="card">
                     <div class="card-top">{{ .element.name }}</div>
                     <div class="card-block">{{ .element.money }}</div>
@@ -32,7 +32,7 @@
         <h2>Silver Sponsors</h2>
         <div class="row">
             {{ range $index, $element := sort . "weight" }}
-            <div class="col-xs-3 col-sm-2">
+            <div class="col-xs-3 col-sm-2 silver">
                 <div class="card">
                     <div class="card-top">{{ .element.name }}</div>
                     <div class="card-block">{{ .element.money }}</div>

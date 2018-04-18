@@ -44,6 +44,10 @@ a.nav {
   background: #082451;
 }
 
+.home-carousel .owl-carousel {
+  padding-top: 20px;
+}
+
 .plus-box {
   width: 30px;
 }
@@ -392,6 +396,8 @@ ul.social-buttons li a i.fa {
 #sponsors .sponsors-item .sponsors-caption h4 {
     margin: 0;
     text-transform: none;
+    color: white;
+    background-color: green;
 }
 
 #sponsors .sponsors-item .sponsors-caption p {
@@ -403,6 +409,18 @@ ul.social-buttons li a i.fa {
 
 #sponsors * {
     z-index: 2;
+}
+
+#sponsors .platinum {
+  width: calc(100% / 3);
+}
+
+#sponsors .gold {
+  width: calc(100% / 4);
+}
+
+#sponsors .silver {
+  width: calc(100% / 5);
 }
 
 @media(min-width:767px) {
@@ -701,4 +719,15 @@ ul.list-style-none li a.green {
 @media (min-width: 992px)
 .home-carousel {
     text-align: left !important;
+}
+
+div#navigation.navbar-collapse.collapse ul.nav.navbar-nav.navbar-right li.dropdown a {
+  font-family: 'Oswald' !important;
+}
+
+div.getting-there {
+  padding-top: 20px;
+}
+div.google-map {
+  padding-top: 20px;
 }
