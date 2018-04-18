@@ -14,14 +14,13 @@ chapter_leader  :
 regonline       :
 status          : add-details
 pre_summit      : Sat,Sun
-sessions: ["Update the web site"]
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+sessions:
     - AWS Lambda Security
     - AppSec SOC Monitoring Visualisation
     - Security Crowdsourcing
     - Securing GitHub Integrations
     - Securing the CI Pipeline
+    
 ---
 
 <!-- put more details about participant here -->
