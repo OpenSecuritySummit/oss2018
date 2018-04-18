@@ -1,9 +1,9 @@
 ---
-# COPY THIS TEMPLATE FIRST WITH YOUR NAME. DON'T RENAME IT.
 title           :
 type            : participant-remote
 job_title       :
 company         :
+travel-from     :
 image           :
 linkedin        :
 twitter         :
