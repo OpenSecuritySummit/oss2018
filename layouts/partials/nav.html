@@ -1,10 +1,7 @@
-
 <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
 
-    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
-        <table>
-            <tr>
-                <td class="col-xs-2">
+    <div class="navbar navbar-default" role="navigation" id="navbar">
+       <div class="container">
                     <div class="navbar-header">
                         <a class="navbar-brand home" href="{{ .Site.BaseURL }}">
                             <img src="{{ .Site.BaseURL }}img/logo.png" alt="{{ .Title }} logo" class="hidden-xs hidden-sm">
@@ -12,8 +9,6 @@
                             <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                         </a>
                     </div>
-                </td>
-                <td>
                     <div class="navbar-buttons">
                         <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
                             <span class="sr-only">{{ i18n "navToggle" }}</span>
@@ -38,9 +33,7 @@
                             {{ end }}
                         </ul>
                     </div>
-                </td>
-            </tr>
-        </table>
+             </div>
     </div>
 
 </div>
