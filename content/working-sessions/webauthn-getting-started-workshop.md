@@ -3,10 +3,12 @@ title        : WebAuthn - Getting started workshop
 type         : working-session
 status       : draft
 organizers   : 
+participants : 
+ - Prakash Sharma
 description  :
 ---
 
-See how this [RIP passwords: new web standard designed to replace login method](https://www.theguardian.com/technology/2018/apr/11/passwords-webauthn-new-web-standard-designed-replace-login-method) can be applied
+See how this [Web Authentication: What It Is and What It Means for Passwords](https://duo.com/blog/web-authentication-what-it-is-and-what-it-means-for-passwords) can be applied
 
 Maybe adding it to Juice Shop? (or seeing it in action in JuiceShop)
 

@@ -4,7 +4,7 @@ type         : user-session
 track        : DevSecOps 
 status       : no-content
 organizers   : Imran Mohammed A
-participants :
+participants : Francois Raynaud
 description  : AppSec Metrics and Visualisation
 ---
 

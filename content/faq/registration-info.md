@@ -7,7 +7,7 @@ In order to update your schedule, follow these steps:
 
   1. Visit your profile page. For example, http://opensecsummit.org/participant/francois-raynaud/.
 
-  4. On the next page, add the "Working Sessions:" that you want to attend. Use a space after the colon and a space after each comma.
+  4. On the next page, add the "working sessions:" that you want to attend. Use a space after the colon and a space after each comma.
 
   5. Create a new branch for this commit, create a pull request and commit changes.
 
@@ -17,7 +17,7 @@ In order to update your schedule, follow these steps:
 
 #### 2. I don't have a profile page, how do I register as a participant on GitHub?
 
-There are two types of participants -- Onsite and Remote
+There are two types of participants - Onsite and Remote
 
 - To register as a remote participant:
 

@@ -6,9 +6,9 @@ description  : Reusable mappings of data journeys across specific threat modelin
 organizers   : ["Dinis Cruz"]
 ---
 
-### Next working session (20th March)
+### Next working session (17th April)
 
-You can participate online (London) or remotely. Get your [ticket here](https://www.eventbrite.com/e/owasp-working-session-tickets-42421937156)
+You can participate online (London) or remotely. Get your [ticket here](https://www.eventbrite.com/e/owasp-working-session-tickets-42422014387)
 
 {{< figure  width="540" src="https://user-images.githubusercontent.com/656739/37588814-41f2252c-2b5b-11e8-928a-d314c2206bd2.png" >}}
 
@@ -64,4 +64,4 @@ Here are some photos from the last Owasp Working Sessions (on GDPR), hosted by [
 {{< figure  width="540" src="https://user-images.githubusercontent.com/656739/37588917-907f5dfe-2b5b-11e8-9a4f-a267bb0b151c.png" >}}
 
 
-Come and join us next [Tuesday 20 March 2018](https://www.eventbrite.com/e/owasp-working-session-tickets-42421937156) for more discussions.
+Come and join us next [Tuesday 17 April 2018](https://www.eventbrite.com/e/owasp-working-session-tickets-42422014387) for more discussions.

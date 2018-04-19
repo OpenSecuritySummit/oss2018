@@ -6,6 +6,7 @@ status       : featured
 categories   : ["OWASP Defect Dojo"]
 organizers   :
   - Imran Mohammed A
+participants : Francois Raynaud
 description  : Working Sessions for Owasp Defect Dojo
 ---
 An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.

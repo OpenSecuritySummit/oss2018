@@ -1,11 +1,11 @@
 ---
-title           : Manuel Almeida
+title           : Jim Newman
 type            : participant
-job_title       :
-company         : Photobox GS
-travel-from     : Portugal
-image           : https://media.licdn.com/dms/image/C4E03AQEinmI_5ExVOQ/profile-displayphoto-shrink_800_800/0?e=1528664400&v=beta&t=nIGoQtOdgbwL_XbB-r8lV3NT_yGu33VbHSN8ktW-8n4
-linkedin        : https://www.linkedin.com/in/manuel-almeida-49799b18/
+job_title       : Internal InfoSec Consultant
+company         : dunnhumby
+travel-from     : Somerset
+image           : https://media.licdn.com/dms/image/C5103AQEgDn2rLt3NWQ/profile-displayphoto-shrink_200_200/0?e=1529272800&v=beta&t=TKRL8JRw7rNb-Dge4vXFUcg_OT2QTnH3rVca6NW8tto
+linkedin        : 
 twitter         :
 facebook        :
 website         :
@@ -15,6 +15,7 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
+sponsored-by    : CertDev
 sessions:
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
