@@ -1,19 +1,31 @@
 ---
-title: "Open Security Summit 2018 - Status for Working and User Sessions Under The Tracks"
-author: "Vasil Buraliev"
-date: "18/04/2018"
-Last update: "18/04/2018"
+    title: "Open Security Summit 2018 - Status for Working and User Sessions Under The Tracks"
+    author: "Vasil Buraliev"
+    date: "18/04/2018"
+    Last update: "18/04/2018"
 
-toc:
-    depth_from: 1
-    depth_to: 6
-    ordered: false
+    toc:
+        depth_from: 1
+        depth_to: 6
+        ordered: false
+
+    phantomjs:
+        orientation: landscape
+
+    export_on_save:
+        phantomjs: true
 ---
 
 @import "img\oss2018-logo.png"
 # Open Security Summit 2018 {ignore=true}
 <span style="font-size:1.5em;color:#999999;">Status for Working and User Sessions Under The Tracks</span>
-**Last Update:** 18/04/2018
+**Version:** 1.1
+**Last Update:** 19/04/2018
+
+<span style="font-weight:bold;font-size:0.95em;color:#000000;">HISTORY OF CHANGES</span>
+| Version | Author | Date | Description |
+|---|---|---|---|
+| 1.1 | Vasil Buraliev | 19/04/2018 | Organizers' names has been added into the tables for OSS2018 tracks |
 
 
 <span style="font-weight:bold;font-size:0.95em;color:#000000;">TABLE OF CONTENT</span>
