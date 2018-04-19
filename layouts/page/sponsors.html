@@ -54,8 +54,8 @@
         </div>
         {{ end }}
 
-        {{ with .Site.Data.sponsors.other }}
-        <h2>Other</h2>
+        {{ with .Site.Data.sponsors.community }}
+        <h2>Community Sponsors</h2>
         <div class="row">
             {{ range $index, $element := sort . "weight" }}
             <div class="col-xs-3 col-sm-2">
