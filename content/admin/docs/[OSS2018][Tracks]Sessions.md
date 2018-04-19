@@ -63,7 +63,7 @@ The following table includes OSS2018 tracks and their statuses respectively.
 @import "chklist\oss2018-tracks.csv"
 
 ### Sessions List
-The following table display list of all sessions under the identified tracks for the OSS2018.
+The following table display a list of all sessions under the identified tracks for the OSS2018.
 
 **NOTE:** Please be aware that the table is imported from the CSV file **oss2018-tracks-sessions.csv** located in "*content/admin/docs/chklist*" folder.
 
