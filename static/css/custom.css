@@ -164,10 +164,17 @@ header.full-bg .dark-mask {
 
 .home-carousel .owl-theme .owl-controls .owl-page span {
   background-color: #00549e;
+  width: 10px;
+  height: 10px;
 }
+
 .home-carousel .owl-theme .owl-controls .owl-page:hover span,
 .home-carousel .owl-theme .owl-controls .owl-page.active span {
   background-color: #1fc4f4;
+}
+
+.home-carousel .owl-item .item {
+  margin-bottom: 50px;
 }
 
 .plus-box {
@@ -347,6 +354,7 @@ p.carousel-header-title {
   font-weight: 500;
   font-size: 42px;
   color: #5bdaff;
+  line-height: 1.2;
 }
 
 div.home-carousel {
@@ -869,4 +877,59 @@ div.getting-there {
 }
 div.google-map {
   padding-top: 20px;
+}
+
+/* Features style */
+.bar.bg-features {
+  margin-bottom: 0;
+  background: url(../img/feature-bg.png) no-repeat center bottom;
+  background-size: contain;
+}
+
+.box-simple a {
+  display: block;
+  text-align: left;
+  min-height: 230px;
+  border-radius: 8px;  
+  padding: 70px 5px 70px 25px;
+}
+
+.box-simple a:hover {
+  text-decoration: none;
+  background-color: #00549e;
+}
+
+.box-simple a:hover h3,
+.box-simple a:hover p {
+  color: white;
+}
+
+.box-simple a .icon {
+  float: left;
+  margin-right: 12px;
+  text-align: center;
+}
+
+.box-simple a .inner-content {
+  margin-left: 92px;
+}
+
+.box-simple h3 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  color: #00549e;
+  font-weight: 500;
+}
+
+.box-simple p {
+  color: #78909c;
+  margin-bottom: 0;
+  font-size: 13px;
+  font-family: 'Oswald';
+  font-weight: normal;
+}
+
+/* Sponsors style */
+.bar.background-lightblue {
+  background-color: #e6f4fc;
 }
