@@ -2,7 +2,7 @@
     title: "Open Security Summit 2018 - Status for Working and User Sessions Under The Tracks"
     author: "Vasil Buraliev"
     date: "18/04/2018"
-    Last update: "18/04/2018"
+    Last update: "20/04/2018"
 
     toc:
         depth_from: 1
@@ -20,7 +20,7 @@
 # Open Security Summit 2018 {ignore=true}
 <span style="font-size:1.5em;color:#999999;">Status for Working and User Sessions Under The Tracks</span>
 **Version:** 1.2
-**Last Update:** 19/04/2018
+**Last Update:** 20/04/2018
 
 <span style="font-weight:bold;font-size:0.95em;color:#000000;">HISTORY OF CHANGES</span>
 | Version | Author | Date | Description |
