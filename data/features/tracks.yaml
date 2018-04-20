@@ -1,5 +1,5 @@
 weight: 2
 name: "Tracks"
-icon: "fa fa-road"
+icon: "icon-tracks"
 description: "Offering tracks to support a wide range hot-topic working sessions"
 link: "/tracks/"
