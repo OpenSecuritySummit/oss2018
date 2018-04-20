@@ -1,8 +1,8 @@
 #;Track;Organizer;Description;Assigned To;Status;Comment
 1;DevSecOps;Imran Mohammed A, Francois Raynaud;X;;;
-2;GDPR;Tony Richards, Dinis Cruz;X;;;
-3;Mobile Security;;X;;;
-4;OWASP DevSlop; Tanya Janca;X;;;
+2;GDPR;Tony Richards, Dinis Cruz (dinis.cruz@owasp.org);X;;;
+3;Mobile Security;;X;Vasil Buraliev;Waiting Response;[20-04-2018] message sent to Sven Schleier (sven.schleier@googlemail.com)
+4;OWASP DevSlop;Tanya Janca;X;;;
 5;OWASP SAMM;;X;;;
 6;Security Pipelines;;;;;
 7;Threat Model;;X;;;

@@ -19,13 +19,14 @@
 @import "img\oss2018-logo.png"
 # Open Security Summit 2018 {ignore=true}
 <span style="font-size:1.5em;color:#999999;">Status for Working and User Sessions Under The Tracks</span>
-**Version:** 1.1
+**Version:** 1.2
 **Last Update:** 19/04/2018
 
 <span style="font-weight:bold;font-size:0.95em;color:#000000;">HISTORY OF CHANGES</span>
 | Version | Author | Date | Description |
 |---|---|---|---|
-| 1.1 | Vasil Buraliev | 19/04/2018 | Organizers' names has been added into the tables for OSS2018 tracks |
+| 1.1 | Vasil Buraliev | 19/04/2018 | Organizers' names has been added into the tables for OSS2018 tracks. |
+| 1.2 | Vasil Buraliev | 20/04/2018 | Updates of the list of statuses and description for every status has been added. <br/> Table "Track List" as been updated. |
 
 
 <span style="font-weight:bold;font-size:0.95em;color:#000000;">TABLE OF CONTENT</span>
@@ -37,11 +38,13 @@ The aim of this document is to keep OSS2018 team members informed about the stat
 ##### Session Statues
 The following list includes the possible statuses of a summit session.
 
-- Open
-- Idle
-- In Progress
-- Ready for promotion
-- Done
+- **Open** - It is required some activities to be done but still nobody is taking any activities.
+- **Idle** - Assignee is not doing anything about it.
+- **In Progress** - Still some things has to be finished but the assignee is working on it.
+- **Waiting Response** - Message has been sent to organizer and waiting for the response. (Still not response from the potential organizer)
+- **Quality Check** - It is required the quality of the description for a track/session to be validated.
+- **Ready for Promotion** - The track/session already has organizer and nice description/content for it. Everything is ready so the track/session can be promoted publicly.
+- **Done** - Everything is done and no need spending any resources anymore.
 
 ##### Tables Columns
 The following list includes the columns names for Tracks and Sessions tables listed in this document.
@@ -54,7 +57,7 @@ The following list includes the columns names for Tracks and Sessions tables lis
 If the filed is empty then the description is missing or is not finished yet.
 - **Assigned To** - Full name of the person responsible for logistic activities. (Person who has to remind the organizers to finish their part of the job and describe the topics)
 - **Status** - the general status related to a Track/Session. Possible values for this column are defined under the heading **Session Statuses**.
-- **Comments** - the general status related to a Track/Session.
+- **Comments** - Details related to the activities, remarks, outcomes.
 
 ### Tracks List
 The following table includes OSS2018 tracks and their statuses respectively.
