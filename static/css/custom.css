@@ -76,8 +76,8 @@ header.full-bg .navbar-default {
 }
 
 header.full-bg .dark-mask {
-  opacity: 0.8;
-  filter: alpha(opacity=80);
+  opacity: 0.9;
+  filter: alpha(opacity=90);
   background: #082451;
   position: absolute;
   top: 0;
@@ -136,8 +136,7 @@ header.full-bg .dark-mask {
 }
 
 .navbar ul.dropdown-menu li {
-  border-bottom-color: #102d50;
-  border-bottom-width: 2px;
+  border-bottom-color: #102d50;  
 }
 
 .navbar ul.dropdown-menu li:last-child {
@@ -342,8 +341,8 @@ img.participants {
 p.carousel-header-title {
   padding-top: 60px;
   font-family: 'Oswald' !important;
-  font-size: 3em;
-  font-weight: bold;
+  font-size: 36px;
+  font-weight: medium;
   text-transform  : uppercase;
   color: #87BB40;
 }
@@ -352,15 +351,13 @@ p.carousel-header-title {
 	text-transform:none;
 	font-size: 36px;
 	font-weight: 100;
-	letter-spacing: normal;
+	letter-spacing: normal;  
 }
 
 .home-carousel ul li {
-  font-family: 'Oswald' !important;
+  font-family: 'Roboto', serif !important;
   font-weight: 500;
-  font-size: 42px;
   color: #5bdaff;
-  line-height: 1.2;
 }
 
 div.home-carousel {
@@ -604,10 +601,11 @@ ul.list-style-none li a.green {
   width: 70%;
 }
 .home-carousel .waves {
-  position: absolute;
+  display: none;
+  /*position: absolute;
   left: 0;
   right: 0;
-  bottom: 0;
+  bottom: 0;*/
 }
 
 .align-flex-center {
@@ -898,17 +896,13 @@ div.google-map {
   text-align: left;
   min-height: 230px;
   border-radius: 8px;  
-  padding: 60px 5px 60px 25px;
+  padding: 60px 8px 60px 25px;
 }
 
+.box-simple a:focus,
 .box-simple a:hover {
   text-decoration: none;
-  background-color: #00549e;
-}
-
-.box-simple a:hover h3,
-.box-simple a:hover p {
-  color: white;
+  background-color: #eceff1;
 }
 
 .box-simple a .icon {
@@ -918,7 +912,7 @@ div.google-map {
 }
 
 .box-simple a .inner-content {
-  margin-left: 92px;
+  margin-left: 82px;
 }
 
 .box-simple h3 {
@@ -936,6 +930,72 @@ div.google-map {
   font-weight: normal;
 }
 
+.box-simple .icon {
+  border-color: transparent;
+  width: 70px;
+  height: 70px;
+}
+
+.box-simple:hover .icon {
+  -webkit-transform: none;
+  -ms-transform: none;
+  -o-transform: none;
+  transform: none;  
+}
+
+.box-simple:active a {
+  background-color: #00549e;
+  text-decoration: none;
+}
+
+.box-simple:active h3,
+.box-simple:active p {
+  color: white;
+}
+
+.box-simple:active .icon {
+  -webkit-filter: brightness(0) invert(1);
+  filter: brightness(0) invert(1);
+}
+
+/* Icon features */
+
+.box-simple .icon i {
+  width: 70px;
+  height: 70px;
+  display: inline-block;  
+}
+
+.icon-tickets {
+  background: url(../img/features/tickets.png) no-repeat;
+  background-size: contain;
+}
+
+.icon-venue {
+  background: url(../img/features/venue.png) no-repeat;
+  background-size: contain;
+}
+
+.icon-tracks {
+  background: url(../img/features/tracks.png) no-repeat;
+  background-size: contain;
+}
+
+.icon-faq {
+  background: url(../img/features/faq.png) no-repeat;
+  background-size: contain;
+}
+
+.icon-participants {
+  background: url(../img/features/participants.png) no-repeat;
+  background-size: contain;
+}
+
+.icon-blog {
+  background: url(../img/features/blog.png) no-repeat;
+  background-size: contain;
+}
+
 /* Sponsors style */
 .bar.background-lightblue {
   background-color: #e6f4fc;
@@ -945,6 +1005,14 @@ div.google-map {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.customers .item img {
+  opacity: 0.5;
+}
+
+.customers .item img:hover {
+  opacity: 1;
 }
 
 .heading.custom-border h2 {

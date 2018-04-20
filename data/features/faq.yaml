@@ -1,5 +1,5 @@
 weight: 5
 name: "FAQ"
-icon: "fa fa-question"
+icon: "icon-faq"
 description: "Visit our FAQ pages for answers to our most commonly asked questions"
 link: "/faq/"
