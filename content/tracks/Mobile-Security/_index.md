@@ -4,7 +4,7 @@ type        : track
 technology  : ["Android", "iOS"]
 categories  : ["Mobile"]
 status      : featured
-description : Working Sessions related to Mobile Security
+description : Join this track dedicated to completing the OWASP Mobile Security Testing Guide
 organizers  : 
 ---
 

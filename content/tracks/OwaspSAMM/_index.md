@@ -3,7 +3,7 @@ title        : Owasp SAMM
 type         : track
 owasp-project: yes
 categories   : ["OWASP SAMM"]
-description  : Working Sessions related to the Owasp SAMM Project
+description  : Register for this track to join a group working together in a 5-day sprint on SAMMv2
 organizers   : 
 ---
 

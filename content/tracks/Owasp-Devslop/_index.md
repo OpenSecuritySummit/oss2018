@@ -2,7 +2,7 @@
 title        : Owasp Devslop
 type         : track
 owasp-project: yes
-description  : Working Sessions related to the Security Pipelines
+description  : Take part in Working Sessions and User Sessions dedicate to OWASP’s newest project, a collection of DevOps-driven applications, specifically designed to showcase security catastrophes and vulnerabilities
 organizers   : Tanya Janca
 ---
 
