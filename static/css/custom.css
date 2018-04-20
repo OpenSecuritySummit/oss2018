@@ -10,7 +10,7 @@
   font-family: 'Oswald';
   font-style: normal;
   font-weight: 500;
-  src: local('Oswald Medium'), local('Oswald-Medium'), url('/fonts/KuTkTNzljLi-9-e4QiI83pBw1xU1rKptJj_0jans920.woff2') format('woff2'), url('/fonts/oswald-medium-webfont.woff') format('woff');
+  src: local('Oswald Medium'), local('Oswald-Medium'), url('/fonts/oswald-medium-webfont.woff2') format('woff2'), url('/fonts/oswald-medium-webfont.woff') format('woff');
   unicode-range: U + 0000 -00FF, U + 0131 , U + 0152 -0153, U + 02 C6, U + 02 DA, U + 02 DC, U + 2000 -206F, U + 2074 , U + 20 AC, U + 2212 , U + 2215;
 }
 @font-face {
@@ -18,6 +18,13 @@
   font-style: normal;
   font-weight: normal;
   src: local('Oswald Regular'), local('Oswald-Regular'), url('/fonts/oswald-regular-webfont.woff2') format('woff2'), url('/fonts/oswald-regular-webfont.woff') format('woff');  
+}
+
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: bold;
+  src: local('Oswald Bold'), local('Oswald-Bold'), url('/fonts/oswald-bold-webfont.woff2') format('woff2'), url('/fonts/oswald-bold-webfont.woff') format('woff');  
 }
 
 body * {
@@ -153,6 +160,14 @@ header.full-bg .dark-mask {
 
 .home-carousel .owl-carousel {
   padding-top: 20px;
+}
+
+.home-carousel .owl-theme .owl-controls .owl-page span {
+  background-color: #00549e;
+}
+.home-carousel .owl-theme .owl-controls .owl-page:hover span,
+.home-carousel .owl-theme .owl-controls .owl-page.active span {
+  background-color: #1fc4f4;
 }
 
 .plus-box {
@@ -314,8 +329,8 @@ img.participants {
 p.carousel-header-title {
   padding-top: 60px;
   font-family: 'Oswald' !important;
-  font-size: 26px;
-  font-weight: medium;
+  font-size: 3em;
+  font-weight: bold;
   text-transform  : uppercase;
   color: #87BB40;
 }
@@ -327,9 +342,25 @@ p.carousel-header-title {
 	letter-spacing: normal;
 }
 
+.home-carousel ul li {
+  font-family: 'Oswald' !important;
+  font-weight: 500;
+  font-size: 42px;
+  color: #5bdaff;
+}
+
 div.home-carousel {
 	padding-top:20px !important;
 	text-align: left !important;
+}
+
+div.home-carousel .btn {
+  background-color: #87bb40;
+  color: white;
+  font-family: 'Oswald';
+  font-weight: normal;
+  padding: 11px 24px;
+  font-size: 16px;
 }
 
 /* PArticipants */

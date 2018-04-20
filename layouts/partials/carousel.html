@@ -4,28 +4,28 @@
 <section>
     <div class="home-carousel">
         <!-- <div class="dark-mask"></div> -->
-        <div class="container">
             <div class="homepage owl-carousel">
                 {{ range sort .Site.Data.carousel "weight" }}
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-5 left">
-                            <p class="carousel-header-title">{{ .title }}</p>
-                            {{ .description | safeHTML }}
+                <div class="container">
+                    <div class="item">
+                        <div class="row">
+                            <div class="col-sm-5 left">
+                                <p class="carousel-header-title">{{ .title }}</p>
+                                {{ .description | safeHTML }}
+                            </div>
+                            <div class="col-sm-5 col-sm-offset-2">
+                                <img class="img-responsive" src="{{ .image }}" alt="">
+                            </div>
                         </div>
-                        <div class="col-sm-7">
-                            <img class="img-responsive" src="{{ .image }}" alt="">
+                        <div class="row waves">
+                            <img class="img-responsive" src="/img/carousel/waves.png" />
                         </div>
-                    </div>
-                    <div class="row waves">
-                        <img class="img-responsive" src="/img/carousel/waves.png" />
                     </div>
                 </div>
                 {{ end }}
 
             </div>
             <!-- /.project owl-slider -->
-        </div>
     </div>
 </section>
 {{ end }}
