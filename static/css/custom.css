@@ -610,6 +610,10 @@ ul.list-style-none li a.green {
   bottom: 0;
 }
 
+div.waves {
+	display:none
+}
+
 .align-flex-center {
   align-items:center;
 }
