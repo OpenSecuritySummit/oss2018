@@ -1,5 +1,5 @@
 ---
-title        : Creating an standard for GDPR patterns
+title        : Creating a standard for GDPR patterns
 type         : working-session
 track        : GDPR
 status       : featured
