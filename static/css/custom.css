@@ -898,7 +898,7 @@ div.google-map {
   text-align: left;
   min-height: 230px;
   border-radius: 8px;  
-  padding: 70px 5px 70px 25px;
+  padding: 60px 5px 60px 25px;
 }
 
 .box-simple a:hover {
@@ -932,7 +932,7 @@ div.google-map {
   color: #78909c;
   margin-bottom: 0;
   font-size: 13px;
-  font-family: 'Oswald';
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
 
@@ -945,4 +945,19 @@ div.google-map {
   width: 80%;
   margin-left: auto;
   margin-right: auto;
+}
+
+.heading.custom-border h2 {
+  border: 0 none;
+}
+
+.heading.custom-border h2:after {
+  content: " ";
+  display: block;
+  width: 33%;
+  margin-top: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  height: 8px;
+  background-color: #98c1df;
 }
