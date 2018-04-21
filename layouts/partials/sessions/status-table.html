@@ -1,0 +1,41 @@
+{{ $sessions := where .this.Site.Pages ".Params.type" .type}}
+
+<h2>{{.title}} (status)</h2>
+
+<table class="table table-condensed table-bordered table-striped">
+    <thead>
+        <th width="300">Session</th>
+        <th>Track</th>
+        <th>Draft</th>
+        <th>Organizer</th>
+        <th>Content Ready</th>
+        <th>Event Date</th>
+        <th>Room</th>
+        <th>Participants</th>
+        <th>Featured</th>
+    </thead>
+    {{ range $sessions }}
+    {{ if ne .Params.hide true }}
+    <tr>
+        <td>
+            <a href="{{.Permalink }}">{{.Params.title}}</a>
+        </td>
+        <td>
+            {{ .Params.track }}
+        </td>
+        <td>{{ if eq .Params.status "draft" }}x{{ end }}</td>
+        <td>
+            {{ partial "utils/titles-with-link.html" (dict "this" . "value" .Params.organizers) }}
+        </td>
+        <td> {{ if eq .Params.status "no-content" }}x{{ end }} </td>
+        <td> {{ .Params.when }} </td>
+        <td> {{ .Params.room }} </td>
+        <td>
+            {{ partial "utils/array-size-badge.html" (dict "this" . "value" .Params.participants) }}
+        </td>
+        <td>{{ if eq .Params.status "featured" }}x{{ end }}</td>
+
+    </tr>
+    {{ end}}
+    {{ end}}
+</table>
