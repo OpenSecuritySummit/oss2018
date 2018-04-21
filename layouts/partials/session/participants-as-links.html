@@ -14,7 +14,7 @@
     {{ end }}
 {{ end }}
 
-{{ $value := $.Scratch.Get "participants" }}
+{{ $value := uniq ($.Scratch.Get "participants") }}
 
 {{ if $value}}
     {{ partial "utils/titles-with-link.html" (dict "this" . "value" $value) }}
