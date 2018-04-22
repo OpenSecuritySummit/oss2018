@@ -1,0 +1,15 @@
+# Session Statues
+# The following list includes the possible statuses of a summit session.
+# - Open
+# - Idle
+# - In Progress
+# - Ready for promotion
+# - Done
+featured: flag
+no-content: ban-circle
+default: remove-sign
+review-content: ban-circle
+draft: check
+open: circle
+add-details: plus-sign
+done: ok-circle
