@@ -1033,3 +1033,7 @@ div.google-map {
   height: 8px;
   background-color: #98c1df;
 }
+
+#heading-breadcrumbs h1.no-caps {
+  text-transform: none;
+}
