@@ -14,28 +14,28 @@
         <th>Participants</th>
         <th>Featured</th>
     </thead>
-    {{ range $sessions }}
-    {{ if ne .Params.hide true }}
+    {{ range $sessions }} {{ if ne .Params.hide true }}
     <tr>
         <td>
             <a href="{{.Permalink }}">{{.Params.title}}</a>
         </td>
-        <td>
+        <td class="text-center">
             {{ .Params.track }}
         </td>
-        <td>{{ if eq .Params.status "draft" }}x{{ end }}</td>
+        <td class="text-center">{{ if eq .Params.status "draft" }}<i class="glyphicon glyphicon-check"></i>{{ end }}</td>
         <td>
             {{ partial "utils/titles-with-link.html" (dict "this" . "value" .Params.organizers) }}
         </td>
-        <td> {{ if eq .Params.status "no-content" }}x{{ end }} </td>
-        <td> {{ .Params.when }} </td>
-        <td> {{ .Params.room }} </td>
-        <td>
-            {{ partial "utils/array-size-badge.html" (dict "this" . "value" .Params.participants) }}
+        <td class="text-center"> 
+          <i class="glyphicon glyphicon-{{ index .Site.Data.utils.status (.Params.status | default "default") }}"></i>
+	</td>	
+        <td class="text-center"> {{ .Params.when }} </td>
+        <td class="text-center"> {{ .Params.room }} </td>
+        <td class="text-center">
+            {{ partial "session/participants-as-badge.html" . }}
         </td>
-        <td>{{ if eq .Params.status "featured" }}x{{ end }}</td>
+        <td class="text-center">{{ if eq .Params.status "featured" }}<i class="glyphicon glyphicon-flag"></i>{{ end }}</td>
 
     </tr>
-    {{ end}}
-    {{ end}}
+    {{ end}} {{ end}}
 </table>
