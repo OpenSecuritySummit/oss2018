@@ -1,5 +1,7 @@
 {{ define "content" }}
 
+    {{ partial "session/status-badge-legend.html" . }}
+
     {{ partial "sessions/status-table.html" (dict "this" . "type" "user-session"    "title" "User Sessions") }}
 
     {{ partial "sessions/status-table.html" (dict "this" . "type" "working-session" "title" "Working Sessions") }}

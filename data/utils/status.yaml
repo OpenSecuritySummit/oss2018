@@ -5,11 +5,13 @@
 # - In Progress
 # - Ready for promotion
 # - Done
+#
+# To change this icons, search a glyphicon using: https://glyphsearch.com/?library=glyphicons&copy=name
 featured: flag
 no-content: ban-circle
 default: remove-sign
-review-content: ban-circle
+review-content: refresh
 draft: check
-open: circle
+open: open
 add-details: plus-sign
 done: ok-circle
