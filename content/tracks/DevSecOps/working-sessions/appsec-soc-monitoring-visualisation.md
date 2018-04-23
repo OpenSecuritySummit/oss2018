@@ -1,6 +1,7 @@
 ---
 title        : AppSec SOC Monitoring Visualisation
 type         : working-session
+track        : DevSecOps
 status       : review-content
 organizers   :
 participants : Francois Raynaud
