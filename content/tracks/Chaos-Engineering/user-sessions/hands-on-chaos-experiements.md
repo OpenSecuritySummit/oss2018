@@ -1,10 +1,12 @@
 ---
 title        : Hands on Chaos Experiments
 type         : user-session
-status       : draft
+track        : Chaos Engineering
+status       : review
 description  :
-organizers   : 
-participants :
+organizers   :
+participants:
+    - Russ Miles
 ---
 
 In this session, attendees will learn how to build chaos experiments from scratch using the free and open source Chaos Toolkit.

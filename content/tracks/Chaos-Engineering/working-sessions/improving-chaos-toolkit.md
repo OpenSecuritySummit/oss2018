@@ -1,9 +1,13 @@
 ---
 title        : Customising the Chaos Toolkit
 type         : working-session
-status       : draft
-organizers   : Russ Miles
+track        : Chaos Engineering
+status       : review
 description  : Practical Guide to Extending the Chaos Toolkit for DevSecOps concerns.
+organizers   :
+    - Russ Miles
+participants:
+
 ---
 
 The Chaos Toolkit provides a Universal API for Chaos Engineering experiments that is then used to drive various implementations of chaos-causing and system-state-probing functions.

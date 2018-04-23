@@ -1,8 +1,8 @@
 ---
-title           : Head of Security Engineering
+title           : Russ Miles
 type            : participant
 job_title       :
-company         : Photobox GS
+company         :
 travel-from     :
 image           :
 linkedin        :
@@ -15,10 +15,10 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions:
-notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
-
+sessions        :
+    - AppSec SOC Monitoring Visualisation
+    - Using activity-oriented metrics for Security
+    - DevSecOps Maturity Model (DSOMM)
 ---
 
 <!-- put more details about participant here -->

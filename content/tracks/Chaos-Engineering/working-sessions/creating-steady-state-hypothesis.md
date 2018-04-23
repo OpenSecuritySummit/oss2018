@@ -1,9 +1,14 @@
 ---
 title        : Creating a Steady-State Hypothesis
 type         : working-session
-status       : draft
+track        : Chaos Engineering
+status       : review
 organizers   : 
 description  : Exploring the Chaos Toolkit's stead-state hypothesis and how one can be designed and constructed for DevSecOps concerns.
+organizers   :
+    - Russ Miles
+participants:
+
 ---
 
 The Chaos Toolkit provides a Universal API for Chaos Engineering experiments that is then used to drive various implementations of chaos-causing and system-state-probing functions.

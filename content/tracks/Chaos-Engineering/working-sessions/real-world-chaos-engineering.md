@@ -1,9 +1,13 @@
 ---
 title        : Real world Chaos Engineering
 type         : working-session
+track        : Chaos Engineering
 status       : draft
-organizers   : 
 description  : An exploration and working session to characterise, explore and implement real-world DevSecOps chaos experiments.
+organizers   :
+    - Russ Miles
+participants:
+
 ---
 
 In this session a collection of real-world security cases will be explored through the lens of the chaos engineering discipline.
