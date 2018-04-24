@@ -1037,3 +1037,7 @@ div.google-map {
 #heading-breadcrumbs h1.no-caps {
   text-transform: none;
 }
+
+.oss-logo { 
+  height: 42px;
+}
