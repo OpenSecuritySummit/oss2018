@@ -34,15 +34,15 @@ standardized approach, there’s the need to define the detail to
 each step of the patterns. The following steps are to be defined on the data model as
 standard capabilities:
 
-•    Data source
-•    Categories of individuals
-•    Categories of Personal data
-•    Purpose of processing
-•    Data Security
-•    Lawful basis of processing
-•    Data retention
-•    Data transfer
-•    Data recipients
+ - Data source
+ - Categories of individuals
+ - Categories of Personal data
+ - Purpose of processing
+ - Data Security
+ - Lawful basis of processing
+ - Data retention
+ - Data transfer
+ - Data recipients
 
 ## Outcomes
 
