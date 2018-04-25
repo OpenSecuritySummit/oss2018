@@ -156,6 +156,10 @@ header.full-bg .dark-mask {
   left: 0;  
 }
 
+.home-carousel {
+  padding: 0px;
+}
+
 /* change opacity in carousel */
 .home-carousel .dark-mask {
   opacity: 0.8;
