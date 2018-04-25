@@ -164,7 +164,7 @@ header.full-bg .dark-mask {
 }
 
 .home-carousel .owl-carousel {
-  padding-top: 20px;
+  padding: 0px;
 }
 
 .home-carousel .owl-theme .owl-controls .owl-page span {
