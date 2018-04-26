@@ -1,9 +1,10 @@
 ---
 title           : Avi Douglen
-type            : participant-funding
+type            : participant
 job_title       : Security Architect and Developer
 company         : Bounce Security
-need-funding-for: Travel
+need-funding-for: Travel,Ticket
+funded-by       :
 travel-from     : Israel
 image           : https://media.licdn.com/dms/image/C4D03AQF7xwm94V6Zhw/profile-displayphoto-shrink_800_800/0?e=1529935200&v=beta&t=hhF3gwfqcZ5U-U5hIHNgE8kY6LUCJs5pL70dRkbujd0
 linkedin        : avidouglen

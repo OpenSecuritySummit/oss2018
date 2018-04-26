@@ -1,9 +1,7 @@
 ---
 title        : Creation of Security Buttons
 type         : working-session
-status       : done 
-when-day     : Wed
-when-time    : TBD
+status       : done
 organizers   : Timo Pagel
 categories   : ["OWASP projects"]
 participants :
