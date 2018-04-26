@@ -1,5 +1,5 @@
 ---
-title           : Geri
+title           : Gergo Turcsanyi
 type            : participant
 job_title       :
 company         : Avatao
