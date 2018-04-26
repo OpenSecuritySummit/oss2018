@@ -5,9 +5,9 @@ funded-by       : CertDev
 job_title       :
 company         :
 travel-from     :
-image           :
+image           : https://pbs.twimg.com/profile_images/646615338675781632/pTDcwWEB_400x400.png
 linkedin        :
-twitter         :
+twitter         : anne_e_currie
 facebook        :
 website         :
 email           :
