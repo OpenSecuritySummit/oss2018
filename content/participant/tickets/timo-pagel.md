@@ -16,7 +16,6 @@ regonline       :
 pre-summit      :
 status          : add details
 sessions:
-  - Creation of Security Buttons
   - Creating Appsec metrics and visualisation
   - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 notes :
