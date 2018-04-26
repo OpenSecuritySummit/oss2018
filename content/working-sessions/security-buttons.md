@@ -5,7 +5,7 @@ status       : done
 when-day     : Wed
 when-time    : TBD
 organizers   : Timo Pagel
-categories: ["OWASP projects"]
+categories   : ["OWASP projects"]
 participants :
 description  : Agile Practices for Security Teams
 ---
