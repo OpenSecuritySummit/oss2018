@@ -1,8 +1,8 @@
 ---
 title           : Anne Currie
 type            : participant
+funded-by       : CertDev
 job_title       :
-funded-by       : JeMarketing
 company         :
 travel-from     :
 image           :
