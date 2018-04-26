@@ -15,7 +15,11 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions        : European GDPR variations, Creating a standard for GDPR patterns, GDPR Compliance what does it mean?, GDPR Appropriate Security Controls
+sessions        :
+  - European GDPR variations
+  - Creating a standard for GDPR patterns
+  - GDPR Compliance what does it mean?
+  - GDPR Appropriate Security Controls
 notes           :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 
