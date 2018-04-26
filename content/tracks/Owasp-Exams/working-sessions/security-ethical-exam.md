@@ -2,7 +2,7 @@
 title        : Security Ethics Checklist
 type         : working-session
 status       : featured
-track        : Owasp Exams
+track        : 
 categories   : 
 organizers   :
     - Anne Currie
