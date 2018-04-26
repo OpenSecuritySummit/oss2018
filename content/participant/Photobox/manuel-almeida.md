@@ -8,7 +8,7 @@ image           : https://media.licdn.com/dms/image/C4E03AQEinmI_5ExVOQ/profile-
 linkedin        : manuel-almeida-49799b18
 twitter         :
 facebook        :
-website         : offda.com
+website         : http://offda.eu
 email           : manuel.almeida@photobox.com
 project_leader  :
 chapter_leader  :
