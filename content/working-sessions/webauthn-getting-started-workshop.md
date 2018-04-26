@@ -1,8 +1,8 @@
 ---
 title        : WebAuthn - Getting started workshop
 type         : working-session
-status       : draft
-when-day     : review-content
+status       : review-content
+when-day     : Wed
 when-time    : TBD
 organizers   : ["Yuriy Ackermann"]
 participants :
