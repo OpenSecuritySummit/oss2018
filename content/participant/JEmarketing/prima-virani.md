@@ -6,7 +6,7 @@ job_title       :
 company         :
 travel-from     :
 image           :
-linkedin        :
+linkedin        : primavirani
 twitter         :
 facebook        :
 website         :
