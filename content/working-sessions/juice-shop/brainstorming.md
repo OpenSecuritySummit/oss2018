@@ -3,7 +3,9 @@ title        : Juice Shop Brainstorming
 type         : working-session
 technology   : Node
 description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.
-status       : draft
+when-day     : Wed
+when-time    : TBD
+status       : review-content
 organizers   : ["Timo Pagel", "Jannik Hollenbach"]
 room-layout  : circle
 ---
