@@ -4,7 +4,7 @@ type            : participant
 job_title       : author
 company         : Shostack & Associates
 need-funding-for: Travel,Ticket
-funded-by       : sponsor
+sponsored-by    : sponsor
 travel-from     : Seattle
 image           : https://www.rsaconference.com/writable/speakers/photo/520x520centertop/uiDweRVxSn09uZbdxNdd4E0DqBucVJ.jpg
 linkedin        : shostack

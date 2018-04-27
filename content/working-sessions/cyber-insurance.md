@@ -1,7 +1,9 @@
 ---
 title        : Cyber Insurance
 type         : working-session
-status       : draft
+when-day     : Tue
+status       : review-content
+categories   : ["CISO"]
 organizers   : ["Yvette Connor"]
 description  : Session on Cyber Insurance
 ---

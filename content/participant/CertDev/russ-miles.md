@@ -1,7 +1,7 @@
 ---
 title           : Russ Miles
 type            : participant
-funded-by       : CertDev
+sponsored-by    : CertDev
 job_title       :
 company         :
 travel-from     :
