@@ -1,6 +1,7 @@
 ---
 title        : Integrating Security Tools in the SDL
 type         : working-session
+track        : DevSecOps
 status       : review-content
 organizers   : Imran Mohammed A
 participants : Francois Raynaud

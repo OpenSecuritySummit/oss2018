@@ -1,0 +1,21 @@
+{{ $sponsors := .sponsors }}
+{{ $category := .category }}
+
+{{ with $sponsors }}
+<h2>{{ $category | humanize }} Sponsors</h2>
+<div class="row flexbox">
+    {{ range . }}
+    <div class="{{ $category }}">
+      <div class="sponsors-item text-center">
+        <a href="{{ .url }}">
+        <img class="img img-responsive centered" src="{{ .image }}" alt="{{ .name }}" />
+        <div class="sponsors-caption">
+          <h4>{{ .name }}</h4>
+          {{ with .funds }}<p class="muted">{{ . }}</p>{{ end }}
+        </div>
+        </a>
+      </div>
+    </div>
+    {{ end }}
+</div>
+{{ end }}

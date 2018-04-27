@@ -3,7 +3,7 @@ title        : Threat Model
 type         : track
 status       : featured
 categories   : ["Threat Model"]
-description  : Working Sessions related to Threat Modeling Security
+description  : With Working Sessions such as Attack chains as TM technique and Threat Model cheat sheets
 organizers   : 
 ---
 

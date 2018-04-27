@@ -1,0 +1,8 @@
+{{ $page := (where .this.Site.Pages ".Params.title" .track) }}
+{{ with $page }}
+    {{ $track := (index $page 0) }}
+    <a href="{{$track.Permalink }}">{{$track.Params.title}}</a>
+{{ else}}
+     <span class="text-danger">
+         <small><small><span class="glyphicon glyphicon-exclamation-sign"></span> </small></small>  </span>{{ .title }}
+{{ end }}

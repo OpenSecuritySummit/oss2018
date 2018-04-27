@@ -2,7 +2,8 @@
 title        : Securing the CI Pipeline
 type         : working-session
 status       : review-content
-organizers   : 
+organizers   : Francois raynaud, Imran Mohammed A
+track        : DevSecOps
 description  :
 participants :
 ---

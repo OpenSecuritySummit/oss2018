@@ -1,9 +1,12 @@
+{{ $type := (printf "%T" .value) }}
+{{ $typeIsString := (eq "string" $type) }}
+{{ $typeIsSlice := (findRE "^([[][]]|.*TaxonomyList|output\\.Formats|resource\\.Resources)" $type) }}
 
-{{ if eq (printf "%T"  .value) "string" }}
+{{ if $typeIsString }}
     <span class="label label-success">1</span>
 {{ else }}
 
-    {{ if eq (printf "%T"  .value) "[]string" }}
+    {{ if $typeIsSlice }}
         {{ $len := (len .value) }}
         <span class="label label-success">{{ $len}}</span>
     {{ else}}

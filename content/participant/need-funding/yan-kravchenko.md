@@ -1,9 +1,10 @@
 ---
 title           : Yan Kravchenko
-type            : participant-funding
+type            : participant
 job_title       : CTO
 company         : Truonix, LLC
-need-funding-for: travel and conference
+need-funding-for: Travel,Ticket
+funded-by       :
 travel-from     : Minneapolis, MN, US
 image           : http://atomicdata.com/sites/default/files/staff_images/Yan%20Kravchenko%20Photo%20for%20Website%20resized.jpeg
 linkedin        : yankravchenko

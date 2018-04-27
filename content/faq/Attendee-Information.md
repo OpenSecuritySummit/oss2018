@@ -87,13 +87,15 @@ Sessions are 60 minutes long. So that we can achieve our goals, please follow th
  
 If you are the organiser, please have a draft agenda ready for your sessions, so attendees know what to expect. Here is the typical breakdown for a session:
  
-Session length | 60 minutes
-----------------|-----------
-Introductions   |      2        
-Presentation    |     20         
-Discussion      |     20         
-Q&A             |     10         
-Wrap-up & close |      6         
+{{% table class="table table-condensed table-bordered table-stripped" %}}
+|Session length    | 60 minutes|
+|------------------|-----------|
+|Introductions     |      2    |   
+|Presentation      |     20    |     
+|Discussion        |     20    |     
+|Q&A               |     10    |     
+|Wrap-up & Close   |      6    |     
+{{% /table %}}
  
 
 We highly recommend appointing a timekeeper at the beginning of the meeting to warn speakers five minutes or so before the deadline for the next part of the session, in order to keep things moving and on schedule.  
