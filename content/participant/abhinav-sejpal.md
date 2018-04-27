@@ -7,8 +7,8 @@ travel-from     : UK
 image           : https://media.licdn.com/dms/image/C5603AQGvh5FWiGAvJQ/profile-displayphoto-shrink_200_200/0?e=1529557200&v=beta&t=2tXmfupg6Kl91z5QziG6PgAb4cLABGXMvdaEYvFjwdI
 linkedin        : sejpal
 twitter         : abhinav_sejpal
-facebook        : abhinav.sejpal.fb
-website         : https://bugwrangler@outlook.com
+facebook        : 
+website         : https://bugwrangler.in
 email           : abhinav.sejpal@owasp.org
 project_leader  : 
 chapter_leader  : Bangalore
