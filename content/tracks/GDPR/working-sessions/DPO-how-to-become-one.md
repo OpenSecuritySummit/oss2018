@@ -12,7 +12,7 @@ participants :
 
 ## WHY
 
-(...)
+(Test)
 
 ## What
 
