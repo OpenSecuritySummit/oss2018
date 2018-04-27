@@ -3,7 +3,7 @@
 <table class="table">
     <tr>
         <th>Track:</th>
-        <td>{{ .Params.track       }}  </td>
+        <td>{{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}  </td>
     </tr>
     <tr>
         <th>Organizers</th>
