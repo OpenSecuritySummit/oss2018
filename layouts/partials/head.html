@@ -9,13 +9,13 @@
   {{ if .Keywords }}
   <meta name="keywords" content="{{ delimit .Keywords ", " }}">
   {{ else if .Site.Params.DefaultKeywords }}
-  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">	
+  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">
   {{ end }}
 
   {{ if .Description }}
   <meta name="description" content="{{ .Description }}">
   {{ else if .Site.Params.DefaultDescription }}
-  <meta name="description" content="{{ .Site.Params.DefaultDescription }}">	
+  <meta name="description" content="{{ .Site.Params.DefaultDescription }}">
   {{ end }}
 
   {{ .Hugo.Generator }}
@@ -39,6 +39,7 @@
 
   <!-- Custom stylesheet - for your changes -->
   <link href="{{ .Site.BaseURL }}css/custom.css" rel="stylesheet">
+  <link href="{{ .Site.BaseURL }}css/lightslider.css" rel="stylesheet">
 
   <!-- Responsivity for older IE -->
   {{ `
