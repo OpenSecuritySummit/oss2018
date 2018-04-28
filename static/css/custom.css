@@ -395,6 +395,11 @@ div.home-carousel .btn {
   justify-content: space-around;
 }
 
+.flexbox-vertical-center {
+  justify-content: center;
+  align-items: center;
+}
+
 .participant-item {
     margin-bottom: 50px;
     text-align: center;
