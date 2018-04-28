@@ -7,11 +7,13 @@
 
     <div id="all">
 
+        {{ block "nav" . }}
         <header>
 
           {{ partial "nav.html" . }}
 
         </header>
+        {{ end }}
 
         {{ block "breadcrumbs" . }}
 
