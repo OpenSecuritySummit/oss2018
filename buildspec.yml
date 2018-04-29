@@ -12,15 +12,14 @@ phases:
       # Install hugo 
       - curl -Ls https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
       - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
-      - go get -u -v github.com/bep/s3deploy
   pre_build:
     commands:
       - cd $CODEBUILD_SRC_DIR && git clone https://github.com/devcows/hugo-universal-theme.git themes/oss-owasp
   build:
     commands:
-      - hugo -v
+      - hugo
   post_build:
     commands:
-      - s3deploy -source=public/ -region=eu-west-1 -bucket=${BUCKET_NAME}
+      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}
       - aws configure set preview.cloudfront true
       - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths '/*'
