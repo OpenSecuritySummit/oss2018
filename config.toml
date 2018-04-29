@@ -1,4 +1,4 @@
-baseurl                 = "https://open-security-ssummit.org"
+baseurl                 = "https://open-security-ssummit.org/"
 title                   = "Open Security Summit"
 theme                   = "oss-owasp"
 languageCode            = "en-us"
