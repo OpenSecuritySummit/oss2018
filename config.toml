@@ -4,7 +4,7 @@ theme                   = "oss-owasp"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
 googleAnalytics         = "UA-97001849-2"
-enableGitInfo           = true
+enableGitInfo           = false
 #disqusShortname = "devcows"
 
 # Define the number of posts per page
