@@ -1,7 +1,7 @@
 ---
 title        : Cyber Insurance
 type         : working-session
-when-day     : Tue
+when_day     : Tue
 status       : review-content
 categories   : ["CISO"]
 organizers   : ["Yvette Connor"]

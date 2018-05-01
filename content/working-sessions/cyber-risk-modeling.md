@@ -1,7 +1,7 @@
 ---
 title        : Cyber Risk Modeling
 type         : working-session
-when-day     : Tue
+when_day     : Tue
 status       : draft
 organizers   : ["Yvette Connor"]
 participants :

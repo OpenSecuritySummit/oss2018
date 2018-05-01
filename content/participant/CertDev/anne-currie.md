@@ -1,7 +1,7 @@
 ---
 title           : Anne Currie
 type            : participant
-sponsored-by    : CertDev
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel-from     :

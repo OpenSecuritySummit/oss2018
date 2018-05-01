@@ -1,7 +1,7 @@
 ---
 title           : Prima Virani
 type            : participant
-sponsored-by    : JeMarketing
+sponsored_by    : JeMarketing
 job_title       :
 company         :
 travel-from     :

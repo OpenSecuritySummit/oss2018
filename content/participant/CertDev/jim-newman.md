@@ -1,7 +1,7 @@
 ---
 title           : Jim Newman
 type            : participant
-sponsored-by    : CertDev
+sponsored_by    : CertDev
 job_title       : Internal InfoSec Consultant
 company         : dunnhumby
 travel-from     : Somerset
