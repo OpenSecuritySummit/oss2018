@@ -1,7 +1,7 @@
 ---
 title        : SAMM benchmarking
 type         : working-session
-track        : OwaspSAMM
+track        : Owasp SAMM
 status       : review
 description  : Define objectives for the SAMM benchmarking project as part of SAMMv2
 organizers   :
@@ -10,4 +10,4 @@ participants:
 
 ---
 
-{{< description >}}
+Define objectives for the SAMM benchmarking project as part of SAMMv2
