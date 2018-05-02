@@ -1,7 +1,7 @@
 ---
 title        : SAMM2 Kickoff
 type         : working-session
-track        : OwaspSAMM
+track        : Owasp SAMM
 status       : review
 description  : Kickoff session for the summit
 organizers   :
