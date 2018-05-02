@@ -2,11 +2,12 @@
 title        : SAMM benchmarking
 type         : working-session
 track        : OwaspSAMM
-status       : featured
-organizers   : 
+status       : review
+description  : Define objectives for the SAMM benchmarking project as part of SAMMv2
+organizers   :
     - Sebastien Deleersnyder
-    - Bart De Win
-description  : Working Sessions for CISOs
+participants:
+
 ---
 
 {{< description >}}
