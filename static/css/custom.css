@@ -51,6 +51,7 @@ body h4 {  color: #00549E;
 
 .box-simple {
   min-height: 230px;
+  margin-bottom: 10px;
 }
 
 a.nav {
@@ -1099,4 +1100,21 @@ color:#87bb40; font-size:60px; line-height:60px; margin:0; min-width:312px;}
 .tbale_section thead tr th, .metadata tr td:first-child{ font-size:13px;} .tbale_section tbody tr td, .metadata tr td{ font-size:12px;}
 .about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:312px; text-align:center;}
 
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.bar.features-section  {
+  padding: 40px 0 30px;
+}
+
+hr.container.no-margin {
+  margin-left: auto;
+  margin-right: auto;
 }
