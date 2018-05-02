@@ -51,6 +51,7 @@ body h4 {  color: #00549E;
 
 .box-simple {
   min-height: 230px;
+  margin-bottom: 10px;
 }
 
 a.nav {
@@ -1110,7 +1111,7 @@ color:#87bb40; font-size:60px; line-height:60px; margin:0; min-width:312px;}
 }
 
 .bar.features-section  {
-  padding: 40px 0 0;
+  padding: 40px 0 30px;
 }
 
 hr.container.no-margin {
