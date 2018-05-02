@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Governance
+title        : SAMMv2 working session - Implementation
 type         : working-session
 track        : Owasp SAMM
 status       : review
