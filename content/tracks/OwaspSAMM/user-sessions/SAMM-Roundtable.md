@@ -1,7 +1,7 @@
 ---
 title        : SAMM Introduction
 type         : user-session
-track        : OwaspSAMM
+track        : Owasp SAMM
 status       : review
 description  : Round table session with SAMM users
 organizers   :
