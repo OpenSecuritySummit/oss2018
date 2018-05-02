@@ -1100,3 +1100,20 @@ color:#87bb40; font-size:60px; line-height:60px; margin:0; min-width:312px;}
 .about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:312px; text-align:center;}
 
 }
+
+.no-margin {
+  margin: 0;
+}
+
+.no-padding {
+  padding: 0;
+}
+
+.bar.features-section  {
+  padding: 40px 0 0;
+}
+
+hr.container.no-margin {
+  margin-left: auto;
+  margin-right: auto;
+}
