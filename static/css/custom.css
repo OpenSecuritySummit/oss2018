@@ -266,8 +266,19 @@ img.black-and-white.participant {
   margin-bottom: 10px;
 }
 
+.gi-2x{font-size: 2em;}
+
+.white {
+  color: white;
+}
+.participants-remote {
+  padding: 20px;
+  background: #87BB40;
+}
+
 .participants {
   background: #f9f9f9;
+  margin-top: 20px;
 }
 .participants h1 {
   padding-bottom: 20px;
@@ -667,9 +678,12 @@ div.waves {
 }
 
 @media screen {
+  .get-your-ticket .ticket {
+    margin: 15px;
+  }
   .get-your-ticket .ticket-box {
     padding: 40px;
-    min-height: 490px;
+    min-height: 380px;
   }
   .get-your-ticket .title {
     font-size: 45px;
@@ -697,9 +711,12 @@ div.waves {
   }
 }
 @media (max-width: 950px) {
+  .get-your-ticket .ticket {
+    margin: 15px;
+  }
   .get-your-ticket .ticket-box {
     padding: 30px;
-    min-height: 460px;
+    min-height: 370px;
   }
   .get-your-ticket .title {
     font-size: 43px;
@@ -727,9 +744,12 @@ div.waves {
   }
 }
 @media (max-width: 840px) {
+  .get-your-ticket .ticket {
+    padding: 10px;
+  }
   .get-your-ticket .ticket-box {
     padding: 20px;
-    min-height: 420px;
+    min-height: 360px;
   }
   .get-your-ticket .title {
     font-size: 41px;

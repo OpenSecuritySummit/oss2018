@@ -16,58 +16,26 @@
       <hr/>
     </div>
   </div>
-  <div class="row">
-    <div class="col-xs-6 col-sm-5">
-      <div class="ticket-box green-box">
-        <div class="ticket-type">Summit + Accommodation</div>
-        <div class="price">£1,250*<span class="currency">GBP</span></div>
-        <div class="small">* plus fee and VAT</div>
-        <div class="ticket-duration">5 days x 24h participant</div>
-        <div class="fa fa-check"><span class="item">Access to all working sessions</span></div><br/>
-        <div class="fa fa-check"><span class="item">Breakfast, lunch and refreshments during breaks</span></div>
-        <div class="fa fa-check"><span class="item">Dinner and drinks</span></div>
-        <div class="fa fa-check"><span class="item">Accommodation in Villa (4 nights)</span></div>
-        <div class="fa fa-check"><span class="item">End of summit party</span></div>
-      </div>
-      <div class="green-box">
-        <div class="buy-ticket"><a href="https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt" class="btn btn-primary">Buy Ticket</a></div>
-      </div>
-    </div>
-    <div class="col-xs-6 col-sm-5">
-      <div class="ticket-box blue-box">
-        <div class="ticket-type">Summit + Accommodation</div>
-        <div class="price">£350*<span class="currency">GBP</span></div>
-        <div class="small">* plus fee and VAT</div>
-        <div class="ticket-duration">1 day x 24h participant</div>
-        <div class="fa fa-check"><span class="item">Access to all working sessions</span></div>
-        <div class="fa fa-check"><span class="item">Breakfast, lunch and refreshments during breaks</span></div>
-        <div class="fa fa-check"><span class="item">Dinner and drinks</span></div>
-        <div class="fa fa-check"><span class="item">Accommodation in Villa (1 night)</span></div>
-      </div>
-      <div class="blue-box">
-        <div class="buy-ticket"><a href="https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt" class="btn btn-primary">Buy Ticket</a></div>
-      </div>
-    </div>
-  </div>
-  <div class="row">
-  <div class="col-xs-0 col-sm-1"><br /><br /></div>
-</div>
-    <div class="row">
 
-    <div class="col-xs-6 col-sm-5">
-      <div class="ticket-box green-box">
-        <div class="ticket-type">Summit Only Ticket</div>
-        <div class="price">£200*<span class="currency">GBP</span></div>
-        <div class="small">* plus fee and VAT</div>
-        <div class="ticket-duration">1 day x 8h participant</div>
-        <div class="fa fa-check"><span class="item">Access to all working sessions</span></div>
-        <div class="fa fa-check"><span class="item">Breakfast lunch and refreshments during breaks</span></div>
+  <div class="row">
+    <div class="flexbox">
+      {{ range $index, $ticket := sort .Site.Data.tickets "weight" }}
+      <div class="ticket">
+        <div class="ticket-box {{ if eq (mod $index 2) 0 }}green-box{{ else }}blue-box{{ end }}">
+          <div class="ticket-type">{{ $ticket.type }}</div>
+          <div class="price">&pound;{{ $ticket.cost }}*<span class="currency">GBP</span></div>
+          <div class="small">* plus fee and VAT</div>
+          <div class="ticket-duration">{{ $ticket.duration }}</div>
+          {{ range $ticket.description }}
+          <div class="fa fa-check"><span class="item">{{ . }}</span></div><br/>
+          {{ end }}
+        </div>
+        <div class="{{ if eq (mod $index 2) 0 }}green-box{{ else }}blue-box{{ end }}">
+          <div class="buy-ticket"><a href="{{ $ticket.buy }}" class="btn btn-primary">Buy Ticket</a></div>
+        </div>
       </div>
-      <div class="green-box">
-        <div class="buy-ticket"><a href="https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt" class="btn btn-primary">Buy Ticket</a></div>
-      </div>
+      {{ end }}
     </div>
-    <div class="col-xs-0 col-sm-1"></div>
   </div>
 </div>
 </div>
