@@ -15,7 +15,15 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions: Agile Practices for Security Teams, DevSecOps Maturity Model (DSOMM), Integrating Security into an Spotify Model, Lessons learned from public bug bounties programmes, JIRA Risk Workflow, Real world Chaos Engineering, Security Champions, Security Playbooks
+sessions: 
+  - Agile Practices for Security Teams
+  - DevSecOps Maturity Model (DSOMM)
+  - Integrating Security into an Spotify Model
+  - Lessons learned from public bug bounties programmes
+  - JIRA Risk Workflow
+  - Real world Chaos Engineering
+  - Security Champions
+  - Security Playbooks
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 
