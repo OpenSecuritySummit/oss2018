@@ -2,7 +2,7 @@
 title        : Getting more women in Cyber-security
 type         : working-session
 status       : draft
-organizers   : Yasmin Martin
+organizers   : Yasmin Zokai
 participants :
 description  : Getting more women in Cyber-security
 
