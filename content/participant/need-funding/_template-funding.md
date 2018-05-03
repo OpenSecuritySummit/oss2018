@@ -3,8 +3,8 @@ title           :
 type            : participant-funding
 job_title       :
 company         :
-need-funding-for:
-travel-from     :
+need_funding_for:
+travel_from     :
 image           :
 linkedin        :
 twitter         :
