@@ -4,7 +4,7 @@ type            : participant
 job_title       : Security Architect and Developer
 company         : Bounce Security
 need_funding_for: Travel,Ticket
-funded-by       :
+funded_by       :
 travel_from     : Israel
 image           : https://media.licdn.com/dms/image/C4D03AQF7xwm94V6Zhw/profile-displayphoto-shrink_800_800/0?e=1529935200&v=beta&t=hhF3gwfqcZ5U-U5hIHNgE8kY6LUCJs5pL70dRkbujd0
 linkedin        : avidouglen

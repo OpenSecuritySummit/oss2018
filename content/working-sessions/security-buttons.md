@@ -1,7 +1,12 @@
 ---
 title        : Creation of Security Buttons
 type         : working-session
-status       : done
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : done              # draft, review-content, done
 organizers   : Timo Pagel
 categories   : ["OWASP projects"]
 participants :
@@ -43,4 +48,3 @@ In case we have people who are related to law questions, we can discous how to p
 ## Working materials
 
 <a href="https://github.com/wurstbrot/security-buttons">Security Buttons</a>
-

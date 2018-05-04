@@ -1,7 +1,12 @@
 ---
 title        : Integrating Security into an Spotify Model
 type         : working-session
-status       : review-content
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content              # draft, review-content, done
 description  :
 organizers   :
      - Tony Richards
@@ -55,4 +60,3 @@ The target audience for this Working Session is:
 ## Previous Summit Working Session
 
 https://owaspsummit.org/Working-Sessions/Agile-AppSec/Integrating-Security-into-an-Spotify-Model.html
-
