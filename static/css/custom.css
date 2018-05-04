@@ -67,17 +67,17 @@ a.nav {
     background: url(/img/pages/venue.jpg) center center repeat;
 }
 
-.inner_main_venue{ height:500px; position:relative; background:url(/img/pages/venue.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_venue{ height:284px; position:relative; background:url(/img/pages/venue.jpg) no-repeat center bottom; background-size:cover;}
 
-.inner_main_tickets{ height:500px; position:relative; background:url(/img/pages/tickets.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_tickets{ height:284px; position:relative; background:url(/img/pages/tickets.jpg) no-repeat center bottom; background-size:cover;}
 .background-tickets {
     background: url(/img/pages/tickets.jpg) center center repeat;
 }
-.inner_main_sponsors{ height:500px; position:relative; background:url(/img/pages/sponsors.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_sponsors{ height:284px; position:relative; background:url(/img/pages/sponsors.jpg) no-repeat center bottom; background-size:cover;}
 .background-sponsors {
     background: url(/img/pages/sponsors.jpg) center center repeat;
 }
-.inner_main_about{ height:500px; position:relative; background:url(/img/pages/about.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_about{ height:284px; position:relative; background:url(/img/pages/about.jpg) no-repeat center bottom; background-size:cover;}
 
 .background-about {
     background: url(/img/pages/about.jpg) center center repeat;
@@ -86,19 +86,19 @@ a.nav {
 .background-working-sessions {
     background: url(/img/pages/working_sessions.jpg) center center repeat;
 }
-.inner_main_working_sessions{ height:500px; position:relative; background:url(/img/pages/working_sessions.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_working_sessions{ height:284px; position:relative; background:url(/img/pages/working_sessions.jpg) no-repeat center bottom; background-size:cover;}
 
 .background-participants {
     background: url(/img/pages/participants.jpg) center center repeat;
 }
 
-.inner_main_participants{ height:500px; position:relative; background:url(/img/pages/participants.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_participants{ height:284px; position:relative; background:url(/img/pages/participants.jpg) no-repeat center bottom; background-size:cover;}
 
 .background-FAQs {
     background: url(/img/pages/FAQs.jpg) center center repeat;
 }
 
-.inner_main_FAQs{ height:500px; position:relative; background:url(/img/pages/FAQs.jpg) no-repeat center bottom; background-size:cover;}
+.inner_main_FAQs{ height:284px; position:relative; background:url(/img/pages/FAQs.jpg) no-repeat center bottom; background-size:cover;}
 
 
 
@@ -1151,8 +1151,8 @@ div.google-map {
 .content_grd a{font-family: 'Roboto', sans-serif; font-weight:500; color:#2678c0;}
 .inner_main_title{ height:500px; position:relative; background:url(/img/blocks/title_bg_inner.jpg) no-repeat center bottom; background-size:cover;}
 .center_heading{ position:absolute; left:0; width:100%; bottom:120px;}
-.center_heading h1{ display:inline-block; border:#87bb40 10px solid; padding:30px 50px; font-family: 'Oswald', sans-serif; font-weight:700; text-transform:uppercase;
-color:#87bb40; font-size:60px; line-height:60px; margin:0; min-width:312px;}
+.center_heading h1{ display:inline-block; border:#87bb40 7px solid; padding:20px 20px; font-family: 'Oswald', sans-serif; font-weight:600; text-transform:uppercase;
+color:#87bb40; font-size:40px; line-height:30px; margin:0; min-width:260px;}
 
 @media (min-width:768px) and (max-width:991px){}
 
@@ -1179,4 +1179,8 @@ color:#87bb40; font-size:60px; line-height:60px; margin:0; min-width:312px;}
 hr.container.no-margin {
   margin-left: auto;
   margin-right: auto;
+}
+
+.container {
+  width: 1370px;
 }
