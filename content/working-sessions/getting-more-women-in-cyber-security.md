@@ -7,11 +7,10 @@ when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
-organizers   :
-description  :
----
+organizers   : Yasmin Z
+description  : Why is there a persistent gap when it comes to gender balance in security? How can we as security professionals ensure there is a fair chance and representation for all?
 
-(add intro)
+---
 
 ## WHY
 
