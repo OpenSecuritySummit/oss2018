@@ -59,9 +59,51 @@ a.nav {
   font-weight: normal;
 }
 
+.background-photogrid {
+    background: url(/img/pages/photogrid.jpg) center center repeat;
+}
+
+.background-venue {
+    background: url(/img/pages/venue.jpg) center center repeat;
+}
+
+.inner_main_venue{ height:500px; position:relative; background:url(/img/pages/venue.jpg) no-repeat center bottom; background-size:cover;}
+
+.inner_main_tickets{ height:500px; position:relative; background:url(/img/pages/tickets.jpg) no-repeat center bottom; background-size:cover;}
+.background-tickets {
+    background: url(/img/pages/tickets.jpg) center center repeat;
+}
+.inner_main_sponsors{ height:500px; position:relative; background:url(/img/pages/sponsors.jpg) no-repeat center bottom; background-size:cover;}
+.background-sponsors {
+    background: url(/img/pages/sponsors.jpg) center center repeat;
+}
+.inner_main_about{ height:500px; position:relative; background:url(/img/pages/about.jpg) no-repeat center bottom; background-size:cover;}
+
+.background-about {
+    background: url(/img/pages/about.jpg) center center repeat;
+}
+
+.background-working-sessions {
+    background: url(/img/pages/working_sessions.jpg) center center repeat;
+}
+.inner_main_working_sessions{ height:500px; position:relative; background:url(/img/pages/working_sessions.jpg) no-repeat center bottom; background-size:cover;}
+
+.background-participants {
+    background: url(/img/pages/participants.jpg) center center repeat;
+}
+
+.inner_main_participants{ height:500px; position:relative; background:url(/img/pages/participants.jpg) no-repeat center bottom; background-size:cover;}
+
+.background-FAQs {
+    background: url(/img/pages/FAQs.jpg) center center repeat;
+}
+
+.inner_main_FAQs{ height:500px; position:relative; background:url(/img/pages/FAQs.jpg) no-repeat center bottom; background-size:cover;}
+
+
+
 header.full-bg {
   position: relative;
-  background: url(../img/photogrid.jpg) center center repeat;
   background-size: cover;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -272,6 +314,7 @@ img.black-and-white.participant {
   color: white;
 }
 .participants-remote {
+  margin-top: 20px;
   padding: 20px;
   background: #87BB40;
 }
@@ -510,8 +553,7 @@ ul.social-buttons li a i.fa {
 /* Sponsors */
 
 #sponsors .sponsors-item {
-    right: 0;
-    margin: 0 0 15px;
+    margin-left: 15px;
 }
 
 #sponsors .sponsors-item .sponsors-link {
