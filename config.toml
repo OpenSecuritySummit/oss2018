@@ -1,5 +1,4 @@
-#baseurl = "https://ossummit.org"
-baseurl                 = "/"
+baseurl                 = "https://open-security-summit.org/"
 title                   = "Open Security Summit"
 theme                   = "oss-owasp"
 languageCode            = "en-us"
@@ -14,12 +13,12 @@ paginate = 10
 [menu]
 
 # Main menu
-[[menu.main]]
-    name = "Home"
-    identifier = "home"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 1
-    url = "/"
+#[[menu.main]]
+#    name = "Home"
+#    identifier = "home"
+#    pre = "<i class='fa fa-road'></i>&nbsp;"
+#    weight = 1
+#    url = "/"
 [[menu.main]]
     name = "Sessions"
     identifier = "sessions"
@@ -70,14 +69,14 @@ paginate = 10
     name = "Venue"
     identifier = "venue"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 8
+    weight = 9
     parent = "about"
     url = "/venue/"
 [[menu.main]]
     name = "Faq"
     identifier = "faq"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 9
+    weight = 10
     parent = "about"
     url = "/faq/"
 #[[menu.main]]
@@ -89,13 +88,13 @@ paginate = 10
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
-    weight = 10
+    weight = 11
     url = "/sponsors/"
 [[menu.main]]
     name = "Tickets"
     identifier = "tickets"
     pre = "<i class='fa fa-ticket'></i>&nbsp;"
-    weight = 1
+    weight = 12
     url = "/tickets/"
 
 
@@ -154,10 +153,10 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "your@email.com"
+    email = "info@open-security-summit.org"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2018, YourCompany; all rights reserved."
+    about_us = "<p>Open Security Summit - 4-8 June, 2018.</p>"
+    copyright = "Copyright (c) 2018, Open Security Summit; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"

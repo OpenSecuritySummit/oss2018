@@ -1,27 +1,159 @@
-{{ define "content" }}
-<div class="featured-ws">
+{{ define "nav" }}
+<header class="full-bg">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_title">
+  <div class="center_heading">
     <div class="container">
-        {{/* Only show track list in the initial tracks */}}
-        {{ if eq .URL "/tracks/" }}
-        {{ partial "tracks.html" . }}
-        {{ end }}
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
 
-        <!--{{ partial "topics.html" . }}-->
+{{ end }}
 
 
-        <div class="row">
-            <div class="col-xs-0"></div>
-            <div class="col-xs-12">
-                <h2>Owasp Summit 2017</h2>
-                <p class="lead">Check out last year's <a href="https://owaspsummit.org/website/working-sessions.html">tracks here</a></p>
+{{ define "content" }}
+
+{{ $tracks := where .Site.Pages ".Params.type" "track" }}
+<section class="mid_wrap" >
+  <div class="container">
+    <div class="t_rw">
+      <h2>Here are the current Tracks (with multiple Working Sessions)</h2>
+    </div>
+
+    <div class="track_sec">
+      <div class="row">
+        <div class="col-lg-3 col-md-3 col-sm-4">
+          <div class="aside_bx">
+            <div class="mid_left_menu">
+              <ul class="nav nav-tabs">
+                {{ range $tracks }}
+                <li>
+                  <a data-toggle="tab" href="#{{ .Params.title | urlize }}">{{ .Params.title | upper }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+
+            <div class="owasp_submmit">
+              <a href="#"><span >Owasp Summit 2017</span><br/>
+              Check out last year's tracks</a></div>
+
+              <div class="edit_page text-center">
+                <a href="#"><i><img src="/img/blocks/edit.png"  alt="img"></i>Edit This Page</a>
+              </div>
 
             </div>
-        </div>
 
+          </div>
 
+          <div class="col-lg-9 col-md-9 col-sm-8">
+            <div class="tab-content worksessions">
+              {{ range $index, $track := $tracks }}
+              {{ $track_name := $track.Params.title }}
+              {{ $organizers := $track.Params.organizers }}
+              <div id="{{ $track_name | urlize }}" class="tab-pane fade {{ if eq $index 0 }}in active{{ end }}">
+                <div class="content_grd">
+                  {{ $track.Content | markdownify }}
+                  <h4 class="t_oswald">Working Sessions <span class="number">3</span>
+                  </h4>
 
+                  <p>Here are the working sessions that are currently being planned. </p>
 
-    </div>
-</div>
+                  <div class="tbale_section">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <thead>
+                        <tr><th>Title</th>
+                          <th>Track</th>
+                          <th>Description</th>
+                        </tr>
+                      </thead>
+
+                      <tbody>
+                        {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.track" $track_name }}
+                        {{ range $sessions }}
+                        <tr>
+                          <td>
+                            <a href="{{ .Permalink }}">{{ .Params.title }}</a>
+                          </td>
+                          <td>
+                            {{ .Params.track }}
+                          </td>
+                          <td>
+                            {{ .Params.description | truncate 45 }}
+                          </td>
+                        </tr>
+                        {{ end }}
+                      </tbody>
+                    </table>
+                  </div><!-- tbale -->
+
+                  <h4 class="t_oswald">User Sessions <span class="number">1</span></h4>
+                  <p>Here are the users sessions that are currently being planned.</p>
+
+                  <div class="tbale_section">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <thead>
+                        <tr>
+                          <th >Title</th>
+                          <th>Track</th>
+                          <th>Description</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      {{ $usersessions := where (where .Data.Pages ".Params.type" "user-session") ".Params.track" $track_name }}
+                      {{ range $usersessions }}
+                        <tr>
+                          <td>
+                            <a href="{{ .Permalink }}">{{ .Params.title }}</a>
+                          </td>
+                          <td>
+                            {{ .Params.track }}
+                          </td>
+                          <td>
+                            {{ .Params.description | truncate 45 }}
+                          </td>
+                        </tr>
+                        {{ end }}
+                      </tbody>
+                    </table>
+                  </div><!-- tbale_section -->
+
+                  <h4 class="t_oswald">Please Help</h4>
+                  <p class="m_b_30"> If you want to be involved please make the changes on GitHub and send a Pull Request with your ideas.
+                    <br/>
+                    If you feel that there is missing working session that we NEED to have at the Summit, please create it.</p>
+
+                    <h4 class="t_oswald">Metadata</h4>
+                    <div class="metadata">
+                      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                        <tbody>
+                          <tr>
+                            <td>Organizers</td>
+                            <td>{{ with $organizers }}{{ delimit . ", " }}{{ end }}</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+
+                </div><!-- content_grd -->
+              </div><!-- track_name -->
+              {{ end }}
+            </div><!-- tab-content -->
+          </div><!-- col-lg-9 -->
+
+      </div><!-- row -->
+    </div><!-- track_sec -->
+  </div><!-- container -->
+</section>
 
 {{ end }}

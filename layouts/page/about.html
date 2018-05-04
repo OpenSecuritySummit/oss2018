@@ -1,46 +1,96 @@
+{{ define "nav" }}
+<header class="full-bg background-about">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_about">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
 {{ define "content" }}
 
-<div class="about">
-    <div class="about-main-section">
-      <div class="container">
-          <div class="row">
-              <div class="col-xs-9">
-                <p>The Open Security Summit {{ now.Format "2006" }} is focused on the <b>collaboration</b> between <b>Developers</b> and <b>Application Security</b>.</p>
-                <p>Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively. This is not a conference with uni-directional presentations. Every thoroughly prepared working session is geared towards a specific Application Security challenge and will be focused on actionable outcomes.</p>
-                <p>If you care about Application Security and want to collaborate with the key players in this industry, this is the event to be at.</p>
-              </div>
-              <div class="col-xs-3">
-                <img class="img-responsive" src="/img/carousel/next-summit.png" alt="collaboration" />
-              </div>
-         </div>
-          <div class="why-attend">
-            <h2>Why Attend</h2>
-          <div class="row">
-              <div class="col-xs-10">
-                <p><img class="plus-box" src="/img/blocks/cube.png" alt="cube" />
-                The summit will bring together leading figures from OWASP, security, development, government agencies and vendor companies.</p>
-                </div>
-            </div>
-          <div class="row">
-              <div class="col-xs-10">
-                <p><img class="plus-box" src="/img/blocks/cube.png" alt="cube" />
-                Collaborate in working sessions to tackle some of the hardest security problems we are facing in {{ now.Format "2006" }} and create actionable solutions.</p>
-                </div>
-            </div>
-          <div class="row">
-              <div class="col-xs-10">
-                <p><img class="plus-box" src="/img/blocks/cube.png" alt="cube" />
-                Connect with like-minded individuals who are passionate about AppSec, get chatting over breakfast, lunch or dinner, during summit activities, or at the end of summit party.</p>
-               </div>
-            </div>
-          <div class="row">
-            <div class="col-xs-10">
-              <p><img class="plus-box" src="/img/blocks/cube.png" alt="cube" />
-              Take advantage of the unique summit venue at Woburn Forest Center Parcs, an environment designed for maximum geek-time, synergies and collaboration.</p>
-              </div>
+<section class="mid_wrap" >
+  <div class="container">
+    <div class="about_sec">
+      <div class="row">
+        <div class="col-sm-8">
+          <p>The Open Security Summit 2018 is focused on the collaboration between Developers and Application Security.
+            <br><br>
+            Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during
+            which attendees get the chance to work and collaborate intensively. This is not a conference with uni-directional
+            presentations. Every thoroughly prepared working session is geared towards a specific Application Security
+            challenge and will be focused on actionable outcomes.<br><br>
+
+            If you care about Application Security and want to collaborate with the key players in this industry,
+            this is the event to be at.</p>
           </div>
+
+          <div class="col-sm-4"><img src="/img/blocks/bio.png" class="img-responsive" alt="img"></div>
+
         </div>
-      <br />
-</div>
+      </div>
+
+      <div class="why_attend">
+        <h2>Why Attend</h2>
+
+        <div class="row">
+          <div class="col-lg-3 col-md-3 col-sm-6">
+            <div class="whyatnd_cl text-center"><i><img src="/img/blocks/ic_1.png" class="img-responsive"  alt="img"></i>
+              <p>The summit will bring together
+                leading figures from OWASP, security,
+                development, government agencies
+                and vendor companies.</p></div>
+
+
+              </div>
+
+
+              <div class="col-lg-3 col-md-3 col-sm-6">
+                <div class="whyatnd_cl text-center"><i><img src="/img/blocks/ic_2.png" class="img-responsive"  alt="img"></i><p>Collaborate in working sessions to
+                  tackle some of the hardest security
+                  problems we are facing in 2018
+                  and create actionable solutions.</p></div>
+
+
+                </div>
+
+                <div class="col-lg-3 col-md-3 col-sm-6">
+                  <div class="whyatnd_cl text-center"><i><img src="/img/blocks/ic_3.png" class="img-responsive"  alt="img"></i><p>Connect with like-minded individuals
+                    who are passionate about AppSec, get
+                    chatting over breakfast, lunch or dinner,
+                    during summit activities, or at the end
+                    of summit party.</p></div>
+
+
+                  </div>
+
+                  <div class="col-lg-3 col-md-3 col-sm-6">
+                    <div class="whyatnd_cl text-center"><i><img src="/img/blocks/ic_4.png" class="img-responsive"  alt="img"></i><p>Take advantage of the unique summit
+                      venue at Woburn Forest Center Parcs,
+                      an environment designed for maximum
+                      geek-time, synergies and collaboration.</p></div>
+
+
+                    </div>
+                  </div>
+
+                </div>
+
+              </div>
+
+            </section>
 
 {{ end }}

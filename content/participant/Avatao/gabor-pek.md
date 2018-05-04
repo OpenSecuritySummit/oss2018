@@ -4,7 +4,7 @@ type            : participant
 job_title       :
 company         : Avatao
 travel-from     :
-image           :
+image           : https://pbs.twimg.com/profile_images/3110010592/a25167c66be890a1c83386f135b41728_400x400.jpeg
 linkedin        :
 twitter         :
 facebook        :
