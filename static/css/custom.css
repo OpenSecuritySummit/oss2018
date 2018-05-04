@@ -100,6 +100,11 @@ a.nav {
 
 .inner_main_FAQs{ height:284px; position:relative; background:url(/img/pages/FAQs.jpg) no-repeat center bottom; background-size:cover;}
 
+.background-tracks {
+    background: url(/img/pages/tracks.jpg) center center repeat;
+}
+
+.inner_main_tracks{ height:284px; position:relative; background:url(/img/pages/tracks.jpg) no-repeat center bottom; background-size:cover;}
 
 
 header.full-bg {
