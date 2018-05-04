@@ -7,13 +7,19 @@
 
     <div id="all">
 
+        {{ block "nav" . }}
         <header>
 
           {{ partial "nav.html" . }}
 
         </header>
+        {{ end }}
 
-        {{ partial "breadcrumbs.html" . }}
+        {{ block "breadcrumbs" . }}
+
+          {{ partial "breadcrumbs.html" . }}
+
+        {{ end }}
 
         <div id="content">
             <div class="container">
@@ -65,7 +71,9 @@
         </div>
         <!-- /#content -->
 
-        {{ partial "footer.html" . }}
+        {{ block "footer" . }}
+          {{ partial "footer.html" . }}
+        {{ end }}
 
     </div>
     <!-- /#all -->

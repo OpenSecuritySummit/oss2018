@@ -21,4 +21,4 @@ notes :
 
 ---
 
-<!-- put more details about participant here -->
+Anne Currie has been in the tech industry for nearly 25 years. She is currently the Chief Strategist for Container SOlutions and working to create ethical resources for ordinary developers to help them become the last bastion of defence against unethical code going into production.
