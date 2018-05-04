@@ -1,8 +1,13 @@
 ---
 title        : Lessons learned from public bug bounties programmes
 type         : working-session
-status       : review-content
-organizers   :  
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content      # draft, review-content, done
+organizers   :
   - Prakash Sharma
 description  :
 participants : 

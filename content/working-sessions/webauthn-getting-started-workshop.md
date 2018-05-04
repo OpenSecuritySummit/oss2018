@@ -1,9 +1,12 @@
 ---
 title        : WebAuthn - Getting started workshop
 type         : working-session
-status       : review-content
-when_day     : Wed
-when_time    : TBD
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content     # draft, review-content, done
 organizers   : ["Yuriy Ackermann"]
 participants :
 description  :

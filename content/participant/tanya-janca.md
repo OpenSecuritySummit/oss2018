@@ -3,7 +3,7 @@ title           : Tanya Janca
 type            : participant
 job_title       : Senior Cloud Developer Advocate
 company         : Microsoft
-travel-from     : Ottawa, Canada
+travel_from     : Ottawa, Canada
 image           : https://avatars0.githubusercontent.com/u/26744843?s=400&u=dbc5bb5fe5d719419efce1bb3e9870dd58a4c7ba&v=4
 linkedin        : tanya-janca-60ab0998
 twitter         : shehackspurple
@@ -12,8 +12,8 @@ website         : http://www.DevSlop.com
 email           : Tanya.Janca - at - Microsoft - dot - com
 project_leader  : OWASP DevSlop
 chapter_leader  : OWASP Ottawa
-regonline       : 
-pre-summit      : 
+regonline       :
+pre-summit      :
 status          : add details
 sessions:
     - Put Pixi, Core Rule Set 3 for ModSecurity

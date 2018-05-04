@@ -1,8 +1,12 @@
 ---
 title        : Cyber Insurance
 type         : working-session
-when_day     : Tue
-status       : review-content
+featured     :                    # review with summit team "yes"
+when_day     : Tue                # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
 organizers   : ["Yvette Connor"]
 description  : Session on Cyber Insurance
