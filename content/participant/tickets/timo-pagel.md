@@ -1,10 +1,10 @@
 ---
 title           : Timo Pagel
 type            : participant
-job_title       : DevSecOps Architect 
+job_title       : DevSecOps Architect
 company         : FHUNii Media UG & Co. KG
 travel-from     : Hamburg, Germany
-image           : http://timo-pagel.de/assets/img/header-bg.jpg
+image           : /participant/images/timo-pagel.jpg
 linkedin        :
 twitter         :
 facebook        :
