@@ -6,7 +6,7 @@ company         : Truonix, LLC
 need_funding_for: Travel,Ticket
 funded_by       :
 travel_from     : Minneapolis, MN, US
-image           : http://atomicdata.com/sites/default/files/staff_images/Yan%20Kravchenko%20Photo%20for%20Website%20resized.jpeg
+image           : /participant/images/yan-kravchenko.jpg
 linkedin        : yankravchenko
 twitter         : yanfosec
 facebook        :
