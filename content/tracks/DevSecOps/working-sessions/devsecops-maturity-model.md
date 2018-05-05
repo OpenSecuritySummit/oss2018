@@ -1,6 +1,7 @@
 ---
 title        : DevSecOps Maturity Model (DSOMM)
 type         : working-session
+track        : DevSecOps
 status       : no-content
 organizers   :
     - Francois Raynaud 

@@ -1,12 +1,12 @@
 {{ if isset .Site.Params "sponsors" }}
 {{ if .Site.Params.sponsors.enable }}
 {{ if gt (len .Site.Data.sponsors.platinum) 0 }}
-<section class="bar background-gray no-mb">
+<section class="bar background-white no-mb">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
-                <div class="heading text-center">
-                    <h2>{{ .Site.Params.sponsors.title }}</h2>
+                <div class="heading custom-border text-center">
+                    <h2 class="no-margin">{{ .Site.Params.sponsors.title }}</h2>
                 </div>
 
                 <p class="lead">

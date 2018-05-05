@@ -1,0 +1,2 @@
+{{ $class := .Get "class" }}
+{{ replace .Inner "<table>" (printf "%s%s%s" "<table class=\"" (string $class) "\">") | markdownify }}

@@ -4,8 +4,8 @@ type            : participant
 job_title       :
 company         : Photobox GS
 travel-from     :
-image           :
-linkedin        :
+image           : https://media.licdn.com/dms/image/C5103AQFgksOeBd_CSg/profile-displayphoto-shrink_800_800/0?e=1530748800&v=beta&t=vng7ohV7jewdHWKc6ELdD-S8-LcUKFaOLButK_3BTks
+linkedin        : andrewjohnstone
 twitter         :
 facebook        :
 website         :

@@ -3,7 +3,7 @@ title        : OWASP Defect Dojo
 type         : working-session
 track        : DevSecOps
 status       : featured
-categories   : ["OWASP Defect Dojo"]
+categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
 participants : Francois Raynaud

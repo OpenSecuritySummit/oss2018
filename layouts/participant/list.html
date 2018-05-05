@@ -1,11 +1,33 @@
+{{ define "nav" }}
+<header class="full-bg background-participants">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_participants">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
 {{ define "content" }}
 
-<div class="page-content">
+<div class="page-content" style="padding-top: 15px;">
   {{ .Content }}
 
-  <p>
-    For remote participants see <a href="/participant-remote">here</a>
-  </p>
+  <div class="participants-remote">
+    <h2 class="text-center white">Remote participants see <a class="btn btn-lg btn-info" role="button" href="/participant-remote">here</a></h2>
+  </div>
 
   <div id="participants" class="participants">
       <div class="container">
@@ -23,7 +45,7 @@
               {{ end }}
             {{ end }}
           </div>
-        </div>  
+        </div>
       </div><!-- container -->
   </div><!-- participants -->
 

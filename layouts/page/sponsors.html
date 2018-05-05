@@ -1,71 +1,37 @@
+{{ define "nav" }}
+<header class="full-bg background-sponsors">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_sponsors">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
 {{ define "content" }}
 
 <section id="sponsors">
     <div class="container">
-        <h2>Platinum Sponsors</h2>
-        <div class="row">
-            {{ range .Site.Data.sponsors.platinum }}
-            <div class="col-md-4 col-sm-6 sponsors-item text-center platinum">
-              <a href="{{ .url }}"><img class="img img-responsive centered" src="{{ .image }}" /></a>
-              <div class="sponsors-caption">
-                <h4>{{ .name }}</h4>
-                {{ with .funds }}<p class="muted">{{ . }}</p>{{ end }}
-              </div>
-            </div>
-            {{ end }}
-        </div>
 
-        {{ with .Site.Data.sponsors.gold }}
-        <h2>Gold Sponsors</h2>
-        <div class="row">
-            {{ range $index, $element := sort . "weight" }}
-            <div class="col-xs-3 col-sm-2 gold">
-                <div class="card">
-                    <div class="card-top">{{ .element.name }}</div>
-                    <div class="card-block">{{ .element.money }}</div>
-            </div>
-            {{ end }}
-        </div>
-        {{ end }}
+      {{ $sponsor_type := (slice "platinum" "gold" "silver" "community") }}
+      {{ range $sponsor_type }}
+          {{ $sponsors := (index $.Site.Data.sponsors .) }}
 
-        {{ with .Site.Data.sponsors.silver }}
-        <h2>Silver Sponsors</h2>
-        <div class="row">
-            {{ range $index, $element := sort . "weight" }}
-            <div class="col-xs-3 col-sm-2 silver">
-                <div class="card">
-                    <div class="card-top">{{ .element.name }}</div>
-                    <div class="card-block">{{ .element.money }}</div>
-            </div>
-            {{ end }}
-        </div>
-        {{ end }}
+          {{ partial "sponsors/type-list.html" (dict "category" . "sponsors" $sponsors) }}
 
-        {{ with .Site.Data.sponsors.bronze }}
-        <h2>Bronze Sponsors</h2>
-        <div class="row">
-            {{ range $index, $element := sort . "weight" }}
-            <div class="col-xs-3 col-sm-2">
-                <div class="card">
-                    <div class="card-top">{{ .element.name }}</div>
-                    <div class="card-block">{{ .element.money }}</div>
-            </div>
-            {{ end }}
-        </div>
-        {{ end }}
-
-        {{ with .Site.Data.sponsors.community }}
-        <h2>Community Sponsors</h2>
-        <div class="row">
-            {{ range $index, $element := sort . "weight" }}
-            <div class="col-xs-3 col-sm-2">
-                <div class="card">
-                    <div class="card-top">{{ .element.name }}</div>
-                    <div class="card-block">{{ .element.money }}</div>
-            </div>
-            {{ end }}
-        </div>
-        {{ end }}
+      {{ end }}
 
 <div class="sponsorship-options">
     <div class="container">
@@ -104,7 +70,7 @@
                     <li>social media announcement</li>
                 </ul>
 
-              
+
             </div>
         </div>
     </div>

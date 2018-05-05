@@ -1,7 +1,10 @@
 weight: 1
-title: "Next Summit: 4th - 8th June 2018"
+title: "Join us June 4th - 8th  2018"
 description: >
   <ul class="list-style-none">
-     <li>Connect with like-minded individuals at the 2018 Open Security Summit</li>
+     <li>"The Summit is back!"</li>
+     <li>Early bird tickets now on sale</li>
+     <a href="/tickets/" class="btn green" role="button">Get Tickets</a>
    </ul>
+
 image: "img/carousel/next-summit.png"

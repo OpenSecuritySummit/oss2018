@@ -7,15 +7,17 @@
 
     <div id="all">
 
-        <header>
+        <header class="full-bg background-photogrid">
+
+          <div class="dark-mask"></div>
 
           {{ partial "top.html" . }}
 
           {{ partial "nav.html" . }}
 
-        </header>
+          {{ partial "carousel.html" . }}
 
-        {{ partial "carousel.html" . }}
+        </header>
 
         {{ partial "features.html" . }}
 
