@@ -3,9 +3,14 @@ title        : Juice Shop Brainstorming
 type         : working-session
 technology   : Node
 description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.
-status       : review-content
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  : circle                   #
+room_number  :
+status       :  review-content     # draft, review-content, done
 organizers   : ["Timo Pagel", "Jannik Hollenbach"]
-room-layout  : circle
+
 ---
 
 ## Why
@@ -36,7 +41,7 @@ sessions.
 ![Juice Shop Screenshot Slideshow](https://github.com/bkimminich/juice-shop/blob/develop/screenshots/slideshow.gif?raw=true)
 
 We will also consider planned functional enhancements of the [Juice Shop CTF-extension](https://www.npmjs.com/package/juice-shop-ctf-cli)
-and its improved integration with [CTFd](https://ctfd.io/) and/or [FBCTF](https://github.com/iteratec/juice-shop-ctf). 
+and its improved integration with [CTFd](https://ctfd.io/) and/or [FBCTF](https://github.com/iteratec/juice-shop-ctf).
 
 ![Juice Shop CTF logo](https://github.com/bkimminich/juice-shop-ctf/raw/master/images/JuiceShopCTF_Logo_100px.png)
 [![asciicast](https://asciinema.org/a/120833.png)](https://asciinema.org/a/120833)
@@ -78,4 +83,3 @@ The target audience for this Working Session is:
   [OWASP Summit 2017 Challenge Pack](https://github.com/bkimminich/juice-shop/milestone/3)
 - [_Enhancement_-issues on GitHub](https://github.com/bkimminich/juice-shop-ctf/issues?q=is%3Aissue+is%3Aopen+label%3Aenhancement)
   for Juice Shop CTF-Extension
-

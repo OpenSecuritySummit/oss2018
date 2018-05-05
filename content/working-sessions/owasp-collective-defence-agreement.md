@@ -1,8 +1,13 @@
 ---
 title        : InfoSec Article 5 - OWASP Collective Defence Agreement
 type         : working-session
-status       : review-content
-organizers   : 
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content     # draft, review-content, done
+organizers   :
 description  :
 participants :
 ---
@@ -50,4 +55,3 @@ The target audience for this Working Session is:
 ## Previous Summit Working Session
 
 https://owaspsummit.org/Working-Sessions/CISO/AppSec-Article-5-Collective-Defence-Agreement.html
-

@@ -4,7 +4,7 @@ type            : participant
 job-title       : Senior Cloud SecOps Engineer
 company         : Capital One
 travel-from     : St Albans, UK
-image           :
+image           : https://media.licdn.com/dms/image/C5103AQE8EJlHbkXLYQ/profile-displayphoto-shrink_800_800/0?e=1530748800&v=beta&t=zTrSCYDb7Hmun_viJtqkInbWupvlpcrLFQCS7fUkrkk
 linkedin        : zeroxten
 twitter         : zeroXten
 facebook        :

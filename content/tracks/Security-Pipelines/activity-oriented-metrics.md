@@ -7,7 +7,13 @@ description  : Using activity-oriented metrics for Security
 
 ## WHY
 
-Gamification of security activities is a great way to engage with teams
+Gamification of security activities is a great way to engage with teams.
+
+Scorecard to provide better information, fun and gamification. 
+
+It uses RAG report data and provides an extra level of insights on each team. We can see the data by feature (service) team, department and for a full matrix of everything.
+
+Every teams and services can be listed and who owns what, from the Tiering of the service to specific services (web sites, apis, databases, workers, lambdas…). Activities such as security, monitoring, alerting, pipelines and infrastructure can the track down. 
 
 ## What
 
