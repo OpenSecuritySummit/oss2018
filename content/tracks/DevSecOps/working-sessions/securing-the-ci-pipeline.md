@@ -1,11 +1,13 @@
 ---
 title        : Securing the CI Pipeline
 type         : working-session
-status       : review-content
-organizers   : Francois raynaud, Imran Mohammed A
 track        : DevSecOps
-description  :
-participants :
+status       : featured 
+organizers   :
+    - Imran Mohammed A
+    - Francois Raynaud 
+description  : Secure the CI/CD pipeline
+participants : 
 ---
 
 ## Why
@@ -30,7 +32,7 @@ This Working Session will publish:
 
 ## Who
 
-* DevSecOps (or SecDevOps), depending on [DevSecOps vs SecDevOps](DevSecOps-vs-SecDevOps.md).
+* DevSecOps
 * 3rd party service providers: Travis, SNYK, Codiscope, Gitlab, Node Security, ....
 * Security professionals
 * Developers
