@@ -1,7 +1,14 @@
 ---
 title        : Attack chains as TM technique
 type         : working-session
-status       : featured
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 ---
@@ -19,5 +26,3 @@ Create attack chains as TM technique. Extedend possibly using DFD as connection 
 An example of an attack chain.
 
 ## References
-
-

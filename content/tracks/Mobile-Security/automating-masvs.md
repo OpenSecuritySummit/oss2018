@@ -1,7 +1,14 @@
 ---
 title        : Automation of MASVS with BDD
 type         : working-session
-status       : featured
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : done              # draft, review-content, done
 organizers   : ["Sven Schleier"]
 description  : Mobile Security Working Session
 ---
@@ -17,11 +24,11 @@ The MASVS is a sister project of the [OWASP Mobile Security Testing Guide](https
 
 ## Why
 
-Last year we were focusing on creating the security requirements for the mobile world, this year we want to automate them :-) 
+Last year we were focusing on creating the security requirements for the mobile world, this year we want to automate them :-)
 
 One of the major problems of adopting the MASVS is how to test all the security requirements during development. This is of course a problem that is applicable for every piece of software that is developed. For web applications one of the solutions to address this is using Behavior-driven Development (BDD) with Cucumber and Gherkin through BDD Security. At the moment there are no mobile app test cases available for this that 
 
-A consistent and structured approach need to be used to continously test the requirements of a mobile app while it's being developed. 
+A consistent and structured approach need to be used to continously test the requirements of a mobile app while it's being developed.
 
 
 ## What
@@ -33,12 +40,12 @@ Automated testing of the MASVS requriements, based on the [research of Davide Ci
 
 ## Outcomes
 
-We want to use the Open Security Summit in order to extend the existing test cases for iOS and Android and transform the MASVS requirements into Gherkin Syntax wherever possible and applicable. 
+We want to use the Open Security Summit in order to extend the existing test cases for iOS and Android and transform the MASVS requirements into Gherkin Syntax wherever possible and applicable.
 
-The existing technical approach and test cases will be shared before the Open Security Summit via Github and will be used as basis for other test cases. 
+The existing technical approach and test cases will be shared before the Open Security Summit via Github and will be used as basis for other test cases.
 
 
-## Who 
+## Who
 
 The target audience for this Working Session is:
 
@@ -54,4 +61,3 @@ Everyone else with experienes in automation and development background and some 
 - [BDD Security](https://www.continuumsecurity.net/bdd-security)
 - [BDD Security Github](https://github.com/continuumsecurity/bdd-security)
 - [Calabash](http://calaba.sh/)
-

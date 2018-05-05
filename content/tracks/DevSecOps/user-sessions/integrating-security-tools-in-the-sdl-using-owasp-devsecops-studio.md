@@ -1,8 +1,15 @@
 ---
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : user-session
-track        : DevSecOps 
-status       : no-content
+track        : DevSecOps
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants : Francois Raynaud
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
@@ -12,7 +19,7 @@ description  : Using DevSecOps studio to learn and teach Integrating security to
 
 ## Topic
 
-The goal of this User Session is to teach participants about integration security tools in the SDL using OWASP DevSecOps Studio 
+The goal of this User Session is to teach participants about integration security tools in the SDL using OWASP DevSecOps Studio
 
 ## Target Audience
 

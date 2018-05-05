@@ -2,7 +2,14 @@
 title        : OWASP Defect Dojo
 type         : working-session
 track        : DevSecOps
-status       : featured
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : done              # draft, review-content, done
 categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
@@ -38,4 +45,3 @@ The target audiences for this Working Session are:
 ## Working materials
 https://github.com/DefectDojo/django-DefectDojo
 https://www.owasp.org/index.php/OWASP_DefectDojo_Project
-

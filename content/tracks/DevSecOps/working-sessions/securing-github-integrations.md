@@ -1,8 +1,15 @@
 ---
 title        : Securing GitHub Integrations
 type         : working-session
-status       : review-content
-organizers   : 
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content              # draft, review-content, done
+organizers   :
 description  :
 participants :
 ---
