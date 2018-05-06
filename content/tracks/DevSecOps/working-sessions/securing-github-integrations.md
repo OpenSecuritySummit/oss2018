@@ -1,6 +1,7 @@
 ---
 title        : Securing GitHub Integrations
 type         : working-session
+track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
@@ -10,7 +11,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
 organizers   :
-description  :
+description  : How to secure Github Integrations
 participants :
 ---
 
