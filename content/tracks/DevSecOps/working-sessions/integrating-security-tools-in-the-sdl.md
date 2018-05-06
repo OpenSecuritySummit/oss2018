@@ -2,13 +2,13 @@
 title        : Integrating Security Tools in the SDL
 type         : working-session
 track        : DevSecOps
-status       : review-content
+status       : featured 
 organizers   : Imran Mohammed A
 participants : Francois Raynaud
-description  :
+description  : Integrate security tools as part of CI/CD pipeline to find/fix issues early in SDL 
 ---
 
-Most of today´s cyber security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
+Most of today´s application security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
 
 The question here is why so many bugs and coding errors continue to cause major security issues when we have had years to deal with these and other common vulnerabilities that are still found in applications today.
 
@@ -25,11 +25,15 @@ The best way to make security ‘just happen’ is to integrate it within the no
 
 ## Outcomes
 
-The goal of this Working Session is to identify common areas where security and development can work together to make improvements.
+The goal of this Working Session is to 
+
+ - Identify common areas where security and development can work together to make improvements.
+ - Document identified areas like culture, automation, measurement and sharing in OWASP wiki page.
 
 ## Who
 
 The target audience for this Working Session is:
+
  - Developers
  - Security professionals
  - DevSecOps
@@ -40,10 +44,9 @@ The target audience for this Working Session is:
 ## Working materials
 
 Here are the current 'work in progress' materials for this session (please add as much information as possible before the sessions):
+
 - [The Security Development Lifecycle](https://www.owasp.org/images/7/78/OWASP_AppSec_Research_2010_Keynote_2_by_Lipner.pdf)
 - [SDL in Practice](https://www.owasp.org/images/4/45/SDL_in_practice.pdf)
-
-
 
 
 ## Previous Summit Working Session
