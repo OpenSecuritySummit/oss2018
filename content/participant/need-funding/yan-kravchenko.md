@@ -24,7 +24,6 @@ Summit Goals:
 * Work on pushing forward with SAMM 2.0
 * Share tools / documents / visualizations in hopes of making OWASP SAMM 2.0 more enterprise friendly
 * Collaborate on fleshing out the new Implementation Business Function
-* Assist developing SAMM related questions for CertDev
 
 ### OWASP Involvement
 

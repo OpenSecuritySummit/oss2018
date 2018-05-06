@@ -1,8 +1,15 @@
 ---
 title        : Update Threat Modeling pages on owasp web site
 type         : working-session
-status       : need-content
-organizers   : 
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
+organizers   :
 description  : Threat Modeling User Session
 ---
 

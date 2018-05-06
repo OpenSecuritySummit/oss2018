@@ -1,8 +1,15 @@
 ---
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : user-session
-track        : DevSecOps 
-status       : featured 
+track        : DevSecOps
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants : Francois Raynaud
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
@@ -35,7 +42,7 @@ We will cover the following topics as part of this session
  - Benefits of Integrating security tools in SDL
  - CI/CD and security tools
  - Different challenges involved while integration
- - Using DevSecOps Studio to do hands-on exercise with open source projects 
+ - Using DevSecOps Studio to do hands-on exercise with open source projects
 
 ## References
 
