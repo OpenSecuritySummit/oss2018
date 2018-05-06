@@ -2,10 +2,17 @@
 title        : Integrating Security Tools in the SDL
 type         : working-session
 track        : DevSecOps
-status       : featured 
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants : Francois Raynaud
-description  : Integrate security tools as part of CI/CD pipeline to find/fix issues early in SDL 
+description  : Integrate security tools as part of CI/CD pipeline to find/fix issues early in SDL
 ---
 
 Most of today´s application security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
@@ -25,7 +32,7 @@ The best way to make security ‘just happen’ is to integrate it within the no
 
 ## Outcomes
 
-The goal of this Working Session is to 
+The goal of this Working Session is to
 
  - Identify common areas where security and development can work together to make improvements.
  - Document identified areas like culture, automation, measurement and sharing in OWASP wiki page.

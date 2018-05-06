@@ -1,9 +1,15 @@
-
 ---
 title        : Creating a standard for GDPR patterns
 type         : working-session
 track        : GDPR
-status       : featured
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : done              # draft, review-content, done
 description  : Working Session on reviewing and agreeing on a set of GDPR patterns
 organizers   :
     - Mario Platt
