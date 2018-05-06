@@ -3,8 +3,8 @@ title           : Yan Kravchenko
 type            : participant
 job_title       : CTO
 company         : Truonix, LLC
-need_funding_for: Travel,Ticket
-funded_by       :
+need_funding_for: Travel
+funded_by       : CertDev
 travel_from     : Minneapolis, MN, US
 image           : /participant/images/yan-kravchenko.jpg
 linkedin        : yankravchenko
