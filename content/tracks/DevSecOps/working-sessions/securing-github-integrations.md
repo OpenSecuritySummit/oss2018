@@ -1,9 +1,10 @@
 ---
 title        : Securing GitHub Integrations
 type         : working-session
+track        : DevSecOps
 status       : review-content
 organizers   : 
-description  :
+description  : How to secure Github Integrations 
 participants :
 ---
 

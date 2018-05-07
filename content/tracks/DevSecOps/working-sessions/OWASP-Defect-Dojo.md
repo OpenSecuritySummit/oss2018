@@ -3,12 +3,13 @@ title        : OWASP Defect Dojo
 type         : working-session
 track        : DevSecOps
 status       : featured
-categories   : ["OWASP Defect Dojo"]
+categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
 participants : Francois Raynaud
 description  : Working Sessions for Owasp Defect Dojo
 ---
+
 An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.
 
 DefectDojo is a tracking tool written in Python / Django. DefectDojo was created in 2013 and open-sourced on March 13th, 2015. The project was started to make optimizing vulnerability tracking less painful. The top goal of DefectDojo is to reduce the amount of time security professionals spend logging vulnerabilities. DefectDojo accomplishes this by offering a templating system for vulnerabilities, imports for common vulnerability scanners, report generation, and metrics.
@@ -19,16 +20,17 @@ DefectDojo streamlines the security testing process through several 'models' tha
 
 ## Outcomes
 
-Add Scan Integration 2.0, which is focused on shifting our integration with uploads to APIs
-Test new API v2 to cover all use cases
-Add the ability for Dojo to check for and apply updates.
-Add support for Github Issues
-A more readable code base with pep8 standards
-More details are available at https://github.com/DefectDojo/django-DefectDojo/projects/5
+- Add Scan Integration 2.0, which is focused on shifting our integration with uploads to APIs
+- Test new API v2 to cover all use cases
+- Add the ability for Dojo to check for and apply updates.
+- Add support for Github Issues
+- A more readable code base with pep8 standards
+- More details are available at https://github.com/DefectDojo/django-DefectDojo/projects/5
 
 ## Who
 
 The target audiences for this Working Session are:
+
 - Security professionals
 - DevSecOps professionals
 - Developers

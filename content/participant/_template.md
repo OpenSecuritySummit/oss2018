@@ -3,7 +3,7 @@ title           :
 type            : participant
 job_title       :
 company         :
-travel-from     :
+travel_from     :
 image           :
 linkedin        :
 twitter         :

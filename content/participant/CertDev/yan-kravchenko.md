@@ -3,10 +3,10 @@ title           : Yan Kravchenko
 type            : participant
 job_title       : CTO
 company         : Truonix, LLC
-need_funding_for: Travel,Ticket
-funded_by       :
+need_funding_for: Travel
+funded_by       : CertDev
 travel_from     : Minneapolis, MN, US
-image           : http://atomicdata.com/sites/default/files/staff_images/Yan%20Kravchenko%20Photo%20for%20Website%20resized.jpeg
+image           : /participant/images/yan-kravchenko.jpg
 linkedin        : yankravchenko
 twitter         : yanfosec
 facebook        :
@@ -24,6 +24,7 @@ Summit Goals:
 * Work on pushing forward with SAMM 2.0
 * Share tools / documents / visualizations in hopes of making OWASP SAMM 2.0 more enterprise friendly
 * Collaborate on fleshing out the new Implementation Business Function
+* Assist developing SAMM related questions for CertDev
 
 ### OWASP Involvement
 

@@ -1,8 +1,10 @@
 weight: 1
-title: "Next Summit: 4th - 8th June 2018"
+title: "Join us June 4th - 8th  2018"
 description: >
   <ul class="list-style-none">
-     <li>Join us on 4th - 8th June 2018</li>
-     <a href="/tracks/" class="btn green" role="button">Find out More</a>
+     <li>"The Summit is back!"</li>
+     <li>Early bird tickets now on sale</li>
+     <a href="/tickets/" class="btn green" role="button">Get Tickets</a>
    </ul>
+
 image: "img/carousel/next-summit.png"

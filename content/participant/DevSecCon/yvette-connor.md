@@ -1,6 +1,8 @@
 ---
 title           : Yvette Connor
-type            : participant-remote
+type            : participant
+when_day        : Tue
+sponsored_by    : Je Marketing
 job_title       :
 company         :
 image           : https://pbs.twimg.com/profile_images/700203397526343680/NIVAs6F__400x400.jpg
@@ -15,7 +17,8 @@ regonline       :
 status          : add-details
 sessions:
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 ---
+
+
 
 <!-- put more details about participant here -->

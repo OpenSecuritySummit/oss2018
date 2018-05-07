@@ -1,7 +1,12 @@
 ---
 title        : OWASP Securetea tools project
 type         : working-session
-status       : review-content
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content     # draft, review-content, done
 organizers   : ["Ade yoseman"]
 Participant   :
 description  : owasp small iot tools  project https://www.owasp.org/index.php/OWASP_SecureTea_Project

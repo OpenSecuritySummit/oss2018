@@ -1,6 +1,7 @@
 ---
 title           : Jim Newman
 type            : participant
+sponsored_by    : CertDev
 job_title       : Internal InfoSec Consultant
 company         : dunnhumby
 travel-from     : Somerset
@@ -15,7 +16,6 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sponsored-by    : CertDev
 sessions:
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions

@@ -1,7 +1,12 @@
 ---
 title        : Agile Practices for Security Teams
 type         : working-session
-status       : review-content
+featured     :                    # if  "yes" review with summit team
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content     # draft, review-content, done
 organizers   : Ante Gulam
 participants :
 description  : Agile Practices for Security Teams
