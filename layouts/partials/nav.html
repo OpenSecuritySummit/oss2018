@@ -13,13 +13,14 @@
                           {{ end }}
                             <span class="sr-only">{{ .Title }} - {{ i18n "navHome" }}</span>
                         </a>
+                         <div class="navbar-buttons">
+                            <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
+                                <span class="sr-only">{{ i18n "navToggle" }}</span>
+                                <i class="fa fa-align-justify"></i>
+                            </button>
+                        </div>
                     </div>
-                    <div class="navbar-buttons">
-                        <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse" data-target="#navigation">
-                            <span class="sr-only">{{ i18n "navToggle" }}</span>
-                            <i class="fa fa-align-justify"></i>
-                        </button>
-                    </div>
+                   
                     <div class="navbar-collapse collapse" id="navigation">
                         <ul class="nav navbar-nav navbar-right">
                             {{ range .Site.Menus.main }}
