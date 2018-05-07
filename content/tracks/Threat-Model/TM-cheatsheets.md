@@ -1,7 +1,14 @@
 ---
 title        : Threat model cheat sheets
 type         : working-session
-status       : featured
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 ---
@@ -20,7 +27,7 @@ Create a cheat sheet of maximum 5 points, each one starting with "do" or "don't"
 
 ## References
 
-The one cheat sheet already created: 
+The one cheat sheet already created:
 
 Cheat sheets: What are we building?
 
@@ -33,4 +40,3 @@ DO: If you are stuck, either look at the entry and exit points OR let the Subjec
 DON’T: Go beyond/deeper than design level.
 
 DON’T: Threat threat modeling like a kitchen sink, don’t try to put everything in.
-
