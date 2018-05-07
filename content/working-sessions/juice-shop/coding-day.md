@@ -1,5 +1,5 @@
 ---
-title        : Juice Shop Brainstorming
+title        : Juice Shop Coding Day
 type         : working-session
 technology   : Node
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
