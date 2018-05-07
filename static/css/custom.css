@@ -1191,3 +1191,8 @@ hr.container.no-margin {
     width: 1370px;
   }
 }
+
+.text-sessions {
+  padding-top: 30px;
+  font-family: 'Oswald';
+}

@@ -21,7 +21,14 @@
 {{ end }}
 
 {{ define "content" }}
-    {{ .Content }}
+  <div class="row">
+    <div class="col-lg-6 text-sessions">
+      {{ .Content }}
+    </div>
+    <div class="col-lg-6">
+      <img class="img img-responsive" src="/img/pages/working_sessions_right.png" />
+    </div>
+  </div>
 
     See also the planned <a href="/user-sessions">User Sessions</a>
 
