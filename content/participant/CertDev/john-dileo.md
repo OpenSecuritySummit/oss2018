@@ -31,5 +31,7 @@ notes :
 ---
 
 <!-- put more details about participant here -->
-John has worked and taught in computing and information technology for 30 years. Starting out in simulation development as an engineer with the US Army, John has progressed through several changes in focus, eventually arriving in Application Security. In his most recent roles, he has been charged with formalising, expanding, and managing enterprise Software Assurance programs.
+John DiLeo has worked and taught in computing and information technology for 30 years. Starting out in simulation development as an engineer with the US Army, John has progressed through several changes in focus, eventually arriving in Application Security. In his most recent roles, he has been charged with formalising, expanding, and managing enterprise Software Assurance programs.
 
+Security Certifications: CEH, GSEC, GSSP-Java
+Other Certifications: AWS-ASA, SCEA, SCWCD, SCJP, DevOps, ITIL
