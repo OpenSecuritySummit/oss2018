@@ -1,19 +1,17 @@
 ---
 title        : Securing the CI Pipeline
 type         : working-session
-track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
+featured     :                    # review with summit team "yes"
 when_day     :                    # default = tba,    Tues
 when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-organizers   :
-    - Imran Mohammed A
-    - Francois Raynaud
-description  : Secure the CI/CD pipeline
+organizers   : Francois raynaud, Imran Mohammed A
+track        : DevSecOps
+description  :
 participants :
 ---
 
@@ -39,7 +37,7 @@ This Working Session will publish:
 
 ## Who
 
-* DevSecOps
+* DevSecOps (or SecDevOps), depending on [DevSecOps vs SecDevOps](DevSecOps-vs-SecDevOps.md).
 * 3rd party service providers: Travis, SNYK, Codiscope, Gitlab, Node Security, ....
 * Security professionals
 * Developers

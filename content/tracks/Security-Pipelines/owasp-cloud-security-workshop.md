@@ -1,7 +1,14 @@
 ---
 title        : OWASP Cloud Security Workshop (BETA)
 type         : working-session
-status       : draft
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
 organizers   : ["Fraser Scott"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
 hide         : false
