@@ -1,20 +1,20 @@
 ---
-    title: "Goals to be achieved"
-    author: "Vasil Buraliev"
-    date: "30/04/2018"
-    last update: "30/04/2018"
-    version: "1.0"
+title: "Goals to be achieved"
+author: "Vasil Buraliev"
+date: 2018-04-30
+last update: "30/04/2018"
+version: "1.0"
 
-    toc:
-        depth_from: 1
-        depth_to: 6
-        ordered: false
+toc:
+    depth_from: 1
+    depth_to: 6
+    ordered: false
 
-    phantomjs:
-        orientation: portrait
+phantomjs:
+    orientation: portrait
 
-    export_on_save:
-        phantomjs: true
+export_on_save:
+    phantomjs: true
 ---
 
 @import "img\oss2018-logo.png"
