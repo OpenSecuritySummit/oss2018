@@ -5,7 +5,7 @@ sponsored_by    : CertDev
 job_title       : Application Security Architect
 company         : Orion Health
 travel-from     : Auckland
-image           : https://media.licdn.com/dms/image/C5603AQGha8MfGaKdvA/profile-displayphoto-shrink_200_200/0?e=1531353600&v=beta&t=sw3f6M44bUrn00wnLqYP5NGnpFQGd0sbigwJNxUeSwY
+image           : /participant/images/john-dileo.jpg
 linkedin        : john-dileo
 twitter         :
 facebook        :
