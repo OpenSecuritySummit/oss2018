@@ -1220,7 +1220,9 @@ hr.container.no-margin {
 .mid_price .ul_bx{ min-height:230px;}  .mid_price .ul_bx ul li{ margin-bottom:15px;}
 .price_cl{ color:#00549e; font-family: 'Oswald', sans-serif; font-weight:600; font-size:60px;}
 .gbp{ color:#00549e; font-size:24px; font-family: 'Roboto', sans-serif !important; font-weight:600 !important;}
-.btn_1{ display:block; border-radius:0; width:100%; text-align:center; height:60px; font-size:22px; color:#fff; text-transform:uppercase;
+.btn_1{ display: flex;
+justify-content: center; /* align horizontal */
+align-items: center; /* align vertical */; border-radius:0; width:100%; text-align:center; height:60px; font-size:22px; color:#fff; text-transform:uppercase;
 font-family: 'Oswald', sans-serif; font-weight:500;} .btn_1:hover, .btn_1:focus{ color:#fff;}
 .green_btn{ background:#87bb40; outline:none !important; border:none !important;} .green_btn:hover{ background:#1fc4f4;} .green_btn:active{ background:#00549e; } .m_b_10{ margin-bottom:10px;}
 .light_blue{ background:#1fc4f4;} .light_blue:hover{ background:#08a8d6;}
