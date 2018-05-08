@@ -30,4 +30,4 @@ last OWASP 2017 Summit**. (in the following bullet list "participants")
 *NOTE: OSS 2018 Summit provides possibility for remote attendance to the sessions.*)
 - **Convert some of the participants into organizers for some of the sessions.** (Call for action to the participants for some of them to join as organizers for some of the sessions)
 - **Spread the word about the OSS 2018** to the relevant community and people who are interested into open security topics.
-(ask the participants to share information about the summit through the channels that they uses (for instance, personal blog or twitter))
+(Ask the participants to share information about the summit through the channels that they uses (for instance, personal blog or twitter))
