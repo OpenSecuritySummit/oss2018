@@ -15,7 +15,18 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions: AWS Lambda Security, Agile Practices for Security Teams, CISO, Creating a standard for GDPR patterns, Creation of Security Buttons, DPO how to become one, DPO what to expect, Getting more women in Cyber-security, A seat at the table, Hands-on GDPR Patterns, Using Threat Models for GDPR, 
+sessions:
+  - AWS Lambda Security
+  - Agile Practices for Security Teams
+  - CISO
+  - Creating a standard for GDPR patterns
+  - Creation of Security Buttons
+  - DPO how to become one
+  - DPO what to expect
+  - Getting more women in Cyber-security
+  - A seat at the table
+  - Hands-on GDPR Patterns
+  - Using Threat Models for GDPR
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 
