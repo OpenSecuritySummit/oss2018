@@ -6,7 +6,7 @@ company         : iteratec GmbH
 travel_from     : Kiel, Germany
 image           : https://avatars1.githubusercontent.com/u/13718901?s=460&v=4
 linkedin        :
-twitter         : @j12934
+twitter         : j12934
 facebook        :
 website         :
 email           :
