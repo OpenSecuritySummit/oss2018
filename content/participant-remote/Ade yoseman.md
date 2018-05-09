@@ -1,7 +1,7 @@
 ---
-title           : Ade Yose man 
+title           : Ade Yose man
 type            : participant-remote
-job_title       : CEO 
+job_title       : CEO
 company         : andromeda teknologi
 image           : https://www.owasp.org/index.php/File:Adeyoseman.jpg
 linkedin        :
@@ -15,7 +15,7 @@ regonline       :
 status          : add-details
 sessions:
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->

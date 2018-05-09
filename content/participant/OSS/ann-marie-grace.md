@@ -4,7 +4,7 @@ type            : participant
 role            :
 job_title       :
 company         : Photobox Group
-travel-from     : United Kingdom
+travel_from     : United Kingdom
 image           :
 linkedin        :
 twitter          :
@@ -21,7 +21,7 @@ sessions:
 notes :
 - AM to fill her details
 sessions:
-# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->
