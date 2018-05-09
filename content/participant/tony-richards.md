@@ -1,6 +1,6 @@
 ---
 title           : Tony Richards
-type            : participant and Organiser
+type            : participant
 job_title       : CISO
 company         : Securestorm Ltd
 travel-from     : London
