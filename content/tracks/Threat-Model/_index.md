@@ -1,12 +1,12 @@
 ---
-title        : Threat Model
+title        : Threat Model 
 type         : track
-status       : featured
-categories   : ["Threat Model"]
-description  : With Working Sessions such as Attack chains as TM technique and Threat Model cheat sheets
+owasp-project: no 
+description  : Sessions focusing on Threat Modeling tools and techniques to shift security as to the left as possible.
 organizers   : 
+  - Stephen De Vries 
+  - Jorge Esperón
+  - Paúl Santapau
 ---
 
-### Summary
-
-Work on multiple Threat Modeling topics and improve existing materials.
+This track is focused on Threat Modeling tools and techniques to shift security as to the left as possible.
