@@ -9,9 +9,9 @@ when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
-organizers   : Adrian Winckles    # separated by coma
+organizers   : Adrian Winckles
 description  :
-participants :                    # separated by coma
+participants :                   
 ---
 
 
@@ -19,7 +19,7 @@ The MSc Application Security Curriculum needs more work to look at the skills an
 
 We're looking to produce a wider survey of OWASP trainers and educational supporters to canvas opinions on a wider range of generic Application Security Skills and knowledge which would be required from a MSc curriculum and determining suitable learning objectives to be able to produce an “open” curriculum for any educational institution or trainer to use.
 
-A second and larger part of the work is then to map the knowledge, skills & learning objectives to OWASP Project materials to help deliver quality educational experiences to those study Application Security 
+A second and larger part of the work is then to map the knowledge, skills & learning objectives to OWASP Project materials to help deliver quality educational experiences to those study Application Security
 
 ## WHY
 
@@ -30,7 +30,7 @@ Part of OWASP’s main purpose is to “Be the thriving global community that dr
 A common problem with many security education programmes (whether cyber or InfoSec) or even traditional computer science programmes is that they do not address application security adequately, if at all. In some regions, attempts have been made to address this deficit. In the UK for example, ISC2 and the BCS are working on an initiative to embed security firmly within the Computer Science curriculum, with an emphasis on secure coding techniques. OWASP, through my involvement, also champions this initiative.
 
 There is an opportunity for OWASP to pull together its wide-ranging expertise, projects, and dedicated volunteers to engage in these types of education programmes and initiatives by developing an educational strategy for undergraduate and postgraduate students. This could take the form of an open “Standard” template which can be adopted and adapted by diverse educational partners and organisations. Such a template would also give a useful starting point or reference document for when we engage with other professional bodies.
-    
+
 ## What
 
     What aspects of Application Security knowledge and skills does industry need?
