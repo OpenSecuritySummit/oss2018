@@ -1,6 +1,7 @@
 ---
 title        : Securing the CI Pipeline
 type         : working-session
+track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
@@ -9,8 +10,9 @@ when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-organizers   : Francois raynaud, Imran Mohammed A
-track        : DevSecOps
+organizers   :
+    - Francois raynaud
+    - Imran Mohammed A
 description  :
 participants :
 ---

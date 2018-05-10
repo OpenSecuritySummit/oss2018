@@ -8,7 +8,7 @@ when_day     :                    # default = tba,    Tues
 when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
-status       : draft                   # draft, review-content, done
+status       : draft              # draft, review-content, done
 description  : Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents
 organizers   :
   - James Wharton

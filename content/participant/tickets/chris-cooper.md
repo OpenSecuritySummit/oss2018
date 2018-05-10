@@ -3,7 +3,7 @@ title           : Chris Cooper
 type            : participant
 job_title       :
 company         :
-travel-from     :
+travel_from     :
 image           :
 linkedin        :
 twitter         :
@@ -17,7 +17,7 @@ pre-summit      :
 status          : add details
 sessions:
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
 ---
 
