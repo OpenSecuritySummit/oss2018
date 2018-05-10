@@ -12,7 +12,7 @@ facebook        :
 status          : need-content
 villa           : Threat Model
 ticket          : 5x24h
-pre_summit      : 
+pre_summit      :
 working sessions:
-# add above a comma delimited list of the Working Sessions you would like to attend (use the session's title)
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---

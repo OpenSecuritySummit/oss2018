@@ -3,9 +3,9 @@ title           : Adam Shostack
 type            : participant
 job_title       : author
 company         : Shostack & Associates
-need-funding-for: Travel,Ticket
+need_funding_for: Travel,Ticket
 sponsored_by    : sponsor
-travel-from     : Seattle
+travel_from     : Seattle
 image           : https://www.rsaconference.com/writable/speakers/photo/520x520centertop/uiDweRVxSn09uZbdxNdd4E0DqBucVJ.jpg
 linkedin        : shostack
 twitter         : adamshostack
@@ -18,7 +18,7 @@ regonline       :
 status          : add-details
 sessions:
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
 ---
 

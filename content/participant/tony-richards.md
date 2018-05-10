@@ -3,7 +3,7 @@ title           : Tony Richards
 type            : participant
 job_title       : CISO
 company         : Securestorm Ltd
-travel-from     : London
+travel_from     : London
 image           : https://pbs.twimg.com/profile_images/948908456450379777/1KF4KsBw_400x400.jpg
 linkedin        : tonyrichardsclas
 twitter         : _tony_richards
@@ -28,7 +28,7 @@ sessions:
   - Hands-on GDPR Patterns
   - Using Threat Models for GDPR
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
 ---
 

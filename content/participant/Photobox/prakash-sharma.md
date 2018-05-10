@@ -3,13 +3,13 @@ title           : Prakash Sharma
 type            : participant
 job_title       : Security researcher
 company         : Photobox GS
-travel-from     : Nepal
+travel_from     : Nepal
 image           : https://pbs.twimg.com/profile_images/849616864783155201/RS-tNyxm_400x400.jpg
 linkedin        : 1lastBr3ath
 twitter         : 1lastBr3ath
 website         : http://rootme.in/
 email           : prakash.sharma@yandex.com
-project_leader  :  
+project_leader  :
 regonline       : 
 pre-summit      :
 status          : add details
