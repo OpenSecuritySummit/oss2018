@@ -17,7 +17,7 @@
         phantomjs: true
 ---
 
-@import "img\oss2018-logo.png"
+@import "/content/admin/img/oss2018-logo.png"
 # Logistics about OSS 2018 {ignore=true}
 <span style="font-size:1.5em;color:#999999;">Thoughts and Ideas</span>
 **Version:** 1.0

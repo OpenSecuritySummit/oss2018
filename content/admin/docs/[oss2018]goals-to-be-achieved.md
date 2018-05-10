@@ -17,7 +17,7 @@
         phantomjs: true
 ---
 
-@import "img\oss2018-logo.png"
+@import "/content/admin/img/oss2018-logo.png"
 # Goals to be achieved
 **Version:** 1.0
 **Last Update:** 30/04/2018
