@@ -1,5 +1,5 @@
 ---
-title        : Threat Model through Gamification
+title        : Threat Model training through Gamification
 type         : working-session
 track        : Threat Model
 technology   :
@@ -12,7 +12,7 @@ room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
 participants : 
-description  : Threat Model through Gamification
+description  : Threat Model training through Gamification
 ---
 
 ## Why
@@ -22,7 +22,7 @@ Training is a crucial activity in AppSec. Security must abandon the silo in whic
 
 ## What
 
-Open discussion: There are some traditional card games out there to learn Threat Modeling but... wouldn't be great to play a collaborative RPG game about Threat Modeling? Users can play in teams to defeat another teams trying to find weaknesses in the countermeasures of the digital world each team has to build.
+Open discussion: There are some traditional card games out there to learn Threat Modeling but... wouldn't be great to play a collaborative Role-playing Game (RPG) about Threat Modeling? Users can play in teams to defeat another teams trying to find weaknesses in the countermeasures of the digital world each team has to build.
 
 ## Outcomes
 

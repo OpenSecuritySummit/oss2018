@@ -17,7 +17,7 @@ description  : Back to the future with Threat Modeling
 
 ## Why
 
-Threat Modeling is useful to find design issues even before you’ve  written a line of code, and that's the  best time to find those issues but... What can we learn doing a post-mortem of a security incident?
+Threat Modeling is useful to find design issues even before you've written a line of code, and that's the  best time to find those issues but... What can we learn doing a post-mortem of a security incident?
 
 
 ## What
