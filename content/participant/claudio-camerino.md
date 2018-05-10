@@ -3,27 +3,27 @@ title           : Claudio Camerino
 type            : participant
 job_title       : Managing Security Consultant, Appsec & Cloud
 company         : NTT Security
-travel-from     : Theale, UK
+travel_from     : Theale, UK
 image           : https://avatars2.githubusercontent.com/u/31473290?s=460&v=4
 linkedin        : https://www.linkedin.com/in/claudio-camerino-0694702/
 twitter         : clazba
 email           : claudio.camerino@nttsecurity.com
 status          : done
 sessions        :
- - Agile Practices for Security Teams 
- - Application Security Verification Standard 
+ - Agile Practices for Security Teams
+ - Application Security Verification Standard
  - Attack chains as TM technique
- - DevSecOps 
- - DevSecOps Maturity Model (DSOMM) 
- - Integrating Security Tools in the SDL 
- - Integrating Security into an Spotify Model 
- - JIRA Risk Workflow 
+ - DevSecOps
+ - DevSecOps Maturity Model (DSOMM)
+ - Integrating Security Tools in the SDL
+ - Integrating Security into an Spotify Model
+ - JIRA Risk Workflow
  - OWASP Cloud Security Workshop (BETA)
- - Owasp Projects 
- - Owasp Testing Guide v5 
- - Owasp Top 10 2017 
- - Securing the CI Pipeline 
- - Security Playbooks 
+ - Owasp Projects
+ - Owasp Testing Guide v5
+ - Owasp Top 10 2017
+ - Securing the CI Pipeline
+ - Security Playbooks
  - Threat model cheat sheets
 ---
 

@@ -1,20 +1,20 @@
 ---
-    title: "Logistics about OSS 2018 - Thoughts and Ideas"
-    author: "Vasil Buraliev"
-    date: "25/04/2018"
-    last update: "25/04/2018"
-    version: "1.0"
+title: "Logistics about OSS 2018 - Thoughts and Ideas"
+author: "Vasil Buraliev"
+date: 2018-04-25
+last update: "25/04/2018"
+version: "1.0"
 
-    toc:
-        depth_from: 1
-        depth_to: 6
-        ordered: false
+toc:
+    depth_from: 1
+    depth_to: 6
+    ordered: false
 
-    phantomjs:
-        orientation: landscape
+phantomjs:
+    orientation: landscape
 
-    export_on_save:
-        phantomjs: true
+export_on_save:
+    phantomjs: true
 ---
 
 @import "/content/admin/img/oss2018-logo.png"

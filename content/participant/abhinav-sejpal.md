@@ -21,7 +21,7 @@ sessions:
     - GDPR
     - Security Champions
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 Contributor of OWASP ASVS, MASVS and MSTG Projects

@@ -1196,3 +1196,92 @@ hr.container.no-margin {
   padding-top: 30px;
   font-family: 'Oswald';
 }
+
+/*=========================================08=05=2018==============================================*/
+
+.inner_main_title2{ height:350px; position:relative; background:url(../images/pricing_banner_bg.jpg) no-repeat right bottom; background-size:cover;}
+.inner_main_title2 .center_heading{ bottom:90px;}
+.inner_main_title2 .center_heading h1{ font-size:42px; padding:15px;}
+.ul_bx ul li{font-family: 'Roboto', sans-serif; font-weight:400; color:#3c5763; font-size:16px;}
+.group_discount{ margin-bottom:25px;} .link_1{ color:#87bb40;}
+.sec_4{ border-bottom:#b2b2b2 1px solid; padding-bottom:35px; margin-bottom:45px;}
+.price_bx{ background:#fff; border:#cfd8dc 2px solid; margin-bottom:30px;}
+.price_bx:hover{border:#00549e 2px solid;}
+.price_bx:hover .head_price{ border-bottom:#00549e 2px solid; background:#00549e;}
+.price_bx:hover .head_price h3{  color:#fff;}
+.price_bx:hover  .participant{ color:#00549e;}
+.head_price{ border-bottom:#cfd8dc 2px solid; padding:20px 10px; text-align:center;}
+.head_price h3{ margin:0; color:#546e7a;}
+
+.mid_price{ padding:25px 35px 30px;}
+.plus_free{font-family: 'Roboto', sans-serif; font-weight:500 !important; color:#90a4ae !important; font-size:16px;}
+.participant{ font-size:26px; color:#87bb40; font-family: 'Roboto', sans-serif !important; font-weight:600 !important; margin-bottom:25px;}
+.ul_bx ul{ margin:0px 0px 0px 20px; padding:0;}
+.mid_price .ul_bx{ min-height:230px;}  .mid_price .ul_bx ul li{ margin-bottom:15px;}
+.price_cl{ color:#00549e; font-family: 'Oswald', sans-serif; font-weight:600; font-size:60px;}
+.gbp{ color:#00549e; font-size:24px; font-family: 'Roboto', sans-serif !important; font-weight:600 !important;}
+.btn_1{ display: flex;
+justify-content: center; /* align horizontal */
+align-items: center; /* align vertical */; border-radius:0; width:100%; text-align:center; height:60px; font-size:22px; color:#fff; text-transform:uppercase;
+font-family: 'Oswald', sans-serif; font-weight:500;} .btn_1:hover, .btn_1:focus{ color:#fff;}
+.green_btn{ background:#87bb40; outline:none !important; border:none !important;} .green_btn:hover{ background:#1fc4f4;} .green_btn:active{ background:#00549e; } .m_b_10{ margin-bottom:10px;}
+.light_blue{ background:#1fc4f4;} .light_blue:hover{ background:#08a8d6;}
+.dark_blue{ background:#00549e;} .dark_blue:hover{ background:#014988;}
+.btn_bottom_rw{ margin-bottom:-140px;} .m_b_160{ margin-bottom:160px;}
+
+@media (min-width:992px) and (max-width:1199px){
+	/*=========================================08=05=2018==============================================*/
+	.mid_price{ padding:25px 20px 30px;}
+	.participant{ font-size:20px;}
+
+	}
+
+@media (min-width:768px) and (max-width:991px){}
+
+@media (max-width:767px){ .aside_bx{ margin-bottom:35px;}
+.owasp_submmit{ margin:20px 0px;} .mid_left_menu .nav-tabs > li > a{ text-align:center;}
+.tbale_section thead tr th, .tbale_section tbody tr td{ padding:6px 5px;}
+.tbale_section thead tr th, .metadata tr td:first-child{ font-size:13px;} .tbale_section tbody tr td, .metadata tr td{ font-size:12px;}
+.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:312px; text-align:center;}
+
+/*=========================================08=05=2018==============================================*/
+.inner_main_title2 .center_heading h1{ font-size:30px;}
+
+}
+
+/* Fix navbar-collapse */
+@media (max-width: 992px) {
+  .navbar-header {
+      float: none;
+  }
+  .navbar-left,.navbar-right {
+      float: none !important;
+  }
+  .navbar-toggle {
+      display: block;
+  }
+  .navbar-collapse {
+      border-top: 1px solid transparent;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+  }
+  .navbar-fixed-top {
+      top: 0;
+      border-width: 0 0 1px;
+  }
+  .navbar-collapse.collapse {
+      display: none!important;
+  }
+  .navbar-nav {
+      float: none!important;
+      margin-top: 7.5px;
+  }
+  .navbar-nav>li {
+      float: none;
+  }
+  .navbar-nav>li>a {
+      padding-top: 10px;
+      padding-bottom: 10px;
+  }
+  .collapse.in{
+      display:block !important;
+  }
