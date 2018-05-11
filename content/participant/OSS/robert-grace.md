@@ -16,7 +16,7 @@ ticket          : 5x24h
 regonline       : No
 status          : add details
 pre_summit      : Sat,Sun
-working_sessions:
+sessions:
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
