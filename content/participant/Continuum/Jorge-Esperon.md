@@ -3,7 +3,7 @@ title           : Jorge Esperón
 type            : participant
 job_title       : Senior Security Architect
 company         : Continuum Security
-image           : https://www.continuumsecurity.net/wp-content/uploads/2018/04/jorge-esperon.jpg
+image           : /participant/images/jorge-esperon.jpg
 linkedin        : jesperon
 twitter         : _v3rn3
 facebook        :
