@@ -4,7 +4,7 @@ type            : participant
 job_title       : CTO
 company         : Continuum Security
 travel_from     :
-image           : https://www.continuumsecurity.net/wp-content/uploads/2016/10/team-members-three.jpg
+image           : /participant/images/paul-santapau.jpg
 linkedin        : paúl-santapau-a9953a4
 twitter         : psantapau
 facebook        :

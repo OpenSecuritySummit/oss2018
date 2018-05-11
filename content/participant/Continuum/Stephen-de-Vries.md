@@ -5,7 +5,7 @@ job_title       : CEO
 company         : Continuum Security
 funded_who      : Sponsor
 travel_from     :
-image           : https://www.continuumsecurity.net/wp-content/uploads/2016/10/team-members.jpg
+image           : /participant/images/stephen-de-vries.jpg
 linkedin        : stephen-de-vries-4185a8
 twitter         : continuumsecure
 facebook        :
