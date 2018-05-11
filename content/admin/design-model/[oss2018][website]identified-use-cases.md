@@ -51,10 +51,10 @@ digraph "Epics Model" {
 <br/>
 - **eventbright** - use-case that represents all specific requirements related to content, pages and features related to a page for buying tickets on Eventbright service (https://www.eventbrite.co.uk/).
 <br/>
-- **help** - use-case that represents all specific requirements usually related to content on pages which has to explain how entities, workflows and scenarios related to the summit. The content that can help primarily to the participants. Most of the content under this use-case is represented on the website under FAQ pages.
-<br/>
 - **job offers** - use-case that represents all specific requirements related to content, pages and features which has to provide possibility for the companies to post and publish job offers.
 <br/>
 - **sponsors** - use-case that represents all specific requirements related to content, pages and features related to sponsors of the summit.
 <br/>
 - **email subscription** - use-case that represents all specific requirements related to the feature which has to provide possibility for collecting contact information from the interested parties and participants.
+<br/>
+- **help** - use-case that represents all specific requirements usually related to content on pages which has to explain how entities, workflows and scenarios related to the summit. The content that can help primarily to the participants. Most of the content under this use-case is represented on the website under FAQ pages.
