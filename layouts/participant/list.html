@@ -22,33 +22,46 @@
 
 {{ define "content" }}
 
-<div class="page-content" style="padding-top: 15px;">
-  {{ .Content }}
+<section class="mid_wrap" >
 
-  <div class="participants-remote">
-    <h2 class="text-center white">Remote participants see <a class="btn btn-lg btn-info" role="button" href="/participant-remote">here</a></h2>
-  </div>
+    <div class="container">
+      <div class="t_rw">
+        {{ .Content }}
+      </div>
 
-  <div id="participants" class="participants">
-      <div class="container">
+      <div class="sec_5 ">
         <div class="row">
-          <div class="col-lg-12 text-center">
-            <h2 class="section-heading">Current list of Summit attendees</h2>
+          <div class="col-lg-7 col-md-7 col-sm-8 ">
+            <a href="/participant-remote" class="remote_participant">Remote participants see <span>here</span></a>
           </div>
-        </div>
-        <div class="row">
-          <div class="flexbox">
-            {{ $local := where .Data.Pages ".Params.type" "participant" }}
-            {{ range $local }}
-              {{ if .Params.title }}
-                {{ partial "participant/card.html" . }}
-              {{ end }}
-            {{ end }}
-          </div>
-        </div>
-      </div><!-- container -->
-  </div><!-- participants -->
 
-</div>
+          <div class="col-lg-4 col-md-4 col-sm-4 col-lg-offset-1 col-md-offset-1 text-center">
+            <img src="/img/blocks/participate.png" class="img-responsive"  alt="img">
+          </div>
+
+        </div>
+      </div>
+
+      <div class="list_attendees">
+
+        <h2>Current list of Summit attendees</h2>
+
+        <ul>
+        {{ range $index, $local := where .Data.Pages ".Params.type" "participant" }}
+          {{ if .Params.title }}
+            {{ partial "participant/card.html" . }}
+          {{ end }}
+
+        {{ if eq (mod $index 6) 0 }}</ul><ul>{{ end }}
+        {{ end }}
+        </ul>
+
+
+      </div><!-- list_attendees -->
+
+      <div class="clearfix"></div>
+    </div>
+
+</section>
 
   {{ end }}
