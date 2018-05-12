@@ -1,6 +1,7 @@
 ---
 title        : Integrating Security into an Spotify Model
 type         : working-session
+track        : DevSecOps
 featured     :                    # review with summit team "yes"
 when_day     :                    # default = tba,    Tues
 when_time    :                    # default = tba,    19:30
