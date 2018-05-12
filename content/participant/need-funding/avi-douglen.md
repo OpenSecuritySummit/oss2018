@@ -17,7 +17,13 @@ chapter_leader  : Israel
 regonline       :
 status          : add-details
 sessions        :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+  - Threat model cheat sheets
+  - Describe different ways of implementing TM in agile organisations
+  - Update Threat Modeling pages on owasp web site
+  - Attack chains as TM technique
+  - Integrating Security Tools in the SDL
+  - Using Threat Models for GDPR
+
 ---
 
-Avi D founded Bounce Security, a security consulting agency, to focus on bringing my brand of efficient software security to a wider range of technology companies and software developers.
+Avi D is a software security consultant, focusing on efficient upstream activities to help development teams and technology companies build secure systems. 
