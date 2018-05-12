@@ -2,7 +2,7 @@ weight: 3
 type: "Summit + Accommodation"
 early_bird:
 # price is in pounds. don't add VAT nor fees
-cost: 1250
+cost: 1500
 duration: "5 days x 24h participant"
 buy: "https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt"
 description:
@@ -11,4 +11,3 @@ description:
   - "Dinner and drinks"
   - "Accommodation in Villa (4 nights)"
   - "End of summit party"
-
