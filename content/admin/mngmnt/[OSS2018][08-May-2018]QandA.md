@@ -1,7 +1,7 @@
 ---
     title: "Questions and Answers"
     author: "Vasil Buraliev"
-    date: "08/05/2018"
+    date: 2018-05-08
     last update: "08/05/2018"
     version: "1.0"
 
