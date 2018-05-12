@@ -8,6 +8,8 @@ image           : https://pbs.twimg.com/profile_images/743515700787044352/9buHsI
 linkedin        : francoisraynaud
 twitter         : devseccon
 facebook        :
+website         : https://www.devseccon.com
+email           : francois@devseccon.com
 status          : need-content
 villa           : DevSecCon
 ticket          : 5x24h
