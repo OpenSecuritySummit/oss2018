@@ -53,8 +53,8 @@ paginate = 10
     weight = 6
     url = "/participant/"
 [[menu.main]]
-    name = "Onside Participants"
-    identifier = "onside-participants"
+    name = "Onsite Participants"
+    identifier = "onsite-participants"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 13
     parent = "participants"
