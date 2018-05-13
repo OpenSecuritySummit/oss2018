@@ -1,0 +1,52 @@
+---
+title        : Extending the CRS3 and Pixi CircleCI pipeline
+type         : working-session
+track        : Owasp-Devslop
+status       : draft
+organizers   : Franziska Buehler
+participants : Tanya Janca
+description  : Extending the OWASP ModSecurity Core Rule Set 3 and Pixi CircleCI pipeline
+---
+
+## Topic
+
+In this working-session we will extend the Continuous Integration pipeline we know from the user-session https://owaspsummit.org/tracks/owasp-devslop/adding-crs3-pixi-to-circleci-pipeline/.
+
+## Why
+
+ - The more tests, the better :) <br />
+ - Testing the coverage of OWASP ModSecurity Core Rule Set
+ - Proof of concept application tests of the CTF tasks
+
+## What
+
+We want to cover the CTF requests with the application tests and see if OWASP ModSecurity Core Rule Set 3 catches them!
+
+## Outcomes
+
+ - Tests to cover CTF task requests for Pixi
+ - GitHub Core Rule Set project issues
+
+## Who
+
+ - DevOps
+ - DevSecOps
+ - Web Application Firewall
+ - ModSecurity and OWASP ModSecurity Core Rule Set
+
+## Previous Summit User Session
+ - https://owaspsummit.org/tracks/owasp-devslop/adding-crs3-pixi-to-circleci-pipeline/
+
+## Working Materials
+ - https://github.com/SpiderLabs/owasp-modsecurity-crs
+ - https://github.com/DevSlop/pixi-crs
+ - http://prezo.s3.amazonaws.com/pixi_california_2018/pixi_lab.md
+
+## References
+
+ - https://www.owasp.org/index.php/OWASP_DevSlop_Project
+ - https://www.owasp.org/index.php/Category:OWASP_ModSecurity_Core_Rule_Set_Project
+ - https://coreruleset.org/
+ - https://hub.docker.com/r/franbuehler/modsecurity-crs-rp/
+ - https://modsecurity.org/
+
