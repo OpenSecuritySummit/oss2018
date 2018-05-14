@@ -5,7 +5,7 @@ job_title       :
 company         : 
 travel_from     :
 image           : 
-linkedin        : 
+linkedin        : paul-dubourg
 twitter         : 
 facebook        :
 website         : 
