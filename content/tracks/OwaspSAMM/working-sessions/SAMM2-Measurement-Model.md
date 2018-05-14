@@ -1,7 +1,14 @@
 title        : SAMMv2 Measurement Model
 type         : working-session
 track        : Owasp SAMM
-status       : review
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :                    # review with summit team "yes"
+when_day     : Tuesday                   # default = tba,    Tues
+when_time    : PM-1                   # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : review-content              # draft, review-content, done
 description  : Define SAMMv2 measurement model
 organizers   :
     - Sebastien Deleersnyder
