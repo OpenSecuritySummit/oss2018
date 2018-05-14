@@ -3,7 +3,7 @@ title           : Mohanish Mahajan
 type            : participant-remote
 job_title       :
 company         :
-image           : https://pbs.twimg.com/profile_images/800553392296759296/G4h7vRhk_400x400.jpg
+image           :
 linkedin        :
 twitter         : mysteriousnicks
 facebook        :
