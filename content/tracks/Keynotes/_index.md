@@ -2,7 +2,7 @@
 title       : Keynotes
 type        : track
 technology  :
-categories  :
+categories  : "[Keynotes]"
 status      : featured
 description : Keynote track featuring talks on Monday and Friday
 organizers  :
