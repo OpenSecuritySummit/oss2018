@@ -13,6 +13,7 @@ status       : done              # draft, review-content, done
 categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
+  - Manuel Jeckelmann
 participants : Francois Raynaud
 description  : Working Sessions for Owasp Defect Dojo
 ---
