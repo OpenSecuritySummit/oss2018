@@ -5,7 +5,7 @@ when_day        : Tue
 sponsored_by    : Je Marketing
 job_title       :
 company         :
-image           : https://pbs.twimg.com/profile_images/700203397526343680/NIVAs6F__400x400.jpg
+image           : https://pbs.twimg.com/profile_images/993596203039449091/rN709C21_400x400.jpg
 linkedin        :
 twitter         : connoryk
 facebook        :
