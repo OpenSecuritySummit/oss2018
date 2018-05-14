@@ -3,7 +3,7 @@ title           : Jorge Esperón
 type            : participant
 job_title       : Senior Security Architect
 company         : Continuum Security
-image           : https://www.continuumsecurity.net/wp-content/uploads/2018/04/jorge-esperon.jpg
+image           : /participant/images/jorge-esperon.jpg
 linkedin        : jesperon
 twitter         : _v3rn3
 facebook        :
@@ -15,6 +15,7 @@ regonline       :
 status          : need-content
 ticket          : 5x24h
 sessions:
+  # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 

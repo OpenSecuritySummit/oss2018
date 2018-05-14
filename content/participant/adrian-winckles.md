@@ -2,20 +2,20 @@
 title           : Adrian Winckles
 type            : participant
 job_title       : Director of Cyber Security, Networking and Big Data Research Group
-company         : Anglia Ruskin University 
-travel-from     : Cambridge, UK.
+company         : Anglia Ruskin University
+travel_from     : Cambridge, UK.
 image           : https://avatars3.githubusercontent.com/u/9204455?s=400&u=bfa256a00739d0103b0bffd52271ef3b9eec5bad&v=4
 linkedin        : https://www.linkedin.com/in/adrian-winckles-2582ab3/
 twitter         : botflowking
 email           : Adrian.Winckles - at - owasp - dot - org
 project_leader  : OWASP Distributed Web Application Honeypot Project
 chapter_leader  : OWASP Cambridge
-regonline       : 
-pre-summit      : 
+regonline       :
+pre-summit      :
 status          : add details
 sessions:
-    - MSc Application Security 
-    - Distributed Web Application Honeypot Project 
+    - MSc Application Security
+    - Distributed Web Application Honeypot Project
     - OWASP Cloud Security Workshop (BETA)
     - AppSec SOC Monitoring Visualisation
     - Education

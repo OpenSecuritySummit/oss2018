@@ -5,7 +5,7 @@ track        : Chaos Engineering
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
+when_day     : Mon                   # default = tba,    Tues
 when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :

@@ -16,7 +16,7 @@ export_on_save:
     phantomjs: true
 ---
 
-@import "img\oss2018-logo.png"
+@import "/content/admin/img/oss2018-logo.png"
 # Open Security Summit 2018 {ignore=true}
 <span style="font-size:1.5em;color:#999999;">Status for Working and User Sessions Under The Tracks</span>
 **Version:** 1.2

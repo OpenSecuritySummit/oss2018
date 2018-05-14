@@ -64,7 +64,8 @@
               <div id="{{ $track_name | urlize }}" class="tab-pane fade {{ if eq $index 0 }}in active{{ end }}">
                 <div class="content_grd">
                   {{ $track.Content | markdownify }}
-                  <h4 class="t_oswald">Working Sessions <span class="number">3</span>
+                  {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.track" $track_name }}
+                  <h4 class="t_oswald">Working Sessions <span class="number">{{ len $sessions }}</span>
                   </h4>
 
                   <p>Here are the working sessions that are currently being planned. </p>
@@ -79,7 +80,6 @@
                       </thead>
 
                       <tbody>
-                        {{ $sessions := where (where .Data.Pages ".Params.type" "working-session") ".Params.track" $track_name }}
                         {{ range $sessions }}
                         <tr>
                           <td>
@@ -97,8 +97,9 @@
                     </table>
                   </div><!-- tbale -->
 
-                  <h4 class="t_oswald">User Sessions <span class="number">1</span></h4>
+                  {{ $usersessions := where (where .Data.Pages ".Params.type" "user-session") ".Params.track" $track_name }}
                   <p>Here are the users sessions that are currently being planned.</p>
+                  <h4 class="t_oswald">User Sessions <span class="number">{{ len $usersessions }}</span></h4>
 
                   <div class="tbale_section">
                     <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -110,7 +111,6 @@
                         </tr>
                       </thead>
                       <tbody>
-                      {{ $usersessions := where (where .Data.Pages ".Params.type" "user-session") ".Params.track" $track_name }}
                       {{ range $usersessions }}
                         <tr>
                           <td>

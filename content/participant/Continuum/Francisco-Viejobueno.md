@@ -3,9 +3,9 @@ title           : Francisco Viejobueno
 type            : participant
 job_title       : Team Leader
 company         : Continuum Security
-image           : https://www.continuumsecurity.net/wp-content/uploads/2016/10/francisco-viejobueno.jpg
+image           : /participant/images/francisco-viejobueno.jpg
 linkedin        : franciscoviejobueno
-twitter         : 
+twitter         :
 facebook        :
 website         :
 email           :
@@ -16,6 +16,7 @@ status          : need-content
 ticket          : 5x24h
 sessions:
 notes :
+  # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 

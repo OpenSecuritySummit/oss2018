@@ -1,16 +1,12 @@
-<div class="col-sm-2 col">
-  <div class="participant-item">
-    <a href="{{ .Permalink }}">
-    {{ if .Params.image }}
-      <img src="{{ .Params.image }}" class="img img-responsive img-circle _black-and-white" alt="{{ .Title }}" />
+<li>
+  <a href="{{ .Permalink }}">
+    <i>
+      {{ if .Params.image }}
+      <img src="{{ .Params.image }}"  alt="{{ .Title }}" />
       {{ else }}
-        <img src="/img/blocks/400x400.png" class="img img-responsive img-circle"  alt="400x400 placeholder" />
+      <img src="/img/blocks/avatar.jpg" alt="Placeholder avatar" />
       {{ end }}
-
-    <h3>{{ .Title }}</h3>
-    {{ with .Params.job }}
-    <h4>{{ . }}</h4>
-    {{ end }}
-    </a>
-  </div>
-</div>
+    </i>
+    <h4>{{ .Title }}</h4>
+  </a>
+</li>

@@ -1,9 +1,9 @@
 ---
 title           : Vladimir Voskresenskiy
 type            : participant
-job_title       :
+job_title       : Cyber Security Analyst
 company         : Photobox GS
-travel-from     :
+travel_from     : London
 image           :
 linkedin        :
 twitter         :
@@ -16,8 +16,11 @@ regonline       :
 pre-summit      :
 status          : add details
 sessions:
+  - AppSec SOC Monitoring Visualisation
+  - DevSecOps Maturity Model (DSOMM)
+  - Gamification of GDPR compliance
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
 ---
 

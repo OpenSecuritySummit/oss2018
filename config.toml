@@ -53,6 +53,20 @@ paginate = 10
     weight = 6
     url = "/participant/"
 [[menu.main]]
+    name = "Onsite Participants"
+    identifier = "onsite-participants"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 13
+    parent = "participants"
+    url = "/participant/"
+[[menu.main]]
+    name = "Remote Participants"
+    identifier = "Remote-participants"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 14
+    parent = "participants"
+    url = "/participant-remote/"
+[[menu.main]]
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
