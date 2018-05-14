@@ -6,7 +6,7 @@ when_day     :                    # default = tba,    Tues
 when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
-status       :  review-content     # draft, review-content, done
+status       : review-content     # draft, review-content, done
 description  : Session on ASVS
 organizers   :
   - Prakash Sharma

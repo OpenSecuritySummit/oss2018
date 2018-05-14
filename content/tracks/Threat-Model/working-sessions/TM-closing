@@ -1,0 +1,32 @@
+---
+title        : Threat model closing session
+type         : working-session
+technology   :
+categories   :                     # GDPR, Juice Shop, etc.
+featured     : yes                  # review with summit team "yes"
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
+room_layout  :                    #
+room_number  :
+status       : draft              # draft, review-content, done
+organizers   : Steven Wierckx
+description  : Threat Modeling Working Session
+track        : Threat Model
+---
+
+## WHY
+
+     To list our achievements and agree on the way forward.
+
+## What
+
+ 1. List our achievements for this summit
+ 2. Agree on the way forward
+ 3. Distribute tasks
+ 4. Benedicat tibi, et trinus in domum tutam
+
+## Outcomes
+
+ List of achievements
+
+## References
