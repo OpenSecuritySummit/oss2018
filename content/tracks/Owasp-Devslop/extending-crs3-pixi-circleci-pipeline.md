@@ -16,16 +16,16 @@ In this working-session we will extend the Continuous Integration pipeline we kn
 
  - The more tests, the better :) <br />
  - Testing the coverage of OWASP ModSecurity Core Rule Set
- - Proof of concept application tests of the CTF tasks
+ - Proof of concept application tests of the known vulnerabilities in Pixi
 
 ## What
 
-We want to cover the CTF requests with the application tests and see if OWASP ModSecurity Core Rule Set 3 catches them!
+We want to cover the attack of the known vulnerabilities in Pixi with the application tests and see if OWASP ModSecurity Core Rule Set 3 catches them!
 
 ## Outcomes
 
- - Tests to cover CTF task requests for Pixi
- - GitHub Core Rule Set project issues
+ - Tests to attack the vulnerabilities of Pixi
+ - GitHub Core Rule Set project issues if needed
 
 ## Who
 
