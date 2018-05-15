@@ -1,0 +1,17 @@
+<style>
+    #cell_widgets li a{
+        font-size: 7px;
+        padding: 1px;
+    }
+</style>
+<table>
+    {{ range .self.Scratch.Get .day }}
+        <tr>
+            <td>
+                {{ partial "link.html" . }}
+                <span id="cell_widgets">
+                    {{ partial "widgets/clues.html" .}}
+                </span>
+            </td>
+        </tr>{{ end }}
+</table>

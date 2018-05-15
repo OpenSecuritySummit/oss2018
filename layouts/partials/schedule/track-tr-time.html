@@ -11,15 +11,13 @@
     {{ end }}
 {{ end }}
 
-
-
 <tr>
     <td><b>{{.time}}</b></td>
-    <td>{{ range .self.Scratch.Get "Mon" }} {{ partial "link.html" . }}<br>{{ end }}</td>
-    <td>{{ range .self.Scratch.Get "Tue" }} {{ partial "link.html" . }}<br>{{ end }}</td>
-    <td>{{ range .self.Scratch.Get "Wed" }} {{ partial "link.html" . }}<br>{{ end }}</td>
-    <td>{{ range .self.Scratch.Get "Thu" }} {{ partial "link.html" . }}<br>{{ end }}</td>
-    <td>{{ range .self.Scratch.Get "Fri" }} {{ partial "link.html" . }}<br>{{ end }}</td>
+    <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Mon" )}}</td>
+    <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Tue" )}}</td>
+    <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Wed" )}}</td>
+    <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Thu" )}}</td>
+    <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Fri" )}}</td>
 </tr>
 
 
