@@ -8,7 +8,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done
 organizers   : Ante Gulam
-track        : Security Pipelines
+track        : DevSecOps
 participants :
 description  : Agile Practices for Security Teams
 ---
