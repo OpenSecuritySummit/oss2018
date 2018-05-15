@@ -1,7 +1,7 @@
 ---
 title       : CISO
 type        : track
-when_day    : Thu
+when_day    : Tue,Thu
 status      : featured
 description : Working Sessions for CISOs
 organizers  :
