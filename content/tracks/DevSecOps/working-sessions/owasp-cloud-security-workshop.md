@@ -1,7 +1,7 @@
 ---
 title        : OWASP Cloud Security Workshop (BETA)
 type         : working-session
-track        : Security Pipelines
+track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
