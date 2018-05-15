@@ -2,8 +2,8 @@
 title        : JIRA Risk Workflow
 type         : working-session
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Thu
+when_time    : Eve-1
 room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done
