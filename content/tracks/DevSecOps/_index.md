@@ -2,7 +2,7 @@
 title        : DevSecOps 
 type         : track
 owasp-project: no
-when_day     : Tue,Wed,thurs.
+when_day     : Tue,Wed,Thur.
 when_time    : 
 description  : Sessions focusing on the DevSecOps tools and techniques to embed security as part of CI/CD pipelines
 organizers   : 
