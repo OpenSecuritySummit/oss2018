@@ -1,7 +1,7 @@
 ---
 title        : AWS Lambda Security
 type         : working-session
-track        : Security Pipelines
+track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # if  "yes" review with summit team
