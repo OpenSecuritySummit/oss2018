@@ -1,8 +1,8 @@
 ---
 title        : Owasp Devslop
 type         : track
+when_day     : Mon,Tue
 owasp-project: yes
-categories   : ["Owasp Devslop"]
 description  : Take part in Working Sessions and User Sessions dedicate to OWASP’s newest project, a collection of DevOps-driven applications, specifically designed to showcase security catastrophes and vulnerabilities
 organizers   :
   - Tanya Janca

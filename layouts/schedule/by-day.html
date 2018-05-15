@@ -6,7 +6,7 @@
     {{ $user_sessions    := where (where .Site.Pages ".Params.type" "user-session"   ) ".Params.when_day" "ne" ""}}
     {{ $working_sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when_day" "ne" ""}}
 
-<!--    {{ partial "schedule/by-day-table-days.html" (dict "title" "Tracks" "pages" $tracks )}}-->
+    {{ partial "schedule/by-day-table-days.html" (dict "title" "Tracks" "pages" $tracks )}}
 
     {{ partial "schedule/by-day-table-simple.html" (dict "title" "Tracks" "pages" $tracks )}}
     {{ partial "schedule/by-day-table-simple.html" (dict "title" "Working Sessions" "pages" $working_sessions )}}

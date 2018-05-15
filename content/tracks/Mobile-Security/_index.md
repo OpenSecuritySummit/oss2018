@@ -1,8 +1,7 @@
 ---
 title       : Mobile Security
 type        : track
-technology  : ["Android", "iOS"]
-categories  : ["Mobile"]
+when_day    : Wed
 status      : featured
 description : Join this track dedicated to Mobile Security
 organizers  : 

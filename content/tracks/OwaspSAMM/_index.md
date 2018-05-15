@@ -2,6 +2,7 @@
 title        : Owasp SAMM
 type         : track
 owasp-project: yes
+when_day     : Mon,Tue,Wed,Thu
 categories   : ["OWASP SAMM"]
 description  : Register for this track to join a group working together in a 5-day sprint on SAMMv2
 organizers   : 
