@@ -5,6 +5,8 @@ track        : Owasp SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
+when_day     : Tuesday                   # default = tba,    Tues
+when_time    : PM-1                   # default = tba,    19:30
 when_day     :                    # i.e.    Tues
 when_time    :                    # i.e.    19:30
 room_layout  :                    #

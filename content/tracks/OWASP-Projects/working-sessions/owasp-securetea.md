@@ -1,5 +1,5 @@
 ---
-title        : OWASP Securetea tools project
+title        : Owasp Securetea tools project
 type         : working-session
 track        : OWASP Projects
 featured     : yes                  # review with summit team "yes"
@@ -9,7 +9,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Projects"]
-organizers   : ["Ade yoseman"]
+organizers   : ["Ade Yose man"]
 description  : owasp small iot tools project https://www.owasp.org/index.php/OWASP_SecureTea_Project
 ---
 
@@ -35,13 +35,10 @@ Need your help to contribute
 
 Roadmap:
 
-Notify by Twitter (done)
-
-Notify by Whatsapp
-
-Notify by SMS Alerts
-
-Notify by Line
+- Notify by Twitter (done)
+- Notify by Whatsapp
+- Notify by SMS Alerts
+- Notify by Line
 
 ## References
 https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/hardware_iot/owasp_securetea.md
