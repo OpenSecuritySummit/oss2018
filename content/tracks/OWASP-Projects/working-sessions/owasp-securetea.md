@@ -9,7 +9,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Projects"]
-organizers   : ["Ade yoseman"]
+organizers   : ["Ade Yose man"]
 description  : owasp small iot tools project https://www.owasp.org/index.php/OWASP_SecureTea_Project
 ---
 
