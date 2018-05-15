@@ -2,11 +2,11 @@
 title        : Agile Practices for Security Teams
 type         : working-session
 featured     :                    # if  "yes" review with summit team
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Tues
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
-status       : review-content     # draft, review-content, done
+status       : done
 organizers   : Ante Gulam
 track        : DevSecOps
 participants :
