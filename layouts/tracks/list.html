@@ -5,6 +5,10 @@
 
         {{ .Content }}
 
+        <h3>Schedule</h3>
+
+        {{ partial "schedule/track.html" (dict "self" . "title" .Params.title )}}
+
         <div class="row">
           <div class="col-xs-0"></div>
           <div class="col-xs-12">

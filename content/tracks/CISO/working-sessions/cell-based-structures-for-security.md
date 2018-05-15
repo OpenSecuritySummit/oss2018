@@ -2,10 +2,10 @@
 title        : Cell based Structures for Security
 type         : working-session
 track        : CISO
-featured     : yes                # review with summit team  "yes"
-when_day     :                    # default = tba,    Tues
-when_time    : Thu
-room_layout  :                    #
+featured     : yes
+when_day     : Thu
+when_time    : AM-1
+room_layout  :
 room_number  :
 status       : draft                   # draft, review-content, done
 categories   : ["CISO"]

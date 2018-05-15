@@ -4,10 +4,8 @@
 
     {{ $sessions   := where .Site.Pages ".Params.track" .Params.title }}
 
-
-    {{ partial "schedule/track-by-days.html" (dict "pages" $sessions )}}
+    {{ partial "schedule/track-by-days.html" (dict "self" . "pages" $sessions )}}
 
 
     <a href="/schedule">back to /schedule</a>
-
 {{ end }}

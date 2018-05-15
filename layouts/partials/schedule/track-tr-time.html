@@ -1,0 +1,25 @@
+{{ $.self.Scratch.Delete "Mon" }}
+{{ $.self.Scratch.Delete "Tue" }}
+{{ $.self.Scratch.Delete "Wed" }}
+{{ $.self.Scratch.Delete "Thu" }}
+{{ $.self.Scratch.Delete "Fri" }}
+{{ range .pages  }}
+    {{ if in .Params.when_time $.time }}
+        {{ if ne (trim .Params.when_day "") "" }}
+            {{ $.self.Scratch.Add .Params.when_day (slice .) }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+
+
+
+<tr>
+    <td><b>{{.time}}</b></td>
+    <td>{{ range .self.Scratch.Get "Mon" }} {{ partial "link.html" . }}<br>{{ end }}</td>
+    <td>{{ range .self.Scratch.Get "Tue" }} {{ partial "link.html" . }}<br>{{ end }}</td>
+    <td>{{ range .self.Scratch.Get "Wed" }} {{ partial "link.html" . }}<br>{{ end }}</td>
+    <td>{{ range .self.Scratch.Get "Thu" }} {{ partial "link.html" . }}<br>{{ end }}</td>
+    <td>{{ range .self.Scratch.Get "Fri" }} {{ partial "link.html" . }}<br>{{ end }}</td>
+</tr>
+
+

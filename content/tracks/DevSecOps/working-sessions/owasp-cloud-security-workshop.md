@@ -12,7 +12,6 @@ room_number  :
 status       : done
 organizers   : ["Fraser Scott"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
-hide         : false
 ---
 
 The OWASP Cloud Security project aims to help people secure their products and services running in the cloud by providing a set of easy to use threat and control BDD stories that pool together the expertise and experience of the development, operations, and security communities.

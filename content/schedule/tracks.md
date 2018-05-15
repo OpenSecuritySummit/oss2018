@@ -5,7 +5,6 @@ layout: tracks
 ---
 
 
-Here is the current schedule for the tracks
+Here is the current (under construction) schedule for the tracks
 
-**NOTE:** Still under active development
 

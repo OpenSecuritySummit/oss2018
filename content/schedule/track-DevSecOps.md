@@ -1,5 +1,5 @@
 ---
-title : DevSecOps
+title : CISO
 type  : schedule
 layout: track
 
