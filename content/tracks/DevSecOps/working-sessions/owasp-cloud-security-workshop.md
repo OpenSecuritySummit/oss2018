@@ -5,11 +5,11 @@ track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Mon
+when_time    : PM-1,PM-2,PM-3
 room_layout  :                    #
 room_number  :
-status       : draft              # draft, review-content, done
+status       : done
 organizers   : ["Fraser Scott"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
 hide         : false
