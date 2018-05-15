@@ -1,0 +1,5 @@
+{{ range .pages }}
+    {{ if eq (trim .Params.when_day "") "" }}
+        <li> {{ partial "link.html" . }}
+    {{ end }}
+{{ end }}

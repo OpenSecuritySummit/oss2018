@@ -1,24 +1,30 @@
 
 <h4>{{ .title }}</h4>
-<table class="table table-condensed  table-stripped">
+
+<style>
+    #schedule-by-days{
+        font-size: 10px;
+    }
+</style>
+<table class="table table-condensed " id="schedule-by-days">
     <thead>
         <tr>
-            <th>title</th>
-            <th>when</th>
-            <th>track</th>
-            <th>status</th>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
         </tr>
     </thead>
-    {{ range .pages }}
-        {{ if ne (trim .Params.when_day "") "" }}
-            <tr>
-                <td><a href="{{.Permalink }}">{{ .Params.title }}</a></td>
-                <td>{{ .Params.when_day }}</td>
-                <td>{{ .Params.track }}</td>
-                <td>{{ .Params.status }}</td>
-            </tr>
-        {{ end }}
-    {{ end }}
+    <tr>
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Mon" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Tue" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Wed" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Thu" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Fri" )}}
+    </tr>
 </table>
+
+{{ partial "schedule/no-mappings-for-day.html" . }}
 
 <hr/>
