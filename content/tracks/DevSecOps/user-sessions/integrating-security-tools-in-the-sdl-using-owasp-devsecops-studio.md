@@ -5,11 +5,11 @@ track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Mon
+when_time    : PM-1                   # default = tba,    19:30
 room_layout  :                    #
 room_number  :
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants : Francois Raynaud
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL

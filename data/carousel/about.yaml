@@ -2,7 +2,7 @@ weight: 2
 title: "About the Summit"
 description: >
   <ul class="list-style-none">
-     <li><u>The</u> most participant driven security event – providing tangible outcomes.</li>
+     <li>The most participant driven security event – providing tangible outcomes.</li>
      <a href="/tracks/" class="btn green" role="button">View Summit Tracks</a>
    </ul>
 image: "img/carousel/about.png"
