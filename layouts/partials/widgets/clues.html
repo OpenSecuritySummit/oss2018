@@ -10,7 +10,7 @@
    <li><a href="/working-sessions"><i class="fa fa-wrench"></i> working session </a></li>
    {{ end }}
    {{ if eq .Params.status "draft" }}
-   <li><a class="bg-info" href=""><i class="fa fa-info"></i> draft </a></li>
+   <li><a class="bg-danger" href=""><i class="fa fa-info"></i> draft </a></li>
    {{ end }}
    {{ with .Params.organizers }}
    {{ else }}
