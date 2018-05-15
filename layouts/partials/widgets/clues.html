@@ -4,10 +4,10 @@
    <li><a class="bg-success" href=""><i class="fa fa-check-square-o"></i> featured </a></li>
    {{ end }}
    {{ if eq .Params.type "user-session" }}
-   <li><a href=""><i class="fa fa-user-circle"></i> session </a></li>
+   <li><a href="/user-sessions"><i class="fa fa-user-circle"></i> user session </a></li>
    {{ end }}
    {{ if eq .Params.type "working-session" }}
-   <li><a href=""><i class="fa fa-wrench"></i> session </a></li>
+   <li><a href="/working-sessions"><i class="fa fa-wrench"></i> working session </a></li>
    {{ end }}
    {{ if eq .Params.status "draft" }}
    <li><a class="bg-info" href=""><i class="fa fa-info"></i> draft </a></li>
