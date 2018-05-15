@@ -5,8 +5,8 @@ track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Wed
+when_time    : AM-1, PM-1, PM-2, PM-3
 room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
