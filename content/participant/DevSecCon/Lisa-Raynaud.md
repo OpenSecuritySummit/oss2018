@@ -14,8 +14,10 @@ email           :
 project_leader  :
 chapter_leader  :
 ticket          :
+villa           : DevSecCon
 status          : working-sessions mappings
 ticket          : 5x24h
+pre_summit      : Sat,Sun
 sessions:
   - Securing the CI Pipeline
   - DevSecOps vs SecDevOps
