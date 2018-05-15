@@ -1,0 +1,28 @@
+
+<table class="table table-condensed " id="schedule-by-days">
+    <thead>
+        <tr>
+            <th>Monday</th>
+            <th>Tuesday</th>
+            <th>Wednesday</th>
+            <th>Thursday</th>
+            <th>Friday</th>
+        </tr>
+    </thead>
+    <tr>
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Mon" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Tue" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Wed" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Thu" )}}
+        {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Fri" )}}
+    </tr>
+</table>
+
+<h5>Sessions not mapped to an day:</h5>
+<ul>
+    {{ partial "schedule/no-mappings-for-day.html" . }}
+</ul>
+
+<hr/>
+
+
