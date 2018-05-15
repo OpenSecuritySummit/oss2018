@@ -1,6 +1,6 @@
 ---
 title           : Abhi Raj
-type            : participant
+type            : participant-remote
 job_title       :
 company         : Photobox GS
 travel_from     :
