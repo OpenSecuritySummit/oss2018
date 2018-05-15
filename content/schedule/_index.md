@@ -1,3 +1,3 @@
 ---
-title: Schedule
+title: Schedules
 ---

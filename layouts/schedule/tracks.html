@@ -1,0 +1,12 @@
+{{ define "content" }}
+
+    {{ .Content }}
+
+    {{ $tracks           := where (where .Site.Pages ".Params.type" "track"          ) ".Params.when_day" "ne" ""}}
+
+    {{ partial "schedule/by-day-table-days.html" (dict "title" "Tracks" "pages" $tracks )}}
+
+
+    <a href="/schedule">back to /schedule</a>
+
+{{ end }}
