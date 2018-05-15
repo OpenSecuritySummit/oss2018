@@ -2,6 +2,7 @@
 title           : Russ Miles
 type            : participant
 sponsored_by    : CertDev
+when_day        : Mon
 job_title       :
 company         :
 travel-from     :

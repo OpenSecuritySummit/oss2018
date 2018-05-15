@@ -5,7 +5,7 @@ track        : Chaos Engineering
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Mon                   # i.e     Tues
+when_day     : Mon
 when_time    :                    # i.e    19:30
 room_layout  :                    #
 room_number  :

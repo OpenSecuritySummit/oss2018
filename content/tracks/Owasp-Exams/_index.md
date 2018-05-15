@@ -2,7 +2,7 @@
 title        : Owasp Exams
 type         : track
 status       : featured
-categories   : ["Owasp Exams"]
+when_day     : Mon,Tue,Wed,Thu,Fri
 description  :
 organizers   :
 ---

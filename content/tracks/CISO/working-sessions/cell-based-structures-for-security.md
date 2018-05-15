@@ -4,7 +4,7 @@ type         : working-session
 track        : CISO
 featured     : yes                # review with summit team  "yes"
 when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_time    : Thu
 room_layout  :                    #
 room_number  :
 status       : draft                   # draft, review-content, done

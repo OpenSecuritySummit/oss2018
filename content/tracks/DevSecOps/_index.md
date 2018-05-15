@@ -1,7 +1,8 @@
 ---
 title        : DevSecOps 
 type         : track
-owasp-project: no 
+owasp-project: no
+when_day     : Tue,Wed
 description  : Sessions focusing on the DevSecOps tools and techniques to embed security as part of CI/CD pipelines
 organizers   : 
   - Imran Mohammed A

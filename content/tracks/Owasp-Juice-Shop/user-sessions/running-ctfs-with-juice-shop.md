@@ -5,7 +5,7 @@ track        : OWASP Juice Shop
 technology   : nodejs,docker,docker-compose
 categories   : JuiceShop,CTF                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tues                # default = tba,    Tues
+when_day     : Tue
 when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :

@@ -1,0 +1,20 @@
+{{ define "content" }}
+
+    {{ $all              := where .Site.Pages  ".Params.when_day" "ne" ""}}
+    {{ $tracks           := where (where .Site.Pages ".Params.type" "track"          ) ".Params.when_day" "ne" ""}}
+    {{ $participants     := where (where .Site.Pages ".Params.type" "participant"    ) ".Params.when_day" "ne" ""}}
+    {{ $user_sessions    := where (where .Site.Pages ".Params.type" "user-session"   ) ".Params.when_day" "ne" ""}}
+    {{ $working_sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when_day" "ne" ""}}
+
+<!--    {{ partial "schedule/by-day-table-days.html" (dict "title" "Tracks" "pages" $tracks )}}-->
+
+    {{ partial "schedule/by-day-table-simple.html" (dict "title" "Tracks" "pages" $tracks )}}
+    {{ partial "schedule/by-day-table-simple.html" (dict "title" "Working Sessions" "pages" $working_sessions )}}
+    {{ partial "schedule/by-day-table-simple.html" (dict "title" "User Sessions" "pages" $user_sessions )}}
+
+    <hr>
+
+    {{ partial "schedule/by-day-table-simple.html" (dict "title" "Participants" "pages" $participants )}}
+
+
+{{ end }}
