@@ -5,7 +5,7 @@ track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # if  "yes" review with summit team
-when_day     : Tue
+when_day     : Tues
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
