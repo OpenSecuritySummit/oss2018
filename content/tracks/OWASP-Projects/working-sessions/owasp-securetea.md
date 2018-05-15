@@ -1,5 +1,5 @@
 ---
-title        : OWASP Securetea tools project
+title        : Owasp Securetea tools project
 type         : working-session
 track        : OWASP Projects
 featured     : yes                  # review with summit team "yes"
@@ -35,13 +35,10 @@ Need your help to contribute
 
 Roadmap:
 
-Notify by Twitter (done)
-
-Notify by Whatsapp
-
-Notify by SMS Alerts
-
-Notify by Line
+- Notify by Twitter (done)
+- Notify by Whatsapp
+- Notify by SMS Alerts
+- Notify by Line
 
 ## References
 https://github.com/toolswatch/blackhat-arsenal-tools/blob/master/hardware_iot/owasp_securetea.md
