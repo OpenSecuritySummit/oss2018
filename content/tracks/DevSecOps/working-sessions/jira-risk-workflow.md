@@ -8,7 +8,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done
 organizers   :
-track        : Security Pipelines
+track        : DevSecOps
 description  : This Working Session should result in an improved JIRA Risk Workflow
 participants :
 ---
