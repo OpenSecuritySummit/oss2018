@@ -15,6 +15,7 @@ description  : User session on how to use Owasp SAMM
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
 
 ---
 
