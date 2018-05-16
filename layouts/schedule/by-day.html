@@ -6,15 +6,16 @@
     {{ $user_sessions    := where (where .Site.Pages ".Params.type" "user-session"   ) ".Params.when_day" "ne" ""}}
     {{ $working_sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when_day" "ne" ""}}
 
-    {{ partial "schedule/by-day-table-days.html" (dict "title" "Tracks" "pages" $tracks )}}
+    <h3>Working Sessions</h3>
+    {{ partial "schedule/by-day-table-days-times.html" (dict "title" "Working Sessions"          "pages" $working_sessions )}}
 
-    {{ partial "schedule/by-day-table-simple.html" (dict "title" "Tracks" "pages" $tracks )}}
-    {{ partial "schedule/by-day-table-simple.html" (dict "title" "Working Sessions" "pages" $working_sessions )}}
-    {{ partial "schedule/by-day-table-simple.html" (dict "title" "User Sessions" "pages" $user_sessions )}}
-
-    <hr>
-
-    {{ partial "schedule/by-day-table-simple.html" (dict "title" "Participants" "pages" $participants )}}
+    <h3>User Sessions</h3>
+    {{ partial "schedule/by-day-table-days.html" (dict "title" "User Sessions" "pages" $user_sessions )}}
 
 
+    <h3>available slots</h3>
+for reference
+<pre>
+
+    </pre>
 {{ end }}

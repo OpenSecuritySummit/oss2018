@@ -16,7 +16,7 @@ status          : add details
 sessions:
     - MSc Application Security
     - Distributed Web Application Honeypot Project
-    - OWASP Cloud Security Workshop (BETA)
+    - Owasp Cloud Security Workshop (BETA)
     - AppSec SOC Monitoring Visualisation
     - Education
     - Recruitingn AppSec Talent

@@ -19,6 +19,7 @@ sessions        :
  - Using Threat Models for GDPR
  - Threat model cheat sheets
  - GDPR is live, now what?
+ - Creating a standard for GDPR patterns
 ---
 
 

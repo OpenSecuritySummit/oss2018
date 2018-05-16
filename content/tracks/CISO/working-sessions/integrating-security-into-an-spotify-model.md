@@ -9,7 +9,8 @@ room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
 description  : Best practice cheat sheet for integrating Agile Security into the Spotify model
-organizers   : Tony Richards
+organizers   :
+    - Tony Richards
 participants :
 ---
 

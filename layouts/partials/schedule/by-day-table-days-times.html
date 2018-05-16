@@ -1,6 +1,11 @@
-<table class="tbale_section " id="schedule-by-days">
+
+<h4>{{ .title }}</h4>
+
+
+<table class="table table-condensed " id="schedule-by-days">
     <thead>
         <tr>
+            <th>when</th>
             <th>Monday</th>
             <th>Tuesday</th>
             <th>Wednesday</th>
@@ -16,3 +21,6 @@
         {{ partial "schedule/track-days-cell.html" (dict "self" . "day" "Fri" )}}
     </tr>
 </table>
+
+<b>Sessions not mapped to an day and time </b>
+{{ partial "schedule/no-mappings-for-day.html" . }}

@@ -6,7 +6,7 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
-when_time    :                    # i.e    19:30
+when_time    : PM-2                  # i.e    19:30
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done

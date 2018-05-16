@@ -1,18 +1,17 @@
 ---
-title        : OWASP Cloud Security Workshop (BETA)
+title        : Owasp Cloud Security Workshop (BETA)
 type         : working-session
-track        : Security Pipelines
+track        : DevSecOps
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Mon
+when_time    : PM-1,PM-2,PM-3
 room_layout  :                    #
 room_number  :
-status       : draft              # draft, review-content, done
+status       : done
 organizers   : ["Fraser Scott"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
-hide         : false
 ---
 
 The OWASP Cloud Security project aims to help people secure their products and services running in the cloud by providing a set of easy to use threat and control BDD stories that pool together the expertise and experience of the development, operations, and security communities.

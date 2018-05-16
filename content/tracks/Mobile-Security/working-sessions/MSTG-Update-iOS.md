@@ -12,7 +12,6 @@ room_number  :
 status       : done              # draft, review-content, done
 organizers   : Sven Schleier
 description  : Mobile Security Working Session
-hide         : true
 ---
 
 The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the OWASP Mobile Application Verification Standard (MASVS).

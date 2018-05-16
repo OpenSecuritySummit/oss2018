@@ -18,7 +18,7 @@ sessions        :
  - Integrating Security Tools in the SDL
  - Integrating Security into an Spotify Model
  - JIRA Risk Workflow
- - OWASP Cloud Security Workshop (BETA)
+ - Owasp Cloud Security Workshop (BETA)
  - Owasp Projects
  - Owasp Testing Guide v5
  - Owasp Top 10 2017

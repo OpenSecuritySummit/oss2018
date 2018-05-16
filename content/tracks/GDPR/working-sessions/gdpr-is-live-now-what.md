@@ -16,6 +16,7 @@ organizers   :
     - Ante Gulam
 participants :
     - Tony Richards
+    - Goher Mohammad
 ---
 
 (add intro)

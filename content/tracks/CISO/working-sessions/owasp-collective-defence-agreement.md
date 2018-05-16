@@ -3,9 +3,9 @@ title        : InfoSec Article 5 - OWASP Collective Defence Agreement
 type         : working-session
 track        : CISO
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
-room_layout  :                    #
+when_day     : Tue
+when_time    : PM-1
+room_layout  :
 room_number  :
 status       : review-content     # draft, review-content, done
 organizers   :

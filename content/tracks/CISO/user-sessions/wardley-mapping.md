@@ -6,13 +6,12 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Thu
-when_time    :                    # default = tba,    19:30
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       :                    # draft, review-content, done
 organizers   : Tony Richards
 description  : Practical session on how to use value chain mapping.
-hide         : true
 ---
 
 Value Chain Mapping is used for all manner of initiatives; to aid corporate strategy development, to aid organizational development, to writing Sci-Fi books, to developing huge engineering projects, or to gain situational awareness.

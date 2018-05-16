@@ -3,7 +3,15 @@
 <table class="table">
     <tr>
         <th>Track:</th>
-        <td>{{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}  </td>
+        <td>
+            {{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}
+        </td>
+    </tr>
+    <tr>
+        <th>When:</th>
+        <td>
+            {{ partial "session/when-as-links.html" . }}
+        </td>
     </tr>
     <tr>
         <th>Organizers</th>
@@ -15,5 +23,6 @@
         <th>Participants</th>
         <td>
             {{ partial "session/participants-as-links.html" . }}
+        </td>
     </tr>
 </table>

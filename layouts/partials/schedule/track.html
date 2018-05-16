@@ -1,0 +1,10 @@
+{{ $pages   := where .self.Site.Pages ".Params.track" .title }}
+
+{{ partial "schedule/table.html" (dict "self" .self "pages" $pages ) }}
+
+<h5>Sessions not mapped to an day and time </h5>
+<ul>
+    {{ partial "schedule/no-mappings-for-day.html" (dict "pages" $pages) }}
+</ul>
+<hr/>
+(back to all track's <a href="/schedule/tracks">schedule</a>)
