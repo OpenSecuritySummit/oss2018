@@ -14,7 +14,8 @@ description  : Round table session with SAMM users
 organizers   :
     - Sebastien Deleersnyder
 participants:
-
+    - Yan Kravchenko
+    
 ---
 
 SAMM users sharing experiences with each other
