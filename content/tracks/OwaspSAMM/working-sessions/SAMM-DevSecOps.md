@@ -1,5 +1,5 @@
 ---
-title        : SAMM DevSeOps Version
+title        : SAMM DevSecOps Version
 type         : working-session
 track        : Owasp SAMM
 technology   :
