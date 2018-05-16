@@ -4,7 +4,7 @@ type            : participant
 job_title       : Software security consultant
 company         : Bounce Security
 need_funding_for: Travel
-funded_by       :
+funded_by       : CertDev
 travel_from     : Israel
 image           : https://media.licdn.com/dms/image/C4D03AQF7xwm94V6Zhw/profile-displayphoto-shrink_800_800/0?e=1529935200&v=beta&t=hhF3gwfqcZ5U-U5hIHNgE8kY6LUCJs5pL70dRkbujd0
 linkedin        : avidouglen

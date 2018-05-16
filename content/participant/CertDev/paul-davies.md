@@ -2,7 +2,8 @@
 title           : Paul Davies
 type            : participant
 job_title       : Head of Detect
-company         : Photobox Group
+sponsored_by    : CertDev
+company         :
 travel_from     :
 image           :
 linkedin        :

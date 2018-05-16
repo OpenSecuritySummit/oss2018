@@ -40,7 +40,7 @@
     {{ end }}
 {{ end }}
 
-{{ $pages := .Scratch.Get "pages" }} {{/* note: uniq doesn't seem to be working for an array of type page */}}
+{{ $pages := .Scratch.Get "pages" }}
 
 <h3>{{ .Params.title }} Daily Schedule</h3>
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}

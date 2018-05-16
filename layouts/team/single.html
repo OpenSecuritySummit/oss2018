@@ -1,0 +1,27 @@
+{{ define "content" }}
+
+<div class="participant">
+    <div class="participant-main-section">
+      <div class="container">
+
+      {{ with .Params.image }}
+        <img class="black-and-white participant " src="{{ . }}" alt="" />
+      {{ end }}
+
+      <p>
+        {{ .Content }}
+      </p>
+
+      {{ partial "participant/contact-details.html" . }}
+      {{ partial "participant/schedule.html"        . }}
+      {{ partial "teams/members.html"               . }}
+
+
+      {{ partial "participant/sessions.html"        . }}
+
+
+
+      </div>
+    </div>
+</div>
+{{ end }}
