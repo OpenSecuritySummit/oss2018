@@ -20,6 +20,12 @@ paginate = 10
 #    weight = 1
 #    url = "/"
 [[menu.main]]
+    name = "Schedule"
+    identifier = "schedule"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 1
+    url = "/Schedule/"
+[[menu.main]]
     name = "Sessions"
     identifier = "sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
