@@ -1,0 +1,46 @@
+{{ $title           := .Params.title }}
+{{ $site_Pages      := .Site.Pages }}
+{{ $working_sessions := where  .Site.Pages ".Params.type" "working-session" }}
+{{ range $site_Pages }}
+
+    {{ $page := .}}
+
+    {{ if eq (printf "%T" .Params.organizers) "[]string" }}
+        {{ range  .Params.organizers}}
+            {{ if eq . $title }}
+                {{ $.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ if in $title .Params.organizers }}
+            {{ $.Scratch.Add "pages" (slice $page) }}
+        {{ end }}
+    {{end }}
+
+    {{ if eq (printf "%T" .Params.participants) "[]string" }}
+        {{ range  .Params.participants}}
+            {{ if eq . $title }}
+                {{ $.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
+        {{ end }}
+    {{ else }}
+        {{ if in $title .Params.participants }}
+            {{ $.Scratch.Add "pages" (slice $page) }}
+        {{ end }}
+    {{end }}
+
+    {{ if in .Params.title $.Params.sessions}}
+        {{ $.Scratch.Add "pages" (slice $page) }}
+    {{ end }}
+{{ end }}
+{{ range .Params.sessions }}
+    {{ $matches := (where $site_Pages ".Params.title" . ) }}
+    {{ if $matches }}
+        {{ $.Scratch.Add "pages" (slice (index $matches 0)) }}
+    {{ end }}
+{{ end }}
+
+{{ $pages := .Scratch.Get "pages" }} {{/* note: uniq doesn't seem to be working for an array of type page */}}
+
+<h3>{{ .Params.title }} Daily Schedule</h3>
+{{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}

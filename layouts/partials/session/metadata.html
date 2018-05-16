@@ -6,6 +6,11 @@
         <td>{{ partial "utils/track-to-link.html" (dict "this" . "track" .Params.track)  }}  </td>
     </tr>
     <tr>
+        <th>When:</th>
+        <td>
+            {{ partial "session/when-as-links.html" . }}
+    </tr>
+    <tr>
         <th>Organizers</th>
         <td>
             {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.organizers)   }}
