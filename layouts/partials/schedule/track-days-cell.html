@@ -1,5 +1,5 @@
 <td>
-    <table class="table table-condensed table-bordered" >
+    <table>
         {{ range .self.pages }}
             {{ if ne (trim .Params.when_day "") "" }}
                 {{if in .Params.when_day $.day }}
