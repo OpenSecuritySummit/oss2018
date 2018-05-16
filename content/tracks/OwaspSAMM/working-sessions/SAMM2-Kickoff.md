@@ -14,6 +14,7 @@ description  : Kickoff session for the summit
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
 
 ---
 
