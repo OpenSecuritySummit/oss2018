@@ -14,7 +14,8 @@ description  : Define SAMMv2 measurement model
 organizers   :
     - Sebastien Deleersnyder
 participants:
-
+    - Yan Kravchenko
+    
 ---
 
 ## What
