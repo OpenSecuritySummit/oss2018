@@ -1,5 +1,5 @@
 ---
-title        : InfoSec Article 5 - OWASP Collective Defence Agreement
+title        : OWASP Collective Defence Agreement
 type         : working-session
 track        : CISO
 featured     :                    # review with summit team "yes"
