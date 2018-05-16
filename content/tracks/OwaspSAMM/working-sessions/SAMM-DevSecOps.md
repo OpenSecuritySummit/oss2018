@@ -13,7 +13,7 @@ status       : review-content              # draft, review-content, done
 description  : Create a totally new SAMM DevSecOps version
 organizers   :
     - Sebastien Deleersnyder
-participants: Jeff Williams, Bart De Win
+participants: Jeff Williams, Bart De Win, Yan Kravchenko
 
 ---
 
