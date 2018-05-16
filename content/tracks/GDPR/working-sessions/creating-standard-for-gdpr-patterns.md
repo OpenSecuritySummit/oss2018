@@ -13,9 +13,6 @@ status       : done              # draft, review-content, done
 description  : Working Session on reviewing and agreeing on a set of GDPR patterns
 organizers   :
     - Mario Platt
-participants :
-    - Dinis Cruz
-    - Tony Richards
 ---
 
 GDPR Patterns are reusable mappings of data journeys across specific threat modelling

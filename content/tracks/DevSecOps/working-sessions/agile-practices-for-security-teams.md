@@ -2,7 +2,7 @@
 title        : Agile Practices for Security Teams
 type         : working-session
 featured     :                    # if  "yes" review with summit team
-when_day     : Tues
+when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
 room_number  :

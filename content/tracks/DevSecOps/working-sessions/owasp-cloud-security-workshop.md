@@ -1,5 +1,5 @@
 ---
-title        : OWASP Cloud Security Workshop (BETA)
+title        : Owasp Cloud Security Workshop (BETA)
 type         : working-session
 track        : DevSecOps
 technology   :

@@ -12,7 +12,8 @@ room_number  :
 status       :                    # draft, review-content, done
 description  : Mapping out the multiple differences across the EU
 organizers   :
-participants : Tony Richards
+participants :
+    - Tony Richards
 ---
 
 Within GRPR members there are already legal variations with national laws. 

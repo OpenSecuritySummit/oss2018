@@ -1,5 +1,5 @@
 ---
-title        : OWASP Projects
+title        : Owasp Projects
 type         : track
 status       : featured
 when_day     : Tue

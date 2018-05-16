@@ -25,7 +25,7 @@ sessions        :
    - InfoSec Article 5 - OWASP Collective Defence Agreement
    - Integrating Security Tools in the SDL
    - Lessons learned from public bug bounties programmes
-   - OWASP Cloud Security Workshop (BETA)
+   - Owasp Cloud Security Workshop (BETA)
    - Owasp Projects
    - Owasp Testing Guide v5
    - Owasp Top 10 2017 - usage
