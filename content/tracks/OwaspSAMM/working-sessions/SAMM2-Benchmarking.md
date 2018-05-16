@@ -14,6 +14,7 @@ description  : Define objectives for the SAMM benchmarking project as part of SA
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
 
 ---
 
