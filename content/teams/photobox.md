@@ -47,7 +47,7 @@ notes :
 
 Photobox Group Security is the team responsible for securing magic moments for customers of our brands.
 
-See [How we thinkg about Security](https://pbx-group-security.com/blog/2017/12/17/how-we-think-about-security/)
+See [How we think about Security](https://pbx-group-security.com/blog/2017/12/17/how-we-think-about-security/)
 
 
 
