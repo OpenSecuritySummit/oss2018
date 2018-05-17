@@ -19,6 +19,8 @@ sessions:
     - OWASP Defect Dojo
     - Owasp Top 10 2017 - usage
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+    - Create Owasp AWS Security Quiz
+    - Create Owasp Top 10 Quiz
 members:
     - Adrian Winckles
     - Avi Douglen
@@ -29,6 +31,7 @@ members:
     - John DiLeo
     - Sebastien Deleersnyder
     - Tanya Janca
+    - Sherif Mansour
 
 notes :
 ---
