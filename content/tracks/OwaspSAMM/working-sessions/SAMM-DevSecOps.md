@@ -1,23 +1,20 @@
 ---
-title        : SAMMv2 Measurement Model
+title        : SAMM DevSecOps Version
 type         : working-session
 track        : Owasp SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-1
+when_day     : Mon             # default = tba,    Tues
+when_time    : Eve-1               # default = tba,    19:30
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Define SAMMv2 measurement model
+description  : Create a totally new SAMM DevSecOps version
 organizers   :
     - Sebastien Deleersnyder
-participants:
-    - Yan Kravchenko
-    
+participants: Jeff Williams, Bart De Win, Yan Kravchenko
+
 ---
 
-## What
-
-Discussion about measuring according to coverage vs. quality. How do we want to measure in SAMM 2.0?
+Brainstorm a DevSecOps SAMM version

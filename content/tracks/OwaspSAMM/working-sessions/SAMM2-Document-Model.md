@@ -14,6 +14,7 @@ description  : Define SAMMv2 document Model
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
 
 ---
 

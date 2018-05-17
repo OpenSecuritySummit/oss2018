@@ -14,6 +14,7 @@ description  : multiple working sessions on the new SAMMv2
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
 
 ---
 
