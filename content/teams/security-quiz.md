@@ -15,7 +15,9 @@ members:
     - Felipe Zipitria
     - Jim Newman
     - John DiLeo
+    - John Fitzgerald
     - Paul Davies
+    - Rachel Power
     - Russ Miles
 
 notes :
