@@ -1,18 +1,19 @@
 ---
 title        : Security Ethics Checklist
 type         : working-session
-technology   :
-categories   :                      # GDPR, Juice Shop, etc.
+track        : Security Quiz
 featured     : yes                   # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Tue
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
-status       : draft              # draft, review-content, done
-track        : Owasp Exams
+status       : done              # draft, review-content, done
+description  :
 organizers   :
     - Anne Currie
-description  :
+participants:
+        - John Fitzgerald
+        - Rachel Power
 ---
 
 Security is an ethical issue. What should every single developer be asking themselves to check their code or system is safe to use before they deploy it? The aim of this session is to suggest a simple set of questions that could alert an engineer with limited security knowledge to obvious flaws in their product that could hurt unsuspecting users.

@@ -9,7 +9,8 @@ status       : done
 organizers   :
     - Jemma Davis-Smith
 description  :
-participants :                  
+participants :
+    - Photobox Group Security
 ---
 
 

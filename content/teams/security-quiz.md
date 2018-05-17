@@ -9,6 +9,7 @@ email           :
 status          :
 sessions:
     - Transform OWASP Exam into Quiz
+    - Security Ethics Checklist
 members:
     - Anne Currie
     - Avi Douglen

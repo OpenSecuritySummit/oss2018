@@ -8,6 +8,7 @@ website         : https://www.owasp.org/
 email           :
 status          :
 sessions:
+    - Create Owasp Top 10 Quiz
     - OwaspSAMM - Best Practices
     - SAMMv2 Establish the Document Model
     - OWASP Collective Defence Agreement
