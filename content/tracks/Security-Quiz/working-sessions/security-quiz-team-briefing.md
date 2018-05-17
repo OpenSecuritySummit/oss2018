@@ -1,10 +1,10 @@
 ---
-title        : Transform OWASP Exam into Quiz
+title        : Security Quiz team briefing
 type         : working-session
 track        : Security Quiz
 technology   :
 when_day     : Mon
-when_time    : PM-1
+when_time    : AM-1
 room_layout  :
 room_number  :
 status       : ok
@@ -17,6 +17,3 @@ organizers   :
 ---
 
 
-## What
-
-Convert https://www.owasp.org/index.php/OWASP_Exams_Project into a Quiz

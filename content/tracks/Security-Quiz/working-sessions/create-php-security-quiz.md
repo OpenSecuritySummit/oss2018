@@ -1,9 +1,9 @@
 ---
-title        : Transform OWASP Exam into Quiz
+title        : Create PHP Security Quiz
 type         : working-session
 track        : Security Quiz
 technology   :
-when_day     : Mon
+when_day     : Wed
 when_time    : PM-1
 room_layout  :
 room_number  :
@@ -17,6 +17,3 @@ organizers   :
 ---
 
 
-## What
-
-Convert https://www.owasp.org/index.php/OWASP_Exams_Project into a Quiz

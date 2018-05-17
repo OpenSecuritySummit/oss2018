@@ -7,12 +7,12 @@ twitter         :
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
-sessions:
-    - Creating a Steady-State Hypothesis
-    - Hands on Chaos Experiments
-    - PBX-GS Offsite session 1
-    - PBX-GS Offsite session 2
-    - PBX-GS Offsite session 3
+#sessions:
+#    - Creating a Steady-State Hypothesis
+#    - Hands on Chaos Experiments
+#    - PBX-GS Offsite session 1
+#    - PBX-GS Offsite session 2
+#    - PBX-GS Offsite session 3
 
     -
 members:

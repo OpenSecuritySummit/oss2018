@@ -8,5 +8,10 @@
 {{ end }}
 
 {{range $.Scratch.Get "teams" }}
-    <a href="{{.Permalink}}"><img src="{{ .Params.image }}" width="100"/></a>
+    {{if  isset .Params "image"}}
+        <a href="{{.Permalink}}"><img src="{{ .Params.image }}" width="100"/></a>
+    {{ else}}
+        team: <a href="{{.Permalink}}">{{ .Params.title }}</a>
+    {{ end}}
+
 {{end }}
