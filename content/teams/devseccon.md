@@ -1,7 +1,7 @@
 ---
 title           : DevSecCon
 type            : team
-#image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
+image           : http://localhost:1313/img/sponsors/devseccon.png
 linkedin        :
 twitter         :
 website         : http://www.devseccon.com/

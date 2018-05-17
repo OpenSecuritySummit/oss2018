@@ -1,7 +1,7 @@
 ---
 title           : Toreon
 type            : team
-#image           :
+image           : https://www.toreon.com/wp-content/uploads/2016/07/logo.png
 linkedin        :
 twitter         :
 website         : https://www.toreon.com/

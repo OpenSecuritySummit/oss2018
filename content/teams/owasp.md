@@ -1,7 +1,7 @@
 ---
 title           : Owasp
 type            : team
-#image           :
+image           : https://www.owasp.org/images/thumb/f/fe/Owasp_logo.jpg/300px-Owasp_logo.jpg
 linkedin        :
 twitter         :
 website         : https://www.owasp.org/

@@ -1,7 +1,7 @@
 ---
 title           : Photobox Group Security
 type            : team
-#image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
+image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
 linkedin        :
 twitter         :
 website         : https://pbx-group-security.com/
