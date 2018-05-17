@@ -19,7 +19,7 @@ sessions:
     - Owasp Cloud Security Workshop (BETA)
     - AppSec SOC Monitoring Visualisation
     - Education
-    - Recruitingn AppSec Talent
+    - Recruiting AppSec Talent
 ---
 
 Adrian Winckles is the Director for the Cyber Security and Networking Research Group and Security Researcher at Anglia Ruskin University, Cambridge. He is OWASP Cambridge Chapter Leader, European Board Member and holds joint meetings with IET, BCS, IISP & (ISC)2 and was conference chair for OWASP AppSec Europe 2014 in Cambridge. He is also chair for the Cambridge Cluster of the UK Cyber Security Forum.  His security research programs include (in)security of software defined networks/everything (SDN/Sdx), novel network botnet detection techniques within cloud and virtual environments, distributed honeypots for threat intelligence, advanced educational techniques for teaching cybercrime investigation and virtual digital crimescene/incident simulation. He has successfully completed a contribution to the European FP7 English Centre of Excellence for Cybercrime training, research and education (ECENTRE)  He has presented at both information security and cybercrime forensic international conferences including OWASP AppSec Europe, Cybercrime Forensics Education & Training (CFET) & CyberForensics. He is vice chair of the BCS Cybercrime Forensics Special Interest Group
