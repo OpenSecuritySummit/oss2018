@@ -37,7 +37,7 @@ We will put the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in fr
  - Show CircleCI PoC configuration
  - Show CircleCI CRS3 Pixi Demo
  - Show ModSecurity Tuning in CircleCI configuration
- - CRS on PL2 prevents Pixi from crashing when NoSQL scanner is run
+ - We will see how CRS on PL2 prevents Pixi from crashing when NoSQL scanner is run
 
 ## Outcomes
 
