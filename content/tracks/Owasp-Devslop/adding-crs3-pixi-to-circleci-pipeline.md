@@ -11,7 +11,7 @@ description  : Adding OWASP ModSecurity Core Rule Set 3 and Pixi to CircleCI pip
 ## Topic
 
 A Web Application Firewall may cause fear it does not fit into DevOps methodology, because a WAF can also block an application‘s legitimate traffic. <br />
-In this user-session we will see a Continuous Integration pipeline with automated applications tests against the application Pixi (OWASP DevSlop) with the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in front of the application.
+In this user-session we will see a Continuous Integration pipeline with automated applications tests. The tests are performed against the application Pixi (OWASP DevSlop) with the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in front of the application.
 
 A WAF is an additinal layer of defense against common web application attacks like those described by OWASP Top Ten! <br />
 We don‘t want to miss a WAF only because we fear it!
@@ -25,7 +25,7 @@ We don‘t want to miss a WAF only because we fear it!
 
 ## Content
 
-We will put the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in front of Pixi in CircleCI and let application tests automatically test the application with a WAF at every commit of a code change.
+We will put the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in front of Pixi in CircleCI. We let application tests automatically test the application with a WAF at every commit of a code change.
 
  - What is a WAF, what does a WAF do?
  - What is ModSecurity and the OWASP ModSecurity Core Rule Set 3?
@@ -41,15 +41,15 @@ We will put the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in fr
 
 ## Outcomes
 
-More security by adding OWASP ModSecurity Core Rule Set in front of Pixi! <br />
+More security by adding the OWASP ModSecurity Core Rule Set in front of Pixi! <br />
 The CircleCI configuration and the Core Rule Set Docker Container can be taken as a free proof of concept. 
 
 ## References
 
+ - http://devslop.co/
  - https://www.owasp.org/index.php/OWASP_DevSlop_Project
  - https://www.owasp.org/index.php/Category:OWASP_ModSecurity_Core_Rule_Set_Project
  - https://github.com/DevSlop/pixi-crs
  - https://coreruleset.org/
  - https://hub.docker.com/r/franbuehler/modsecurity-crs-rp/
  - https://modsecurity.org/
-
