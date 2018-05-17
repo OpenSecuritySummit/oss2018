@@ -14,13 +14,13 @@ In this working-session we will extend the Continuous Integration pipeline we kn
 
 ## Why
 
- - The more tests, the better :) <br />
+ - The more tests, the better :)
  - Testing the coverage of OWASP ModSecurity Core Rule Set
  - Proof of concept application tests of the known vulnerabilities in Pixi
 
 ## What
 
-We want to cover the attack of the known vulnerabilities in Pixi with the application tests and see if OWASP ModSecurity Core Rule Set 3 catches them!
+We want to cover the attacks of the known vulnerabilities in Pixi with the application tests and see if OWASP ModSecurity Core Rule Set 3 catches them!
 
 ## Outcomes
 
@@ -44,8 +44,10 @@ We want to cover the attack of the known vulnerabilities in Pixi with the applic
 
 ## References
 
+ - http://devslop.co/
  - https://www.owasp.org/index.php/OWASP_DevSlop_Project
  - https://www.owasp.org/index.php/Category:OWASP_ModSecurity_Core_Rule_Set_Project
+ - https://github.com/DevSlop/pixi-crs
  - https://coreruleset.org/
  - https://hub.docker.com/r/franbuehler/modsecurity-crs-rp/
  - https://modsecurity.org/
