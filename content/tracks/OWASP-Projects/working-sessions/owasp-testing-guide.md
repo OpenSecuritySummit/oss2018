@@ -3,14 +3,14 @@ title        : Owasp Testing Guide v5
 type         : working-session
 track        : OWASP Projects
 featured     : yes                  # review with summit team "yes"
-when_day     : Wed                   # default = tba,    Tues
-when_time    : AM-1                   # default = tba,    19:30
+when_day     :                    # default = tba,    Tues
+when_time    :                    # default = tba,    19:30
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Testing Guide"]
 organizers   :
-  - Prakash Sharma
+  - Matteo Meucci, Prakash Sharma
 description  : Working Sessions for Owasp Testing Guide v5
 ---
 
@@ -31,7 +31,6 @@ All sections in v4 reviewed
 Project aligned with the ASVS and OWASP Top 10 vulnerabilities
 A more readable guide created that eliminates sections that are not useful
 New testing techniques inserted
-New section created: Client side security and Firefox extensions testing
 
 ## Who
 

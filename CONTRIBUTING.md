@@ -25,7 +25,7 @@ Don't forget to make it recursive, or you will have errors executing _hugo_ afte
 
 Make your changes, commit to *your* fork of the repository, and create a pull request afterwards. It is very easy to create a PR going to the GitHub Web page of your repo. You will see a "create a pull request" link, so you follow that one and do a pull request against our repository.
 
-After we merge your changes, it will take until to 10 minutes to go live. We are in the [process of lowering this time](https://github.com/OpenSecuritySummit/oss2018/issues/167) to something more manageable.
+After we merge your changes, a webhook will be fired to update your changes, and it take up to 5 minutes to go live. We are in the [process of lowering this time](https://github.com/OpenSecuritySummit/oss2018/issues/167) to something more manageable.
 
 ## GitHub
 * [Signup](https://github.com/) for a GitHub account
