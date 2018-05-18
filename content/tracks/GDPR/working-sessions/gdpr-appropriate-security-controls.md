@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Dinis Cruz
     - Mario Platt
+    - Sophie Tonnoir
 ---
 
 (add intro)
