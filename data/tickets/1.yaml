@@ -3,10 +3,9 @@ type      : "Sponsored (onsite)"
 early_bird:
 # price is in pounds. don't add VAT nor fees
 cost      : 0
-duration  : ""
+duration  : "1 day 24h participant"
 buy       : mailto:info@opensecsummit.org
 text      : apply
 description:
   - "Several Summit sponsors have allocated tickets to sponsor security professionals (based on pre-defined criteria)"
   - "Please contact the Summit team if you want to apply for sponsorship"
-  - "Currently sponsored tickets are: Summit and Summit + Accommodation"

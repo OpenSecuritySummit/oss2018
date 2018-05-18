@@ -2,7 +2,7 @@ weight    : 0
 type      : "Remote participation"
 early_bird:
 cost      : 0
-duration  : ""
+duration  : "5 days x 8h participant"
 text      : Register
 buy       : /faq/registration-info/
 description:
