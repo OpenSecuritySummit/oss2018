@@ -5,7 +5,7 @@ role            :
 job_title       : IT Engineer
 company         : Centerprise International
 travel_from     : United Kingdom
-image           : 
+image           : https://media.licdn.com/dms/image/C4E03AQFXIFf8JI1rTQ/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=udIgUkxyRI5R2hHuLRbc6cz2zC-O4N8nwXcllR2fEG8
 linkedin        : sara-davis-it
 twitter         :
 facebook        :
