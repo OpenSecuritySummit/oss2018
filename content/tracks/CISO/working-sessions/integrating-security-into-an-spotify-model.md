@@ -12,6 +12,7 @@ description  : Best practice cheat sheet for integrating Agile Security into the
 organizers   :
     - Tony Richards
 participants :
+    - Sophie Tonnoir
 ---
 
 ## Why
