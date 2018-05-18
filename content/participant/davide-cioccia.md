@@ -1,8 +1,8 @@
 ---
 title           : Davide Cioccia
-type            : participant and organizer
+type            : participant
 job_title       : Senior Security Engineer
-image           : https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/13882691_10153979197181492_7210621817937180921_n.jpg?_nc_cat=0&oh=db9ce1d9ff0663c0e024019b65f71734&oe=5B94BB7C
+image           : https://pbs.twimg.com/profile_images/787248711491543040/IVwzQhtL_400x400.jpg
 linkedin        :
 twitter         : davide107
 facebook        :
