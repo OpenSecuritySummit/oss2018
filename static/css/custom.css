@@ -1371,3 +1371,25 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 	 .title_grd .center_heading h1{ font-size:36px;}
 	.remote_participant{ font-size:18px;}
 	}
+
+
+#footer {
+  padding-top:20px;
+  padding-bottom:20px;
+  background-color: #333333;
+}
+#footer h3 {
+    font-family:'Oswald-Medium';
+    font-size: 20px;
+    text-transform: uppercase;
+    color: #EAEAEA;
+}
+#footer p {
+    color: #EAEAEA;
+    font-size: 14px;
+}
+#footer img {
+    padding-right:10px;
+    padding-bottom:10px;
+    width  :60px;
+}
