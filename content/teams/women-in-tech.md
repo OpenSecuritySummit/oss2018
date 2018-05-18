@@ -17,7 +17,8 @@ members:
     - Charlotte Bullock
     - Fernanda Almeida
     - Franziska Buehler
-    - Head of Risk
+    - PBX GS Head of Risk
+    - Jane Frankland
     - Jemma Davis-Smith
     - Lisa Raynaud
     - Prima Virani
