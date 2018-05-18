@@ -24,7 +24,6 @@ sessions        :
  - PBX-GS Offsite session 2
  - Creating Security Quizzes
  - Cloud brokerage - authentication and authorisation
- - Hacking
 ---
 
 
