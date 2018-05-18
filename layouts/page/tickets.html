@@ -76,7 +76,11 @@
                   {{ end }}
                 </ul>
               </div>
-              <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">Buy Ticket</a></div>
+              {{ if eq $ticket.cost 0 }}
+                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">{{$ticket.text }}</a></div>
+              {{ else}}
+                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">Buy Ticket</a></div>
+              {{ end }}
             </div>
           </div>
         </div>

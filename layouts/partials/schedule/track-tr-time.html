@@ -12,7 +12,7 @@
 {{ end }}
 
 <tr>
-    <td><b>{{.time}}</b></td>
+    <td><table class="table"><tr><td><b>{{.time}}</b></td></tr></table></td>
     <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Mon" )}}</td>
     <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Tue" )}}</td>
     <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day" "Wed" )}}</td>

@@ -10,7 +10,6 @@ room_number  :
 status       : ok
 organizers   :
 description  :
-participants :
 organizers   :
     - John Fitzgerald
     - Rachel Power

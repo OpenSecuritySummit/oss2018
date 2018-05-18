@@ -9,7 +9,6 @@ organizers   :
     - Jemma Davis-Smith
 description  :
 participants :
-    - Photobox Group Security
 ---
 
 

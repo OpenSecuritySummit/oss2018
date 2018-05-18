@@ -1,6 +1,6 @@
 ---
 title           : Yvette Connor
-type            : participant
+type            : participant-remote
 when_day        : Tue
 sponsored_by    : Je Marketing
 job_title       :

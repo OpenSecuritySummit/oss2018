@@ -1,20 +1,19 @@
 ---
-title           : Toreon
+title           : Security Champions
 type            : team
-team_type       : sponsor
-image           : https://www.toreon.com/wp-content/uploads/2016/07/logo.png
+team_type       : Community team
+#image           :
 linkedin        :
 twitter         :
-website         : https://www.toreon.com/
+website         :
 email           :
 status          :
 sessions:
-    - SAMM2 Kickoff
     - OwaspSAMM - Best Practices
-    - SAMMv2 Establish the Document Model
 members:
     - Sebastien Deleersnyder
-    - Steven Wierckx
+    - Francois Raynaud
+    - Toby Shelswell
 
 notes :
 ---

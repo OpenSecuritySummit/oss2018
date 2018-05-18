@@ -1,9 +1,10 @@
 ---
-title           : Head of Risk
+title           : Sam Stepanyan
 type            : participant
+sponsored_by    : CertDev
 job_title       :
-company         : Photobox GS
-travel-from     :
+company         :
+travel_from     :
 image           :
 linkedin        :
 twitter         :
@@ -15,10 +16,8 @@ chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions: 
-  - Creating Appsec metrics and visualisation
-  - Using graphs for GDPR mappings and visualisations
-notes :
+sessions        :
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->

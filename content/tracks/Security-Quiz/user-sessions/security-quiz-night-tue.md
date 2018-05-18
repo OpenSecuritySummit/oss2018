@@ -1,5 +1,5 @@
 ---
-title        : Security Quiz Night (Thu)
+title        : Security Quiz Night (Tue)
 type         : user-session
 track        : Security Quiz
 technology   :

@@ -18,9 +18,6 @@ regonline       : Yes
 pre-summit      :
 status          : add details
 sessions:
-notes :
-- AM to fill her details
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+    - PBX-GS Offsite session 2
 ---
 
-<!-- put more details about participant here -->

@@ -1,17 +1,30 @@
 <style>
     .time-col { min-width:50px;}
+    #schedule-by-days thead tr th{
+        border          :1px solid;
+        text-transform  : uppercase;
+        background-color: #87bb40;
+        color           : white;
+        font-family     : Roboto, sans-serif;
+        font-weight     : normal;
+        font-size : 16px;
+        box-sizing: border-box;
+        line-height: 20px;
+        padding: 12px
+    }
 </style>
 
 <table class="table table-condensed " id="schedule-by-days">
+
     <thead>
-    <tr>
-        <th class="time-col"></th>
-        <th>Monday    </th>
-        <th>Tuesday   </th>
-        <th>Wednesday </th>
-        <th>Thursday  </th>
-        <th>Friday    </th>
-    </tr>
+        <tr>
+            <th class="time-col"></th>
+            <th>Monday    </th>
+            <th>Tuesday   </th>
+            <th>Wednesday </th>
+            <th>Thursday  </th>
+            <th>Friday    </th>
+        </tr>
     </thead>
     {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "AM-1"  )}}
     {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "PM-1"  )}}

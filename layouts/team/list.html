@@ -1,0 +1,29 @@
+{{ define "content" }}
+    <div class="featured-ws">
+        <div class="container">
+
+            {{ .Content }}
+
+            <table class="tbale_section">
+                <thead>
+                <tr>
+                    <th>Team Name</th>
+                    <th></th>
+                    <th>Team Type</th>
+                </tr>
+                </thead>
+                {{ range .Pages}}
+                    {{if ne .Params.hidden true}}
+                        <tr>
+                            <td><a href="{{.Permalink}}">{{ .Params.title }}</a></td>
+                            <td>{{if isset .Params "image" }}
+                                    <img src="{{.Params.image}}" width="150px"/>
+                                {{ end }}</td>
+                            <td>{{ .Params.team_type }}</td>
+                        </tr>
+                    {{ end }}
+                {{ end }}
+            </table>
+        </div>
+    </div>
+{{ end}}

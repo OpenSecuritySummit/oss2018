@@ -20,6 +20,10 @@ sessions        :
  - Threat model cheat sheets
  - GDPR is live, now what?
  - Creating a standard for GDPR patterns
+ - PBX-GS Offsite session 1
+ - PBX-GS Offsite session 2
+ - Creating Security Quizzes
+ - Cloud brokerage - authentication and authorisation
 ---
 
 

@@ -3,8 +3,14 @@
         font-size: 7px;
         padding: 1px;
     }
+    .participant-image {
+        width:20px;
+    }
+    .clues ul{
+        margin: 0px;
+    }
 </style>
-<table>
+<table class="table">
     {{ range .self.Scratch.Get .day }}
         <tr>
             <td>
@@ -12,6 +18,19 @@
                 <span id="cell_widgets">
                     {{ partial "widgets/clues.html" .}}
                 </span>
+                <div id="cell_participants">
+                    {{ $participants := $.self.Scratch.Get .Params.title}}
+                    {{ range $participants}}
+                        {{ if eq (printf "%T" .) "string" }}
+                            {{ $page := $.self.Scratch.Get . }}
+                            {{ if eq (printf "%T" $page) "*hugolib.Page" }}
+                                <a href="{{$page.Permalink}}" title="{{$page.Params.title}}">
+                                    <img class="participant-image img-circle" src="{{ $page.Params.image}}"/>
+                                </a>
+                            {{ end }}
+                        {{ end}}
+                    {{ end}}
+                </div>
             </td>
         </tr>{{ end }}
 </table>
