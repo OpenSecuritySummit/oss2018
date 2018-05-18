@@ -22,9 +22,8 @@ Find more details on the current [Working Sessions](https://open-security-summit
 
 <p style="text-align: center;"> <strong>E</strong> - Expert | <strong>PR</strong> - Practitioner | <strong>PA</strong> - Participant </p>
 
-
-
 Find more details on the current [User Sessions](https://open-security-summit.org/user-sessions/)
 
 <br/>
-<br/>
+
+<p style="text-align: center;"><img src="/img/pages/roles_and_expectations.png" alt="roles and expectations" style="width: 95%;"/></p>
