@@ -12,7 +12,7 @@ room_number  :
 status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
-participants : Francois Raynaud
+participants : Francois Raynaud, Sophie Tonnoir
 ---
 
 ## Why
