@@ -14,7 +14,7 @@ categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
   - Manuel Jeckelmann
-participants : Francois Raynaud
+participants : Francois Raynaud, Sophie Tonnoir
 description  : Working Sessions for Owasp Defect Dojo
 ---
 An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.
