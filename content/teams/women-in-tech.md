@@ -15,13 +15,13 @@ members:
     - Anne-Marie Grace
     - Barbara Prevel
     - Charlotte Bullock
+    - Elizabeth Lawler
     - Fernanda Almeida
     - Franziska Buehler
     - PBX GS Head of Risk
     - Jane Frankland
     - Jemma Davis-Smith
     - Lisa Raynaud
-    - Prima Virani
     - Rachel Power
     - Tanya Janca
 ---
