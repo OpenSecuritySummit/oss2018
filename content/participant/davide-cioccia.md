@@ -1,19 +1,17 @@
 ---
-title           : Chris Allen
+title           : Davide Cioccia
 type            : participant
-job_title       :
-company         : Photobox GS
-travel_from     :
-image           : https://media.licdn.com/dms/image/C4E03AQG6VOyKkGUr1Q/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=f6OxauAMb2d3KxWRvx9MBrvBtc2bjaqMu5DjPsjHJks
+job_title       : Senior Security Engineer
+image           : https://pbs.twimg.com/profile_images/787248711491543040/IVwzQhtL_400x400.jpg
 linkedin        :
-twitter         :
+twitter         : davide107
 facebook        :
 website         :
 email           :
 project_leader  :
 chapter_leader  :
 regonline       :
-pre-summit      :
+pre_summit      :
 status          : add details
 sessions:
 notes :
