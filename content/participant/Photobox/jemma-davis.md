@@ -15,7 +15,7 @@ project_leader  :
 chapter_leader  :
 ticket          : 5x24h
 regonline       : Yes
-pre_summit      : Sat,Sun
+pre_summit      : Fri,Sat,Sun
 status          : add details
 sessions:
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
