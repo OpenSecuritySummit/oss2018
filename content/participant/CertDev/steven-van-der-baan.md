@@ -1,13 +1,13 @@
 ---
-title           : Elizabeth Lawler
+title           : Steven van der Baan
 type            : participant
-sponsored_by    : JE Marketing
+funded_by       : CertDev
 job_title       :
 company         :
 travel_from     :
-image           : https://media.licdn.com/dms/image/C5603AQFvt3S0IJQRSg/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=9SsK45ntwjj4o8juAo39bG1gqpKSVC6RSxjpnaQB60o
-linkedin        : elizabethlawler
-twitter         : ElizabethLawler
+image           : https://pbs.twimg.com/profile_images/2150492060/P7310595_400x400.JPG
+linkedin        : vdbaan
+twitter         : vdbaan
 facebook        :
 website         :
 email           :

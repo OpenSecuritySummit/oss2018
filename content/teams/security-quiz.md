@@ -48,6 +48,7 @@ members:
     - Russ Miles
     - Sam Stepanyan
     - Sherif Mansour
+    - Steven van der Baan
     - Wayne Reid
     - Yan Kravchenko
 
