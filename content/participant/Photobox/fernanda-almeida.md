@@ -5,7 +5,7 @@ job_title       : Project Manager
 company         : Photobox GS
 travel_from     : Portugal
 image           : https://media.licdn.com/dms/image/C4D03AQENxsUndN5h0g/profile-displayphoto-shrink_800_800/0?e=1528664400&v=beta&t=mbEsUNg9FXg8NCGxXnrs7HJIUL6_V8iBGIh9fBC8r0E
-linkedin        : https://www.linkedin.com/in/faguiaralmeida/
+linkedin        : faguiaralmeida
 twitter         :
 facebook        :
 website         :

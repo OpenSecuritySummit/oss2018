@@ -11,10 +11,10 @@
       <p>
         {{ .Content }}
       </p>
-
+      {{ partial "teams/members.html"               . }}
       {{ partial "participant/contact-details.html" . }}
       {{ partial "teams/schedule.html"              . }}
-      {{ partial "teams/members.html"               . }}
+
 
       </div>
     </div>

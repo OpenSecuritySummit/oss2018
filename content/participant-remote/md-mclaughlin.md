@@ -5,7 +5,7 @@ job_title       : Director, Security and Risk Management
 company         : Acuity Brands Lighting, Inc.
 travel_from     :
 image           : https://faculty.bentley.edu/storage/mclaugh_mark/pci/mclaugh_mark-1.jpg
-linkedin        : https://www.linkedin.com/in/mdmcl/
+linkedin        : mdmcl
 twitter         :
 facebook        :
 website         : https://faculty.bentley.edu/details.asp?uname=mclaugh_mark

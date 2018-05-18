@@ -5,7 +5,7 @@ job_title       : Director of Cyber Security, Networking and Big Data Research G
 company         : Anglia Ruskin University
 travel_from     : Cambridge, UK.
 image           : https://avatars3.githubusercontent.com/u/9204455?s=400&u=bfa256a00739d0103b0bffd52271ef3b9eec5bad&v=4
-linkedin        : https://www.linkedin.com/in/adrian-winckles-2582ab3/
+linkedin        : adrian-winckles-2582ab3
 twitter         : botflowking
 email           : Adrian.Winckles - at - owasp - dot - org
 project_leader  : OWASP Distributed Web Application Honeypot Project

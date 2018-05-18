@@ -12,17 +12,17 @@ status          :
 #    - OwaspSAMM - Best Practices
 members:
     - Anne Currie
-    - Rachel Power
+    - Anne-Marie Grace
+    - Barbara Prevel
+    - Charlotte Bullock
+    - Fernanda Almeida
+    - Franziska Buehler
+    - Head of Risk
+    - Jemma Davis-Smith
     - Lisa Raynaud
     - Prima Virani
-    - Anne-Marie Grace
-    - Fernanda Almeida
-    - Head of Risk
+    - Rachel Power
     - Tanya Janca
-    - Franziska Buehler
-    - Jemma Davis-Smith
-
-notes :
 ---
 
 

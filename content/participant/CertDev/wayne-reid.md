@@ -6,7 +6,7 @@ job_title       : Cloud Technical Architect
 company         :
 travel_from     : London
 image           : https://media.licdn.com/dms/image/C5603AQFBD5tqFmBxqA/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=0G_q748w1To7hnbcxHEKq0zppewH22k39XTMDvnweLE
-linkedin        : https://www.linkedin.com/in/waynereidit/
+linkedin        : waynereidit
 twitter         :
 facebook        :
 website         :

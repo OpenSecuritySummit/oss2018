@@ -5,7 +5,7 @@ job_title       : Head Of Security Engineering
 company         : Photobox
 travel_from     :
 image           :
-linkedin        : https://www.linkedin.com/in/stuhirst/
+linkedin        : stuhirst
 twitter         : https://twitter.com/StuHirstInfoSec
 facebook        :
 website         :

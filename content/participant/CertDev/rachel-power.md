@@ -6,7 +6,7 @@ job_title       :
 company         : CertDev
 travel_from     :
 image           : https://media.licdn.com/dms/image/C4D03AQFRMLYIblNirg/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=Pe5NdVUdO_A_emOVAXZqJFhV1BD-Fgb9wT5uXR7cWlM
-linkedin        : https://www.linkedin.com/in/rachellouisepower/
+linkedin        : rachellouisepower
 twitter         :
 facebook        :
 website         :

@@ -34,15 +34,23 @@ sessions:
     - Security Quiz team briefing
     - Transform OWASP Exam into Quiz
 members:
+    - Adrian Winckles
     - Anne Currie
     - Avi Douglen
+    - Barbara Prevel
     - Felipe Zipitria
+    - Jane Frankland
     - Jim Newman
     - John DiLeo
     - John Fitzgerald
     - Paul Davies
     - Rachel Power
     - Russ Miles
+    - Sam Stepanyan
+    - Sherif Mansour
+    - Wayne Reid
+    - Yan Kravchenko
+
 
 notes :
 ---

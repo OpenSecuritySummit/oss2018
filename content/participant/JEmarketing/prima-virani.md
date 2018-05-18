@@ -5,7 +5,7 @@ sponsored_by    : JeMarketing
 job_title       :
 company         :
 travel-from     :
-image           :
+image           : https://media.licdn.com/dms/image/C4D03AQEBLQzlteFeQw/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=UvXH-WpQZwFufI7AkHd9yNPzmSqovuHUx-vDsFfWvEE
 linkedin        : primavirani
 twitter         :
 facebook        :

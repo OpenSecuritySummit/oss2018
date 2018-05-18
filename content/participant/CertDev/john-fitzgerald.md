@@ -6,7 +6,7 @@ job_title       :
 company         : CertDev
 travel_from     : London
 image           : https://media.licdn.com/dms/image/C4E03AQFXSSTALmuwNQ/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=oqU6rBz4UO-9avFIzWh4vUSw9NdXaLtMn3kGWFQcWH4
-linkedin        : https://www.linkedin.com/in/johnfitz/
+linkedin        : johnfitz/
 twitter         :
 facebook        :
 website         :
