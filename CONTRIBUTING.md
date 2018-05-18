@@ -23,6 +23,11 @@ $ git clone --recurse-submodules https://github.com/<your github username>/oss20
 
 Don't forget to make it recursive, or you will have errors executing _hugo_ afterwards!
 
+If you forgot, you can still run this command on your local repo:
+```
+$ git submodule update --init --recursive
+```
+
 Make your changes, commit to *your* fork of the repository, and create a pull request afterwards. It is very easy to create a PR going to the GitHub Web page of your repo. You will see a "create a pull request" link, so you follow that one and do a pull request against our repository.
 
 After we merge your changes, a webhook will be fired to update your changes, and it take up to 5 minutes to go live. We are in the [process of lowering this time](https://github.com/OpenSecuritySummit/oss2018/issues/167) to something more manageable.
