@@ -5,8 +5,8 @@ track        : Threat Model
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Thu
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done

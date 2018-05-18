@@ -5,11 +5,10 @@ when_day     : Tue
 when_time    : PM-1
 room_number  :
 status       : done
+description  :
 organizers   :
     - Jemma Davis-Smith
-description  :
 participants :
-    - Photobox Group Security
 ---
 
 

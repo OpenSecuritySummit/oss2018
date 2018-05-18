@@ -7,11 +7,13 @@
     {{ end }}
 {{ end }}
 
+<h3>Participant's team(s):</h3>
+<ul>
 {{range $.Scratch.Get "teams" }}
     {{if  isset .Params "image"}}
-        <a href="{{.Permalink}}"><img src="{{ .Params.image }}" width="100"/></a>
+        <li><a href="{{.Permalink}}"><img src="{{ .Params.image }}" width="100"/></a></li>
     {{ else}}
-        team: <a href="{{.Permalink}}">{{ .Params.title }}</a>
+        <li> <a href="{{.Permalink}}">{{ .Params.title }}</a></li>
     {{ end}}
-
 {{end }}
+</ul>

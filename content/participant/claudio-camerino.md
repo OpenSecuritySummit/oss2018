@@ -5,7 +5,7 @@ job_title       : Managing Security Consultant, Appsec & Cloud
 company         : NTT Security
 travel_from     : Theale, UK
 image           : https://avatars2.githubusercontent.com/u/31473290?s=460&v=4
-linkedin        : https://www.linkedin.com/in/claudio-camerino-0694702/
+linkedin        : claudio-camerino-0694702
 twitter         : clazba
 email           : claudio.camerino@nttsecurity.com
 status          : done

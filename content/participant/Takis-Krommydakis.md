@@ -5,7 +5,7 @@ job_title       : Senior Information Security Consultant / Penetration Tester
 company         : Twelvesec
 travel_from     : Greece
 image           : https://media.licdn.com/dms/image/C5603AQELfNzc3gp0XQ/profile-displayphoto-shrink_200_200/0?e=1528563600&v=beta&t=y3ND0lYs43_BYO3b67wbXZX1RkxuwgCAiRYKkKMWxvs
-linkedin        : https://www.linkedin.com/in/panagiotis-krommydakis-6b45b020/
+linkedin        : panagiotis-krommydakis-6b45b020/
 twitter         : Twelvesec
 facebook        :
 website         : https://www.twelvesec.com/
