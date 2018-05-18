@@ -1,7 +1,7 @@
 ---
 title           : Lisa Raynaud
 type            : participant
-job_title       : Tech Designer and Marketeer
+job_title       : Director of communications
 company         : DevSecCon
 funded_who      : Sponsor
 travel_from     :
@@ -9,7 +9,7 @@ image           : https://www.devseccon.com/wp-content/uploads/2013/12/lisa-rayn
 linkedin        : lisa-raynaud-23a3204a
 twitter          : LisaRaynaud
 facebook        :
-website         : http://www.lisaraynaud.com
+website         : www.devseccon.com
 email           :
 project_leader  :
 chapter_leader  :
@@ -19,8 +19,7 @@ status          : working-sessions mappings
 ticket          : 5x24h
 pre_summit      : Sat,Sun
 sessions:
-  - Securing the CI Pipeline
-  - DevSecOps vs SecDevOps
+
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
