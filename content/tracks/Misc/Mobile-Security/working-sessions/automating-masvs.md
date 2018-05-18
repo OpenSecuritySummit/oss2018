@@ -10,7 +10,7 @@ when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : done              # draft, review-content, done
-organizers   : ["Sven Schleier"]
+organizers   : ["Sven Schleier", "Davide Cioccia"]
 description  : Mobile Security Working Session
 ---
 
@@ -55,6 +55,16 @@ The target audience for this Working Session is:
 - DevSecOps Engineers
 
 Everyone else with experienes in automation and development background and some technical know-how :-)
+
+## Setup
+
+To be up and running during the summit the follpwoing software must be installed:
+
+- [Docker] (https://www.docker.com/get-docker)
+- [Genymotion] (https://www.genymotion.com/fun-zone/)
+
+A complete guide on how to setup the working environment and the Docker image can be found [here] (https://github.com/david3107/oss2018-tools)
+ 
 
 ## References
 
