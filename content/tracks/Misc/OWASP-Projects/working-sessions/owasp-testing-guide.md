@@ -3,8 +3,8 @@ title        : Owasp Testing Guide v5
 type         : working-session
 track        : Misc
 featured     : yes                  # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Thu
+when_time    : PM-2, PM-3
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done

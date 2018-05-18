@@ -1,11 +1,14 @@
 ---
 title        : Security Playbooks
-type         : track
-status       : featured
-when_day     : Mon,Fri
+type         : working-session
+track        : Misc
+when_day     : Thu
+when_time    : Eve-1
+technology   :
 categories   : ["Security Playbooks"]
 description  : Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents.
+status       : draft
 organizers   :
 ---
 
-Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents.
+{{< description >}}

@@ -3,9 +3,9 @@ title        : Owasp Securetea tools project
 type         : working-session
 track        : Misc
 featured     : yes                  # review with summit team "yes"
-when_day     :
-when_time    :
-room_layout  :                    #
+when_day     : Thu
+when_time    : PM-1
+room_layout  :                   #
 room_number  :
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Projects"]

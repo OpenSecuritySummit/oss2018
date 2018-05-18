@@ -3,8 +3,8 @@ title        : Creation of Security Buttons
 type         : working-session
 track        : Misc
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Thu
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : done              # draft, review-content, done

@@ -1,12 +1,12 @@
 ---
 title        : Adding security to VSTS pipeline
 type         : user-session
-track        : Owasp Devslop
+track        : Misc
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Tue
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done

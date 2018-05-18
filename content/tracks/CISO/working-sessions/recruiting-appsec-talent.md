@@ -1,10 +1,10 @@
 ---
 title        : Recruiting AppSec Talent
 type         : working-session
-Track        : Misc
+Track        : CISO
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Wed
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content      # draft, review-content, done

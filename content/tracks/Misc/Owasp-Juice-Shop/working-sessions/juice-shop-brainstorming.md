@@ -5,8 +5,8 @@ track        : Misc
 technology   : Node
 description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Wed
+when_time    : PM-3
 room_layout  : circle                   #
 room_number  :
 status       :  review-content     # draft, review-content, done

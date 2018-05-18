@@ -3,15 +3,13 @@ title        : Lessons learned from public bug bounties programmes
 type         : working-session
 track        : Misc
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Mon
+when_time    : PM-3
 room_layout  :                    #
 room_number  :
 status       : review-content      # draft, review-content, done
-organizers   :
-  - Prakash Sharma
 description  : List of top 10 lessons from bug bounty experts and guidelines on improving bug bounty programmes
-participants :
+organizers   :
   - Prakash Sharma
 ---
 

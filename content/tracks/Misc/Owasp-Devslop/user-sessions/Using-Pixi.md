@@ -1,15 +1,15 @@
 ---
 title        : Using Pixi
 type         : user-session
+track        : Misc
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     :
-when_time    :
-room_layout  :                    #
+when_day     : Tue
+when_time    : PM-3
+room_layout  :
 room_number  :
 status       : draft              # draft, review-content, done
-track        : Owasp Devslop
 description  : Owasp Devslop User Session
 organizers   : Tanya Janca
 ---

@@ -6,10 +6,10 @@ technology   : nodejs,docker,docker-compose
 categories   : JuiceShop,CTF                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Tue
-when_time    :
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
-status       : draft              # draft, review-content, done
+status       :               # draft, review-content, done
 organizers   : ["Jannik Hollenbach"]
 description  : Running / hosting CTF games with OWASP JuiceShop
 participants :                    # separated by coma

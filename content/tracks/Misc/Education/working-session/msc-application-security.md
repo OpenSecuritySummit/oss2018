@@ -5,8 +5,8 @@ track        : Misc
 technology   : ["Education"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Tue
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done

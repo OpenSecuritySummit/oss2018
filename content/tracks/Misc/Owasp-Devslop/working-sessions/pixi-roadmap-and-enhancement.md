@@ -1,12 +1,12 @@
 ---
 title        : Pixi Roadmap and Enhancement
 type         : working-session
-track        : Owasp Devslop
+track        : Misc
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Wed
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       :                # draft, review-content, done
