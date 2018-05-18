@@ -11,7 +11,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : Francois Raynaud
+participants : Francois Raynaud, Sophie Tonnoir
 description  : AppSec SOC Monitoring Visualisation
 ---
 
