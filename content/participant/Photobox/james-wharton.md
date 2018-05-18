@@ -4,7 +4,7 @@ type            : participant
 job_title       :
 company         : Photobox GS
 travel_from     :
-image           :
+image           : https://media.licdn.com/dms/image/C5603AQFKl9R8q46NFQ/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=u0n4_61gpAQAIycaHHgYXRe-bPy25RcgQ-t2I6XzgO4
 linkedin        :
 twitter         :
 facebook        :
