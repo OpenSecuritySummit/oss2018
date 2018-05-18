@@ -14,6 +14,7 @@ members:
     - Sebastien Deleersnyder
     - Francois Raynaud
     - Toby Shelswell
+    - David Cervigni
 
 notes :
 ---
