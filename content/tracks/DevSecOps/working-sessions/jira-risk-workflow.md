@@ -10,7 +10,7 @@ status       : review-content     # draft, review-content, done
 organizers   :
 track        : DevSecOps
 description  : This Working Session should result in an improved JIRA Risk Workflow
-participants :
+participants : Sophie Tonnoir
 ---
 
 This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decisions they make.

@@ -14,6 +14,7 @@ description  : Using GDPR Patterns
 organizers   :
 participants :
   - Dinis Cruz
+  - Sophie Tonnoir
 ---
 
 ## Topic
