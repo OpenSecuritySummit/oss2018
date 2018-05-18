@@ -19,6 +19,7 @@ sessions:
 members:
     - Andrew Johnstone
     - Anne-Marie Grace
+    - Charlotte Bullock
     - Chris Allen
     - Christoph Jung
     - Dan Gapco

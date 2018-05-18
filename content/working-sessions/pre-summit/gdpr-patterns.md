@@ -3,8 +3,8 @@ title        : GDPR Patterns (based on Threat Models)
 type         : working-session
 when         : pre-summit
 featured     : yes                  # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     :
+when_time    :
 room_layout  :                    #
 room_number  :
 status       : done              # draft, review-content, done

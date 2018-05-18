@@ -2,8 +2,8 @@
 title        : WebAuthn - Getting started workshop
 type         : working-session
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     :
+when_time    :
 room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done

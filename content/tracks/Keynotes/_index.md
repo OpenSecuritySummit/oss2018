@@ -1,6 +1,6 @@
 ---
 title       : Keynotes
-type        : track
+#type        : track
 technology  :
 when_day    : Mon,Thu
 status      : featured

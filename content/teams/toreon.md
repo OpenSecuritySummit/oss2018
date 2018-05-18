@@ -1,7 +1,7 @@
 ---
 title           : Toreon
 type            : team
-team_type       : sponsor
+team_type       : Sponsor
 image           : https://www.toreon.com/wp-content/uploads/2016/07/logo.png
 linkedin        :
 twitter         :
