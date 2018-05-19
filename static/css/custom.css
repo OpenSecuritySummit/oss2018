@@ -1188,7 +1188,7 @@ hr.container.no-margin {
 
 @media (min-width: 1200px) {
   .container {
-    width: 1370px;
+    width: 1190px; /*1370px;*/
   }
 }
 
