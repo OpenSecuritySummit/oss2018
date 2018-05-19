@@ -38,7 +38,7 @@
         Here are the Working Sessions currently planned for the Summit
     </p>
 
-    {{ $sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
+    {{ $sessions := where (where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit") ".Params.title" "ne" "" }}
     {{ partial "sessions/simple-table.html" $sessions }}
 
     <h2>Pre-Summit Working Sessions</h2>
