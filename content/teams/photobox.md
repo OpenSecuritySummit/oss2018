@@ -38,6 +38,7 @@ members:
     - Tim Redding
     - Toby Shelswell
     - Vladimir Voskresenskiy
+    - David Cervigni
 
 notes :
 ---
