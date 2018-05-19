@@ -22,6 +22,7 @@ sessions:
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
     - Create Owasp AWS Security Quiz
     - Create Owasp Top 10 Quiz
+    - Zap - How to use it
 members:
     - Adrian Winckles
     - Avi Douglen

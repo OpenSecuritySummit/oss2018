@@ -1,5 +1,5 @@
 ---
-title        : OWASP Collective Defence Agreement
+title        : OWASP Collective Defence Cluster (CDC)
 type         : working-session
 track        : CISO
 featured     :                    # review with summit team "yes"
