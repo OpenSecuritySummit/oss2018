@@ -1,0 +1,36 @@
+{{ define "content" }}
+    <div class="featured-ws">
+        <div class="container">
+
+            {{ .Content }}
+
+            <h3>{{ .Params.title }} Daily Schedule</h3>
+            {{ $pages := where  .Site.Pages ".Params.type" "vendor-pitch" }}
+            {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
+
+            <h3>Vendor Piches Details</h3>
+            <table class="tbale_section">
+                <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Hosted By</th>
+                    <th>Session Type</th>
+                </tr>
+                </thead>
+                <tbody class="tbl-vendor-pitches">
+                    {{ range .Pages}}
+                        {{if ne .Params.hidden true}}
+                            <tr>
+                                <td><a href="{{.Permalink}}"                       >{{ .Params.title }}</a></td>
+                                <td>{{ .Params.description }}</td>
+                                <td><a href="{{.Params.host_link}}" target="_blank">{{.Params.host_text}}</a></td>
+                                <td>{{ .Params.session_type }}</td>
+                            </tr>
+                        {{ end }}
+                    {{ end }}
+                </tbody>
+            </table>
+        </div>
+    </div>
+{{ end}}

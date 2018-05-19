@@ -31,6 +31,7 @@ members:
     - Imran Mohammed A
     - Jim Newman
     - John DiLeo
+    - Karen Staley
     - Sebastien Deleersnyder
     - Steven van der Baan
     - Tanya Janca

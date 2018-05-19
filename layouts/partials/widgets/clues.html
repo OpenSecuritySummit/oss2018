@@ -12,6 +12,9 @@
     {{ if eq .Params.type "working-session" }}
         <li><a href="{{ ref . "faq/working-user-sessions-diff.md" }}"><i class="fa fa-wrench"></i> working session </a></li>
     {{ end }}
+     {{ if eq .Params.type "vendor-pitch" }}
+        <li><a href="/vendor-pitches"><i class="fa fa-dollar"></i> vendor pitch </a></li>
+     {{ end }}
     {{ if eq .Params.status "draft" }}
         <li><a class="bg-danger" href=""><i class="fa fa-info"></i> draft </a></li>
     {{ end }}

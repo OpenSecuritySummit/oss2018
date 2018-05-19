@@ -13,7 +13,7 @@
     {{ end }}
 {{ end }}
 {{if  $.self.Scratch.Get "has-session" }}
-    <tr>
+    <tr class="tr-schedule">
         <td>{{ partial "schedule/time.html"       (dict "self" .self "time" .time )}}</td>
         <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Mon" )}}</td>
         <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Tue" )}}</td>

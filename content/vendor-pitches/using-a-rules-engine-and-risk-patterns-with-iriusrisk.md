@@ -1,23 +1,26 @@
 ---
 title        : Using a Rules Engine and Risk Patterns with IriusRisk
-type         : user-session
+type         : vendor-pitch
 track        : Threat Model
+host_text    : Continuum Security
+host_link    : https://www.continuumsecurity.net/threat-modeling-tool/
+session_type : public
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+categories   :
+featured     :
 when_day     : Mon
-when_time    : Eve-1, Eve-2
-room_layout  :                    #
+when_time    : Eve-1
+room_layout  :
 room_number  :
-status       : draft              # draft, review-content, done
-organizers   : Stephen De Vries, Paúl Santapau, Jorge Esperón
-description  : Using a Rules Engine and Risk Patterns with IriusRisk
-participants : 
+status       : done              # draft, review-content, done
+organizers   :
+    - Stephen de Vries
+    - Paúl Santapau
+    - Jorge Esperón
+description  : During this session we’ll drive the attendants through the IriusRisk approach and the main core features of the solution.
+participants :
+    - Toby Shelswell
 ---
-
-## Why
-
-
 
 ## What
 
@@ -25,9 +28,6 @@ IriusRisk provides its own approach to Threat Modeling. A Questionnaire based im
 Integration with external tools (Issue Trackers, SAST, DAST, Testing frameworks, etc.) makes the follow up of those models an easy tasks as well.
 
 
-## Content
-
- 
 ## Outcomes
 
 During this session we’ll drive the attendants through the IriusRisk approach and the main core features of the solution. 

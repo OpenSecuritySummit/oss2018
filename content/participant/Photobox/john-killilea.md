@@ -4,8 +4,8 @@ type            : participant
 job_title       :
 company         : Photobox GS
 travel_from     :
-image           :
-linkedin        :
+image           : https://media.licdn.com/dms/image/C4E03AQFFXLEn331OaA/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=uCsid31IUfHj1s1WtrXMuFcIetSPAYiMc0NK5grJZqg
+linkedin        : johnkillilea
 twitter         :
 facebook        :
 website         :

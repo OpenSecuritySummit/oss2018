@@ -6,8 +6,8 @@ topics          : SAST/IAST/DAST, secure coding, DevSecOps
 company         : PhotoBox Group
 image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAjtAAAAJGNlMzIyZTEzLWI0NjUtNGI2Yy1iMzJkLWI2YzA4ZjM1ZWE4Nw.jpg
 email           : dcervigni*gmail
-linkedin        : https://uk.linkedin.com/in/david-cervigni-229569a
-twitter         : https://twitter.com/DavCervigni
+linkedin        : david-cervigni-229569a
+twitter         : DavCervigni
 ticket          : tbd
 status          : todo
 pre_summit      : tbd

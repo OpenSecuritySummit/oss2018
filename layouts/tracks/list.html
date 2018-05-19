@@ -2,7 +2,6 @@
     <div class="featured-ws">
       <div class="container">
         {{ .Content }}
-
         <h3>Schedule</h3>
 
         {{ partial "schedule/track.html" (dict "self" . "title" .Params.title )}}

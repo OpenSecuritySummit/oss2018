@@ -1,3 +1,7 @@
+.tr-schedule {
+    border-top      : 3px solid !important;
+    border-color    : white !important;
+}
 .schedule-by-days tr th{
     border          :1px solid;
     text-transform  : uppercase;
@@ -11,8 +15,6 @@
     padding: 12px
 }
 
-.time-col { min-width:80px;}
-.session-time {
-    font-size: 8px;
-    color: black
-}
+.session-time           { font-size: 8px;  color: black  }
+.time-col               { min-width:80px;}
+
