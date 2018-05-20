@@ -41,8 +41,6 @@ members:
     - Sherif Mansour
     - Steven van der Baan
     - Tanya Janca
-    - Sherif Mansour
-    - Sam Stepanyan
 
 notes :
 ---
