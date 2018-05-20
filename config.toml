@@ -60,12 +60,12 @@ paginate = 10
     parent = "sessions"
     url = "/teams"
 [[menu.main]]
-    name = "Vendor Pitches"
-    identifier = "vendor-piches"
+    name = "Procuct Sessions"
+    identifier = "product-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 7
     parent = "sessions"
-    url = "/vendor-pitches"
+    url = "/product-sessions"
 [[menu.main]]
     name = "Participants"
     identifier = "participants"
