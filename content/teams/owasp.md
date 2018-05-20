@@ -46,7 +46,4 @@ notes :
 ---
 
 
-{{< img src="https://www.owasp.org/images/thumb/f/fe/Owasp_logo.jpg/300px-Owasp_logo.jpg" >}}
-
-
 

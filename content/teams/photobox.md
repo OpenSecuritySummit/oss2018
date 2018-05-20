@@ -44,8 +44,6 @@ notes :
 ---
 
 
-{{< img src="https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png" width="350">}}
-<br/>
 {{< img src="/img/teams/PBX-GS-Mission.png" width="750" >}}
 
 Photobox Group Security is the team responsible for securing magic moments for customers of our brands.

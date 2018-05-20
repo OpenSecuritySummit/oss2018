@@ -20,7 +20,3 @@ notes :
 ---
 
 
-{{< img src="https://www.toreon.com/wp-content/uploads/2016/07/logo.png" >}}
-
-
-
