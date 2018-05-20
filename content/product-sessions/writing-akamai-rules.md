@@ -1,6 +1,6 @@
 ---
 title        : Writing Akamai rules
-type         : vendor-pitch
+type         : product-session
 track        : DevSecOps
 host_text    : 
 host_link    :

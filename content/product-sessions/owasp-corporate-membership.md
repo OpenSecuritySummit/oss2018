@@ -1,6 +1,6 @@
 ---
 title        : Owasp corporate membership
-type         : vendor-pitch
+type         : product-session
 track        :
 host_text    : Owasp
 host_link    : https://www.owasp.org

@@ -1,6 +1,6 @@
 ---
 title        : Hands on Avatao path on NodeJS
-type         : vendor-pitch
+type         : product-session
 track        :
 host_text    : Avatao
 host_link    : https://avatao.com/

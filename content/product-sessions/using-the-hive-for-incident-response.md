@@ -1,6 +1,6 @@
 ---
 title        : Using The Hive for Incident Response
-type         : vendor-pitch
+type         : product-session
 track        : DevSecOps
 host_text    :
 host_link    :

@@ -1,6 +1,6 @@
 ---
 title        : Integrate securityheaders.com in CI pipeline
-type         : vendor-pitch
+type         : product-session
 track        : DevSecOps
 host_text    :
 host_link    :

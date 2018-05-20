@@ -1,6 +1,6 @@
 ---
 title        : Writing Checkmarx SAST rules
-type         : vendor-pitch
+type         : product-session
 track        : DevSecOps
 host_text    :
 host_link    :

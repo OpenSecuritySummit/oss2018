@@ -5,7 +5,7 @@
             {{ .Content }}
 
             <h3>{{ .Params.title }} Daily Schedule</h3>
-            {{ $pages := where  .Site.Pages ".Params.type" "vendor-pitch" }}
+            {{ $pages := where  .Site.Pages ".Params.type" "product-session" }}
             {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
 
             <h3>Vendor Piches Details</h3>
@@ -18,7 +18,7 @@
                     <th>Session Type</th>
                 </tr>
                 </thead>
-                <tbody class="tbl-vendor-pitches">
+                <tbody>
                     {{ range .Pages}}
                         {{if ne .Params.hidden true}}
                             <tr>

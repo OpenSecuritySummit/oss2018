@@ -1,6 +1,6 @@
 ---
 title        : Dependency management using Snyk
-type         : vendor-pitch
+type         : product-session
 track        : DevSecOps
 host_text    : Snyk
 host_link    : https://snyk.io/

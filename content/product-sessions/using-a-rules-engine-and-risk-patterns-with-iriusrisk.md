@@ -1,6 +1,6 @@
 ---
 title        : Using a Rules Engine and Risk Patterns with IriusRisk
-type         : vendor-pitch
+type         : product-session
 track        : Threat Model
 host_text    : Continuum Security
 host_link    : https://www.continuumsecurity.net/threat-modeling-tool/

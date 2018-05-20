@@ -1,6 +1,6 @@
 ---
 title        : Hands on Avatao path on Java
-type         : vendor-pitch
+type         : product-session
 track        :
 host_text    : Avatoo
 host_link    : https://avatao.com/

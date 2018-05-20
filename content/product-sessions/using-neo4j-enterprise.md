@@ -1,6 +1,6 @@
 ---
 title        : Using Neo4J Enterprise
-type         : vendor-pitch
+type         : product-session
 track        :
 host_text    :
 host_link    :
