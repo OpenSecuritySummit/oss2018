@@ -38,9 +38,10 @@ We want to cover the attacks of the known vulnerabilities in Pixi with the appli
  - https://owaspsummit.org/tracks/owasp-devslop/adding-crs3-pixi-to-circleci-pipeline/
 
 ## Working Materials
+ - PoC: https://github.com/DevSlop/pixi-crs/tree/test-pixi-vulnerabilities
+ - http://prezo.s3.amazonaws.com/pixi_california_2018/pixi_lab.md
  - https://github.com/SpiderLabs/owasp-modsecurity-crs
  - https://github.com/DevSlop/pixi-crs
- - http://prezo.s3.amazonaws.com/pixi_california_2018/pixi_lab.md
 
 ## References
 
