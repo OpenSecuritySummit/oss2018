@@ -112,6 +112,12 @@ a.nav {
 
 .inner_main_teams{ height:284px; position:relative; background:url(/img/pages/teams.jpg) no-repeat center bottom; background-size:cover;}
 
+.inner_main_schedule{ height:284px; position:relative; background:url(/img/pages/schedule.jpg) no-repeat center bottom; background-size:cover;}
+
+.background-schedule {
+    background: url(/img/pages/schedule.jpg) center center repeat;
+}
+
 
 header.full-bg {
   position: relative;
