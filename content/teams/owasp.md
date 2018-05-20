@@ -27,6 +27,7 @@ sessions:
 members:
     - Adrian Winckles
     - Avi Douglen
+    - Bart De Win
     - Dinis Cruz
     - Felipe Zipitria
     - Imran Mohammed A
