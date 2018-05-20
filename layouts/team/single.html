@@ -4,9 +4,7 @@
     <div class="participant-main-section">
       <div class="container">
 
-      <!--{{ with .Params.image }}-->
-        <!--<img class="black-and-white participant " src="{{ . }}" alt="" />-->
-      <!--{{ end }}-->
+      {{ partial "teams/image.html" . }}
 
       <p>
         {{ .Content }}

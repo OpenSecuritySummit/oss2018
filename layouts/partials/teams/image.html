@@ -1,0 +1,11 @@
+{{ $sponsor := . }}
+
+{{ range $parentKey, $parent := .Site.Data.sponsors }}
+  {{ range $childKey, $child := . }}
+    {{ if eq $childKey (lower $sponsor.Title) }}
+    <a href="{{ $child.url }}">
+      <img class="img-responsive" style="width:350px;" src="{{ $child.image }}" />
+    </a>
+    {{ end }}
+  {{ end }}
+{{ end }}
