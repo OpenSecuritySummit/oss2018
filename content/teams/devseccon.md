@@ -2,7 +2,7 @@
 title           : DevSecCon
 type            : team
 team_type       : Sponsor
-image           : http://localhost:1313/img/sponsors/devseccon.png
+image           : /img/sponsors/devseccon.png
 linkedin        :
 twitter         :
 website         : http://www.devseccon.com/
@@ -18,9 +18,5 @@ members:
 
 notes :
 ---
-
-
-{{< img src="/img/sponsors/devseccon.png" width="350">}}
-
 
 
