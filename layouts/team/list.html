@@ -42,8 +42,8 @@
                     {{if ne .Params.hidden true}}
                         <tr>
                             <td><a href="{{.Permalink}}">{{ .Params.title }}</a></td>
-                            <td>{{if isset .Params "image" }}
-                                    <img src="{{.Params.image}}" width="150px"/>
+                            <td>{{ with .Params.image }}
+                                    <img src="{{ . }}" width="150px"/>
                                 {{ end }}</td>
                             <td>{{ .Params.team_type }}</td>
                         </tr>
@@ -53,5 +53,5 @@
         </div>
     </div>
 
-</section>    
+</section>
 {{ end}}
