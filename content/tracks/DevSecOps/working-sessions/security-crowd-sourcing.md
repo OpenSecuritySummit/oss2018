@@ -1,15 +1,18 @@
 ---
 title        : Security Crowdsourcing
 type         : working-session
+track        : DevSecOps
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Tue
+when_time    : PM-3
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
-categories   : ["Crowdsourcing"]
-organizers   :
 description  : Working Sessions for Security Crowdsourcing
+organizers   :
+    - James Wharton
+    - Stu Hirst
+participants :
 ---
 
 Security crowdsourcing is necessary - it is allowing highly talented individuals and resourceful organisations to use the power of their intelligence, skills and resources to fight cyber threats.

@@ -20,7 +20,7 @@ notes :
 ---
 
 
-{{< img src="http://localhost:1313/img/sponsors/devseccon.png" width="350">}}
+{{< img src="/img/sponsors/devseccon.png" width="350">}}
 
 
 

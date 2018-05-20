@@ -1,17 +1,19 @@
 ---
 title        : Web Application Honeypot 
-type         : working-session      # working-session, user-session
+type         : working-session
+track        : DevSecOps
 technology   : WAF, Modsecurity
 categories   : Application Threat Intelligence                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Thu
+when_time    : PM-3
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
-organizers   : Adrian Winckles    # separated by coma
 description  :
-participants :                    # separated by coma
+participants :
+organizers   :
+    - Adrian Winckles
 ---
 
 We're rebooting the OWASP Distributed Web Application Honeypot Project which Ryan Barnett used to lead and fell dormant due to a change of employer.  We now have the capacity to host a new community reporting server in ARU's new research lab (as well as plenty of physical server capacity).

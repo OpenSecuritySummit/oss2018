@@ -1,15 +1,18 @@
 ---
 title        : WebAuthn - Getting started workshop
 type         : working-session
+track        : DevSecOps
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Fri
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done
-organizers   : ["Yuriy Ackermann"]
-participants :
 description  :
+organizers   :
+    - Yuriy Ackermann
+participants :
+
 ---
 
 See how this [Web Authentication: What It Is and What It Means for Passwords](https://duo.com/blog/web-authentication-what-it-is-and-what-it-means-for-passwords)

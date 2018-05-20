@@ -1,9 +1,10 @@
 ---
 title        : Security Champions
 type         : working-session
+track        : DevSecOps
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Tue
+when_time    : PM-3
 room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done

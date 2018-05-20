@@ -8,19 +8,17 @@ twitter         :
 website         :
 email           :
 status          :
-sessions:
-    - OwaspSAMM - Best Practices
+#sessions:
+#    - OwaspSAMM - Best Practices
 members:
-    - Sebastien Deleersnyder
-    - Francois Raynaud
-    - Toby Shelswell
     - David Cervigni
+    - Francois Raynaud
+    - Mark Felegyhazi
+    - Toby Shelswell
+    - Sebastien Deleersnyder
 
 notes :
 ---
-
-
-{{< img src="https://www.toreon.com/wp-content/uploads/2016/07/logo.png" >}}
 
 
 

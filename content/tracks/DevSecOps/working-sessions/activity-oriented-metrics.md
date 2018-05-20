@@ -1,15 +1,16 @@
 ---
 title        : Using activity-oriented metrics for Security
-type         : working-session
+track        : Misc
+track        :
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :
-when_time    :
+when_day     : Wed
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
-track        : Security Pipelines
+
 organizers   :
 description  : Using activity-oriented metrics for Security
 ---

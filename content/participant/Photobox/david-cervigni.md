@@ -4,8 +4,8 @@ type            : participant
 job_title       : AppSec consultant
 topics          : SAST/IAST/DAST, secure coding, DevSecOps
 company         : PhotoBox Group
-image           : https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAjtAAAAJGNlMzIyZTEzLWI0NjUtNGI2Yy1iMzJkLWI2YzA4ZjM1ZWE4Nw.jpg
-email           : dcervigni*gmail
+image           : https://pbs.twimg.com/profile_images/925960059695259648/bxq0RO6s_400x400.jpg
+#email           : dcervigni*gmail
 linkedin        : david-cervigni-229569a
 twitter         : DavCervigni
 ticket          : tbd

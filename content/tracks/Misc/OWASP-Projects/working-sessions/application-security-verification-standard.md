@@ -1,9 +1,10 @@
 ---
 title        : Application Security Verification Standard
 type         : working-session
+track        : Misc
 featured     :                    # if  "yes" review with summit team
-when_day     :
-when_time    :
+when_day     : Wed
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content     # draft, review-content, done
