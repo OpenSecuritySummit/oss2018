@@ -36,7 +36,9 @@ members:
     - Jim Newman
     - John DiLeo
     - Karen Staley
+    - Sam Stepanyan
     - Sebastien Deleersnyder
+    - Sherif Mansour
     - Steven van der Baan
     - Tanya Janca
     - Sherif Mansour
