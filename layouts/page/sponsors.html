@@ -20,11 +20,20 @@
 
 {{ end }}
 
-{{ define "content" }}
+{{ define "full-content" }}
+
+<div class="container-fluid">
 
 <section id="sponsors">
-    <div class="container">
+  <div class="bg-sponsors container">
+    <div class="row sponsor-spacing">
+      <div class="col-md-12">
+        {{ .Content }}
+      </div>
+    </div>
 
+    <div class="row sponsor-spacing">
+      <div class="col-md-12">
       {{ $sponsor_type := (slice "platinum" "gold" "silver" "community") }}
       {{ range $sponsor_type }}
           {{ $sponsors := (index $.Site.Data.sponsors .) }}
@@ -32,8 +41,11 @@
           {{ partial "sponsors/type-list.html" (dict "category" . "sponsors" $sponsors) }}
 
       {{ end }}
+    </div>
+  </div>
+  </div>
 
-<div class="sponsorship-options">
+  <div class="sponsorship-options">
     <div class="container">
         <h1>Sponsorship packages</h1>
         <p>If you are interested in one of the sponsorships packages below please contact <a href="mailto:francois@devseccon.com">Francois Raynaud</a></p>
@@ -74,6 +86,8 @@
             </div>
         </div>
     </div>
-</div>
+  </div>
+
+</section>
 
 {{ end }}

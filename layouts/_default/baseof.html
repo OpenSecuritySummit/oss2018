@@ -20,37 +20,46 @@
 
         {{ end }}
         <div id="content">
-            {{ if isset .Params "id" }}
+        {{ if isset .Params "id" }}
 
-              {{ partial .Params.id . }}
+          {{ partial .Params.id . }}
 
-            {{ else }}
+        {{ else if isset .Params "manage-container" }}
+          <div>
+            {{ block "full-content" . }}
 
-            <div class="container">
-
-                <div class="row">
-
-                    <div class="col-md-12">
-
-                        <div>
-                          {{ block "content" . }}
-
-                            {{ .Content }}
-
-                          {{ end }}
-
-                          {{ partial "edit-link" . }}
-                        </div>
-
-                    </div>
-
-                </div>
-                <!-- /.row -->
-
-            </div>
-            <!-- /.container -->
+              {{ .Content }}
 
             {{ end }}
+
+            {{ partial "edit-link" . }}
+          </div>
+        {{ else }}
+          <div class="container">
+
+              <div class="row">
+
+                  <div class="col-md-12">
+
+                      <div>
+                        {{ block "content" . }}
+
+                          {{ .Content }}
+
+                        {{ end }}
+
+                        {{ partial "edit-link" . }}
+                      </div>
+
+                  </div>
+
+              </div>
+              <!-- /.row -->
+
+          </div>
+          <!-- /.container -->
+
+        {{ end }}
         </div>
         <!-- /#content -->
 
