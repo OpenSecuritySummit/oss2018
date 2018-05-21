@@ -15,6 +15,7 @@ organizers   :
     - Dinis Cruz
 participants :
     - Mario Platt
+    - Goher Mohammad
 ---
 
 (add intro)
