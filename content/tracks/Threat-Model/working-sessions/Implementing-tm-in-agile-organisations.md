@@ -14,6 +14,7 @@ track        : Threat Model
 organizers   :
     - Steven Wierckx
 participants :
+    - Goher Mohammad
 
 ---
 
