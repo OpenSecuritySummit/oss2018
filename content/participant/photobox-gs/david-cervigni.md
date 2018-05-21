@@ -2,7 +2,10 @@
 title           : David Cervigni
 type            : participant
 job_title       : AppSec consultant
-topics          : SAST/IAST/DAST, secure coding, DevSecOps
+topics          :
+    - SAST,IAST,DAST
+    - Secure Coding
+    - DevSecOps
 company         : PhotoBox Group
 image           : https://pbs.twimg.com/profile_images/925960059695259648/bxq0RO6s_400x400.jpg
 #email           : dcervigni*gmail
