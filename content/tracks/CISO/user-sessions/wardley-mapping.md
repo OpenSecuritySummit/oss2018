@@ -10,7 +10,9 @@ when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       :                    # draft, review-content, done
-organizers   : Tony Richards
+organizers   : 
+  - Tony Richards
+  - Simon Wardley
 description  : Practical session on how to use value chain mapping.
 ---
 

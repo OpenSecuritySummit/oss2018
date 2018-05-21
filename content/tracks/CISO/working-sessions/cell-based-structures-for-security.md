@@ -9,7 +9,9 @@ room_layout  :
 room_number  :
 status       : draft                   # draft, review-content, done
 categories   : ["CISO"]
-organizers   : Tony Richards
+organizers   : 
+  - Tony Richards
+  - Simon Wardley
 description  : Spotify compliant organizational model in security domain
 ---
 
