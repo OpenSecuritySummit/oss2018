@@ -12,6 +12,10 @@ website         : http://www.vbu.mk
 email           : vasil.buraliev@vbu.mk
 project_leader  :
 chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-1
+night_room      : 4
 regonline       :
 pre-summit      : Sat, Sun
 status          : add details

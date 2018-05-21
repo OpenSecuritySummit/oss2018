@@ -8,7 +8,9 @@ image           : https://pbs.twimg.com/profile_images/925960059695259648/bxq0RO
 #email           : dcervigni*gmail
 linkedin        : david-cervigni-229569a
 twitter         : DavCervigni
-ticket          : tbd
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-6
 status          : todo
 pre_summit      : tbd
 sessions        :

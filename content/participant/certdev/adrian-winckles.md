@@ -11,6 +11,9 @@ email           : Adrian.Winckles - at - owasp - dot - org
 project_leader  : OWASP Distributed Web Application Honeypot Project
 chapter_leader  : OWASP Cambridge
 regonline       :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-4
 pre-summit      :
 status          : add details
 sessions:

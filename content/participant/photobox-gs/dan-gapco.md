@@ -1,22 +1,23 @@
 ---
-title           : Gergo Turcsanyi
+title           : Dan Gapco
 type            : participant
-job_title       :
-company         : Avatao
+job_title       : Incident Response Analyst
+company         : Photobox GS
 travel_from     :
 image           :
-linkedin        :
-twitter         :
-facebook        :
+when_day        : Fri
+when_time       : PM-2
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-night_where     : villa-4
+venue           :  Fri
+night_day       :
+night_where     :
 regonline       :
 pre-summit      :
 status          : add details
-sessions:
+organizers      :
+sessions        :
+    - DarkTrace Improvement and Tuning Discussion
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 

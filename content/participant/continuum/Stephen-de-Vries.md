@@ -9,6 +9,10 @@ image           : /participant/images/stephen-de-vries.jpg
 linkedin        : stephen-de-vries-4185a8
 twitter         : continuumsecure
 facebook        :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-1
+night_room      : 1
 status          : need-content
 villa           : Threat Model
 ticket          : 5x24h

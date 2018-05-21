@@ -10,9 +10,11 @@ linkedin        : jemma-davis-smith-6a562792
 twitter         :
 facebook        :
 website         : http://www.jemarketing.co.uk/
-email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue,
+night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue
+night_where     : villa-1
+night_room      : 2
+pre_summit      : Fri, Sat, Sun
 ticket          : 5x24h
 regonline       : Yes
 pre_summit      : Fri,Sat,Sun

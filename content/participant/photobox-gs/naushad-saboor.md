@@ -1,17 +1,18 @@
 ---
-title           : Christoph Jung
+title           : Naushad Saboor
 type            : participant
 job_title       :
 company         : Photobox GS
 travel_from     :
-image           :
+image           : https://media.licdn.com/dms/image/C4E03AQF-znjZJml1PA/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=rIvNryNU1JajPWkXAm4kvINPs2HRLY1jzIy7HAVaeFM
 linkedin        :
 twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-3
 regonline       :
 pre-summit      :
 status          : add details

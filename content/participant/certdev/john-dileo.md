@@ -14,8 +14,11 @@ email           : john.dileo@owasp.org
 project_leader  : 
 chapter_leader  : 
 - OWASP New Zealand
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-1
+night_room      : 4
 regonline       :
-pre-summit      :
 status          : 
 sessions        : 
 - SAMM Project Meeting

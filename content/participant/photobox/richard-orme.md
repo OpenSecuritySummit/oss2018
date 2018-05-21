@@ -1,8 +1,8 @@
 ---
-title           : Gergo Turcsanyi
+title           : Richard Orme
 type            : participant
-job_title       :
-company         : Avatao
+job_title       : CTO
+company         : Photobox Group
 travel_from     :
 image           :
 linkedin        :
@@ -10,16 +10,13 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-night_where     : villa-4
+project_leader  :
+chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details
-sessions:
-notes :
+sessions        :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
-
 ---
 
 <!-- put more details about participant here -->

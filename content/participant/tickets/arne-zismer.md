@@ -11,7 +11,7 @@ facebook        :
 website         :
 email           :
 venue           : Mon, Tue, Wed, Thu, Fri
-accommodation   : Mon, Tue, Wed, Thu
+night_day       : Mon, Tue, Wed, Thu
 eventbrite_id   : 772846753
 project_leader  :
 chapter_leader  :

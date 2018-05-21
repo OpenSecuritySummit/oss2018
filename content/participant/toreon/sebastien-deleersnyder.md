@@ -9,7 +9,10 @@ email           : seba@owasp.org
 linkedin        : sebadele
 twitter         : sebadele
 funded_who      : sponsor
-ticket          : 5x24h
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-2
+night_room      : 4
 status          : done
 pre_summit      : Sat,Sun
 sessions        :
