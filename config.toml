@@ -60,7 +60,7 @@ paginate = 10
     parent = "sessions"
     url = "/teams"
 [[menu.main]]
-    name = "Procuct Sessions"
+    name = "Product Sessions"
     identifier = "product-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 7

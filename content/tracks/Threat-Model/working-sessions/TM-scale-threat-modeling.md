@@ -11,7 +11,8 @@ room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
 description  : How to scale Threat Modeling
 ---
 
@@ -31,10 +32,9 @@ We need a model to get the most of the resources available in terms of risk miti
  - Create a Self-Service Threat Model so that developers can create an architecture-based Threat Model to get a set of security requirements before a single line of code was written.
  - Automation of Security Activities. Depending of the result of this initial threat model more security activities can be automatically triggered. For example: create a more detailed Threat Model if the business risk is high, set an appropriate pipeline for security testing activities (SAST, SAST+DAST, SAST+DAST+Pentesting...).
 
-Open discussion: What other initiatives are you using in your companies to tackle this challenges? How could we scale the Threat Modeling activity? How could we do the follow up of thousands of Threat Models with a reduced team? 
+Open discussion: What other initiatives are you using in your companies to tackle this challenges? How could we scale the Threat Modeling activity? How could we do the follow up of thousands of Threat Models with a reduced team?
 
 
 ## Outcomes
 
-This Working Session will publish a document (white paper) gathering the conclussions. 
-
+This Working Session will publish a document (white paper) gathering the conclussions.

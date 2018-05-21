@@ -11,7 +11,8 @@ room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
 description  : Back to the future with Threat Modeling
 ---
 
@@ -32,4 +33,4 @@ Open discussion: How can we improve our Threat Modeling using a post-mortem of a
 
 ## Outcomes
 
-This Working Session will publish a document (white paper) gathering the conclussions. 
+This Working Session will publish a document (white paper) gathering the conclussions.

@@ -11,7 +11,8 @@ room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
 description  : API Threat Modeling Cheat Sheet
 ---
 
@@ -22,11 +23,11 @@ We all love Cheat Sheets. They are great to use when you need it but they are al
 
 ## What
 
- - What are the main Threats against an API? 
- - Can we find common Threats that apply to APIs? 
+ - What are the main Threats against an API?
+ - Can we find common Threats that apply to APIs?
  - Are there generic Threats we could check for applicability?
- - Could we organize the Threats in Risk Patterns for APIs? 
- - Can they be summarized on a Cheat Sheet form? 
+ - Could we organize the Threats in Risk Patterns for APIs?
+ - Can they be summarized on a Cheat Sheet form?
 
 ## Outcomes
 
