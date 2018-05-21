@@ -15,6 +15,7 @@ description  : An exploration and working session to characterise, explore and i
 organizers   :
     - Russ Miles
 participants:
+    - Goher Mohammad
 
 ---
 
