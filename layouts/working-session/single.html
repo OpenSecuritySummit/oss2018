@@ -1,14 +1,16 @@
+
 {{ define "breadcrumbs" }}
-<div id="heading-breadcrumbs">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12">
-                <h1 class="no-caps">{{ .Title }}</h1>
+
+    <div class="inner_main_working_sessions">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
             </div>
         </div>
     </div>
-</div>
+
 {{ end }}
+
 {{ define "content" }}
 
     {{ partial "session/metadata.html" . }}
