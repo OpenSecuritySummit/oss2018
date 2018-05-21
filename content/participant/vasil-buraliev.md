@@ -4,7 +4,7 @@ type            : participant
 job_title       : IT Project Management and SW Development Consultant
 company         :
 travel_from     : Skopje, Macedonia
-image           : http://www.vbu.mk/dl/vbu-photo.jpg
+image           : https://www.muzichkiregistar.com/!/vbu-photo.jpg
 linkedin        : vasbu
 twitter         : VasilBuraliev
 facebook        : vasil.buraliev
