@@ -18,18 +18,13 @@
 .session-time           { font-size: 8px;  color: black  }
 .time-col               { min-width:80px;}
 
-
-/*.villa_mappings h2{ font-size:48px; text-align:center; margin-top:0; position:relative; padding-bottom:30px; margin-bottom:60px; color:#00549e; font-family: 'Oswald', sans-serif; font-weight:600; text-transform:uppercase;} .list_attendees h2:before{ content:""; width:100px; height:10px; margin-left:-50px; position:absolute; left:50%; bottom:0; background:#98c1df;}*/
-.villa_mappings ul                   { margin:0 ; padding:0; list-style:none; display:table; border-collapse: separate; border-spacing:16px 8px;}
-.villa_mappings ul li:nth-child(6n+6){ margin-right:0;}
-.villa_mappings ul li                { display:table-cell; text-align:center; width:20%; background:#fff; border:#eceff1 1px solid; border-radius:8px;padding:0px 5px;}
-/*.villa_mappings ul li a{ display:block;}*/
-/*.villa_mappings ul li a i img{ border-radius:100%; object-fit:cover; width:135px; height:135px;}*/
-.villa_mappings ul li h4            { font-size:18px; text-transform:uppercase; font-family: 'Oswald', sans-serif; font-weight:500; padding:1px; color:#78909c;}
-/*.villa_mappings ul li:hover{ background:#eceff1; border:#eceff1 1px solid; text-decoration:none;}*/
-/*.villa_mappings ul li:focus a{ text-decoration:none;}*/
-/*.villa_mappings ul li:hover a h4{ color:#00549e;}*/
-/*.villa_mappings ul li:hover a, .list_attendees ul li a:focus{ text-decoration: none;}*/
-/*.villa_mappings ul li:active { background:#00549e; border:#00549e 1px solid;}*/
-/*.villa_mappings ul li:active a h4{ color:#fff;}*/
-.villa_mappings .villa_type         { font-size: 12px; font-family: 'Oswald', sans-serif; }
+.villa_days             { border: #00549e 2px solid ;  border-radius:8px; padding:10px; margin:10px }
+.villa_days h3          { margin: 0px}
+.villa_days .villa_type { font-size: 10px }
+.villa_days .villa_day  { border: #eceff1 2px solid ;  border-radius:8px; padding:10px; margin:10px }
+.villa_days ul          { width:100%; margin:0 ; padding:0; list-style:none; display:table; border-collapse: separate; border-spacing:16px 8px;}
+.villa_days ul li       { display:table-cell; text-align:center; background:#fff; border:#eceff1 1px solid; border-radius:8px; padding:0px 5px;}
+.villa_days h4          { font-size:20px; margin: 5px}
+.villa_days i img       { border-radius:100%; object-fit:cover; width:25px; margin:5px}
+.villa-day-title        { font-size:16px }
+.villa-day-room         { font-size:8px  ; color: black; }
