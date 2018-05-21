@@ -6,7 +6,7 @@ layout      : FAQ
 ### Keynote
 
 **Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in his speech giving an overview of the spirit in which the summit will be realized.
-
+<a name="working-session"></a>
 <p style="text-align: center;"><img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 45%;"/></p>
 
 <br/>
@@ -16,7 +16,7 @@ layout      : FAQ
 
 <img src="/img/pages/working_session_properties.png" alt="working sessions properties" style="width: 45%;"/>
 <img src="/img/pages/working_session_approach.png" alt="working sessions approach" style="width: 45%;"/><br/>
-
+<a name="user-session"></a>
 <p style="text-align: center;"><strong>E</strong> - Expert | <strong>PA</strong> - Participant </p>
 
 Find more details on the current [Working Sessions](https://open-security-summit.org/working-sessions/)
@@ -28,7 +28,7 @@ Find more details on the current [Working Sessions](https://open-security-summit
 
 <img src="/img/pages/user_session_properties.png" alt="user sessions properties" style="width: 45%;"/>
 <img src="/img/pages/user_session_approach.png" alt="user sessions approach" style="width: 45%;"/><br/>
-
+<a name="product-session"></a>
 <p style="text-align: center;"> <strong>E</strong> - Expert | <strong>PR</strong> - Practitioner | <strong>PA</strong> - Participant </p>
 
 Find more details on the current [User Sessions](https://open-security-summit.org/user-sessions/)
