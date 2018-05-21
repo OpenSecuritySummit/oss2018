@@ -10,8 +10,9 @@ twitter         :
 facebook        :
 website         : http://offda.eu
 email           : manuel.almeida@photobox.com
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu, Fri-after, Sat-after, Sun-after
+night_where     : villa-3
 regonline       :
 pre-summit      :
 status          : add details

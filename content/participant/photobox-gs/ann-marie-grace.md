@@ -9,11 +9,10 @@ image           : https://media.licdn.com/dms/image/C5603AQHxQKdnEeuEBg/profile-
 linkedin        : amgrace
 twitter         :
 facebook        :
-website         :
-email           :
-project_leader  :
-chapter_leader  :
-ticket          : 5x24h
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-2
+night_room      : 3
 regonline       : Yes
 pre-summit      :
 status          : add details

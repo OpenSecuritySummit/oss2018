@@ -15,19 +15,21 @@
         <th>Email</th> -->
     </thead>
     {{ range $index, $element := $tracks}}
-    <tr>
-      <td>{{ $index }}</td>
-        <td>
-        <a href="{{.Permalink }}">{{$element.Title}}</a>
-        </td>
-        <td>{{ $element.Params.need_funding_for }}</td>
-        <td>{{ $element.Params.travel_from }}</td>
-        <td>{{ $element.Params.sessions }} {{ $element.Params.working_sessions }}</td>
-        <!--   <td>{{ $element.Params.twitter }}</td>
-        <td>{{ $element.Params.facebook }}</td>
-        <td>{{ $element.Params.linkedin }}</td>
-        <td>{{ $element.Params.email }}</td> -->
+        {{if $element.Title}}
+            <tr>
+              <td>{{ $index }}</td>
+                <td>
+                <a href="{{.Permalink }}">{{$element.Title}}</a>
+                </td>
+                <td>{{ $element.Params.need_funding_for }}</td>
+                <td>{{ $element.Params.travel_from }}</td>
+                <td>{{ $element.Params.sessions }} {{ $element.Params.working_sessions }}</td>
+                <!--   <td>{{ $element.Params.twitter }}</td>
+                <td>{{ $element.Params.facebook }}</td>
+                <td>{{ $element.Params.linkedin }}</td>
+                <td>{{ $element.Params.email }}</td> -->
 
-    </tr>
+            </tr>
+        {{ end }}
     {{ end}}
 </table>

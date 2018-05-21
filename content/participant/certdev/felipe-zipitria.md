@@ -12,6 +12,10 @@ website         :
 email           : felipe.zipitria@owasp.org
 project_leader  :
 chapter_leader  : Uruguay
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : hotel-1
+night_room      : tbd
 regonline       :
 pre-summit      :
 status          : add details

@@ -12,8 +12,9 @@ twitter         : adamshostack
 facebook        :
 website         : https://adam.shostack.org
 email           : adam@shostack.org
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-10
 regonline       :
 status          : add-details
 sessions:

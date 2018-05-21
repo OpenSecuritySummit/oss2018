@@ -10,9 +10,10 @@ twitter         : robertgracesa1
 facebook        :
 website         :
 email           : robert.grace.sa@gmail.com
-project_leader  :
-chapter_leader  :
-ticket          : 5x24h
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-2
+night_room      : 3
 regonline       : No
 status          : add details
 pre_summit      : Sat,Sun

@@ -11,9 +11,10 @@ facebook        :
 website         : https://www.devseccon.com
 email           : francois@devseccon.com
 status          : need-content
-villa           : DevSecCon
-ticket          : 5x24h
-pre_summit      : Sat,Sun
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-1
+night_room      : 3
 sessions        : 
   - AWS Lambda Security
   - Agile Practices for Security Teams

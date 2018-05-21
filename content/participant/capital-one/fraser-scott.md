@@ -10,8 +10,9 @@ twitter         : zeroXten
 facebook        :
 website         : https://0x10.co
 email           : fraser@0x10.co
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-5
 regonline       :
 pre_summit      :
 status          : add details

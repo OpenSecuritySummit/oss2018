@@ -9,9 +9,8 @@ linkedin        : charlotte-reece-bullock-2b60abb
 twitter         :
 facebook        :
 website         :
+venue           : Mon, Tue
 email           :
-project_leader  :
-chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details

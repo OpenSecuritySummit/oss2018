@@ -1,0 +1,72 @@
+{{ define "breadcrumbs" }}
+
+    <div class="inner_main_working_sessions">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{ define "content" }}
+    <style>
+        .villa_days             { border: #00549e 2px solid ;  border-radius:8px; padding:10px; margin:10px }
+        .villa_days h3          { margin: 0px}
+        .villa_days .villa_type { font-size: 10px }
+        .villa_days .villa_day  { border: #eceff1 2px solid ;  border-radius:8px; padding:10px; margin:10px }
+        .villa_days ul          { width:100%; margin:0 ; padding:0; list-style:none; display:table; border-collapse: separate; border-spacing:16px 8px;}
+        .villa_days ul li       { display:table-cell; text-align:center; background:#fff; border:#eceff1 1px solid; border-radius:8px; padding:0px 5px;}
+        .villa_days h4          { font-size:20px; margin: 5px}
+        .villa_days i img       { border-radius:100%; object-fit:cover; width:25px; margin:5px}
+        .villa-day-title        { font-size:16px }
+        .villa-day-room         { font-size:8px  ; color: black; }
+
+    </style>
+
+    <div class="row">
+        <div class="col-lg-12 text-sessions">
+            {{ .Content }}
+        </div>
+    </div>
+    <div class="container">
+        <h1>Summit (before)</h1>
+        {{ range $index, $value:=.Site.Data.schedule.villas.summit_before }}
+        <div class="villa_days">
+            <h3>{{ .title }} <span class="villa_type">{{ .type }} , {{ .capacity }} beds, {{.id }}, {{.location}} </span></h3>
+            <ul>
+                <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Fri-before" "id" .id) }} </li>
+                <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Sat-before" "id" .id) }} </li>
+                <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Sun-before" "id" .id) }} </li>
+            </ul>
+        </div>
+        {{ end }}
+
+        <h1>Summit</h1>
+        {{ range $index, $value:=.Site.Data.schedule.villas.summit }}
+            <div class="villa_days">
+                <h3>{{ .title }} <span class="villa_type">{{ .type }} , {{ .capacity }} beds, {{.id }}, {{.location}} </span></h3>
+                <ul>
+                    <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Mon" "id" .id) }} </li>
+                    <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Tue" "id" .id) }} </li>
+                    <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Wed" "id" .id) }} </li>
+                    <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Thu" "id" .id) }} </li>
+                </ul>
+            </div>
+        {{ end }}
+
+        <h1>Summit (after)</h1>
+        {{ range $index, $value:=.Site.Data.schedule.villas.summit_after }}
+        <div class="villa_days">
+            <h3>{{ .title }} <span class="villa_type">{{ .type }} , {{ .capacity }} beds, {{.id }}, {{.location}} </span></h3>
+            <ul>
+                <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Fri-after" "id" .id) }} </li>
+                <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Sat-after" "id" .id) }} </li>
+                <li class="villa_day">{{ partial "admin/villa-day.html" (dict "pages" $.Site.Pages "day" "Sun-after" "id" .id) }} </li>
+            </ul>
+        </div>
+        {{ end }}
+    </div>
+
+{{ end}}

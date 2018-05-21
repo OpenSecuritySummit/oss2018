@@ -1,17 +1,18 @@
 ---
-title           : James Wharton
+title           : John Killilea
 type            : participant
 job_title       :
 company         : Photobox GS
 travel_from     :
-image           : https://media.licdn.com/dms/image/C5603AQFKl9R8q46NFQ/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=u0n4_61gpAQAIycaHHgYXRe-bPy25RcgQ-t2I6XzgO4
-linkedin        :
+image           : https://media.licdn.com/dms/image/C4E03AQFFXLEn331OaA/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=uCsid31IUfHj1s1WtrXMuFcIetSPAYiMc0NK5grJZqg
+linkedin        : johnkillilea
 twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-6
 regonline       :
 pre-summit      :
 status          : add details

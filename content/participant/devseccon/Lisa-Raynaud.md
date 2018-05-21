@@ -14,10 +14,10 @@ email           :
 project_leader  :
 chapter_leader  :
 ticket          :
-villa           : DevSecCon
-status          : working-sessions mappings
-ticket          : 5x24h
-pre_summit      : Sat,Sun
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-1
+night_room      : 3
 sessions:
 
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions

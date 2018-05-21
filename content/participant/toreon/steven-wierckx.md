@@ -12,6 +12,10 @@ website         :
 email           : steven.wierckx@toreon.com
 project_leader  : OWASP Threat Modeling
 chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_where     : villa-2
+night_room      : 4
 regonline       :
 status          : done
 pre_summit      : Sat,Sun

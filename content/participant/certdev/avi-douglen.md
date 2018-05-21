@@ -14,6 +14,9 @@ website         :
 email           : avi.douglen@owasp.org
 project_leader  : Threat Modeling
 chapter_leader  : Israel
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-5
 regonline       :
 status          : add-details
 sessions        :
