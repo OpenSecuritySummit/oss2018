@@ -14,6 +14,7 @@ description  : Learn from companies that have implemented GDPR plans
 organizers   :
 participants :
   - Tony Richards
+  - Goher Mohammad
 ---
 
 (add intro)
