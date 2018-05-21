@@ -1,5 +1,6 @@
 ---
-title    : Sponsored Tickets
+title       : Sponsored Tickets
+layout      : FAQ
 ---
 
 

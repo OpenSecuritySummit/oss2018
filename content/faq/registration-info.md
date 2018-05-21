@@ -1,5 +1,6 @@
 ---
-title    : Registering and updating information
+title       : Registering and updating information
+layout      : FAQ
 ---
 
 #### 1. How do I update my schedule and register for working sessions?
@@ -32,6 +33,5 @@ There are two types of participants - Onsite and Remote
 - To register as an onsite participant:
 
    Please make a copy of the [participant template]({{< ref "/participant/_template.md" >}}) and save it in the same folder (https://github.com/OpenSecuritySummit/oss2018/tree/master/content/participant).
-   
-If you are going to contribute to a working session it makes sense to fork the repo and push your changes (https://github.com/OpenSecuritySummit/oss2018).
 
+If you are going to contribute to a working session it makes sense to fork the repo and push your changes (https://github.com/OpenSecuritySummit/oss2018).

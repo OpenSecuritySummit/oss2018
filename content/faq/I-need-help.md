@@ -1,5 +1,6 @@
 ---
-title    : I need help
+title       : I need help
+layout      : FAQ
 ---
 
 ### Who should I ask for help?
