@@ -15,6 +15,7 @@ organizers   :
 participants :
   - Dinis Cruz
   - Sophie Tonnoir
+  - Goher Mohammad
 ---
 
 ## Topic
