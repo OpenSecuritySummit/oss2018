@@ -568,9 +568,17 @@ ul.social-buttons li a i.fa {
   text-align:center;
 }
 /* Sponsors */
+.bg-sponsors {
+  background-color: #f5f7fa;
+}
+
+#sponsors .sponsor-spacing {
+  padding-top: 60px;
+}
 
 #sponsors .sponsors-item {
     margin-left: 15px;
+    background-color: #FFFFFF;
 }
 
 #sponsors .sponsors-item .sponsors-link {
@@ -641,7 +649,7 @@ ul.social-buttons li a i.fa {
 }
 
 #sponsors .platinum {
-  width: calc(100% / 3);
+  width: calc(100% / 4);
 }
 
 #sponsors .gold {
@@ -649,12 +657,12 @@ ul.social-buttons li a i.fa {
 }
 
 #sponsors .silver {
-  width: calc(100% / 5);
+  width: calc(100% / 4);
 }
 
 @media(min-width:767px) {
     #sponsors .sponsors-item {
-        margin: 0 0 30px;
+        margin: 10px 10px 30px;
     }
 }
 
