@@ -9,7 +9,7 @@ linkedin        :
 twitter         :
 facebook        :
 website         :
-email           :
+email           :goher.mohammad@photobox.com
 project_leader  :
 chapter_leader  :
 regonline       :
