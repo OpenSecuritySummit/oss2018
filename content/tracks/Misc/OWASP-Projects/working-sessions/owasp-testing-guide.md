@@ -10,7 +10,9 @@ room_number  :
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Testing Guide"]
 organizers   :
-  - Matteo Meucci, Prakash Sharma
+  - Matteo Meucci
+participants :
+  - Prakash Sharma
 description  : Working Sessions for Owasp Testing Guide v5
 ---
 

@@ -10,6 +10,7 @@ room_number  :
 status       : review-content      # draft, review-content, done
 description  : List of top 10 lessons from bug bounty experts and guidelines on improving bug bounty programmes
 organizers   :
+participants :
   - Prakash Sharma
 ---
 
