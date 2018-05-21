@@ -13,7 +13,9 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Manish Saindane
 description  : How to scale Threat Modeling
+locked       : true
 ---
 
 ## Why
