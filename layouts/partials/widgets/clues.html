@@ -7,13 +7,13 @@
      <li><a href="/tracks/"><i class="fa fa-user-circle"></i>tracks</a></li>
      {{ end }}
     {{ if eq .Params.type "user-session" }}
-        <li><a href="{{ ref . "faq/working-user-sessions-diff.md" }}"><i class="fa fa-user-circle"></i> user session </a></li>
+        <li><a href="{{ ref . "faq/session-types.md#user-session" }}"><i class="fa fa-user-circle"></i> user session </a></li>
     {{ end }}
     {{ if eq .Params.type "working-session" }}
-        <li><a href="{{ ref . "faq/working-user-sessions-diff.md" }}"><i class="fa fa-wrench"></i> working session </a></li>
+        <li><a href="{{ ref . "faq/session-types.md#working-session" }}"><i class="fa fa-wrench"></i> working session </a></li>
     {{ end }}
     {{ if eq .Params.type "product-session" }}
-        <li><a href="/product-sessions"><i class="fa fa-dollar"></i> product session </a></li>
+        <li><a href="{{ ref . "faq/session-types.md#product-session" }}"><i class="fa fa-dollar"></i> product session </a></li>
      {{ end }}
     {{ if eq .Params.status "featured" }}
         <li><a class="bg-success" href=""><i class="fa fa-check-square-o"></i> featured </a></li>

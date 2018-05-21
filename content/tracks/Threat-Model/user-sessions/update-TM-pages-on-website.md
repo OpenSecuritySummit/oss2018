@@ -11,6 +11,7 @@ room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
 organizers   :
+    - Steven Wierckx
 description  : Threat Modeling User Session
 ---
 

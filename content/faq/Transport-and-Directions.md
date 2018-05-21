@@ -1,5 +1,6 @@
 ---
-title    : Transport and Directions
+title       : Transport and Directions
+layout      : FAQ
 ---
 
 ## Transport and Directions

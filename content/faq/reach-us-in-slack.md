@@ -1,7 +1,8 @@
 ---
 title       : Reach us in Slack
+layout      : FAQ
 ---
-## How to reach us in Slack?
+### How to reach us in Slack?
 
 1. Run your internet browser and access the following link: https://owasp.slack.com/
 2. Enter your email address and password and sign in.
