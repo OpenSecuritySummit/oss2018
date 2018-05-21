@@ -11,17 +11,18 @@ room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
 description  : How to Threat Model Features with Questionnaires
 ---
 
 ## Why
 
-Threat model need to be Agile oriented... Probably the nefarious alternative is not doing Threat Modeling at all. Ideally user stories in a sprint should trigger a basic Threat Model for the new feature. 
+Threat model need to be Agile oriented... Probably the nefarious alternative is not doing Threat Modeling at all. Ideally user stories in a sprint should trigger a basic Threat Model for the new feature.
 
 ## What
 
-One of the approach to handle this is using Architecture-Pattern based analysis of the scope of this new features. 
+One of the approach to handle this is using Architecture-Pattern based analysis of the scope of this new features.
 This analysis can be somehow linked to a set of questions that can help on identifiying common threats.
 
 Open discussion: Is this enough? Can we identify better alternatives?​ How would this be taken to a real case?
@@ -29,4 +30,4 @@ Open discussion: Is this enough? Can we identify better alternatives?​ How wou
 
 ## Outcomes
 
-This Working Session will publish a document (white paper) gathering the conclussions. 
+This Working Session will publish a document (white paper) gathering the conclussions.

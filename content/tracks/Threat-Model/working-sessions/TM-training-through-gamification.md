@@ -11,7 +11,8 @@ room_layout  :                    #
 room_number  :
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
 description  : Threat Model training through Gamification
 ---
 
@@ -26,4 +27,4 @@ Open discussion: There are some traditional card games out there to learn Threat
 
 ## Outcomes
 
-This Working Session will publish a document with the specifications of the game. 
+This Working Session will publish a document with the specifications of the game.
