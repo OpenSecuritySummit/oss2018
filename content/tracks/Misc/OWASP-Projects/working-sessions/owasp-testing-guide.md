@@ -13,6 +13,7 @@ organizers   :
   - Matteo Meucci
 participants :
   - Prakash Sharma
+  - Goher Mohammad
 description  : Working Sessions for Owasp Testing Guide v5
 ---
 
