@@ -14,6 +14,7 @@ description  : If you could meet the ICO, what questions would you ask
 organizers   :
     - Tony Richards
 participants :
+    - Goher Mohammad
 ---
 
 (add intro)
