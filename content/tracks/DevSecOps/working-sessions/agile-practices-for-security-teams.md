@@ -9,7 +9,8 @@ room_number  :
 status       : done
 organizers   : Ante Gulam
 track        : DevSecOps
-participants : Sophie Tonnoir
+participants :
+    - Sophie Tonnoir
 description  : Agile Practices for Security Teams
 ---
 
