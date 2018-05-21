@@ -20,7 +20,7 @@ participants :
 
 ## What
 
-The goal of this session is to create hands-on IT security exercies using the open-source [Avatao challenge toolbox](https://github.com/avatao-content/challenge-toolbox). These open-source challenges can be built and launched locally by Docker containers and optionally uploaded to the [avatao online platform](https://platform.avatao.com). The goal is to bring hands-on IT security knowledge to anyone interested in this profession. Challenge creation also helps participants to understand given vulnerabilities and security issues at a deeper level. 
+The goal of this session is to create hands-on IT security exercises using the open-source [Avatao challenge toolbox](https://github.com/avatao-content/challenge-toolbox). These open-source challenges can be built and launched locally by Docker containers and optionally uploaded to the [avatao online platform](https://platform.avatao.com). The goal is to bring hands-on IT security knowledge to anyone interested in this profession. Challenge creation also helps participants to understand given vulnerabilities and security issues at a deeper level. 
 
 The suggested outline is the following:
 
