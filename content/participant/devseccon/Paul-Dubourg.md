@@ -27,6 +27,13 @@ sessions        :
   - Hands-on GDPR Patterns
   - Using Threat Models for GDPR
   - Security Playbooks
+  - Hands on Chaos Experiments
+  - Owasp Cloud Security Workshop (BETA)
+  - OWASP Defect Dojo
+  - Using The Hive for Incident Response
+  - JIRA Risk Workflow
+  - Using Threat Models for GDPR
+  - Using Pixi
   
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
