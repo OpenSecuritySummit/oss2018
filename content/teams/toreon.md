@@ -15,6 +15,10 @@ sessions:
 members:
     - Sebastien Deleersnyder
     - Steven Wierckx
+    - Frederic Tollens
+    - Jonas Vanalderweireldt
+    - Ruben Tronçon
+    - Fabien Thalgott
 
 notes :
 ---
