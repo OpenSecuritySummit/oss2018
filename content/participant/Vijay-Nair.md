@@ -4,7 +4,7 @@ type            : participant
 job_title       : BA
 company         : Photobox Group
 need_funding_for: Travel,Ticket
-sponsored_by    : GS, photobox
+sponsored_by    : GS, photobox group
 travel_from     : London
 image           : 
 linkedin        : vijaynairlms
