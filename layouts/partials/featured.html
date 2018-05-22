@@ -9,7 +9,7 @@
                 </div>
                 <div class="pricing m_b_160">
                   <div class="row">
-                    {{ $keynotes := where (where .Site.Pages ".Params.track" "Keynotes") ".Params.featured" "yes"}}
+                    {{ $keynotes := where .Site.Pages ".Params.track" "Keynotes"}}
                     {{ $tracks := where (where .Site.Pages ".Params.type" "track") ".Params.featured" "yes" }}
                     {{ $participants := where (where .Site.Pages ".Params.type" "participant") ".Params.featured" "yes"}}
 

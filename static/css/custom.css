@@ -1433,3 +1433,11 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
     width: 40px;
   }
 }
+
+.featured {
+    text-align: center;
+    font-family: 'Oswald Medium';
+}
+.featured li {
+  list-style: none;
+}
