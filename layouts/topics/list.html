@@ -1,0 +1,83 @@
+{{ define "nav" }}
+<header class="full-bg background-schedule">
+
+    <div class="dark-mask"></div>
+
+    {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_working_sessions">
+    <div class="center_heading">
+        <div class="container">
+            <h1>{{ .Title }}</h1>
+        </div>
+    </div>
+</div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    <style>
+        /*.topic-cards             { border: #00549e 2px solid ;  border-radius:8px; padding:10px; margin:10px }*/
+        .topic-cards h4         { color: #87bb40 }
+        .topic-cards ul         { padding:15px; width:100%; margin:0 ; padding:0; list-style:none; display:table; border-collapse: separate; border-spacing:16px 8px;}
+        .topic-cards ul li      { display:table-cell; text-align:center; background:#fff; border:#87bb40 1px solid; border-radius:8px; padding:0px 5px;}
+        .topic-cards ul li div  { border-radius:8px; border:#00549e 1px solid; margin:10px; padding:5px;}
+        .topic-cards ul li a    { font-size:12px ; color: #2678c0 ; font-family: Roboto, sans-serif ;}
+
+    </style>
+
+    <div class="container">
+        <br/>
+        <div class="t_rw">
+            Current User and Working sessions mapped by topic:
+        </div>
+    </div>
+    <div class="row">
+
+        <div class="col-xs-0"></div>
+        <div class="col-xs-12">
+
+            <div class="topic-cards">
+                <ul class="tags">
+                    {{ range $index, $value:= (sort .Site.Taxonomies.topics.TaxonomyArray "Name") }}
+                        <li>
+                            <h4>{{ $value.Name }}</h4>
+                            {{ range $value.Pages}}
+                                <div><a href="{{ .Permalink}}">{{ .Params.title}}</a> </div>
+                            {{ end }}
+                        </li>
+                    {{ if eq (mod $index 4) 3 }}</ul><ul>{{ end }}
+
+                    {{ end }}
+
+                </ul>
+            </div>
+<!--                    <ul>
+                        {{ range $taxonomyname, $taxonomy := .Site.Taxonomies }}
+                        <li><a href="{{ "/" | relLangURL}}{{ $taxonomyname | urlize }}">{{ $taxonomyname }}</a>
+                            <ul>
+                                {{ range $key, $value := $taxonomy }}
+                                <li> {{ $key }}</li>
+                                <ul>
+                                    {{ range $value.Pages }}
+                                    <li><a href="{{ .Permalink}}"> {{ .LinkTitle }} </a> </li>
+                                    {{ end }}
+                                </ul>
+                                {{ end }}
+                            </ul>
+                        </li>
+                        {{ end }}
+                    </ul>
+-->
+        </div>
+    </div>
+
+
+
+{{ end }}

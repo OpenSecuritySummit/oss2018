@@ -1,7 +1,8 @@
 ---
 title        : Recruiting AppSec Talent
 type         : working-session
-Track        : CISO
+track        : CISO
+topics       : ["Education"]
 featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : AM-1

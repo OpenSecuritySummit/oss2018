@@ -2,6 +2,7 @@
 title        : Adding security to VSTS pipeline
 type         : user-session
 track        : Misc
+topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

@@ -2,6 +2,7 @@
 title        : Securing GitHub Integrations
 type         : working-session
 track        : DevSecOps
+topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

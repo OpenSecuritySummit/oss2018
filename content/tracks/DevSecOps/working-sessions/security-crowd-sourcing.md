@@ -2,6 +2,7 @@
 title        : Security Crowdsourcing
 type         : working-session
 track        : DevSecOps
+topics       : ["CI Pipeline"]
 featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3

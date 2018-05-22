@@ -2,6 +2,7 @@
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : user-session
 track        : DevSecOps
+topics       : ["Secure SDL"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

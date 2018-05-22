@@ -1,6 +1,7 @@
 ---
 title        : Zap - How to use it
 type         : user-session
+topics       : ["Owasp Project"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

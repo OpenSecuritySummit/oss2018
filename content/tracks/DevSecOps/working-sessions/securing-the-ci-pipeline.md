@@ -2,6 +2,7 @@
 title        : Securing the CI Pipeline
 type         : working-session
 track        : DevSecOps
+topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

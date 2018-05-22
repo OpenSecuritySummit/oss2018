@@ -2,6 +2,7 @@
 title        : Automation of MASVS with BDD
 type         : working-session
 track        : Misc
+topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

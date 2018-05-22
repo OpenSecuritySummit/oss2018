@@ -2,7 +2,7 @@
 title        : Create AWS Security Quiz
 type         : working-session
 track        : Security Quiz
-technology   :
+topics       : ["AWS"]
 when_day     : Tue
 when_time    : PM-2
 room_layout  :

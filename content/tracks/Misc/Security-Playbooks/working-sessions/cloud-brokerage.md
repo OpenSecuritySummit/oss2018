@@ -2,6 +2,7 @@
 title        : Cloud brokerage - authentication and authorisation
 type         : working-session
 track        : Misc
+topics       : ["Security Playbooks"]
 technology   :
 categories   : ["Security Playbooks"]
 featured     :                    # review with summit team "yes"

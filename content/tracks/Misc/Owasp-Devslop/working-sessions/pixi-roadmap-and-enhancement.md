@@ -2,6 +2,7 @@
 title        : Pixi Roadmap and Enhancement
 type         : working-session
 track        : Misc
+topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

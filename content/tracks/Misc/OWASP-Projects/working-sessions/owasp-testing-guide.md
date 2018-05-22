@@ -2,6 +2,7 @@
 title        : Owasp Testing Guide v5
 type         : working-session
 track        : Misc
+topics       : ["Owasp Project"]
 featured     : yes                  # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-2, PM-3

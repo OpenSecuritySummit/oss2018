@@ -1,7 +1,8 @@
 ---
-title        : Security Champions
+title        : Defining a Security Champion
 type         : working-session
 track        : DevSecOps
+topics       : ["Security Champions"]
 featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3

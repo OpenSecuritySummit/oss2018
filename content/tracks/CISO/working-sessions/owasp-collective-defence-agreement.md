@@ -2,6 +2,7 @@
 title        : OWASP Collective Defence Cluster (CDC)
 type         : working-session
 track        : CISO
+topics       : ["Owasp Project"]
 featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1

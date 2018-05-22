@@ -2,6 +2,7 @@
 title        : Using Pixi
 type         : user-session
 track        : Misc
+topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

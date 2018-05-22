@@ -1,6 +1,7 @@
 ---
 title        : JIRA Risk Workflow
 type         : working-session
+topics       : ["Jira"]
 featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : Eve-1

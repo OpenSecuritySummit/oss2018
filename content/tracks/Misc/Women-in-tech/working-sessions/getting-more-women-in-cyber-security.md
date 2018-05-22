@@ -2,6 +2,7 @@
 title        : Getting more women in Cyber-security
 type         : working-session
 track        : Misc
+topics       : ["Women in Tech"]
 featured     :
 when_day     : Wed
 when_time    : PM-1
