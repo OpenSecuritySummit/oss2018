@@ -2,6 +2,7 @@
 title        : Lessons learned from public bug bounties programmes
 type         : working-session
 track        : Misc
+topics       : ["Education"]
 featured     :                    # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-3

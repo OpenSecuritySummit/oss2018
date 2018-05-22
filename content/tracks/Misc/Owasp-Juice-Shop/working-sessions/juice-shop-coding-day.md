@@ -2,7 +2,7 @@
 title        : Juice Shop Coding Day
 type         : working-session
 track        : Misc
-technology   : Node
+topics       : ["Owasp Juice Shop"]
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 featured     :                    # review with summit team "yes"
 when_day     : Thu                  # NOTE: should be on the brainstorming day, brainstorming should be the first session.
@@ -13,7 +13,6 @@ status       :  draft    # draft, review-content, done
 organizers   :
     - Timo Pagel
     - Jannik Hollenbach
-
 ---
 ## Why
 

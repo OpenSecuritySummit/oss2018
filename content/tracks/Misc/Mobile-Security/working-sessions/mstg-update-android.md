@@ -2,6 +2,7 @@
 title        : Update MSTG with changes in Android 8 (Oreo)
 type         : working-session
 track        : Misc
+topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

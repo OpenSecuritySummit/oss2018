@@ -2,6 +2,7 @@
 title        : Creation of Security Buttons
 type         : working-session
 track        : Misc
+topics       : ["Owasp Project"]
 featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : AM-1

@@ -2,6 +2,7 @@
 title        : Update MSTG with changes in iOS 11
 type         : working-session
 track        : Misc
+topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                    # review with summit team "yes"

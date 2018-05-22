@@ -2,7 +2,7 @@
 title        : Web Application Honeypot 
 type         : working-session
 track        : DevSecOps
-technology   : WAF, Modsecurity
+topics       : ["WAF"]
 categories   : Application Threat Intelligence                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Thu

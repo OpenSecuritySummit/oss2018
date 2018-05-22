@@ -2,6 +2,7 @@
 title        : Security Playbooks
 type         : working-session
 track        : Misc
+topics       : ["Security Playbooks"]
 when_day     : Thu
 when_time    : Eve-1
 technology   :

@@ -2,6 +2,7 @@
 title        : Reboot Owasp Books Project
 type         : working-session      # working-session, user-session
 track        : Misc
+topics       : ["Owasp Project"]
 technology   :
 categories   :
 featured     :

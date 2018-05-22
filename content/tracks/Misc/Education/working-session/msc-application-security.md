@@ -2,6 +2,7 @@
 title        : MSc Appication Security
 type         : working-session
 track        : Misc
+topics       : ["Education"]
 technology   : ["Education"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"

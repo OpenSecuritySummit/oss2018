@@ -2,7 +2,7 @@
 title           : David Cervigni
 type            : participant
 job_title       : AppSec consultant
-topics          :
+skills          :
     - SAST,IAST,DAST
     - Secure Coding
     - DevSecOps

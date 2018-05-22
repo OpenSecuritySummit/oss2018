@@ -2,6 +2,7 @@
 title        : IN Security movement - how to be involved
 type         : user-session
 track        : Keynotes
+topics       : ["Women in Tech"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

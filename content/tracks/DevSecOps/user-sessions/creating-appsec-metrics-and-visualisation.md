@@ -2,6 +2,7 @@
 title        : Creating Appsec metrics and visualisation
 type         : user-session
 track        : DevSecOps
+topics       : ["Visualisation","Metrics"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :  yes                  # review with summit team "yes"

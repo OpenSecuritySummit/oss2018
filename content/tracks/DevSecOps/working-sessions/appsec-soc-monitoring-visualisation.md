@@ -2,6 +2,7 @@
 title        : AppSec SOC Monitoring Visualisation
 type         : working-session
 track        : DevSecOps
+topics       : ["Visualisation"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

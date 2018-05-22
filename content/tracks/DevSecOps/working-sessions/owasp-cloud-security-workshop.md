@@ -2,6 +2,7 @@
 title        : Owasp Cloud Security Workshop (BETA)
 type         : working-session
 track        : DevSecOps
+topics       : ["Owasp Project"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

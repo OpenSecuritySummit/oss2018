@@ -103,7 +103,7 @@ We highly recommend appointing a timekeeper at the beginning of the meeting to w
 
 ### Working Session Outcomes
 
-The point of the summit is to create concrete deliverables from each working session. These deliverables can take many forms. It is vital that each working session has a [definition of done]({{< ref "articles/OutcomesBasedStrategy.md" >}})
+The point of the summit is to create concrete deliverables from each working session. These deliverables can take many forms. It is vital that each working session has a definition of done.
 
 ### Vendor Neutrality
 

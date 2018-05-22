@@ -2,6 +2,7 @@
 title        : Creating Open Source Avatao exercises
 type         : user-session      # working-session, user-session
 track        : Misc
+topics       : ["Education"]
 technology   :
 categories   :
 featured     :

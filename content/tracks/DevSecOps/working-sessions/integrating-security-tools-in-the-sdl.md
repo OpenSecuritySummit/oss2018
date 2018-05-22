@@ -2,6 +2,7 @@
 title        : Integrating Security Tools in the SDL
 type         : working-session
 track        : DevSecOps
+topics       : ["SDL"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
