@@ -16,7 +16,6 @@ organizers   :
     - Tony Richards
 participants :
     - Dinis Cruz
-    - Mario Platt
     - Sophie Tonnoir
 ---
 

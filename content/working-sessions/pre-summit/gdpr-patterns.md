@@ -1,6 +1,6 @@
 ---
 title        : GDPR Patterns (based on Threat Models)
-type         : working-session
+type         : pre-summit-working-session
 when         : pre-summit
 featured     : yes                  # review with summit team "yes"
 when_day     :

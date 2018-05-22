@@ -4,8 +4,8 @@ type            : participant
 job_title       :
 company         :
 travel_from     :
-image           :
-linkedin        :
+image           : https://media.licdn.com/dms/image/C4D03AQE8QgkrQ1ZT6g/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=w8Sph4J9PV0PwsKyMOP53yDjLyN-8bPHSdlY0BAK_w8
+linkedin        : markregensberg
 twitter         :
 facebook        :
 website         :
