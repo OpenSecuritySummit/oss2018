@@ -17,6 +17,5 @@ pre-summit      :
 status          : add details
 sessions        :
   - How to scale Threat Modeling
+  - Recruiting AppSec Talent
 ---
-
-<!-- put more details about participant here -->
