@@ -2,7 +2,8 @@
 title           : Thomas Franceschini
 type            : participant
 job_title       : 
-funded_who      : DevSecCon
+funded_who      : Sponsor
+villa           : DevSecCon
 company         : 
 travel_from     :
 image           : 
