@@ -6,6 +6,7 @@ company         :
 travel_from     :
 image           : 
 linkedin        : paul-dubourg
+villa           : DevSecCon
 twitter         : 
 facebook        :
 website         : 
