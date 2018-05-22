@@ -6,7 +6,7 @@ company         : Photobox
 travel_from     :
 image           :
 linkedin        : stuhirst
-twitter         : https://twitter.com/StuHirstInfoSec
+twitter         : StuHirstInfoSec
 facebook        :
 website         :
 email           : stu.hirst@photobox.com
