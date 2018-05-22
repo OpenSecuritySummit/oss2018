@@ -259,6 +259,13 @@ paginate = 10
     title = "Our Sponsors"
     subtitle = ""
 
+[params.featured]
+    # Change this for listing featured in the home pages
+    enable = false
+    size = 3
+
+
+
 [params.recent_posts]
     enable = false
     title = "From our blog"
