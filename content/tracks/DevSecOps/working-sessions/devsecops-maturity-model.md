@@ -18,7 +18,7 @@ organizers   :
 description  : DevSecOps Maturity Model (DSOMM)
 ---
 
-(add more details about DevSecOps Maturity Model here)
+<!-- (add more details about DevSecOps Maturity Model here)
 
 ## WHY
 
@@ -34,4 +34,4 @@ description  : DevSecOps Maturity Model (DSOMM)
 
 ## References
 
-(...)
+(...) -->

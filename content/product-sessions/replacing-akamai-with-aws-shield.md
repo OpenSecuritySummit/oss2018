@@ -1,35 +1,35 @@
 ---
-title        : Real world GDPR practices
-type         : user-session
-track        : GDPR
-technology   :
+title        : Replacing Akamai with AWS Shield
+type         : product-session
+topics       : ["AWS"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Mon
+when_day     : Tue
 when_time    : Eve-1
 room_layout  :                    #
 room_number  :
 status       : draft              # draft, review-content, done
-description  : Learn from companies that have implemented GDPR plans
 organizers   :
+    - Francois Raynaud
 participants :
-  - Tony Richards
+
+description  :
 ---
 
-(add intro)
+<!-- (add more details about DevSecOps Maturity Model here)
 
-## Topic
-
-(...)
-
-## Target Audience
+## WHY
 
 (...)
 
-## Content
+## What
+
+(...)
+
+## Outcomes
 
 (...)
 
 ## References
 
-(...)
+(...) -->

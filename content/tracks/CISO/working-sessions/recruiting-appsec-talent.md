@@ -4,14 +4,16 @@ type         : working-session
 track        : CISO
 topics       : ["Education"]
 featured     :                    # review with summit team "yes"
-when_day     : Wed
+when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content      # draft, review-content, done
 organizers   :
+  - Manish Saindane
 description  :
 participants :
+locked       : true
 ---
 
 AppSec and InfoSec talent are difficult to find these days,
