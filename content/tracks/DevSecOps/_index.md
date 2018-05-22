@@ -1,6 +1,7 @@
 ---
 title        : DevSecOps 
 type         : track
+featured     : yes
 owasp-project: no
 when_day     : Tue Wed Thu
 when_time    : 

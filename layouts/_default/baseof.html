@@ -1,83 +1,85 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode }}">
 
-  {{ partial "head.html" . }}
+{{ partial "head.html" . }}
 
-  <body>
+<body>
 
-    <div id="all">
+  <div id="all">
 
+    {{ block "nav" . }}
 
-        {{ block "nav" . }}
-        <header>
-          {{ partial "nav.html" . }}
-        </header>
+    <header class="full-bg background-default">
+      {{ partial "nav.html" . }}
+    </header>
+
+    {{ end }}
+
+    {{ block "breadcrumbs" . }}
+
+      {{ partial "breadcrumbs.html" . }}
+
+    {{ end }}
+
+    <div id="content">
+      {{ if isset .Params "id" }}
+
+      {{ partial .Params.id . }}
+
+      {{ else if isset .Params "manage-container" }}
+      <div class="container-managed">
+        {{ block "full-content" . }}
+
+        {{ .Content }}
+
         {{ end }}
 
-        {{ block "breadcrumbs" . }}
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12">
+              {{ partial "edit-link" . }}
+            </div>
+          </div>
+        </div>
 
-          {{ partial "breadcrumbs.html" . }}
+      </div>
+      {{ else }}
+      <div class="container">
 
-        {{ end }}
-        <div id="content">
-        {{ if isset .Params "id" }}
+        <div class="row">
 
-          {{ partial .Params.id . }}
+          <div class="col-md-12">
 
-        {{ else if isset .Params "manage-container" }}
-          <div class="container-managed">
-            {{ block "full-content" . }}
+            <div>
+              {{ block "content" . }}
 
               {{ .Content }}
 
-            {{ end }}
+              {{ end }}
 
-            <div class="container">
-              <div class="row">
-                <div class="col-md-12">
-                  {{ partial "edit-link" . }}
-                </div>
-              </div>
+              {{ partial "edit-link" . }}
             </div>
 
           </div>
-        {{ else }}
-          <div class="container">
 
-              <div class="row">
-
-                  <div class="col-md-12">
-
-                      <div>
-                        {{ block "content" . }}
-
-                          {{ .Content }}
-
-                        {{ end }}
-
-                        {{ partial "edit-link" . }}
-                      </div>
-
-                  </div>
-
-              </div>
-              <!-- /.row -->
-
-          </div>
-          <!-- /.container -->
-
-        {{ end }}
         </div>
-        <!-- /#content -->
+        <!-- /.row -->
 
-        {{ block "footer" . }}
-          {{ partial "footer.html" . }}
-        {{ end }}
+      </div>
+      <!-- /.container -->
 
+      {{ end }}
     </div>
-    <!-- /#all -->
+    <!-- /#content -->
 
-    {{ partial "scripts.html" . }}
+    {{ block "footer" . }}
+      {{ partial "footer.html" . }}
+    {{ end }}
 
-  </body>
+  </div>
+  <!-- /#all -->
+
+  {{ partial "scripts.html" . }}
+
+</body>
 </html>
