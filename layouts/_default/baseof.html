@@ -25,14 +25,21 @@
           {{ partial .Params.id . }}
 
         {{ else if isset .Params "manage-container" }}
-          <div>
+          <div class="container-managed">
             {{ block "full-content" . }}
 
               {{ .Content }}
 
             {{ end }}
 
-            {{ partial "edit-link" . }}
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12">
+                  {{ partial "edit-link" . }}
+                </div>
+              </div>
+            </div>
+
           </div>
         {{ else }}
           <div class="container">
