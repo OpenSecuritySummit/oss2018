@@ -2,16 +2,18 @@
 title        : Hands-on GDPR Patterns
 type         : user-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Tue
-when_time    : AM-1
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
-status       : draft             # draft, review-content, done
+status       : review-content     # draft, review-content, done
 description  : Using GDPR Patterns
 organizers   :
+    - Anne-Marie Grace
 participants :
   - Dinis Cruz
   - Sophie Tonnoir
