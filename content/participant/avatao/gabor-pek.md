@@ -10,8 +10,8 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
+venue           : Mon, Tue, Wed, Thu
+night_day       : Mon, Tue, Wed
 night_where     : villa-4
 regonline       :
 pre-summit      :
