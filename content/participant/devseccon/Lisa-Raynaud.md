@@ -4,10 +4,11 @@ type            : participant
 job_title       : Director of communications
 company         : DevSecCon
 funded_who      : Sponsor
+villa           : DevSecCon
 travel_from     :
 image           : https://www.devseccon.com/wp-content/uploads/2013/12/lisa-raynaud-150x150.jpg
 linkedin        : lisa-raynaud-23a3204a
-twitter          : LisaRaynaud
+twitter         : LisaRaynaud
 facebook        :
 website         : www.devseccon.com
 email           :

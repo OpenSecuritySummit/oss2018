@@ -118,6 +118,11 @@ a.nav {
     background: url(/img/pages/schedule.jpg) center center repeat;
 }
 
+.background-default {
+    background: url(/img/banners/default.png) center center repeat;
+}
+.inner_main_default{ height:284px; position:relative; background:url(/img/banners/default.png) no-repeat center bottom; background-size:cover;}
+
 
 header.full-bg {
   position: relative;
@@ -1427,4 +1432,12 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
     font-size: 10px;
     width: 40px;
   }
+}
+
+.featured {
+    text-align: center;
+    font-family: 'Oswald Medium';
+}
+.featured li {
+  list-style: none;
 }
