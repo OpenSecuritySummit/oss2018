@@ -1,6 +1,6 @@
 ---
 title           : Charlotte Bullock
-type            : participant
+type            : participant-remote
 job_title       :
 company         :
 travel_from     :
