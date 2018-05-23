@@ -18,6 +18,10 @@
 .session-time           { font-size: 8px;  color: black  }
 .time-col               { min-width:80px;}
 
+.subscribed-to-track        {  color         : #555555;                                          }
+.subscribed-to-track .badge {  padding-top   : 3px    ;  padding-bottom: 3px;  margin-top: -2px; }
+.subscribed-to-tracks       {  padding-bottom: 10px   ;                                          }
+
 .villa_days             { border: #00549e 2px solid ;  border-radius:8px; padding:10px; margin:10px }
 .villa_days h3          { margin: 0px}
 .villa_days .villa_type { font-size: 10px }

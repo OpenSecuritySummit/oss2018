@@ -1,6 +1,8 @@
 {{ $title           := .Params.title }}
 {{ $site_Pages      := .Site.Pages }}
 
+<h3>{{ .Params.title }} Daily Schedule</h3>
+
 {{ range $site_Pages }}
     {{ $page := .}}
 
@@ -39,6 +41,20 @@
             {{ end }}
         {{ end }}
     {{ end }}
+
+{{ end }}
+
+
+{{ if .Params.tracks }}
+    <div class="subscribed-to-tracks">
+        {{ range .Params.tracks }}
+            {{ $track_pages := (where $site_Pages ".Params.track" . )}}
+            <div class="subscribed-to-track">Subscribed to track <span class="badge">{{ . }}</span> which has {{ len $track_pages }} sessions </div>
+            {{ range  $track_pages}}
+                {{ $.Scratch.Add "pages" (slice .) }}
+            {{ end }}
+        {{ end }}
+    </div>
 {{ end }}
 
 {{ range .Params.sessions }}
@@ -50,5 +66,4 @@
 
 {{ $pages := .Scratch.Get "pages" }}
 
-<h3>{{ .Params.title }} Daily Schedule</h3>
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
