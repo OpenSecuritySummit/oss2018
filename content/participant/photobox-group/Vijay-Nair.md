@@ -12,7 +12,7 @@ twitter         :
 facebook        :
 website         : 
 email           : vijay.nair@photobox.com
-venue           : Tue,
+venue           : Tue
 night_day       : 
 night_where     : 
 regonline       :
