@@ -1,5 +1,5 @@
 ---
-title           : PBX Head of Risk
+title           : Head of Risk
 type            : participant
 job_title       :
 company         :
@@ -17,7 +17,6 @@ regonline       :
 pre-summit      :
 status          : add details
 tracks:
-    - CISO
     - GDPR
 sessions: 
     - Creating Appsec metrics and visualisation

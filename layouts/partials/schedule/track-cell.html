@@ -1,19 +1,24 @@
 <style>
-    #cell_widgets li a{
-        font-size: 7px;
-        padding: 1px;
-    }
-    .participant-image {
-        width:20px;
-    }
-    .clues ul{
-        margin: 0px;
-    }
+    #cell_widgets li a  { font-size: 7px;   padding: 1px;  }
+    .participant-image  { width:20px;                      }
+    .clues ul           { margin: 0px;                     }
+    .over-subscribed    { margin:0px; padding: 5px ; font-family:  "Roboto", Helvetica, Arial, sans-serif;}
 </style>
-<table class="table">
+
+<table class="table schedule-cell">
+    {{ if  .self.Scratch.Get .day }}
+        {{if gt (len (.self.Scratch.Get .day)) 1 }}
+        <tr>
+            <td>
+                <div class="alert alert-danger over-subscribed">Time slot over-subscribed</div>
+            </td>
+        </tr>
+        {{ end }}
+    {{ end }}
     {{ range .self.Scratch.Get .day }}
         <tr>
             <td>
+                {{ partial "participant/invited.html" (dict "page" . "name" $.self.Params.title) }}
                 {{ partial "link.html" . }}
                 <span id="cell_widgets">
                     {{ partial "widgets/clues.html" .}}
