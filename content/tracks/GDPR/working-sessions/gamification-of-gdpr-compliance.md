@@ -2,6 +2,7 @@
 title        : Gamification of GDPR compliance
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

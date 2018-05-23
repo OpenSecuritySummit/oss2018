@@ -2,6 +2,7 @@
 title        : Want to become an CISO?
 type         : working-session
 track        : CISO
+topics       : ["CISO"]
 featured     : yes
 when_day     : Tue
 when_time    : PM-1

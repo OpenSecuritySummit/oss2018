@@ -1,0 +1,26 @@
+<section class="bar background-white no-mb">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Topics</h1>
+                <p>Here are the current Tracks (with multiple Working Sessions)</p>
+
+                <div class="topic-cards">
+                    <ul class="tags">
+                        {{ range $index, $value:= (sort .Site.Taxonomies.topics.TaxonomyArray "Name") }}
+                            <li>
+                                <h4>{{ $value.Name }}</h4>
+                                {{ range $value.Pages}}
+                                <div><a href="{{ .Permalink}}">{{ .Params.title}}</a> </div>
+                                {{ end }}
+                            </li>
+                            {{ if eq (mod $index 4) 3 }}</ul><ul>{{ end }}
+
+                        {{ end }}
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>>

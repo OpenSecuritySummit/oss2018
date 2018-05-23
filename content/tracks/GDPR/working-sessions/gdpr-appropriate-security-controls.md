@@ -2,6 +2,7 @@
 title        : GDPR Appropriate Security Controls
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
@@ -15,11 +16,10 @@ organizers   :
     - Tony Richards
 participants :
     - Dinis Cruz
-    - Mario Platt
     - Sophie Tonnoir
 ---
 
-(add intro)
+<!--(add intro)
 
 ## WHY
 
@@ -35,4 +35,4 @@ participants :
 
 ## References
 
-(...)
+(...)-->

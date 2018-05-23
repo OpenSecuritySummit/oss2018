@@ -20,12 +20,24 @@ night_where     : villa-5
 regonline       :
 status          : add-details
 sessions        :
-  - Threat model cheat sheets
-  - Describe different ways of implementing TM in agile organisations
-  - Update Threat Modeling pages on owasp web site
-  - Attack chains as TM technique
+  - API Threat Modeling Cheat Sheet	
+  - Attack chains as TM technique	
+  - Back to the future with Threat Modeling	
+  - Describe different ways of implementing TM in agile organisations	
+  - Docker and Kubernetes Threat Modeling Cheat Sheet	
+  - Federated Login with Social Platforms Threat Modeling Cheat Sheet	
+  - How to Threat Model Features with Questionnaires	
+  - How to scale Threat Modeling.	
+  - IoT Threat Modeling Cheat Sheet	
+  - Threat Model training through Gamification	
+  - Threat model cheat sheets	
+  - Update Threat Modeling pages on owasp web site	
   - Integrating Security Tools in the SDL
   - Using Threat Models for GDPR
+  - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+  - OwaspSAMM - Best Practices
+  - Wardley Mapping – a practical session on how to use value chain mapping
+  - Getting more women in Cyber-security
 
 ---
 

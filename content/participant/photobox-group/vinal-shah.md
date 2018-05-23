@@ -1,16 +1,17 @@
 ---
-title           : Charlotte Bullock
-type            : participant-remote
-job_title       :
-company         :
+title           : Vinal Shah
+type            : participant
+job_title       : FP&A Manager
+company         : Photobox Group
 travel_from     :
-image           : https://media.licdn.com/dms/image/C4E03AQGpy9VVkcSSZw/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=z1RSGIzmeMJKV9KdHzOeD1rihs-6OgyUnFw5WYQT0dA
-linkedin        : charlotte-reece-bullock-2b60abb
+image           : https://media.licdn.com/dms/image/C5603AQEVjpvRkiMT0w/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=pMYX8wtF1vwZ62eLfQPbS3wvexDv-ltp4CMAGdaXBuE
+linkedin        : vinal-shah-3103993a
 twitter         :
 facebook        :
 website         :
-venue           : Mon, Tue
 email           :
+project_leader  :
+chapter_leader  :
 regonline       :
 pre-summit      :
 status          : add details

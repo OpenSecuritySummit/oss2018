@@ -2,8 +2,7 @@
 title        : Cell based Structures for Security
 type         : working-session
 track        : CISO
-topics       :
-    - Wardley Maps
+topics       : ["Wardley Maps"]
 featured     : yes
 when_day     : Thu
 when_time    : AM-1

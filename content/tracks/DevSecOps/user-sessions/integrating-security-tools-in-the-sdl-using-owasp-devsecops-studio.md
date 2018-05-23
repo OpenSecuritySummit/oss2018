@@ -2,7 +2,7 @@
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : user-session
 track        : DevSecOps
-topics       : ["Secure SDL"]
+topics       : ["SDL"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
@@ -12,7 +12,7 @@ room_layout  :                    #
 room_number  :
 status       : done              # draft, review-content, done
 organizers   : Imran Mohammed A
-participants : Francois Raynaud, Sophie Tonnoir
+participants : Francois Raynaud, Sophie Tonnoir, Timo Pagel
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 

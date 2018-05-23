@@ -2,11 +2,12 @@
 title        : European GDPR variations
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-3
+when_day     : Mon
+when_time    : PM-2
 room_layout  :                    #
 room_number  :
 status       :                    # draft, review-content, done

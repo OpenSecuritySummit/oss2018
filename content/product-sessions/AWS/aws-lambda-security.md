@@ -1,7 +1,6 @@
 ---
 title        : AWS Lambda Security
 type         : working-session
-track        : DevSecOps
 topics       : ["AWS"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
@@ -11,9 +10,15 @@ when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content                   # draft, review-content, done
-organizers   :
-participants :
 description  : How to secure Lambda functions
+organizers   :
+    - Simon Pavillon
+participants :
+    - Andrew Johnstone
+    - James Wharton
+    - John Killilea
+    - Vladimir Voskresenskiy
+
 ---
 
 ## Why
