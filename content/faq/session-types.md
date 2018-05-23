@@ -3,7 +3,7 @@ title       : Different session types (keynote, working, user, product)
 layout      : FAQ
 ---
 
-### Keynote  
+### Keynote
 
 **Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in his speech giving an overview of the spirit in which the summit will be realized.
 <a name="working-session"></a>
