@@ -28,3 +28,9 @@
 .villa_days i img       { border-radius:100%; object-fit:cover; width:25px; margin:5px}
 .villa-day-title        { font-size:16px }
 .villa-day-room         { font-size:8px  ; color: black; }
+
+.topic-cards h4         { color: #87bb40 }
+.topic-cards ul         { padding:15px; width:100%; margin:0 ; padding:0; list-style:none; display:table; border-collapse: separate; border-spacing:16px 8px;}
+.topic-cards ul li      { display:table-cell; text-align:center; background:#fff; border:#87bb40 1px solid; border-radius:8px; padding:0px 5px;}
+.topic-cards ul li div  { border-radius:8px; border:#00549e 1px solid; margin:10px; padding:5px;}
+.topic-cards ul li a    { font-size:12px ; color: #2678c0 ; font-family: Roboto, sans-serif ;}

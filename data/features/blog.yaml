@@ -1,5 +1,5 @@
 weight: 6
-name: "Blog"
+name: "About"
 icon: "icon-blog"
-description: "Providing you news updates and opinions on the latest AppSec developments"
-link: "/blog/"
+description: "The Open Security Summit 2018 is focused on the collaboration between Developers and Application Security. "
+link: "/about/"
