@@ -12,7 +12,7 @@ room_layout  :                    #
 room_number  :
 status       : done              # draft, review-content, done
 organizers   : Imran Mohammed A
-participants : Francois Raynaud, Sophie Tonnoir
+participants : Francois Raynaud, Sophie Tonnoir, Timo Pagel
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 
