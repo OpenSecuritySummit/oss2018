@@ -1181,8 +1181,18 @@ div.google-map {
 .content_grd a{font-family: 'Roboto', sans-serif; font-weight:500; color:#2678c0;}
 .inner_main_title{ height:500px; position:relative; background:url(/img/blocks/title_bg_inner.jpg) no-repeat center bottom; background-size:cover;}
 .center_heading{ position:absolute; left:0; width:100%; bottom:120px;}
-.center_heading h1{ display:inline-block; border:#87bb40 7px solid; padding:20px 20px; font-family: 'Oswald', sans-serif; font-weight:600; text-transform:uppercase;
-color:#87bb40; font-size:40px; line-height:30px; margin:0; min-width:260px;}
+.center_heading h1{
+    display:inline-block;
+    border:#87bb40 7px solid;
+    padding:20px 20px;
+    font-family: 'Oswald', sans-serif;
+    font-weight:600;
+    text-transform:uppercase;
+    color:#87bb40;
+    font-size:40px;
+    /*line-height:30px;*/ 
+    margin:0;
+    min-width:260px;}
 
 @media (min-width:768px) and (max-width:991px){}
 
