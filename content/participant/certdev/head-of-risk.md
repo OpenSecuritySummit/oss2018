@@ -1,8 +1,8 @@
 ---
-title           : PBX GS Head of Risk
+title           : PBX Head of Risk
 type            : participant
 job_title       :
-company         : Photobox GS
+company         :
 travel-from     :
 image           :
 linkedin        :
@@ -16,9 +16,12 @@ night_where     : villa-7
 regonline       :
 pre-summit      :
 status          : add details
+tracks:
+    - CISO
+    - GDPR
 sessions: 
-  - Creating Appsec metrics and visualisation
-  - Using graphs for GDPR mappings and visualisations
+    - Creating Appsec metrics and visualisation
+    - Using graphs for GDPR mappings and visualisations
 notes :
 ---
 

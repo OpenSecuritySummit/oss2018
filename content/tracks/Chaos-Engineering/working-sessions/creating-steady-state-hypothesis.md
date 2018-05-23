@@ -4,7 +4,7 @@ type         : working-session
 track        : Chaos Engineering
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes                   # review with summit team "yes"
 when_day     : Mon
 when_time    : AM-1
 locked       : true
