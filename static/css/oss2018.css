@@ -15,6 +15,12 @@
     padding: 12px
 }
 
+
+/*.schedule-cell .cell_widgets li a { font-size:  7px;  padding: 1px;  }*/
+/*.schedule-cell .participant-image { width    : 20px;                 }*/
+/*.schedule-cell .clues ul          { margin   :  0px;                 }*/
+/*.schedule-cell .alert-danger      { padding  :  0px !important      }*/
+
 .session-time           { font-size: 8px;  color: black  }
 .time-col               { min-width:80px;}
 

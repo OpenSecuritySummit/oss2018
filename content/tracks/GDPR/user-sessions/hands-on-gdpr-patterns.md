@@ -15,7 +15,6 @@ description  : Using GDPR Patterns
 organizers   :
     - Anne-Marie Grace
 participants :
-  - Dinis Cruz
   - Sophie Tonnoir
   - Goher Mohammad
 invited:

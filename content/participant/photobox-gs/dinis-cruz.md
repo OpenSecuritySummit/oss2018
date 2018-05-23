@@ -23,7 +23,6 @@ pre_summit      : Sat,Sun
 sessions        :
  - Hands on Chaos Experiments
  - CISO
- - Hands-on GDPR Patterns
  - Using Threat Models for GDPR
  - Threat model cheat sheets
  - GDPR is live, now what?
