@@ -2,8 +2,7 @@
 title        : Integrating Security into an Spotify Model
 type         : working-session
 track        : CISO
-topics       :
-    - Agile
+topics       : ["Agile"]
 featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1

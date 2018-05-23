@@ -28,7 +28,7 @@ sessions        :
     - Securing AWS S3 Buckets
     - Using AWS Neptune GraphDB
     - Using graphs for GDPR mappings and visualisations
-    - Using Threat Models for GDPR          
+    - Using Threat Models for GDPR
 ---
 
 <!-- put more details about participant here -->

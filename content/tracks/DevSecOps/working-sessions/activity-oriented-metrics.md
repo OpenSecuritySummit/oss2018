@@ -2,6 +2,7 @@
 title        : Using activity-oriented metrics for Security
 track        : Misc
 track        :
+topics       : ["Visualisation"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

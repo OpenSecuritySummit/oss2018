@@ -2,7 +2,7 @@
 title        : Cyber Risk Modeling
 type         : working-session
 track        : CISO
-topics       : ["Risk"]
+topics       : ["CISO","Risk"]
 featured     :                    # if  "yes" review with summit team
 when_day     : Tue
 when_time    : Eve-1

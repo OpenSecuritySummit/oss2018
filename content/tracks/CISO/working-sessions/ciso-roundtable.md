@@ -2,7 +2,7 @@
 title        : CISO roundtable
 type         : working-session
 track        : CISO
-topics       : ["Risk"]
+topics       : ["CISO"]
 featured     :                    # if  "yes" review with summit team
 when_day     : Thu
 when_time    : PM-2
