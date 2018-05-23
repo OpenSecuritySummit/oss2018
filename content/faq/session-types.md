@@ -3,14 +3,6 @@ title       : Different session types (keynote, working, user, product)
 layout      : FAQ
 ---
 
-### Keynote
-
-**Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in his speech giving an overview of the spirit in which the summit will be realized.
-<a name="working-session"></a>
-<p style="text-align: center;"><img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 45%;"/></p>
-
-<br/>
-
 ### Working Sessions
 **Working Sessions** focus on creating and evolving ideas, in order to create outcomes that will have an impact in the real world. They are a great way to join a group of practitioners to share expertise and knowledge on a particular subject.
 
@@ -46,7 +38,16 @@ Find more details on the current [Product Sessions](https://open-security-summit
 
 <br/>
 
-### Roles that Participates on Sessions
+### Keynote
+
+**Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in his speech giving an overview of the spirit in which the summit will be realized.
+<a name="working-session"></a>
+<p style="text-align: center;"><img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 45%;"/></p>
+
+<br/>
+
+
+### Roles and expectations
 An **organizer** leads a sessions, a **practitioner** gives strong support by sharing valuable experience and a **participant** receive great value from the session's outcomes.
 
 <p style="text-align: center;"><img src="/img/pages/roles_and_expectations.png" alt="roles and expectations" style="width: 95%;"/></p>

@@ -9,7 +9,6 @@ linkedin        : charlotte-reece-bullock-2b60abb
 twitter         :
 facebook        :
 website         :
-venue           : Mon, Tue
 email           :
 regonline       :
 pre-summit      :
