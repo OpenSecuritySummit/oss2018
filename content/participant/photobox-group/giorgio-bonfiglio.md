@@ -4,8 +4,8 @@ type            : participant
 job_title       :
 company         :
 travel_from     :
-image           :
-linkedin        :
+image           : https://media.licdn.com/dms/image/C5603AQE_Bx_ZGXJunw/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=8PJyrd6EQQAW7_ue68qms8NWy4jKXqjhd5CqOWFcytA
+linkedin        : giorgiobonfiglio
 twitter         :
 facebook        :
 website         :
