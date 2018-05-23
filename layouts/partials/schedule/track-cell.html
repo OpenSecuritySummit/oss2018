@@ -17,6 +17,7 @@
                 {{ partial "link.html" . }}
                 <span id="cell_widgets">
                     {{ partial "widgets/clues.html" .}}
+                    {{ partial "participant/invited.html" (dict "page" . "name" $.self.Params.title) }}
                 </span>
                 <div id="cell_participants">
                     {{ $participants := $.self.Scratch.Get .Params.title}}

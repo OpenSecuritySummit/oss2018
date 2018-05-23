@@ -1,8 +1,7 @@
 {{ $title           := .Params.title }}
 {{ $site_Pages      := .Site.Pages }}
-{{ $working_sessions := where  .Site.Pages ".Params.type" "working-session" }}
-{{ range $site_Pages }}
 
+{{ range $site_Pages }}
     {{ $page := .}}
 
     {{ if eq (printf "%T" .Params.organizers) "[]string" }}
@@ -29,10 +28,19 @@
         {{ end }}
     {{end }}
 
-    {{ if in .Params.title $.Params.sessions}}
+    {{ if in .Params.title $.Params.sessions}}                          {{/* add current user's sessions */}}
         {{ $.Scratch.Add "pages" (slice $page) }}
     {{ end }}
+
+    {{ if eq (printf "%T" .Params.invited) "[]string" }}           {{/* map invited */}}
+        {{ range .Params.invited }}
+            {{if eq $.Params.title . }}
+                {{ $.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
 {{ end }}
+
 {{ range .Params.sessions }}
     {{ $matches := (where $site_Pages ".Params.title" . ) }}
     {{ if $matches }}

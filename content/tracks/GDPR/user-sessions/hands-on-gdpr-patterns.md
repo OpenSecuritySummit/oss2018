@@ -18,6 +18,10 @@ participants :
   - Dinis Cruz
   - Sophie Tonnoir
   - Goher Mohammad
+invited:
+    - Dinis Cruz
+    - Fernanda Almeida
+
 ---
 
 ## Topic
