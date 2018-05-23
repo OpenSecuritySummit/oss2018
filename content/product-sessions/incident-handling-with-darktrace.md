@@ -15,6 +15,7 @@ room_number  :
 status       : draft              # draft, review-content, done
 description  : Share knowledge on incident handling with DarkTrace
 organizers   :
+    - Naushad Saboor
     - Vladimir Voskresenskiy
     - Dan Gapco
 participants :
