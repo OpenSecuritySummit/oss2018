@@ -30,6 +30,9 @@ sessions:
   - Real world GDPR practices
   - Using graphs for GDPR mappings and visualisations
   - Integrating Security Tools in the SDL
+  - Creating a Steady-State Hypothesis
+  - Customising the Chaos Toolkit
+
 notes :
 
 ---
