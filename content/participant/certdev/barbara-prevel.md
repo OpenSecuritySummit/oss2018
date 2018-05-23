@@ -1,6 +1,6 @@
 ---
 title           : Barbara Prevel
-type            : participant
+type            : participant-remote
 funded_by       : CertDev
 job_title       :
 company         :
