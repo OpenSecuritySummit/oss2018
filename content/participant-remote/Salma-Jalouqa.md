@@ -14,13 +14,14 @@ project_leader  :
 chapter_leader  : 
 regonline       :
 pre-summit      :
-status          : 
-add detailssessions:    
-- Using Pixi	
-- Application Security Verification Standard    
-- Getting more women in Cyber-security	
-- Cloud brokerage 
-- authentication and authorisation    
-- Owasp Testing Guide v5    
-- Security Playbooks
+status          : add details
+sessions        :    
+    - Using Pixi  
+    - Application Security Verification Standard 
+    - Getting more women in Cyber-security  
+    - Cloud brokerage 
+    - authentication and authorisation  
+    - authentication and authorisation  
+    - Owasp Testing Guide v5  
+    - Security Playbooks
 ---
