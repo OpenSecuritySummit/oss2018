@@ -1,7 +1,7 @@
 ---
 title        : Ask me anything (AMA)
 type         : working-session
-track        : Q & A
+track        : Misc
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
