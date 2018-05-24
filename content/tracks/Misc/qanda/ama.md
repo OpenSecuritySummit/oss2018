@@ -13,12 +13,12 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Ante Gulam
 participants :
-description  : 'Ask Me Anything' session where tech and non-tech people can ask anything someone who is from the industry relating to his work-streams, career, issues within their companies relating to info-sec, challenges, problem-solving etc
+description  : Ask all the burning questions you have to those in industry
 ---
 
 ## Why
 
-Ask all the burning questions you have to those in industry
+'Ask Me Anything' session where tech and non-tech people can ask anything someone who is from the industry relating to his work-streams, career, issues within their companies relating to info-sec, challenges, problem-solving etc
 
 
 ## What
