@@ -15,6 +15,7 @@ room_number  :
 status       : draft              # draft, review-content, done
 description  : When to move the Elastic (ELK) stack from Open source into the commercial services provided by Elastic
 organizers   :
+    - Naushad Saboor
     - Vladimir Voskresenskiy
     - Dan Gapco
 participants :
