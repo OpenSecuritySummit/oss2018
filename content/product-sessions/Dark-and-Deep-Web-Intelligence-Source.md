@@ -1,10 +1,10 @@
 ---
-title        : Dark and Deep Web Intelligence Source
+title        : Dark and Deep Web Threat Intelligence Source
 type         : user-session
 track        : 
 host_text    : 
 host_link    :
-session_type : Chatham house rules
+session_type : Chatham House Rules
 technology   : OSINT
 categories   : Cyber Security
 featured     :
