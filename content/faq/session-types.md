@@ -41,7 +41,7 @@ Find more details on the current [Product Sessions](https://open-security-summit
 
 <a name="draft-status"></a>
 <img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 55%;"/>
-<img src="/img/pages/keynote_approach.png" alt="working sessions approach" style="width: 35%;"/><br/>
+<img src="/img/pages/keynote_approach.png" alt="keynotes approach" style="width: 35%;"/><br/>
 
 <br/>
 
@@ -61,4 +61,4 @@ We would like to hear from you about your `challenges`, `passions` and `interest
 
 Choose the appropraite session type (`working` or `user`), describe the session (write content), define expected outcomes and be evangelist of the session you created thus you will recruit attendees (other persons who are interested in the same subjects).
 
-<img src="/img/pages/why_create_session.png" alt="keynotes properties" style="width: 90%;"/>
+<img src="/img/pages/why_create_session.png" alt="Why create a session?" style="width: 90%;"/>

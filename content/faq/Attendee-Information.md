@@ -4,7 +4,22 @@ date        : 2018-03-09T17:22:38-03:00
 layout      : FAQ
 ---
 
-### Funding my ticket
+## Welcome to Open Security Summit 2018
+First of all thank you very much for your interest in Open Security Summit 2018 (OSS 2018).
+
+We are glad to introduce to you the attendee general flow (attendee journey).
+
+1. please [get ticket ]({{< ref "tickets" >}})
+2. create [personal page as participant]({{< ref "faq/registration-info.md" >}}) to the summit
+3. Find sessions that you are interested in by looking at the [topic index](https://open-security-summit.org/topics), [tracks view](https://open-security-summit.org/tracks)
+ or just simply list [working](https://open-security-summit.org/working-sessions), [user](https://open-security-summit.org/user-sessions) or [product](https://open-security-summit.org/product-sessions) sessions.
+4. [Register]({{< ref "faq/registration-info.md" >}}) yourself to a session you like to attend.
+
+<p style="text-align: center;"><img src="/img/pages/attendee_journey.png" alt="Attendee Journey" style="width: 70%;"/></p>
+
+<br/>
+
+### Funding My Ticket
 
 Unfortunately, we are unable to sponsor tickets for attendees at this time. If you are an OWASP leader you may be entitled to [funding]({{< ref "faq/sponsored_tickets.md" >}}) through the [OWASP Community Engagement Funding](https://www.owasp.org/index.php/Funding) programme.
 
@@ -39,7 +54,7 @@ You may have passionate opinions about many of the items we will be discussing: 
 All criticism during the Open Security Summit must be directed at the topics of your working session. Personal criticisms will derail conversations and undermine the collaborative atmosphere; this will not be tolerated.  
 
 
-### Offer supporting documents for value judgments
+### Offer Supporting Documents for Value Judgments
 
 When offering a value judgment (such as that idea does not work/is bad/is the best) you must offer proof or supporting documentation for your opinion and keep your point constructive to the conversation as a whole.
 
@@ -63,27 +78,21 @@ By attending the Open Security Summit you agree that you will not engage in any 
 This is the villa set up:
 
 ### Collaborations Around the Clock
-
 The key to the Summit dynamic is having villas where you can interact with other participants on your own schedule around the clock. To this end, the venue is organized into a series of villas that are supplemented by the conference center (conveniently named The Venue).  The villas will serve the dual purpose of accommodation as well as locations for the more informal evening sessions. Some venues will also serve as locations for standard working sessions (these will be marked on the schedule).
 
 ### Accommodation ([FAQ]({{< ref "faq/Accommodation.md" >}}))
-
 When you arrive at Woburn Forest Center Parcs proceed to the conference centre (conveniently called The Venue) you will receive your house key and accommodation information package upon regisering. Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide the room arrangements with your housemates.  
 
 ### General Housekeeping
-
 Cleaners will come to your villa each morning to clean, see to dirty dishes, and take out the rubbish. As there are no locks on bedroom doors, we advise you not to leave valuables lying around.  
 
 On the day you leave, please strip your bed of sheets and pillowcases. Leave the dirty linen on the floor.  
 
 You need to have everything out of your room/villa by 10:00am. on the day you leave; you can leave luggage at the registration desk in the Venue.  
 
-
-# Schedule
-
+## Schedule
 
 ### Session timings
-
 Sessions are 60 minutes long. So that we can achieve our goals, please follow this schedule. Please try to get to your session on time so we can start as close to the start time as possible.  
 
 If you are the organiser, please have a draft agenda ready for your sessions, so attendees know what to expect. Here is the typical breakdown for a session:
@@ -102,11 +111,9 @@ If you are the organiser, please have a draft agenda ready for your sessions, so
 We highly recommend appointing a timekeeper at the beginning of the meeting to warn speakers five minutes or so before the deadline for the next part of the session, in order to keep things moving and on schedule.  
 
 ### Working Session Outcomes
-
 The point of the summit is to create concrete deliverables from each working session. These deliverables can take many forms. It is vital that each working session has a definition of done.
 
 ### Vendor Neutrality
-
 We will observe a Vendor Neutrality policy at this conference. Please do not use the working sessions as a place to pitch your product. Maintaining neutrality enhances the value of collaborative tone of this week.  
 
 ### Dynamic Sessions

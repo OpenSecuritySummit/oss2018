@@ -118,6 +118,8 @@ a.nav {
     background: url(/img/pages/schedule.jpg) center center repeat;
 }
 
+.inner_main_product_sessions{ height:284px; position:relative; background:url(/img/pages/working_sessions.jpg) no-repeat center bottom; background-size:cover;}
+
 .background-default {
     background: url(/img/banners/default.png) center center repeat;
 }
@@ -1190,7 +1192,7 @@ div.google-map {
     text-transform:uppercase;
     color:#87bb40;
     font-size:40px;
-    /*line-height:30px;*/ 
+    /*line-height:30px;*/
     margin:0;
     min-width:260px;}
 
