@@ -36,10 +36,13 @@ Find more details on the current [Product Sessions](https://open-security-summit
 
 <br/>
 
-### Keynote
+### Keynotes
 **Keynote** establishes the framework for the programme of the summit. The keynotes speaker at the summit includes the central subjects in his speech giving an overview of the spirit in which the summit will be realized.
+
 <a name="draft-status"></a>
-<p style="text-align: center;"><img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 45%;"/></p>
+<img src="/img/pages/keynotes_session_properties.png" alt="keynotes properties" style="width: 55%;"/>
+<img src="/img/pages/keynote_approach.png" alt="working sessions approach" style="width: 35%;"/><br/>
+
 <br/>
 
 ### Draft
@@ -47,6 +50,15 @@ Content has not been finalised yet. Some of the required content is already avai
 
 <br/>
 
-### Roles and expectations
+### Roles and Expectations
 An **organizer** leads a sessions, a **practitioner** gives strong support by sharing valuable experience and a **participant** receive great value from the session's outcomes.
 <p style="text-align: center;"><img src="/img/pages/roles_and_expectations.png" alt="roles and expectations" style="width: 95%;"/></p>
+
+<br/>
+
+### Why Create a Session?
+We would like to hear from you about your `challenges`, `passions` and `interests`. You can define a session which would cover the topic and subjects that you are interested in.
+
+Choose the appropraite session type (`working` or `user`), describe the session (write content), define expected outcomes and be evangelist of the session you created thus you will recruit attendees (other persons who are interested in the same subjects).
+
+<img src="/img/pages/why_create_session.png" alt="keynotes properties" style="width: 90%;"/>
