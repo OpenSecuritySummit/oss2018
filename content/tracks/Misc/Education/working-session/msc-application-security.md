@@ -13,7 +13,7 @@ room_number  :
 status       : draft              # draft, review-content, done
 description  : a core set of learning objectives for MSc level Application Security curricula (through online survey)
 organizers   : Adrian Winckles
-participants :
+participants : Ade Yose man
 
 ---
 
