@@ -12,7 +12,9 @@ room_layout  :                    #
 room_number  :
 status       :                # draft, review-content, done
 description  :
-organizers   : Tanya Janca / Nicole Becher
+organizers   :
+    - Tanya Janca
+    - Nicole Becher
 ---
 
 The technical ecosystem is changing – APIs and Web Services are often underprotected.

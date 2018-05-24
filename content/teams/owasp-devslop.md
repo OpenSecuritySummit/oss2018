@@ -14,8 +14,10 @@ sessions        :
     - Using Pixi
     - Pixi Roadmap and Enhancement
 members:
-    - Tanya Janca
+    - Franziska Buehler
     - Imran Mohammed A
+     - Nicole Becher
+    - Tanya Janca
 notes :
 ---
 
