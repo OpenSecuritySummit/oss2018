@@ -8,7 +8,7 @@ when_time    : Eve-1
 technology   :
 categories   : 
 description  : Incident response simulations and role play scenarios
-status       : draft
+status       : review-content             # draft, review-content, done
 organizers   :
 ---
 
