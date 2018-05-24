@@ -15,23 +15,23 @@ description  : Owasp Devslop User Session
 organizers   : Tanya Janca
 ---
 
-This will be a user sessions focused on using Devslop pixi
+This will be a user sessions focused on using Devslop pixi, which means the MEAN Stack, API and Web Service Hacking.
 
 ## Topic
 
-DevSlop's Pixi, the first of many applications to come for this OWASP project, is currently publicly available for your hacking and learning pleasure. Pixi is available in several docker containers and consists of a vulnerable web app and API service.  The intent is to teach users how to test modern web applications and API's for security issues and how to write more secure API's in the future
+Modern applications often use APIs and other micro services to deliver faster and better products and services. However, there are currently few training grounds for security testing in such areas. In comes DevSlop, OWASP's newest project, a collection of DevOps security disasters made as a vulnerable testing and proving ground for developers and security testers alike. DevSlop's Pixi, the first of many entries to come for this OWASP project, will be demonstrated and presenting for participant's hacking and learning pleasure. Pixi consists of vulnerable web services, and participants will be walked through how to exploit several of it's vulnerabilities so they can learn how to do better when they create their own web services and other types of APIs from now on.
 
 ### Pixi presentation
 
-{{<slideshare id="77849742" >}}
+There will be a short presentation with an overview of APIs, the MEAN Stack, and why we feel this is important.  Then exercises.
 
 ## Target Audience
 
-(...)
+People who want to learn how to hack APIs and the MEAN Stack
 
 ## Content
 
-(...)
+Please have virtualbox installed.  If not, we have copies.  Also, ensure you have at least 8 G ram and 
 
 ## References
 
