@@ -18,7 +18,7 @@ sessions        :
 members:
     - Franziska Buehler
     - Imran Mohammed A
-     - Nicole Becher
+    - Nicole Becher
     - Tanya Janca
 notes :
 ---
