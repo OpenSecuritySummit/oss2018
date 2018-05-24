@@ -9,14 +9,14 @@ technology   : OSINT
 categories   : Cyber Security
 featured     :
 when_day     : Thu
-when_time    : Eve-2
+when_time    : Eve-1
 room_layout  :
 room_number  :
 status       : review-content              # draft, review-content, done
 description  : Understanding the Deep Web, the Dark Web, & How to Guard Your Network and Sharing knowledge on Dark and Deep web Open Source Intelligence 
 organizers   :
     - Naushad Saboor
-    - 
+    - Amar Singh CISO
 participants :
 ---
 <img src="https://www.naushad.co.uk/wp-content/uploads/2017/07/CyberScreen-1.gif">
