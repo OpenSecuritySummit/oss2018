@@ -22,6 +22,5 @@ notes :
 ---
 
 <!-- put more details about participant here -->
-Franziska Buehler works as a Systems Engineer at the Swiss Post. 
-Her main areas of responsibility are web server security and everything related to the access layer. <br />
-In her spare time, Franziska Buehler helps as a developer and committer to enhance the OWASP ModSecurity Core Rule Set. She is also a team member of OWASP DevSlop.
+Franziska Buehler works as a Systems Engineer at the Swiss Post.  Her main areas of responsibility are web server security and everything related to the access layer. <br /><br />
+In her spare time, Franziska Buehler contributes both as a developer and committer to the OWASP ModSecurity Core Rule Set open source project. She is also a team member of OWASP DevSlop project, leading the Pixi-CRS module.
