@@ -1,15 +1,15 @@
 ---
-title        : Dark and Deep Web Intelligence Source
+title        : Dark and Deep Web Threat Intelligence Source
 type         : user-session
 track        : 
 host_text    : 
 host_link    :
-session_type : Chatham house rules
+session_type : Chatham House Rules
 technology   : OSINT
 categories   : Cyber Security
 featured     :
 when_day     : Thu
-when_time    : Eve-2
+when_time    : Eve-1
 room_layout  :
 room_number  :
 status       : review-content              # draft, review-content, done
@@ -17,7 +17,6 @@ description  : Understanding the Deep Web, the Dark Web, & How to Guard Your Net
 organizers   :
     - Naushad Saboor
     - Amar Singh CISO
-    - 
 participants :
 ---
 <img src="https://www.naushad.co.uk/wp-content/uploads/2017/07/CyberScreen-1.gif">
