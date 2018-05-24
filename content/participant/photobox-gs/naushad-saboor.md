@@ -30,6 +30,7 @@ sessions:
   - Integrating Security into an Spotify Model
   - JIRA Risk Workflow
   - Security Playbooks
+  - Web Application Honeypot
 
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
