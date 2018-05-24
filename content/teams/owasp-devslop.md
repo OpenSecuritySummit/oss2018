@@ -9,7 +9,9 @@ website         : https://www.owasp.org/index.php/OWASP_DevSlop_Project
 email           :
 status          :
 sessions        :
+    - Adding CRS3 and Pixi to CircleCI pipeline
     - Adding security to VSTS pipeline
+    - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
     - Publishing apps in a VSTS security pipeline
     - Using Pixi
     - Pixi Roadmap and Enhancement

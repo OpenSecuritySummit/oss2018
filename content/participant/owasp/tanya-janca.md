@@ -21,7 +21,6 @@ pre-summit      :
 status          : add details
 sessions:
     - Put Pixi, Core Rule Set 3 for ModSecurity
-    - Integra into Azure (SaaS) and also into DevSecOps Studio(SaaS)
     - SDL in practice
     - Securing CI/CD pipeline
     - Intro to HTTP v2

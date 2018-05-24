@@ -2,6 +2,8 @@
 title        : Adding CRS3 and Pixi to CircleCI pipeline
 type         : user-session
 track        : Owasp-Devslop
+when_day     : Wed
+when_time    : PM-3
 status       : draft
 organizers   : Franziska Buehler
 participants : Tanya Janca
