@@ -6,8 +6,8 @@ topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Tue
-when_time    : AM-1
+when_day     : Mon, Tue, Wed, Thu, Fri
+when_time    : AM-1, PM-1
 room_layout  :                    #
 room_number  :
 status       : done              # draft, review-content, done
