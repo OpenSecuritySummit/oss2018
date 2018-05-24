@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : Technical Team Lead, Application Certification
 company         : Verizon
 travel_from     :
-image           : https://www.linkedin.com/dms/C4D00AQFk9010NvohxQ/profile-originalphoto-shrink_450_600/0?m=AQIB89H9ZTgjLwAAAWOFmnKhvoXWhHcEomZOonv22DNEAngF96Rc4uTs&e=1527041281&v=beta&t=alr3wjWJhXPqQ4H9y5yARdNwGR4s9nFsP5oR-Ut-2Ks
+image           : https://media.licdn.com/dms/image/C4D03AQG1bcYfiOUcwg/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=xzlBwlmxJtZncDG3ZavcC8UGgaNT-QXsa7eNFcPffEE
 linkedin        : https://www.linkedin.com/in/dougal-kennedy-aab15725/
 twitter         :
 facebook        :
@@ -13,7 +13,7 @@ email           :
 project_leader  :
 chapter_leader  :
 regonline       :
-status          : 
+status          :
 sessions        :
 - Owasp Testing Guide v5
 - Automation of MASVS with BDD

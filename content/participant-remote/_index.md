@@ -1,5 +1,5 @@
 ---
-title: Participants
+title: Remote Participants
 ---
 
 For reference, here are the remote participants from the last Summit in 2017:
