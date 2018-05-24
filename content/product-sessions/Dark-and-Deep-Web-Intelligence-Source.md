@@ -16,6 +16,7 @@ status       : review-content              # draft, review-content, done
 description  : Understanding the Deep Web, the Dark Web, & How to Guard Your Network and Sharing knowledge on Dark and Deep web Open Source Intelligence 
 organizers   :
     - Naushad Saboor
+    - Amar Singh CISO
     - 
 participants :
 ---
