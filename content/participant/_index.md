@@ -1,5 +1,5 @@
 ---
-title: Participants
+title: Onsite Participants
 ---
 
 For reference here are the Participants from the last Summit:
