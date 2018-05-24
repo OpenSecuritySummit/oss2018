@@ -21,6 +21,13 @@ sessions:
   - DevSecOps Maturity Model (DSOMM)
   - Gamification of GDPR compliance
   - Web Application Honeypot
+  - Incident handling with DarkTrace
+  - Back to the future with Threat Modeling
+  - Cyber Risk Modeling
+  - Cyber Insurance
+  - Integrating Security into an Spotify Model
+  - JIRA Risk Workflow
+  - Security Playbooks
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
