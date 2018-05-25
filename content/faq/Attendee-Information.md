@@ -9,8 +9,8 @@ First of all thank you very much for your interest in Open Security Summit 2018 
 
 We are glad to introduce to you the attendee general flow (attendee journey).
 
-1. please [get ticket ]({{< ref "tickets" >}})
-2. create [personal page as participant]({{< ref "faq/registration-info.md" >}}) to the summit
+1. Please [get ticket ]({{< ref "tickets" >}})
+2. Create [personal page as participant]({{< ref "faq/registration-info.md" >}}) to the summit
 3. Find sessions that you are interested in by looking at the [topic index](https://open-security-summit.org/topics), [tracks view](https://open-security-summit.org/tracks)
  or just simply list [working](https://open-security-summit.org/working-sessions), [user](https://open-security-summit.org/user-sessions) or [product](https://open-security-summit.org/product-sessions) sessions.
 4. [Register]({{< ref "faq/registration-info.md" >}}) yourself to a session you like to attend.

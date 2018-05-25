@@ -18,6 +18,7 @@ participants :
     - James Wharton
     - John Killilea
     - Vladimir Voskresenskiy
+    - Jaimen Lathia
 
 ---
 

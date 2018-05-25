@@ -3,6 +3,17 @@ $(document).ready(function() {
 	var leftHeight = $('.aside_bx').height();
 	$('.aside_bx').attr('data-height', leftHeight);
 
+	// Javascript to enable link to tab
+	var url = document.location.toString();
+	if (url.match('#')) {
+	    $('.nav-tabs a[href="#' + url.split('#')[1] + '"]').tab('show');
+	}
+
+	// Change hash for page-reload
+	$('.nav-tabs a').on('shown.bs.tab', function (e) {
+	    window.location.hash = e.target.hash;
+	})
+
 	$('a[data-toggle=tab]').click(function(){
 		var elemId = $(this).attr('href');
 		var rightHeight = $(elemId).height();

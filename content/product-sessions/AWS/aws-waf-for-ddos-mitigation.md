@@ -18,6 +18,7 @@ participants :
     - John Killilea
     - Simon Pavillon
     - Vladimir Voskresenskiy
+    - Jaimen Lathia
 
 ---
 
