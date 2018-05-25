@@ -16,7 +16,13 @@ night_where     : villa-6
 regonline       :
 pre-summit      :
 status          : add details
-sessions        : Juice Shop Brainstorming
+sessions        : 
+  - Running CTF Games with OWASP Juice Shop
+  - Lessons learned from public bug bounties programmes
+  - Owasp Testing Guide v5
+  - Web Application Honeypot
+  - Incident handling with DarkTrace
+  - Writing Akamai rules
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
