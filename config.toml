@@ -269,8 +269,8 @@ paginate = 10
 
 [params.featured]
     # Change this for listing featured in the home pages
-    enable = false
-    size = 3
+    enable = true
+    size = 4
 
 
 

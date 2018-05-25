@@ -4,12 +4,13 @@ type            : participant
 job_title       : CISO
 company         : Securestorm Ltd
 travel_from     : London
-image           : https://pbs.twimg.com/profile_images/948908456450379777/1KF4KsBw_400x400.jpg
+image           : /participant/images/tony-richards.jpg
 linkedin        : tonyrichardsclas
 twitter         : _tony_richards
 facebook        :
 website         : www.securestorm.com
 email           : tony@securestorm.com
+featured        : yes
 project_leader  :
 chapter_leader  :
 regonline       :
