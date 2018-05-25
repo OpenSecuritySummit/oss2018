@@ -13,6 +13,7 @@ description  : List of top 10 lessons from bug bounty experts and guidelines on 
 organizers   :
 participants :
   - Prakash Sharma
+  - John Killilea
 ---
 
 
