@@ -1,5 +1,5 @@
 ---
-title        : Ask me anything (AMA)
+title        : Ask me anything (AMA) - Meet the Experts
 type         : working-session
 track        : Misc
 technology   :
