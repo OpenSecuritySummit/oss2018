@@ -13,7 +13,7 @@ email           : Tanya.Janca - at - Microsoft - dot - com
 project_leader  : OWASP DevSlop
 chapter_leader  : OWASP Ottawa
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_day       : Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-2
 night_room      : 2
 regonline       :

@@ -1,10 +1,10 @@
 ---
 title           : Orid Ahmed
 type            : participant
-job_title       :
+job_title       : Jr SOC Detect
 company         : Photobox GS
 travel_from     :
-image           : 
+image           : https://avatars1.githubusercontent.com/u/34781920?s=460&v=4
 linkedin        :
 twitter         :
 facebook        :

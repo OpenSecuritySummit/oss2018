@@ -14,6 +14,7 @@ project_leader  :
 chapter_leader  : 
 regonline       : 
 pre-summit      : 
+featured        : yes
 status          : add details
 sessions:
 notes :

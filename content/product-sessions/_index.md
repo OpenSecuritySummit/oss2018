@@ -1,8 +1,10 @@
 ---
 title : Product Sessions
 type : product-session
+layout : list
 ---
 
+<br/>
 These sessions are based around commercial products or services (i.e. not freely available)
 
 

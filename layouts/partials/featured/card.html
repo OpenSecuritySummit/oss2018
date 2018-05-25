@@ -5,12 +5,12 @@
     </div>
     <div class="mid_price">
       <div class="ul_bx featured">
-        <ul class="featured ul">
+        <ul class="featured">
           {{ range first .this.Site.Params.featured.size .elements }}
-          <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+          <li class="featured">{{ with .Params.image }}<img src="{{ . }}" class="img-circle img-responsive" style="width: 50px;" />&nbsp;{{ end }}<a href="{{ .Permalink }}">{{ .Title }}</a></li>
           {{ end }}
         </ul>
-        <div class="rw text-center"><a href="{{ .Permalink }}" class="btn btn_1 green_btn">{{ printf "View all %s" .name | upper }}</a></div>
+        <div class="rw text-center"><a href="{{ .all }}" class="btn btn_1 green_btn">{{ printf "View all %s" .name | upper }}</a></div>
       </div>
     </div>
   </div>

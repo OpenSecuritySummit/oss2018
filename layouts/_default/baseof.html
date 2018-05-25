@@ -73,13 +73,13 @@
     <!-- /#content -->
 
     {{ block "footer" . }}
-      {{ partial "footer.html" . }}
+      {{ partialCached "footer.html" . }}
     {{ end }}
 
   </div>
   <!-- /#all -->
 
-  {{ partial "scripts.html" . }}
+  {{ partialCached "scripts.html" . }}
 
 </body>
 </html>

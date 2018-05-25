@@ -9,15 +9,16 @@
                 </div>
                 <div class="pricing m_b_160">
                   <div class="row">
-                    {{ $keynotes := where .Site.Pages ".Params.track" "Keynotes"}}
-                    {{ $tracks := where (where .Site.Pages ".Params.type" "track") ".Params.featured" "yes" }}
-                    {{ $participants := where (where .Site.Pages ".Params.type" "participant") ".Params.featured" "yes"}}
+                    {{ $keynotes := where .Site.Pages ".Params.track" "Keynotes" }}
+                    {{ $tracks := where (where .Site.Pages ".Params.type" "track") ".Params.featured" true }}
 
-                    {{ partial "featured/card.html" (dict "name" "keynotes" "elements" $keynotes "this" . )}}
+                    {{ $participants := where (where .Site.Pages ".Params.type" "participant") ".Params.featured" true}}
 
-                    {{ partial "featured/card.html" (dict "name" "track" "elements" $tracks "this" . )}}
+                    {{ partial "featured/card.html" (dict "name" "keynotes" "elements" $keynotes "this" . "all" "/tracks/keynotes/")}}
 
-                    {{ partial "featured/card.html" (dict "name" "participants" "elements" $participants "this" . )}}
+                    {{ partial "featured/card.html" (dict "name" "track" "elements" $tracks "this" . "all" "/tracks/")}}
+
+                    {{ partial "featured/card.html" (dict "name" "participants" "elements" $participants "this" . "all" "/participant/")}}
 
                     </div>
                   </div>
