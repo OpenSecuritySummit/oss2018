@@ -9,7 +9,7 @@ layout      : FAQ
 <img src="/img/pages/working_session_properties.png" alt="working sessions properties" style="width: 45%;"/>
 <img src="/img/pages/working_session_approach.png" alt="working sessions approach" style="width: 45%;"/><br/>
 <a name="user-session"></a>
-<p style="text-align: center;"><strong>E</strong> - Expert | <strong>PA</strong> - Participant </p>
+<p style="text-align: center;"> <strong>E</strong> - Expert | <strong>PR</strong> - Practitioner | <strong>PA</strong> - Participant </p>
 
 Find more details on the current [Working Sessions](https://open-security-summit.org/working-sessions/)
 
@@ -21,7 +21,7 @@ Find more details on the current [Working Sessions](https://open-security-summit
 <img src="/img/pages/user_session_properties.png" alt="user sessions properties" style="width: 45%;"/>
 <img src="/img/pages/user_session_approach.png" alt="user sessions approach" style="width: 45%;"/><br/>
 <a name="product-session"></a>
-<p style="text-align: center;"> <strong>E</strong> - Expert | <strong>PR</strong> - Practitioner | <strong>PA</strong> - Participant </p>
+<p style="text-align: center;"><strong>E</strong> - Expert | <strong>PA</strong> - Participant </p>
 
 Find more details on the current [User Sessions](https://open-security-summit.org/user-sessions/)
 
