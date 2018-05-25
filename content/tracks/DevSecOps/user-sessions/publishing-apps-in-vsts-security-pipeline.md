@@ -1,7 +1,7 @@
 ---
 title        : Publishing apps in a VSTS security pipeline
 type         : user-session
-track        : Misc
+track        : DecSecOps
 topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

@@ -1,7 +1,7 @@
 ---
 title        : Using Pixi
 type         : user-session
-track        : Misc
+track        : DecSecOps
 topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
