@@ -1460,3 +1460,37 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   margin-bottom:3px;
   padding: 5px;
 }
+
+/* About 2017 - Previous summit page */
+.about2017_sec{
+  margin-bottom:40px;
+}
+
+.about2017_sec .row{
+  display:flex;
+  align-items:top;
+}
+
+.about2017_chapter h2{
+  font-size:48px;
+  text-align:center;
+  text-transform:uppercase;
+  padding-bottom:30px;
+  color:#00549e;
+  font-family: 'Oswald', sans-serif;
+  font-weight:500;
+  margin-bottom:30px;
+  position:relative;
+  margin-top:80px;
+}
+
+.about2017_chapter h2:before{
+  content:"";
+  width:100px;
+  height:10px;
+  background:#98c1df;
+  margin-left:-50px;
+  position:absolute;
+  left:50%;
+  bottom:0;
+}
