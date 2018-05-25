@@ -1,20 +1,21 @@
 ---
-title           : Richard Orme
-type            : participant
-job_title       : CTO
-company         : Photobox Group
+title           : Pascal Schulz
+type            : participant-remote
+job_title       : IT Security Engineer
+company         : Dynatrace
 travel_from     :
 image           :
 linkedin        :
-twitter         :
+twitter         : https://twitter.com/PascalSec
 facebook        :
 website         :
 email           :
-venue           : Tue
+project_leader  :
+chapter_leader  :
 regonline       :
-pre-summit      :
-status          : add details
+status          : add-details
 sessions        :
+notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 

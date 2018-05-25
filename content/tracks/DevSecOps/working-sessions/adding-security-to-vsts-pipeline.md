@@ -1,7 +1,7 @@
 ---
 title        : Adding security to VSTS pipeline
 type         : working-session
-track        : Misc
+track        : DecSecOps
 topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

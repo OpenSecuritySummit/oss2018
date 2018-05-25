@@ -1,11 +1,12 @@
 ---
-title           :
+title           : James McGinnigle
 type            : participant
-job_title       :
-company         :
+job_title       : Head Of Information Security
+funded_by       : CertDev
+company         : Marshall Wace
 travel_from     :
-image           :
-linkedin        :
+image           : https://media.licdn.com/dms/image/C4D03AQGJVv9MQmS2ig/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=PuViqy49IGqZXcrvXCf65feb2Pb-6WgjE7OWrnWoDqw
+linkedin        : james-mcginnigle-9592b126
 twitter         :
 facebook        :
 website         :

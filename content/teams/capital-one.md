@@ -12,7 +12,8 @@ status          :
 members:
     - Fraser Scott
     - Neil Barlow
-hidden         : true
+    - Capital One 3
+    - Capital One 4
 notes :
 ---
 

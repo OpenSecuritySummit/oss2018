@@ -1,7 +1,7 @@
 ---
 title        : Pixi Roadmap and Enhancement
 type         : working-session
-track        : Misc
+track        : DecSecOps
 topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

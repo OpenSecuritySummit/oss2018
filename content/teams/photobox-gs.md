@@ -8,21 +8,16 @@ twitter         :
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
-sessions:
+_sessions:
     - Creating a Steady-State Hypothesis
     - GS Detect Daily Scrum (Mon)
     - Hands on Chaos Experiments
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
-
-
-    -
 members:
-    - Andrew Johnstone
     - Anne-Marie Grace
     - Charlotte Bullock
-    - Chris Allen
     - Christoph Jung
     - Dan Gapco
     - Dinis Cruz
@@ -37,7 +32,6 @@ members:
     - Robert Grace
     - Simon Pavillon
     - Stu Hirst
-    - Tim Redding
     - Toby Shelswell
     - Vladimir Voskresenskiy
     - David Cervigni

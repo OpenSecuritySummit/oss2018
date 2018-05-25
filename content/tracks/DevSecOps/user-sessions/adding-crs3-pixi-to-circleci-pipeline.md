@@ -1,7 +1,7 @@
 ---
 title        : Adding CRS3 and Pixi to CircleCI pipeline
 type         : user-session
-track        : Owasp-Devslop
+track        : DecSecOps
 when_day     : Wed
 when_time    : PM-3
 status       : draft

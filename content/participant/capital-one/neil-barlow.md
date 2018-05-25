@@ -11,8 +11,8 @@ facebook        :
 website         :
 email           :
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-night_where     : villa-5
+night_day       :
+night_where     :
 regonline       :
 pre-summit      :
 status          : add details
