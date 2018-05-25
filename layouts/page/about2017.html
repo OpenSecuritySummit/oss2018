@@ -1,0 +1,128 @@
+{{ define "nav" }}
+<header class="full-bg background-default">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_default">
+  <div class="center_heading">
+    <div class="container">
+        <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
+{{ define "full-content" }}
+
+<section class="mid_wrap" >
+  <div class="container">
+    <div class="about2017_sec">
+
+      <!-- summit history part (the legacy) -->
+      <div class="about2017_chapter">
+        <h2>The Legacy</h2>
+        <div class="row">
+          <div class="col-md-8">
+            <i style="color:#bbb;">
+              Please provide few words about the history of the summit. About the beggining and eveoluion.
+              Make accent on main values and put spotlights on key activities and decisions during the time of evolution.
+              <br/><br/>
+              IMPORTANT: Make chain of different names of the summit, especially between the OWASP Summit 2017 and Open Security Summit 2017
+              thus the people will understand that the name has been changed but the organizers are the same.
+            </i>
+          </div>
+          <div class="col-md-4"><img src="/img/pages/summit_history.png" class="img-responsive" alt="img"></div>
+        </div>
+      </div>
+
+      <!-- photo gallery part -->
+      <div class="about2017_chapter">
+        <h2>About the previous summit (2017), through a photo gallery</h2>
+        <div class="row">
+          <div class="col-md-12">
+            Let us tell you a story about the previous summit throught the following photo gallery.
+
+            {{ .Content }}
+
+          </div>
+        </div>
+      </div>
+
+      <!-- Results part -->
+      <div class="about2017_chapter">
+        <h2>Results</h2>
+        <div class="row">
+          <div class="col-md-8">
+            One of the measurement for success of the summit is done through the <a href="https://owaspsummit.org/Outcomes/" target="blank">outcomes</a> from every session.<br/></br>
+            Great moment (one of many) from the last summit (OWASP Summit 2017) is when a team of participants published the "<a href="https://owaspsummit.org/Outcomes/Mobile-Security/MSTG.html" target="blank">Mobile Security Testing Guide</a>".<br/><br/>
+            Please take a minute to watch this precious moment and try to feel the team spirit that the participants had during the moments of sharing their work results with the public.
+            <i class="fa fa-camera-retro" aria-hidden="true"></i>
+          </div>
+          <div class="col-md-4">
+            <a target="blank" href='https://photos.google.com/share/AF1QipN6oXerusmVLZQY94r1EzlHsmNfhbxCkhZr-zYTHODmKw-DSmJRigLbp6pmfzPWBw?key=NjhNU21HUDMwd1VjMEdDRndFOVpOZDluTFVOUjZR&source=ctrlq.org'>
+              <img style="border:20px solid #eee;" src='https://lh3.googleusercontent.com/OUvkL_Ty4VKNAAQu4YCwr0jtWrXIpix9pqXRJ3I1cTDVWkUCGulIKHbEQHCr9BG7BPlovnc2ljphjUAj9P775jypy4uZMjQP-5mGAO7qAlReN8zSoHD0E9wH4qw3bjOFuQB2q2GhGw=w320' />
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- community comments part -->
+      <div class="about2017_chapter">
+        <h2>What the Community Says</h2>
+        <div class="row">
+          <div class="col-md-8">
+            <img src="/img/pages/summit2017_comments.png" class="img-responsive" alt="img">
+          </div>
+          <div class="col-md-4">
+            <br/>People recognize values at the summit and they talk about it.<br/><br/>
+            Recently, on one occasion when sharing the information that we are organizing the new summit,
+            a community representative supplemented our information with his comment:<br/><br/>
+            <i style="color:#96c25f; font-size:2.0em;">
+              <i class="fa fa-quote-left" aria-hidden="true"></i> For what it's worth, I attended the last year.<br/>
+              This is a really good conference... one of the bests ones I've attended. <i class="fa fa-quote-right" aria-hidden="true"></i>
+            </i>
+          </div>
+        </div>
+      </div>
+
+      <!-- join us part -->
+      <div class="about2017_chapter">
+        <h2>Join Us in 2018</h2>
+        <div class="row">
+          <div class="col-md-4" style="text-align:right;">
+            <img src="/img/android-chrome-256x256.png" class="img-responsive" alt="img">
+          </div>
+          <div class="col-md-8">
+            <ul>
+              <li>This year, 2018 we are in the same place. (<a href="/venue/" target="blank">Woburn Forest Center Parcs, Bedfordshire</a>)</li>
+              <li>We plan to cover at about <a href="/topics/" terget="blank">20 topics</a></li>
+              <li>Various <a href="/faq/session-types/" terget="blank">session types</a></li>
+              <li>Tens of
+                <a href="/working-sessions/" terget="blank">working sessions</a>,
+                <a href="/user-sessions/" terget="blank">user sessions</a>,
+                <a href="/product-sessions/" terget="blank">product sessions</a>
+                organized in <a href="/tracks/" terget="blank">8 tracks</a>.
+              </li>
+              <li>You can see the already registered <a href="/participant/" terget="blank">onsite</a> and <a href="/participant-remote/" terget="blank">remote</a> participants </li> and...
+            </ul>
+
+            <p style="font-size:1.5em;">
+              <a href="faq/attendee-information/" target="blank">Join Us!</a> We are at the summit ventue between 04<sup>th</sup> and 08<sup>th</sup> June.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+{{ end }}
