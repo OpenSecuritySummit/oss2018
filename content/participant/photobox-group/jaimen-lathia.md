@@ -1,16 +1,16 @@
 ---
-title           : Vinal Shah
+title           : Jaimen Lathia
 type            : participant
-job_title       : FP&A Manager
-company         : Photobox Group
+job_title       : Software Engineer
+company         : Moonpig
 travel_from     :
-image           : https://media.licdn.com/dms/image/C5603AQEVjpvRkiMT0w/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=pMYX8wtF1vwZ62eLfQPbS3wvexDv-ltp4CMAGdaXBuE
-linkedin        : vinal-shah-3103993a
+image           :
+linkedin        :
 twitter         :
 facebook        :
 website         :
 email           :
-venue           : Thu
+venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
 regonline       :
 pre-summit      :
 status          : add details

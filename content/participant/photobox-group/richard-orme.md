@@ -10,8 +10,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Tue
 regonline       :
 pre-summit      :
 status          : add details

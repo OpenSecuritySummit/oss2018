@@ -10,8 +10,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
 regonline       :
 pre-summit      :
 status          : add details
