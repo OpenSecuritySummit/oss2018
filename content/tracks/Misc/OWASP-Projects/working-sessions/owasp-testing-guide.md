@@ -15,6 +15,7 @@ organizers   :
 participants :
   - Prakash Sharma
   - Goher Mohammad
+  - John Killilea
 description  : Working Sessions for Owasp Testing Guide v5
 ---
 
