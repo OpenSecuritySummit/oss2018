@@ -21,12 +21,12 @@
         {{ partial "home-page/session-types.html" . }}
         {{ partial "home-page/features.html"      . }}
         {{ partial "home-page/sponsors.html"      . }}
-        {{ partial "footer.html"        . }}
+        {{ partialCached "footer.html"        . }}
 
     </div>
     <!-- /#all -->
 
-    {{ partial "scripts.html" . }}
+    {{ partialCached "scripts.html" . }}
 
   </body>
 </html>
