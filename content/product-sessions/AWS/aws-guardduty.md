@@ -11,12 +11,12 @@ room_number  :
 status       : draft              # draft, review-content, done
 description  :
 organizers   :
-    - John Killilea
 participants :
     - Andrew Johnstone
     - James Wharton
     - Simon Pavillon
     - Vladimir Voskresenskiy
+    - John Killilea
 
 ---
 
