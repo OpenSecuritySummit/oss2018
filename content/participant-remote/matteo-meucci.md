@@ -12,7 +12,7 @@ project_leader  : OWASP Testing Guide
 chapter_leader  : OWASP Italy
 regonline       :
 status          : add-details
-sessions        : OWASP Testing Guide v5  
+sessions        : ["OWASP Testing Guide v5"]
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
