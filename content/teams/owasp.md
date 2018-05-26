@@ -41,6 +41,8 @@ members:
     - Sherif Mansour
     - Steven van der Baan
     - Tanya Janca
+    - Matteo Meucci
+    - Jeff Williams
 
 notes :
 ---
