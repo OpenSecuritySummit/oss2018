@@ -1,7 +1,7 @@
 ---
 title        : Adding security to VSTS pipeline
 type         : working-session
-track        : DecSecOps
+track        : DevSecOps
 topics       : ["Owasp Devslop"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
@@ -31,7 +31,3 @@ Security review, config and testing in the in Visual Studio Team Server pipeline
 
 Outcomes: More secure apps for everyone, everywhere!  :)  A free proof of concept that IT shops can adopt to start their DevOps processes, that includes security.  Lessons and documentation will follow.
 
-
-## References
-
-(...)

@@ -1,6 +1,7 @@
 ---
 title        : JIRA Risk Workflow
 type         : working-session
+tracks       : Misc
 topics       : ["JIRA"]
 featured     :                    # review with summit team "yes"
 when_day     : Thu

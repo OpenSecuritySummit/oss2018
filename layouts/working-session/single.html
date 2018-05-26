@@ -13,25 +13,7 @@
 
 {{ define "content" }}
 
-    <style>
-        .working-session-img {
-            height: 150px;
-            text-align: center
-        }
-        .working-session-info{
-            text-align: center;
-        }
-    </style>
-    <div class="row">
-        <div class="col-xs-6">
-            {{ partial "session/metadata.html" . }}
-        </div>
-        <div class="col-xs-6" class="working-session-info">
-            <img src="/img/pages/working_session_properties.png" class="working-session-img">
-            <img src="/img/pages/working_session_approach.png" class="working-session-img">
-            <div class="working-session-info">E - Expert | PR - Practitioner | PA - Participant</div>
-        </div>
-    </div>
+    {{ partial "session/metadata.html" . }}
 
     {{ .Content }}
 
