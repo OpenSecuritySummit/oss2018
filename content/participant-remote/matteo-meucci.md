@@ -4,7 +4,7 @@ title           : Matteo Meucci
 type            : participant-remote
 job_title       : CEO
 company         : Minded Security
-image           : https://www.owasp.org/images/5/5d/Adeyoseman.jpg
+image           : 
 linkedin        : https://www.linkedin.com/in/meucci/
 twitter         : https://twitter.com/matteo_meucci
 facebook        :
