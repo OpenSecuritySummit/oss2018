@@ -123,19 +123,6 @@ paginate = 10
     parent = "about"
     url = "/faq/"
 [[menu.main]]
-    name = "The Previous Summit"
-    identifier = "about-the-summit-2017"
-    pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 15
-    parent = "about"
-    url = "/about2017/"
-#[[menu.main]]
-#    name = "Blog"
-#    identifier = "blog"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 16
-#    url = "/blog/"
-[[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
     weight = 11
