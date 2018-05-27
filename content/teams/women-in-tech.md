@@ -21,8 +21,10 @@ members:
     - PBX GS Head of Risk
     - Jane Frankland
     - Jemma Davis-Smith
+    - Leila Powell
     - Lisa Raynaud
     - Rachel Power
     - Tash Norris
     - Tanya Janca
+    - Thordis
 ---
