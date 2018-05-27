@@ -15,6 +15,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
+    - Mario Platt
 
 ---
 
