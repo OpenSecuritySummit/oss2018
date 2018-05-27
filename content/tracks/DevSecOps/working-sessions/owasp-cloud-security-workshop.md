@@ -12,6 +12,7 @@ room_layout  :                    #
 room_number  :
 status       : done
 organizers   : ["Fraser Scott"]
+participants : ["Mario Platt"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
 ---
 
