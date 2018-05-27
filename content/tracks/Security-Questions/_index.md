@@ -3,7 +3,7 @@ title        : Security Questions
 type         : track
 status       : done
 when_day     : Mon,Tue,Wed,Thu,Fri
-description  :
+description  : Track focused on creating Security Questions and Answers (with daily quizzes planned for the evening sessions)
 organizers   :
     - John Fitzgerald
     - Rachel Power
