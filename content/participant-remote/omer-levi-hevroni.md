@@ -15,6 +15,7 @@ tracks          :
     - Threat Model
 sessions        :
     - OwaspSAMM - Best Practices
+    - OWASP DevSecOps Studio
 
 ---
 
