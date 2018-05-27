@@ -20,8 +20,7 @@ sessions        :
     - Application Security Verification Standard 
     - Getting more women in Cyber-security  
     - Cloud brokerage 
-    - authentication and authorisation  
-    - authentication and authorisation  
+    - authentication and authorisation   
     - Owasp Testing Guide v5  
     - Security Playbooks
 ---

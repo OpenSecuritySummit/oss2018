@@ -1415,7 +1415,7 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .owasp_submmit{ margin:20px 0px;} .mid_left_menu .nav-tabs > li > a{ text-align:center;}
 .tbale_section thead tr th, .tbale_section tbody tr td{ padding:6px 5px;}
 .tbale_section thead tr th, .metadata tr td:first-child{ font-size:13px;} .tbale_section tbody tr td, .metadata tr td{ font-size:12px;}
-.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:312px; text-align:center;}
+.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:100%; text-align:center;}
 
 /*=========================================08=05=2018==============================================*/
 .inner_main_title2 .center_heading h1{ font-size:30px;}

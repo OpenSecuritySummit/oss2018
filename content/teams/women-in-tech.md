@@ -23,5 +23,6 @@ members:
     - Jemma Davis-Smith
     - Lisa Raynaud
     - Rachel Power
+    - Tash Norris
     - Tanya Janca
 ---

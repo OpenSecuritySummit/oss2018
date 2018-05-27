@@ -1,6 +1,7 @@
 ---
 title           : Mark Regensberg
 type            : participant
+funded_by       : CertDev
 job_title       :
 company         :
 travel_from     :
