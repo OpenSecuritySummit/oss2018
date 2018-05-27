@@ -12,7 +12,7 @@ room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
 organizers   : Imran Mohammed A
-participants : Francois Raynaud, Sophie Tonnoir
+participants : Francois Raynaud, Sophie Tonnoir, Mario Platt
 description  : Integrate security tools as part of CI/CD pipeline to find/fix issues early in SDL
 ---
 
