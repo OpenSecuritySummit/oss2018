@@ -34,25 +34,29 @@
                 <div class="oss-grid oss-grid--3 tracks-home-page">
                     {{ $tracks := where .Site.Pages ".Params.type" "track" }}
                     {{ range $index, $element := $tracks }}
-                        <div class="panel panel-default panel-with-btn">
-                            <div class="panel-heading">
-                                <h3 class="panel-title">{{ truncate 45 .Title }}</h3>
-                            </div>
-                            <p class="lead">{{ .Params.description }}</p>
-                            <div class="clues">
-                                <ul class="visual-clues">
-                                    <li><a class="bg-success" href=""><i class="fa fa-check-square-o"></i> featured sessions </a></li>
-                                </ul>
-                                <ul>
-                                    {{ range where (where .Site.Pages ".Params.track" .Title) ".Params.featured" "eq" true }}
-                                    <li><a href="{{.Permalink}}"> {{.Params.title}}</a></li>
-                                    {{ end }}
-                                </ul>
-                            </div>
-                            <div class="panel-body">
-                                <a class="btn btn-lg btn-success pull-right" role="button" href="{{ .Permalink }}">See all sessions</a>
-                            </div>
+                    <div class="oss-card">
+                      <div class="oss-card-title">
+                        <h3>{{ truncate 45 .Title }}</h3>
+                      </div>
+                      <div class="oss-card-body">
+                        <p class="lead oss-card-lead">{{ .Params.description }}</p>
+                        <div class="card-clues">
+                          <ul class="visual-clues">
+                            <li><a class="bg-success" href=""><i class="fa fa-check-square-o"></i> featured sessions </a></li>
+                          </ul>
                         </div>
+                        <div class="featured">
+                        <ul class="featured">
+                        {{ range where (where .Site.Pages ".Params.track" .Title) ".Params.featured" "eq" true }}
+                          <li class="featured"><a href="{{.Permalink}}"> {{.Params.title}}</a></li>
+                        {{ end }}
+                        </ul>
+                      </div>
+                      </div>
+                      <div class="oss-card-bottom">
+                            <a class="oss-card-button" role="button" href="{{ .Permalink }}">See all sessions</a>
+                        </div>
+                    </div>
                     {{ end }}
                 </div>
             </div>

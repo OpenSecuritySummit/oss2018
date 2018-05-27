@@ -974,6 +974,33 @@ div.waves {
   text-decoration: none;
   border-color: #38a7bb;
 }
+/* Card clues */
+.card-clues {
+  padding:0;
+}
+.card-clues ul.visual-clues {
+  list-style: none;
+}
+.card-clues ul.visual-clues li {
+  display: inline-block;
+}
+.card-clues ul.visual-clues li a {
+  display: inline-block;
+  padding: 5px;
+  border: solid 1px #eeeeee;
+  border-radius: 0;
+  color: #38a7bb;
+  margin: 5px 5px 5px 0;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  font-size: 12px;
+}
+.card-clues ul.visual-clues li a:hover {
+  color: #38a7bb;
+  text-decoration: none;
+  border-color: #38a7bb;
+}
 
 @media (min-width: 992px)
 .home-carousel {
@@ -1494,3 +1521,65 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   left:50%;
   bottom:0;
 }
+
+/** OSS Card */
+.oss-card {
+  background:#fff;
+  border:#cfd8dc 2px solid;
+  margin-bottom:30px;
+}
+.oss-card:hover {
+  border:#00549e 2px solid;
+}
+.oss-card:hover .oss-card-title {
+  text-align: center;
+  border-bottom:#00549e 2px solid;
+  background:#00549e;
+}
+.oss-card:hover .oss-card-title h3 {
+  color:#fff;
+}
+.oss-card:hover { color:#00549e;}
+
+.oss-card-title {
+  border-bottom:#cfd8dc 2px solid; padding:20px 10px; text-align:center;
+}
+.oss-card-title h3{ margin:0; color:#546e7a;}
+
+.oss-card-body {
+  padding:25px 35px 30px;
+}
+
+.oss-card-body {
+  min-height:230px;
+  height: 80%;
+}
+
+.oss-card-body ul{ margin:0px; padding:0;}
+
+.oss-card-body ul li {
+  margin-bottom:15px;
+}
+
+.oss-card-bottom {
+  text-align: center;
+}
+
+.oss-card-lead {
+  padding: 10px;
+  border-bottom:#cfd8dc 1px solid;
+  color:#546e7a;
+}
+.oss-card-button {
+  display: flex;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */; border-radius:0; width:100%; text-align:center; height:60px; font-size:22px; color:#fff; text-transform:uppercase;
+  font-family: 'Oswald', sans-serif; font-weight:500;
+  background:#87bb40; outline:none !important; border:none !important;
+}
+
+.oss-card-button:hover, .oss-card-button:focus{
+  color:#fff;
+  background:#1fc4f4;
+}
+.oss-card-button:active { background:#00549e; }
