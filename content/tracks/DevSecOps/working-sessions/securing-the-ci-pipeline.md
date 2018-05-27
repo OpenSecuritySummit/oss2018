@@ -15,7 +15,7 @@ organizers   :
     - Imran Mohammed A
     - Francois Raynaud
 description  : Secure the CI/CD pipeline
-participants : Sophie Tonnoir
+participants :
 ---
 
 ## Why

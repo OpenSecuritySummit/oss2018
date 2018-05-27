@@ -13,7 +13,7 @@ room_number  :
 status       : review-content              # draft, review-content, done
 organizers   :
 description  : How to secure Github Integrations
-participants : Sophie Tonnoir
+participants :
 ---
 
 ## Why
