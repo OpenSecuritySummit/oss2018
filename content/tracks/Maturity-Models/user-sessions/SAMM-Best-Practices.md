@@ -1,21 +1,22 @@
 ---
-title        : SAMM Introduction
+title        : OwaspSAMM - Best Practices
 type         : user-session
-track        : Owasp SAMM
+owasp-project: yes
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes
 when_day     : Mon
-when_time    : PM-2
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Round table session with SAMM users
+description  : User session on how to use Owasp SAMM
 organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-    
+
 ---
 
-SAMM users sharing experiences with each other
+Sharing best practices on how to get the most out of Owasp SAMM

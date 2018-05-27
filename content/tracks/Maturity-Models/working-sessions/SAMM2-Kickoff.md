@@ -1,17 +1,16 @@
 ---
-title        : OwaspSAMM - Best Practices
-type         : user-session
-owasp-project: yes
-track        : Owasp SAMM
+title        : SAMM2 Kickoff
+type         : working-session
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
-when_time    : PM-1
+when_time    : AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : User session on how to use Owasp SAMM
+description  : Kickoff session for the summit
 organizers   :
     - Sebastien Deleersnyder
 participants:
@@ -19,4 +18,4 @@ participants:
 
 ---
 
-Sharing best practices on how to get the most out of Owasp SAMM
+Discuss agenda - goals for this week. Welcome people who are going to participate

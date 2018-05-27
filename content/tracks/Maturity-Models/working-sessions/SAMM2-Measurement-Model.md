@@ -1,7 +1,7 @@
 ---
 title        : SAMMv2 Measurement Model
 type         : working-session
-track        : Owasp SAMM
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

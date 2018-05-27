@@ -1,20 +1,21 @@
 ---
-title        : SAMM Project Meeting
+title        : SAMMv2 Establish the Document Model
 type         : working-session
-track        : Owasp SAMM
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Fri
-when_time    : AM-1
+when_day     : Wed
+when_time    : PM-1
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Project meeting to review the status and update the plan for SAMM2
+description  : Define SAMMv2 document Model
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
 
 ---
 
-Project meeting to review the status and update the plan for SAMM2
+The aim is to reach a consensus on which elements we need to have in order to be able to describe the document and to arrive at a YAML format.

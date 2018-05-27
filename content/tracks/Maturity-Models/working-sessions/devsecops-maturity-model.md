@@ -1,11 +1,11 @@
----
+ ---
 title        : DevSecOps Maturity Model (DSOMM)
 type         : working-session
-track        : DevSecOps
+track        : Maturity Models
 topics       : ["DevSecOps"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes
 when_day     : Thu
 when_time    : PM-1, PM-2, PM-3                  
 room_layout  :                    #

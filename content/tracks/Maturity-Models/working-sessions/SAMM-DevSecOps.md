@@ -1,21 +1,23 @@
 ---
-title        : SAMM2 Kickoff
+title        : SAMM DevSecOps Version
 type         : working-session
-track        : Owasp SAMM
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
-when_time    : AM-1
+when_time    : Eve-1
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Kickoff session for the summit
+description  : Create a totally new SAMM DevSecOps version
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Jeff Williams
+    - Bart De Win
     - Yan Kravchenko
 
 ---
 
-Discuss agenda - goals for this week. Welcome people who are going to participate
+Brainstorm a DevSecOps SAMM version

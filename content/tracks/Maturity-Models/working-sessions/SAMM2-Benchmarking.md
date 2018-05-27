@@ -1,16 +1,16 @@
 ---
-title        : SAMMv2 Establish the Document Model
+title        : SAMM benchmarking
 type         : working-session
-track        : Owasp SAMM
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-1
+when_time    : PM-2
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Define SAMMv2 document Model
+description  : Define objectives for the SAMM benchmarking project as part of SAMMv2
 organizers   :
     - Sebastien Deleersnyder
 participants:
@@ -18,4 +18,4 @@ participants:
 
 ---
 
-The aim is to reach a consensus on which elements we need to have in order to be able to describe the document and to arrive at a YAML format.
+Define objectives for the SAMM benchmarking project as part of SAMMv2

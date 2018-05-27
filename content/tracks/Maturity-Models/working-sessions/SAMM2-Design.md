@@ -1,10 +1,10 @@
 ---
 title        : SAMMv2 working session - Design
 type         : working-session
-track        : Owasp SAMM
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
+featured     : yes
 when_day     : Tue
 when_time    : AM-2
 room_layout  :                    #

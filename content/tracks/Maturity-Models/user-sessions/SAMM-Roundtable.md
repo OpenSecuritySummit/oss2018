@@ -1,20 +1,21 @@
 ---
-title        : SAMM DevSecOps Version
-type         : working-session
-track        : Owasp SAMM
+title        : SAMM Introduction
+type         : user-session
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
-when_time    : Eve-1
+when_time    : PM-2
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Create a totally new SAMM DevSecOps version
+description  : Round table session with SAMM users
 organizers   :
     - Sebastien Deleersnyder
-participants: Jeff Williams, Bart De Win, Yan Kravchenko
-
+participants:
+    - Yan Kravchenko
+    
 ---
 
-Brainstorm a DevSecOps SAMM version
+SAMM users sharing experiences with each other

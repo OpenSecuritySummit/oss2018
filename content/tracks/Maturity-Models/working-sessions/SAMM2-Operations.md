@@ -1,20 +1,20 @@
 ---
-title        : SAMM Introduction
-type         : user-session
-track        : Owasp SAMM
+title        : SAMMv2 working session - Operations
+type         : working-session
+track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Mon
+when_day     : Wed
 when_time    : AM-2
-room_layout  :                    #
+room_layout  :
 room_number  :
 status       : review-content              # draft, review-content, done
-description  : Introduction session on SAMM for people who want to know more about the project
+description  : multiple working sessions on the new SAMMv2
 organizers   :
     - Sebastien Deleersnyder
 participants:
 
 ---
 
-Crash course on SAMM as project and overview of the content/actions so far
+One working session per business function
