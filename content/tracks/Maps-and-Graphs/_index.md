@@ -1,8 +1,8 @@
 ---
 title       : Maps and Graphs
 type        : track
-when_day    : Tue,Thu
-status      : featured
+when_day    : Thu
+status      : done
 description : Working Sessions for CISOs
 organizers  :
     - Dinis Cruz

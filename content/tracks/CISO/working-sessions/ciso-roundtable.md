@@ -3,7 +3,7 @@ title        : CISO roundtable
 type         : working-session
 track        : CISO
 topics       : ["CISO"]
-featured     :                    # if  "yes" review with summit team
+featured     : yes                # if  "yes" review with summit team
 when_day     : Thu
 when_time    : PM-2
 room_layout  :                    #
