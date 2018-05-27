@@ -15,7 +15,7 @@ description  : An exploration and working session to characterise, explore and i
 organizers   :
     - Russ Miles
 participants:
-
+    - Mario Platt
 ---
 
 In this session a collection of real-world security cases will be explored through the lens of the chaos engineering discipline.
