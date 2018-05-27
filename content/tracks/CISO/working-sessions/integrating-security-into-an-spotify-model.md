@@ -14,6 +14,7 @@ organizers   :
     - Tony Richards
 participants :
     - Sophie Tonnoir
+    - Goher Mohammad
 ---
 
 ## Why
