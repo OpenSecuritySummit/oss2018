@@ -16,7 +16,7 @@ description  : Exploring the Chaos Toolkit's stead-state hypothesis and how one 
 organizers   :
     - Russ Miles
 participants:
-
+    - Mario Platt
 ---
 
 The Chaos Toolkit provides a Universal API for Chaos Engineering experiments that is then used to drive various implementations of chaos-causing and system-state-probing functions.
