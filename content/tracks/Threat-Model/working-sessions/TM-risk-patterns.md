@@ -20,7 +20,7 @@ locked       : true
 
 ## Why
 
-Threat Models can be assempled by using pre-written templates.  But entire templates can be too large as a building block for a threat model.  A smaller unit is called a Risk Pattern: a mini-template tied to a particular technology and/or use-case.  Examples of risk patterns:
+Threat Models can be assembled by using pre-written templates.  But entire templates can be too large as a building block for a threat model.  A smaller unit can be called a "Risk Pattern": a mini-template tied to a particular technology and/or use-case.  Examples of risk patterns:
 - Transimitting sensitive data over untrusted networks
 - Single factor authentication against a web app
 - File upload to a web app
