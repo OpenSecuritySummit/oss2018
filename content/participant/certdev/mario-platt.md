@@ -23,6 +23,17 @@ sessions        :
     - European GDPR variations
     - Hands-on GDPR Patterns
     - Using graphs for GDPR mappings and visualisations
+    - Creating a Steady-State Hypothesis
+    - Real world Chaos Engineering
+    - Owasp Cloud Security Workshop (BETA
+    - SAMMv2 working session - Governance
+    - Securing the CI Pipeline
+    - Docker and Kubernetes Threat Modeling Cheat Shee
+    - Cell based Structures for Security
+    - Integrating Security Tools in the SDL
+    - JIRA Risk Workflow
+    - Meet the ICO
+    - Security Playbooks
 ---
 
 <!-- put more details about participant here -->
