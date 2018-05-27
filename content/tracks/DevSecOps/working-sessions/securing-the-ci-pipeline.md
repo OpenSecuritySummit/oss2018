@@ -16,6 +16,7 @@ organizers   :
     - Francois Raynaud
 description  : Secure the CI/CD pipeline
 participants : Sophie Tonnoir
+    - Mario Platt
 ---
 
 ## Why
