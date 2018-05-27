@@ -1,18 +1,18 @@
 ---
-title        : Using Pixi
-type         : user-session
-track        : DecSecOps
-topics       : ["Owasp Devslop"]
-technology   :
-categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-3
-room_layout  :
-room_number  :
-status       : draft              # draft, review-content, done
-description  : Owasp Devslop User Session
-organizers   : Tanya Janca
+#title        : Using Pixi
+#type         : user-session
+#track        : DecSecOps
+#topics       : ["Owasp Devslop"]
+#technology   :
+#categories   :                      # GDPR, Juice Shop, etc.
+#featured     : yes                   # review with summit team "yes"
+#when_day     : Tue
+#when_time    : PM-3
+#room_layout  :
+#room_number  :
+#status       : draft              # draft, review-content, done
+#description  : Owasp Devslop User Session
+#organizers   : Tanya Janca
 ---
 
 This will be a user sessions focused on using Devslop pixi, which means the MEAN Stack, API and Web Service Hacking.

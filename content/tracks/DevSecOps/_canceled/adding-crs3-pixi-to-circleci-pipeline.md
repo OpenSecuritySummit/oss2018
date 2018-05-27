@@ -1,13 +1,13 @@
 ---
-title        : Adding CRS3 and Pixi to CircleCI pipeline
-type         : user-session
-track        : DecSecOps
-when_day     : Wed
-when_time    : PM-3
-status       : draft
-organizers   : Franziska Buehler
-participants : Tanya Janca
-description  : Adding OWASP ModSecurity Core Rule Set 3 and Pixi to CircleCI pipeline
+#title        : Adding CRS3 and Pixi to CircleCI pipeline
+#type         : user-session
+#track        : DecSecOps
+#when_day     : Wed
+#when_time    : PM-3
+#status       : draft
+#organizers   : Franziska Buehler
+#participants : Tanya Janca
+#description  : Adding OWASP ModSecurity Core Rule Set 3 and Pixi to CircleCI pipeline
 ---
 
 ## Topic

@@ -1,20 +1,20 @@
 ---
-title        : Pixi Roadmap and Enhancement
-type         : working-session
-track        : DecSecOps
-topics       : ["Owasp Devslop"]
-technology   :
-categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
-when_day     : Wed
-when_time    : AM-1
-room_layout  :                    #
-room_number  :
-status       :                # draft, review-content, done
-description  :
-organizers   :
-    - Tanya Janca
-    - Nicole Becher
+#title        : Pixi Roadmap and Enhancement
+#type         : working-session
+#track        : DecSecOps
+#topics       : ["Owasp Devslop"]
+#technology   :
+#categories   :                      # GDPR, Juice Shop, etc.
+#featured     : yes                   # review with summit team "yes"
+#when_day     : Wed
+#when_time    : AM-1
+#room_layout  :                    #
+#room_number  :
+#status       :                # draft, review-content, done
+#description  :
+#organizers   :
+#    - Tanya Janca
+#    - Nicole Becher
 ---
 
 The technical ecosystem is changing – APIs and Web Services are often underprotected.
