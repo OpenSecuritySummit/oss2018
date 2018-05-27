@@ -15,11 +15,11 @@ organizers   :
     - Phil Huggins
 participants :
     - Dinis Cruz
-    - Tony Richards
     - Jemma Davis-Smith
     - James Wharton
 invited:
     - Simon Wardley
+    - Tony Richards
 ---
 
 How to apply Wardley maps to an SOC (Securty Operations Center).
