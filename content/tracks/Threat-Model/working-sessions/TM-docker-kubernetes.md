@@ -13,6 +13,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Mario Platt
 description  : Docker and Kubernetes Threat Modeling Cheat Sheet
 ---
 
