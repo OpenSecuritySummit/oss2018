@@ -12,7 +12,7 @@ room_number  :
 status       : draft                   # draft, review-content, done
 description  : If you could meet the ICO, what questions would you ask
 organizers   :
-participants :
+participants : Mario Platt
     - Tony Richards
 ---
 
