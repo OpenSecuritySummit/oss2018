@@ -36,9 +36,11 @@
                     {{ $tracks := where .Site.Pages ".Params.type" "track" }}
                     {{ range $index, $element := $tracks }}
                     <div class="oss-card">
-                      <div class="oss-card-title">
-                        <h3>{{ truncate 45 .Title }}</h3>
-                      </div>
+                      <a href="{{ .Permalink }}">
+                        <div class="oss-card-title">
+                          <h3>{{ truncate 45 .Title }}</h3>
+                        </div>
+                      </a>
                       <div class="oss-card-body">
                         <p class="lead oss-card-lead">{{ .Params.description }}</p>
                         <div class="card-clues">
