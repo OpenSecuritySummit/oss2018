@@ -1,7 +1,7 @@
 ---
 title        : Wardley Mapping – a practical session on how to use value chain mapping
 type         : user-session
-track        : CISO
+track        : Graphs and Maps
 topics       : ["Wardley Maps"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

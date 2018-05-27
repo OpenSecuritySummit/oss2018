@@ -1,6 +1,6 @@
 ---
 title           : Prakash Sharma
-type            : participant
+type            : participant-remote
 job_title       : Security researcher
 company         : Photobox GS
 travel_from     : Nepal

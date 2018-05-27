@@ -10,7 +10,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
+venue           : 
 night_day       :
 night_where     :
 regonline       :

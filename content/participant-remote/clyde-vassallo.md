@@ -15,10 +15,10 @@ chapter_leader  :
 regonline       :
 status          : 
 sessions        :
-- Creating a Steady-State Hypothesis
-- Customising the Chaos Toolkit
-- Hands on Chaos Experiments
-- Real world Chaos Engineering
-- Integrating Security into an Spotify Model
-- Integrating Security Tools in the SDL
+    - Creating a Steady-State Hypothesis
+    - Customising the Chaos Toolkit
+    - Hands on Chaos Experiments
+    - Real world Chaos Engineering
+    - Integrating Security into an Spotify Model
+    - Integrating Security Tools in the SDL
 ---
