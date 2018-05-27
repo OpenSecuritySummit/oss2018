@@ -1,7 +1,7 @@
 ---
 title        : Wardley Mapping – a practical session on how to use value chain mapping
 type         : user-session
-track        : Graphs and Maps
+track        : Maps and Graphs
 topics       : ["Wardley Maps"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

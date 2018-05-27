@@ -1,5 +1,5 @@
 ---
-title       : Graphs and Maps
+title       : Maps and Graphs
 type        : track
 when_day    : Tue,Thu
 status      : featured

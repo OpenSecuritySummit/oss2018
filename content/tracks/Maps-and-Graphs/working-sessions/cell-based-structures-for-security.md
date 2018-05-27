@@ -1,14 +1,14 @@
 ---
 title        : Cell based Structures for Security
 type         : working-session
-track        : Graphs and Maps
+track        : Maps and Graphs
 topics       : ["Wardley Maps"]
 featured     : yes
 when_day     : Thu
 when_time    : AM-1
 room_layout  :
 room_number  :
-status       : draft                   # draft, review-content, done
+status       : done
 categories   : ["CISO"]
 organizers   : 
   - Tony Richards
