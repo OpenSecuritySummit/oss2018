@@ -1,4 +1,4 @@
- ---
+---
 title        : DevSecOps Maturity Model (DSOMM)
 type         : working-session
 track        : Maturity Models
