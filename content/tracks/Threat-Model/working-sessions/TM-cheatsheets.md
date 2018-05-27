@@ -1,7 +1,7 @@
 ---
 title        : Threat model cheat sheets
 type         : working-session
-technology   :
+topics       : ["Cheatsheets"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                    # review with summit team "yes"
 when_day     : Wed
