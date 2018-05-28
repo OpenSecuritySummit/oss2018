@@ -9,6 +9,7 @@ when_day     : Tue
 when_time    : AM-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
 description  : multiple working sessions on the new SAMMv2
 organizers   :

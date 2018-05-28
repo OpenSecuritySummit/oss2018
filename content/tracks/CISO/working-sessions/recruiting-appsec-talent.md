@@ -8,6 +8,7 @@ when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content      # draft, review-content, done
 organizers   :
   - Manish Saindane

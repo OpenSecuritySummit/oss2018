@@ -10,6 +10,7 @@ when_day     : Wed
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : What is the best way to become an DPO (Data Protection Officer)
 organizers   :

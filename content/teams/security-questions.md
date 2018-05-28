@@ -4,6 +4,7 @@ type            : team
 team_type       : Community team
 image           : /img/teams/Security-Q-n-A.jpg
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://pbx-group-security.com/
 email           :
@@ -55,7 +56,3 @@ members:
 
 notes :
 ---
-
-
-
-

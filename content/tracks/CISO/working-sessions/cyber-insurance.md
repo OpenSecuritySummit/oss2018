@@ -8,6 +8,7 @@ when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
 organizers   : ["Yvette Connor"]

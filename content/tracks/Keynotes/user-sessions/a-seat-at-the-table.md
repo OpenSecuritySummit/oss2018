@@ -9,6 +9,7 @@ when_day     : Mon
 when_time    : KN-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       :                   # draft, review-content, done
 organizers   : ["Adam Shostack"]
 description  : Keynote by Adam

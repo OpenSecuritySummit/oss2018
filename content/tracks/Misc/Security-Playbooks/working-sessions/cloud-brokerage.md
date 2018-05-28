@@ -10,6 +10,7 @@ when_day     : Wed
 when_time    : Eve-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Playbooks are workflows and prescriptive instructions on how to handle specific Security activities or incidents
 organizers   :

@@ -8,6 +8,7 @@ when_day     : Tue
 when_time    : Eve-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 organizers   : ["Yvette Connor"]
 participants :

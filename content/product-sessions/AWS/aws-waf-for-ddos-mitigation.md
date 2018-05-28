@@ -8,6 +8,7 @@ when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  :
 organizers   :

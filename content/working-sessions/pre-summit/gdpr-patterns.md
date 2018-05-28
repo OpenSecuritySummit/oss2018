@@ -7,6 +7,7 @@ when_day     :
 when_time    :
 room_layout  :                    #
 room_number  :
+session_slack: 
 status       : done              # draft, review-content, done
 description  : Reusable mappings of data journeys across specific threat modeling scenarios.
 organizers   : ["Dinis Cruz"]

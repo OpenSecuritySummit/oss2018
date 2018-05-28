@@ -10,6 +10,7 @@ when_day     : Tue
 when_time    : Ev1-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 organizers   :
      - Tanya Janca
@@ -30,4 +31,3 @@ Security review, config and testing in the in Visual Studio Team Server pipeline
 ## Outcomes
 
 Outcomes: More secure apps for everyone, everywhere!  :)  A free proof of concept that IT shops can adopt to start their DevOps processes, that includes security.  Lessons and documentation will follow.
-

@@ -9,6 +9,7 @@ when_day     : Mon
 when_time    : PM-1, PM-2, PM-3
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : done              # draft, review-content, done
 categories   : ["OWASP Project"]
 organizers   :
@@ -35,7 +36,7 @@ DevSecOps Studio project aims to reduce the time to bootstrap the environment an
     QA security using ZAP, BDD-Security and Gauntlt
     Static tools like bandit, brakeman, windbags, gitrob, gitsecrets
     Security Monitoring using ELK stack
-    
+
 ## Outcomes
 
 Add DevSecOps Integra into DevSecOps Studio

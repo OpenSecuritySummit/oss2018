@@ -10,6 +10,7 @@ when_day     : Mon
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
 description  : User session on how to use Owasp SAMM
 organizers   :

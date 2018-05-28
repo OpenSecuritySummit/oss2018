@@ -10,6 +10,7 @@ when_day     : Wed
 when_time    : PM-3
 room_layout  : circle                   #
 room_number  :
+session_slack:
 status       :  review-content     # draft, review-content, done
 organizers   : ["Timo Pagel", "Jannik Hollenbach"]
 
@@ -58,7 +59,7 @@ This working session will gather, discuss and design the following:
 
 | Juice Shop                                                                                                                             | CTF-Extension                                                                                                                                  |
 |:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-|  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
+| [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) | [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
 
 
 ### Synopsis and Takeaways

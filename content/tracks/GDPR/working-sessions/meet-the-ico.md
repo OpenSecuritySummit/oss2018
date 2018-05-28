@@ -9,6 +9,7 @@ when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft                   # draft, review-content, done
 description  : If you could meet the ICO, what questions would you ask
 organizers   :

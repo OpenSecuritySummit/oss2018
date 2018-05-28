@@ -12,6 +12,7 @@ when_day     : Tue
 when_time    : Eve-1
 room_layout  :
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Share knowledge on incident handling with DarkTrace
 organizers   :
@@ -28,8 +29,3 @@ Share knowledge on incident handling with DarkTrace
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-
-

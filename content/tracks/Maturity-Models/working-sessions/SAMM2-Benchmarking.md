@@ -9,6 +9,7 @@ when_day     : Wed
 when_time    : PM-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
 description  : Define objectives for the SAMM benchmarking project as part of SAMMv2
 organizers   :

@@ -8,6 +8,7 @@ when_day     : Thu
 when_time    : PM-2, PM-3
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Testing Guide"]
 organizers   :

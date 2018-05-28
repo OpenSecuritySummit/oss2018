@@ -9,6 +9,7 @@ when_day     : Mon
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
 description  : Kickoff session for the summit
 organizers   :

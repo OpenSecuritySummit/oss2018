@@ -10,6 +10,7 @@ when_day     : Mon, Tue, Wed, Thu, Fri
 when_time    : AM-1, PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : done              # draft, review-content, done
 organizers   : ["Sven Schleier", "Davide Cioccia"]
 description  : Mobile Security Working Session
@@ -65,7 +66,7 @@ To be up and running during the summit the follpwoing software must be installed
 - [Genymotion] (https://www.genymotion.com/fun-zone/)
 
 A complete guide on how to setup the working environment and the Docker image can be found [here] (https://github.com/david3107/oss2018-tools)
- 
+
 
 ## References
 

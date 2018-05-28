@@ -12,6 +12,7 @@ when_day     : Wed
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack   :
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to write custom rules for the Checkmarx SAST engine
 organizers   :
@@ -28,7 +29,3 @@ Hands on session on how to write custom rules for the Checkmarx SAST engine
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-

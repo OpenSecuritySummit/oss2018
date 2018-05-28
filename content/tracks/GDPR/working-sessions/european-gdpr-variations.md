@@ -10,6 +10,7 @@ when_day     : Mon
 when_time    : PM-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       :                    # draft, review-content, done
 description  : Mapping out the multiple differences across the EU
 organizers   :
@@ -25,10 +26,10 @@ Complex structural changes mean a complete overhaul to anything remotely related
 
 ## What
 
-Personal data  
+Personal data
 All data from Austria and Switzerland should be handled according to GDPR standards.
-Austrian continues a national tradition of extending data protection rights to legal persons (such as corporations and nonprofit foundations) in addition to individuals.  
-Switzerland’s data protection law currently being revised to align with the GDPR, also applies to legal as well as natural persons.  
+Austrian continues a national tradition of extending data protection rights to legal persons (such as corporations and nonprofit foundations) in addition to individuals.
+Switzerland’s data protection law currently being revised to align with the GDPR, also applies to legal as well as natural persons.
 
 
 Children’s provisions will vary by country

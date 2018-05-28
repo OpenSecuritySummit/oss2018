@@ -4,6 +4,7 @@ type            : team
 team_type       : Sponsor
 image           : /img/sponsors/toreon.png
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.toreon.com/
 email           :
@@ -22,5 +23,3 @@ members:
 
 notes :
 ---
-
-

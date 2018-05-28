@@ -10,6 +10,7 @@ when_day     : Wed
 when_time    : PM-2, PM-3
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content             # draft, review-content, done
 organizers   :
 participants : Francois Raynaud

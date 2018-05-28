@@ -12,6 +12,7 @@ when_day     : Wed
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform
 organizers   :
@@ -28,7 +29,3 @@ Try the Avatao learning platform
 ## Outcomes
 
 Join Owasp
-
-
-
-
