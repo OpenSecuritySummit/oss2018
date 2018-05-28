@@ -5,6 +5,7 @@ when_day     : Wed
 when_time    : PM-1
 room_layout  :                     #
 room_number  :
+session_slack: 
 status       : done
 description  :
 organizers   :

@@ -3,12 +3,13 @@ title        : Convert the templates from GE-Health to risk patterns
 type         : working-session
 track        : Threat Model
 technology   :
-categories   :                      
+categories   :
 featured     : # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-3
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft             # draft, review-content, done
 organizers   :
     - Stephen de Vries
@@ -30,7 +31,7 @@ By converting them to an editable risk pattern format they:
 ## What
 
 Review the differences between what is provided in the MS templates and the format for Risk Patterns defined on Tuesday.
-Go through the GE-Health templates and provide the additional information required.  The templates already contain components, applicability criteria and threats, and sometimes recommended countermeasures.  
+Go through the GE-Health templates and provide the additional information required.  The templates already contain components, applicability criteria and threats, and sometimes recommended countermeasures.
 The recommended countermeasures are likely to be the biggest gap.
 (Note to organizer, please schedule as last session of day so that GE-Health team from Seattle can attend remotely)
 

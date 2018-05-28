@@ -7,6 +7,7 @@ when_day     : Mon
 when_time    : AM-1
 room_layout  :
 room_number  :
+session_slack:
 status       : ok
 organizers   :
 description  :
@@ -17,5 +18,3 @@ participants :
 invited :
     - Dinis Cruz
 ---
-
-

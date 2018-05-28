@@ -7,6 +7,7 @@ when_day     : Fri
 when_time    : PM-1,PM-2
 room_layout  :
 room_number  :
+session_slack:
 status       : ok
 organizers   :
 description  :
@@ -15,5 +16,3 @@ organizers   :
     - John Fitzgerald
     - Rachel Power
 ---
-
-

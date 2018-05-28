@@ -8,11 +8,12 @@ when_day     : Thu
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  :
 organizers   :
     - Vinal Shah
-participants :                    
+participants :
 ---
 
 Create questions and answers around security economics and EBITDA
