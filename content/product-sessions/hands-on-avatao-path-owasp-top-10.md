@@ -23,11 +23,13 @@ participants :
 
 ## What
 
-Try the Avatao learning platform
+The session runs on the [avatao](https://avatao.com) platform, an online tool that offers more than 550 hands-on IT security challenges developed by experts. Participants will experience how easy is to take advantage of poorly written code as an attacker and learn what you should pay attention as developer (spoiler: input validation). Test your Injection and XSS skills, bypass broken authentication, exploit broken access control and more. We strongly recommend this session if you:
+ * want your code to be more secure
+ * are looking for a fun way to learn IT security
 
 ## Outcomes
 
-Join Owasp
+The goal of the session is to raise awareness about the most common and most important web application security weaknesses by finding vulnerabilities and learning how to avoid/fix them.
 
 
 
