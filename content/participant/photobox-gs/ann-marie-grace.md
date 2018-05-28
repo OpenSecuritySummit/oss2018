@@ -1,5 +1,5 @@
 ---
-title           : Anne-Marie Grace
+title           : Ann-Marie Grace
 type            : participant
 role            :
 job_title       :
