@@ -11,7 +11,7 @@ twitter         :
 facebook        :
 website         : https://pbx-group-security.com/
 venue           : Mon, Tue,
-night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue
+night_day       : Fri-before, Sat-before, Sun-before, Mon
 night_where     : villa-1
 night_room      : 2
 pre_summit      : Fri, Sat, Sun
