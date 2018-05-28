@@ -1,11 +1,11 @@
 ---
-title           : Capital One 4
+title           : Simon Cole
 type            : participant
 job_title       :
 company         : Capital One
 travel_from     :
-image           :
-linkedin        :
+image           : https://media.licdn.com/dms/image/C5603AQFz7zuzQrl6kw/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=9H_ZPwDF6ZOYo0Vrh6njnoHLe9VGzGrhN4KARFawwII
+linkedin        : simoncole1904
 twitter         :
 facebook        :
 website         :

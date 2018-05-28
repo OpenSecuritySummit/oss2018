@@ -11,7 +11,7 @@ facebook        :
 website         : https://0x10.co
 email           : fraser@0x10.co
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
+night_day       :
 night_where     : villa-5
 regonline       :
 pre_summit      :

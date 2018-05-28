@@ -10,7 +10,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : 
+venue           : TBD
 night_day       :
 night_where     :
 regonline       :
