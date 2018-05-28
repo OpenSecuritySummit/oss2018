@@ -28,4 +28,5 @@ members:
     - Tanya Janca
     - Thordis
     - Sara Davis
+    - Barbara Schachner
 ---
