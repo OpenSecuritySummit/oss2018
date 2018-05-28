@@ -1526,11 +1526,10 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .oss-card {
   background:#fff;
   border:#cfd8dc 2px solid;
-  margin-bottom:30px;
+  margin-bottom:20px;
   display: flex;
   flex-direction: column;
   min-width: 100%;
-  margin-bottom: 5%;
 }
 .oss-card:hover {
   border:#00549e 2px solid;
