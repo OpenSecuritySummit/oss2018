@@ -10,7 +10,7 @@ when_day     : Mon
 when_time    : PM-2,PM-3
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAVD5BNRY
 status       : done
 organizers   : ["Fraser Scott"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)

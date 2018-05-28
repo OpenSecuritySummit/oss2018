@@ -10,7 +10,7 @@ when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAV6AK0J0
 status       : draft              # draft, review-content, done
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 organizers   :

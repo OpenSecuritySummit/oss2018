@@ -8,7 +8,7 @@ when_day     : Thu
 when_time    : PM-1
 room_layout  :                   #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAVD79HPC
 status       : review-content              # draft, review-content, done
 categories   : ["OWASP Projects"]
 organizers   : ["Ade Yose man"]

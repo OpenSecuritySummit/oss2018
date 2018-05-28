@@ -8,7 +8,7 @@ when_day     : Tue
 when_time    : PM-2
 room_layout  :
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAV9M3919
 status       : ok
 organizers   :
 description  :

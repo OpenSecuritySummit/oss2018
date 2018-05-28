@@ -10,7 +10,7 @@ when_time    : PM-3
 locked       : true
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAUN7NXFS
 status       : draft              # draft, review-content, done                    #
 description  : An exploration and working session to characterise, explore and implement real-world DevSecOps chaos experiments.
 organizers   :
