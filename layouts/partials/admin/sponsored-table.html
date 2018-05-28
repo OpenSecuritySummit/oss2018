@@ -1,0 +1,25 @@
+
+<h3>{{ .sponsor}} </h3>
+
+{{ $pages := .self.Scratch.Get .sponsor }}
+
+<table class="tbale_section">
+    <thead>
+        <tr>
+            <th>Sponsor</th>
+            <th>Name</th>
+            <th>Days at Venue</th>
+            <th>Nights required</th>
+        </tr>
+    </thead>
+    {{ range  $pages               }}
+    {{  if  .Params.sponsored_by }}
+    <tr>
+        <td>{{ .Params.sponsored_by}}</td>
+        <td>{{ .Params.title}}</td>
+        <td>{{ .Params.venue}}</td>
+        <td>{{ .Params.night_day}}</td>
+    </tr>
+    {{  end }}
+    {{ end }}
+</table>

@@ -7,8 +7,8 @@ image           : https://media.licdn.com/dms/image/C4E03AQGLs9vHz3yDfw/profile-
 linkedin        : sarah-cruz-762886a5/
 twitter         :
 website         :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Fri-before, Sat-before, Sun-before, Mon
+venue           : Mon, Tue
+night_day       : Sat-before, Mon
 night_where     : villa-2
 night_room      : 1
 status          : done
