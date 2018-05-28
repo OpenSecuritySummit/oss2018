@@ -1527,6 +1527,10 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   background:#fff;
   border:#cfd8dc 2px solid;
   margin-bottom:30px;
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+  margin-bottom: 5%;
 }
 .oss-card:hover {
   border:#00549e 2px solid;
@@ -1547,14 +1551,15 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .oss-card-title h3{ margin:0; color:#546e7a;}
 
 .oss-card-body {
+  display: flex;
+  flex-direction: column;
   padding:25px 35px 30px;
 }
 
-.oss-card-body {
-  min-height:230px;
-  height: 80%;
+.oss-card .featured {
+  flex-grow: 1;
+  justify-content: space-between;
 }
-
 .oss-card-body ul{ margin:0px; padding:0;}
 
 .oss-card-body ul li {
@@ -1562,7 +1567,11 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 
 .oss-card-bottom {
+  display: flex;
+  flex-grow: 1;
+  margin-top: auto;
   text-align: center;
+  padding:25px 35px 30px;
 }
 
 .oss-card-lead {
@@ -1572,6 +1581,7 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 .oss-card-button {
   display: flex;
+  margin-top: auto;
   justify-content: center; /* align horizontal */
   align-items: center; /* align vertical */; border-radius:0; width:100%; text-align:center; height:60px; font-size:22px; color:#fff; text-transform:uppercase;
   font-family: 'Oswald', sans-serif; font-weight:500;
