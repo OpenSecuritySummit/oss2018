@@ -11,9 +11,10 @@ when_time    :  AM-1
 room_layout  :                    #
 room_number  :
 status       : review-content              # draft, review-content, done
+outcomes_2017: https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.html
 organizers   :
 description  : How to secure Github Integrations
-participants : Sophie Tonnoir
+participants :
 ---
 
 ## Why

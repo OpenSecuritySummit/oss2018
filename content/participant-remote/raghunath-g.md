@@ -9,12 +9,11 @@ twitter         : raghunath24
 facebook        : 
 website         : 
 email           : raghunath24@protonmail.com
-
-
 sessions:
     - Security Champions
     - DevSecOps
     - CI Pipeline
+    - OWASP DevSecOps Studio
 
 ---
 

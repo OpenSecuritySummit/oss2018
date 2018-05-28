@@ -2,6 +2,7 @@
 title        : IoT Threat Modeling Cheat Sheet
 type         : working-session
 track        : Threat Model
+topics       : ["Cheatsheets"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

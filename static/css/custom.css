@@ -1229,7 +1229,7 @@ div.google-map {
 .owasp_submmit{ margin:20px 0px;} .mid_left_menu .nav-tabs > li > a{ text-align:center;}
 .tbale_section thead tr th, .tbale_section tbody tr td{ padding:6px 5px;}
 .tbale_section thead tr th, .metadata tr td:first-child{ font-size:13px;} .tbale_section tbody tr td, .metadata tr td{ font-size:12px;}
-.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:312px; text-align:center;}
+.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:25px; padding:20px 20px; width:100%; max-width:100%; text-align:center;}
 
 }
 
@@ -1306,7 +1306,7 @@ font-family: 'Oswald', sans-serif; font-weight:500;} .btn_1:hover, .btn_1:focus{
 .owasp_submmit{ margin:20px 0px;} .mid_left_menu .nav-tabs > li > a{ text-align:center;}
 .tbale_section thead tr th, .tbale_section tbody tr td{ padding:6px 5px;}
 .tbale_section thead tr th, .metadata tr td:first-child{ font-size:13px;} .tbale_section tbody tr td, .metadata tr td{ font-size:12px;}
-.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:312px; text-align:center;}
+.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:100%; text-align:center;}
 
 /*=========================================08=05=2018==============================================*/
 .inner_main_title2 .center_heading h1{ font-size:30px;}
@@ -1415,7 +1415,7 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .owasp_submmit{ margin:20px 0px;} .mid_left_menu .nav-tabs > li > a{ text-align:center;}
 .tbale_section thead tr th, .tbale_section tbody tr td{ padding:6px 5px;}
 .tbale_section thead tr th, .metadata tr td:first-child{ font-size:13px;} .tbale_section tbody tr td, .metadata tr td{ font-size:12px;}
-.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:30px; padding:20px 20px; width:100%; max-width:100%; text-align:center;}
+.about_sec .row{ display:block; text-align:center; } .center_heading h1{ min-width:inherit; font-size:25px; padding:20px 20px; width:100%; max-width:100%; text-align:center;}
 
 /*=========================================08=05=2018==============================================*/
 .inner_main_title2 .center_heading h1{ font-size:30px;}
@@ -1526,7 +1526,10 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .oss-card {
   background:#fff;
   border:#cfd8dc 2px solid;
-  margin-bottom:30px;
+  margin-bottom:20px;
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
 }
 .oss-card:hover {
   border:#00549e 2px solid;
@@ -1547,14 +1550,15 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .oss-card-title h3{ margin:0; color:#546e7a;}
 
 .oss-card-body {
+  display: flex;
+  flex-direction: column;
   padding:25px 35px 30px;
 }
 
-.oss-card-body {
-  min-height:230px;
-  height: 80%;
+.oss-card .featured {
+  flex-grow: 1;
+  justify-content: space-between;
 }
-
 .oss-card-body ul{ margin:0px; padding:0;}
 
 .oss-card-body ul li {
@@ -1562,7 +1566,11 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 
 .oss-card-bottom {
+  display: flex;
+  flex-grow: 1;
+  margin-top: auto;
   text-align: center;
+  padding:25px 35px 30px;
 }
 
 .oss-card-lead {
@@ -1572,6 +1580,7 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 .oss-card-button {
   display: flex;
+  margin-top: auto;
   justify-content: center; /* align horizontal */
   align-items: center; /* align vertical */; border-radius:0; width:100%; text-align:center; height:60px; font-size:22px; color:#fff; text-transform:uppercase;
   font-family: 'Oswald', sans-serif; font-weight:500;

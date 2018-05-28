@@ -10,9 +10,8 @@ email           :
 status          :
 sessions:
     - Application Security Verification Standard
-    - Create Owasp Top 10 Quiz
-    - Create Owasp AWS Security Quiz
-    - Create Owasp Top 10 Quiz
+    - Create Owasp Top 10 Questions
+    - Create Owasp AWS Security Questions
     - Hands on Avatao path on Owasp Top 10
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
     - OwaspSAMM - Best Practices
@@ -23,7 +22,7 @@ sessions:
     - Owasp Testing Guide v5
     - OWASP Defect Dojo
     - Owasp Top 10 2017 - usage
-    - Transform OWASP Exam into Quiz
+    - Transform OWASP Exam into Questions
     - Reboot Owasp Books Project
     - Zap - How to use it
 members:

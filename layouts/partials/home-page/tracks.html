@@ -1,30 +1,3 @@
-<style>
-    .tracks-home-page .panel {
-        border: 5px solid;
-        border-radius: 10px;
-        color: #87bb40;
-    }
-    .tracks-home-page .panel-title {
-        font-size: 180%;
-    }
-    .tracks-home-page .lead {
-        color: #555555
-    }
-    .tracks-home-page .btn {
-        border-radius: 10px;
-        padding:5px 10px 5px 10px;
-        text-align: right;
-        background-color: #00549e;
-        border-color: #00549e;
-    }
-    .tracks-home-page .lead {
-        padding: 10px;
-        margin: 0px;
-        font-size: 100%;
-    }
-</style>
-
-
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -36,9 +9,11 @@
                     {{ $tracks := where .Site.Pages ".Params.type" "track" }}
                     {{ range $index, $element := $tracks }}
                     <div class="oss-card">
-                      <div class="oss-card-title">
-                        <h3>{{ truncate 45 .Title }}</h3>
-                      </div>
+                      <a href="{{ .Permalink }}">
+                        <div class="oss-card-title">
+                          <h3>{{ truncate 45 .Title }}</h3>
+                        </div>
+                      </a>
                       <div class="oss-card-body">
                         <p class="lead oss-card-lead">{{ .Params.description }}</p>
                         <div class="card-clues">
@@ -47,16 +22,17 @@
                           </ul>
                         </div>
                         <div class="featured">
-                        <ul class="featured">
-                        {{ range where (where .Site.Pages ".Params.track" .Title) ".Params.featured" "eq" true }}
-                          <li class="featured"><a href="{{.Permalink}}"> {{.Params.title}}</a></li>
-                        {{ end }}
-                        </ul>
-                      </div>
+                          <ul class="featured">
+                          {{ range where (where .Site.Pages ".Params.track" .Title) ".Params.featured" "eq" true }}
+                            <li class="featured"><a href="{{.Permalink}}"> {{.Params.title}}</a></li>
+                          {{ end }}
+                          </ul>
+                        </div>
                       </div>
                       <div class="oss-card-bottom">
-                            <a class="oss-card-button" role="button" href="{{ .Permalink }}">See all sessions</a>
-                        </div>
+                        <a class="oss-card-button btn" role="button" href="{{ .Permalink }}">See all sessions</a>
+                      </div>
+
                     </div>
                     {{ end }}
                 </div>

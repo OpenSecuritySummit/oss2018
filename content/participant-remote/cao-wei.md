@@ -19,6 +19,7 @@ sessions        :
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
     - DevSecOps Maturity Model (DSOMM)
     - Integrating Security Tools in the SDL
+    - OWASP DevSecOps Studio
 notes           :
 ---
 

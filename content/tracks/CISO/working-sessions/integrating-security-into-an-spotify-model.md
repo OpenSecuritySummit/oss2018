@@ -3,7 +3,7 @@ title        : Integrating Security into an Spotify Model
 type         : working-session
 track        : CISO
 topics       : ["Agile"]
-featured     :                    # review with summit team "yes"
+featured     : yes                  # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
@@ -13,7 +13,6 @@ description  : Best practice cheat sheet for integrating Agile Security into the
 organizers   :
     - Tony Richards
 participants :
-    - Sophie Tonnoir
 ---
 
 ## Why

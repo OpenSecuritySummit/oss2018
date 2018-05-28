@@ -19,7 +19,7 @@ sessions        :
     - AWS GuardDuty
     - AWS Lambda Security
     - AWS Macie
-    - Create AWS Security Quiz
+    - Create AWS Security Questions
     - Using AWS Neptune GraphDB
     - Securing AWS S3 Buckets
     - Replacing Akamai with AWS Shield

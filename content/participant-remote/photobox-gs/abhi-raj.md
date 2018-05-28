@@ -21,7 +21,7 @@ sessions:
     - Application Security Verification Standard
     - Attack chains as TM technique
     - Cloud brokerage - authentication and authorisation
-    - Create AWS Security Quiz
+    - Create AWS Security Questions
     - Creating a standard for GDPR patterns
     - Cyber Risk Modeling
     - DevSecOps Maturity Model (DSOMM)

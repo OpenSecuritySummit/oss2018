@@ -4,7 +4,7 @@ type         : working-session
 track        : GDPR
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes                   # review with summit team "yes"
+featured     : no                   # review with summit team "yes"
 when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #

@@ -29,7 +29,7 @@ sessions        :
  - Creating a standard for GDPR patterns
  - PBX-GS Offsite session 1
  - PBX-GS Offsite session 2
- - Creating Security Quizzes
+ - Creating Security Questions
  - Cloud brokerage - authentication and authorisation
 ---
 

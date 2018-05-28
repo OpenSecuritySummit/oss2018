@@ -12,6 +12,7 @@
                 {{ $page.Params.type }}
             </td>
             <td>{{ if ne $page.Params.type "track" }}{{ $page.Params.when_day }}{{ end }}</td>
+            <td>{{ if ne $page.Params.type "track" }}{{ $page.Params.when_time }}{{ end }}</td>
             <td>
                 <span class="label label-success">participant</span>
             </td>
