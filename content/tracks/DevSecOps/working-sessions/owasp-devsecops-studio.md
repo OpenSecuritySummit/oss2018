@@ -13,7 +13,11 @@ status       : done              # draft, review-content, done
 categories   : ["OWASP Project"]
 organizers   :
   - Imran Mohammed A
-participants : Francois Raynaud, Dominik de Smit, Manuel Jeckelmann, Mustaqiim Muhar, Cao Wei, Omer Levi Hevroni, Onkar Dhane, Raghunath G
+participants :
+    - Francois Raynaud
+    - Dominik de Smit
+    - Manuel Jeckelmann
+    - Onkar Dhane
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 

@@ -2,6 +2,7 @@
 title        : SOC Value Chain using Wardley maps
 type         : user-session       # working-session, user-session, product-session
 track        : Maps and Graphs
+topics       : ["Wardley Maps"]
 technology   :
 topics       :                    # for example ["GDPR"]
 featured     : yes                # review with summit team "yes"

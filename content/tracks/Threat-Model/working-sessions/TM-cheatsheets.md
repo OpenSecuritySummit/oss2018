@@ -8,7 +8,7 @@ when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
-status       : draft              # draft, review-content, done
+status       : review-content             # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 track        : Threat Model
