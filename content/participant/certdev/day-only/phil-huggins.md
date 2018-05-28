@@ -1,7 +1,7 @@
 ---
 title           : Phil Huggins
 type            : participant
-funded_by       : CertDev
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :
@@ -11,7 +11,7 @@ twitter         :
 facebook        :
 website         : http://blog.blackswansecurity.com/
 email           :
-venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
+venue           : TBC                  # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
 regonline       :
 pre-summit      :
 status          : add details

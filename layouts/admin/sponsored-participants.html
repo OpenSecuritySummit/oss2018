@@ -9,7 +9,7 @@
 
     {{ range  $participants     }}
         {{  if  .Params.sponsored_by }}
-            {{ $.Scratch.Add .Params.sponsored_by (slice .)}}
+            {{ $.Scratch.Add .Params.sponsored_by (slice .)}} 
         {{end }}
     {{ end }}
 

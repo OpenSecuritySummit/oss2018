@@ -12,8 +12,8 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon
+night_day       :
 regonline       :
 pre-summit      :
 status          : add details

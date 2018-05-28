@@ -1,6 +1,7 @@
 ---
 title           : Vasil Buraliev
 type            : participant
+sponsored_by    : CertDev
 job_title       : IT Project Management and SW Development Consultant
 company         :
 travel_from     : Skopje, Macedonia
@@ -17,7 +18,6 @@ night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-1
 night_room      : 4
 regonline       :
-pre-summit      : Sat, Sun
 status          : add details
 sessions        :
     - JIRA Risk Workflow

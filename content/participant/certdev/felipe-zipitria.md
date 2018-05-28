@@ -2,7 +2,7 @@
 title           : Felipe Zipitria
 type            : participant
 job_title       : DevOps/AppSec
-funded_by       : CertDev
+sponsored_by    : CertDev
 travel_from     : Uruguay
 image           : https://avatars1.githubusercontent.com/u/3012076?s=460&v=4
 linkedin        : felipezipitria

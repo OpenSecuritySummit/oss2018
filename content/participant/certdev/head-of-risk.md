@@ -1,6 +1,7 @@
 ---
 title           : Head of Risk
 type            : participant
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel-from     :
