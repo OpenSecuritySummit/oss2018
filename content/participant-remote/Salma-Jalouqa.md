@@ -5,7 +5,7 @@ job_title       : Software Tester
 company         : EtQ
 travel_from     : 
 image           : 
-linkedin        : salmajalouqa
+linkedin        : salma-jalouqa-39635654
 twitter         : 
 facebook        : 
 website         : 
