@@ -1,6 +1,7 @@
 ---
 title           : Mario Platt
 type            : participant
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :

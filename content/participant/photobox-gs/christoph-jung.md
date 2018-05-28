@@ -1,7 +1,9 @@
 ---
 title           : Christoph Jung
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
+sponsored_by    : PhotoBox
 company         : Photobox GS
 travel_from     :
 image           :
@@ -10,8 +12,8 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
+venue           : Wed, Thu
+night_day       : Tue, Wed
 night_where     : villa-6
 regonline       :
 pre-summit      :

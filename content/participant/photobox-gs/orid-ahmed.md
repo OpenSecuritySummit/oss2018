@@ -1,6 +1,7 @@
 ---
 title           : Orid Ahmed
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Jr SOC Detect
 company         : Photobox GS
 travel_from     :

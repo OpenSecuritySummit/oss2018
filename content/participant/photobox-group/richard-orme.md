@@ -1,6 +1,7 @@
 ---
 title           : Richard Orme
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : CTO
 company         : Photobox Group
 travel_from     :

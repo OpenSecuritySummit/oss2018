@@ -1,6 +1,7 @@
 ---
 title           : Dan Gapco
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Incident Response Analyst
 company         : Photobox GS
 travel_from     :

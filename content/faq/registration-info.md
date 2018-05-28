@@ -35,3 +35,5 @@ There are two types of participants - Onsite and Remote
    Please make a copy of the [participant template]({{< ref "/participant/_template.md" >}}) and save it in the same folder (https://github.com/OpenSecuritySummit/oss2018/tree/master/content/participant).
 
 If you are going to contribute to a working session it makes sense to fork the repo and push your changes (https://github.com/OpenSecuritySummit/oss2018).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBA6LeZQsuo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="border:1px solid #999;"></iframe>

@@ -1,6 +1,7 @@
 ---
 title           : Chris Allen
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 company         : Photobox GS
 travel_from     :
@@ -10,8 +11,8 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
+venue           : Mon, Tue, Thu, Fri
+night_day       : Mon, Thu
 night_where     : villa-6
 regonline       :
 pre-summit      :

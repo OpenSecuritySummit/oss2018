@@ -1,7 +1,14 @@
 {{ $page := (where .this.Site.Pages ".Params.title" .title) }}
 {{ if $page }}
     {{ $user := (index $page 0) }}
-    <a href="{{$user.Permalink }}">{{$user.Params.title}}</a>
+
+    <div class="hidden-print">
+        <a href="{{$user.Permalink }}">{{$user.Params.title}}</a>
+    </div>
+    <div class="visible-print">
+        <b>{{$user.Params.title}}</b>
+    </div>
+
 {{ else}}
      <span class="text-danger">
          <small><small><span class="glyphicon glyphicon-exclamation-sign"></span> </small></small>  </span>{{ .title }}

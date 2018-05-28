@@ -2,7 +2,7 @@
 title           : James McGinnigle
 type            : participant
 job_title       : Head Of Information Security
-funded_by       : CertDev
+sponsored_by    : CertDev
 company         : Marshall Wace
 travel_from     :
 image           : https://media.licdn.com/dms/image/C4D03AQGJVv9MQmS2ig/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=PuViqy49IGqZXcrvXCf65feb2Pb-6WgjE7OWrnWoDqw
@@ -11,7 +11,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
+venue           : TBC                  # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
 regonline       :
 pre-summit      :
 status          : add details

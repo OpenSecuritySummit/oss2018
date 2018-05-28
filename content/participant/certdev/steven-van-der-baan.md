@@ -1,7 +1,7 @@
 ---
 title           : Steven van der Baan
 type            : participant
-funded_by       : CertDev
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :
@@ -11,8 +11,8 @@ twitter         : vdbaan
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : TBC
+night_day       : TBC
 regonline       :
 pre-summit      :
 status          : add details

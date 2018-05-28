@@ -1,6 +1,7 @@
 ---
 title           : Toby Shelswell
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 company         : Photobox GS
 travel_from     :

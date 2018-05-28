@@ -1,6 +1,7 @@
 ---
 title           : Sara Davis
 type            : participant
+sponsored_by    : JE Marketing
 role            : 
 job_title       : IT Engineer
 company         : Centerprise International
@@ -13,6 +14,8 @@ website         :
 email           :
 project_leader  :
 chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
 ticket          : 5x24h
 regonline       : No
 pre_summit      : 
