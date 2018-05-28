@@ -1,9 +1,9 @@
 ---
-title           : James Martin
+title           : Talal Albacha
 type            : participant
-sponsored_by    : PhotoBox
 job_title       :
-company         : Moonpig
+sponsored_by    : CertDev
+company         :
 travel_from     :
 image           :
 linkedin        :
@@ -11,7 +11,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Wed
+venue           : Fri
 regonline       :
 pre-summit      :
 status          : add details

@@ -1,6 +1,7 @@
 ---
 title           : Christoph Jung
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 sponsored_by    : PhotoBox
 company         : Photobox GS

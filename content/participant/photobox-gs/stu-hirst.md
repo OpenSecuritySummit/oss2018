@@ -1,6 +1,7 @@
 ---
 title           : Stu Hirst
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Head Of Security Engineering
 company         : Photobox
 travel_from     :

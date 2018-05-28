@@ -2,11 +2,7 @@
 title           : Dinis Cruz
 type            : participant
 job_title       : CISO
-skills          :
-    - CISO
-    - .Net
-    - GDPR
-    - SAST
+sponsored_by    : PhotoBox
 company         : PhotoBox Group
 image           : https://pbs.twimg.com/profile_images/552850030105591808/x3i7zK5r_400x400.jpeg
 email           : dinis.cruz@owasp.org

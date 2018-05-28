@@ -1,6 +1,7 @@
 ---
 title           : Jemma Davis-Smith
 type            : participant
+sponsored_by    : PhotoBox
 role            : Summit Event Manager
 job_title       : Summit Event Manager
 company         : Photobox Group

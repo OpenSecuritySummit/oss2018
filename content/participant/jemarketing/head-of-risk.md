@@ -1,7 +1,7 @@
 ---
 title           : Head of Risk
 type            : participant
-sponsored_by    : CertDev
+sponsored_by    : JE Marketing
 job_title       :
 company         :
 travel-from     :

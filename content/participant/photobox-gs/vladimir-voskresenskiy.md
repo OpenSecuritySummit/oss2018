@@ -1,6 +1,7 @@
 ---
 title           : Vladimir Voskresenskiy
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Cyber Security Analyst
 company         : Photobox GS
 travel_from     : London

@@ -1,6 +1,7 @@
 ---
 title           : Robert Grace
 type            : participant
+sponsored_by    : PhotoBox
 role            : Summit Content Manager
 job_title       : Summit Content Manager
 travel_from     : Germany

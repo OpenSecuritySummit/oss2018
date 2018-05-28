@@ -1,6 +1,7 @@
 ---
 title           : Ann-Marie Grace
 type            : participant
+sponsored_by    : PhotoBox
 role            :
 job_title       :
 company         : Photobox Group

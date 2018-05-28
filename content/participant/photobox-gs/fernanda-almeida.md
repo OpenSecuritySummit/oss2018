@@ -1,6 +1,7 @@
 ---
 title           : Fernanda Almeida
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Project Manager
 company         : Photobox GS
 travel_from     : Portugal
