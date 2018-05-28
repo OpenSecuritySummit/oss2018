@@ -28,4 +28,5 @@ members:
     - Tash Norris
     - Tanya Janca
     - Thordis
+    - Sara Davis
 ---
