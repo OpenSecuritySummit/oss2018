@@ -1,6 +1,7 @@
 ---
 title        : Security Questions
 type         : track
+session_slack: https://os-summit.slack.com/messages/CAVARU8BD
 status       : done
 when_day     : Mon,Tue,Wed,Thu,Fri
 description  : Track focused on creating Security Questions and Answers (with daily quizzes planned for the evening sessions)
@@ -14,5 +15,3 @@ organizers   :
 
 
 Track focused on creating Security Questions and Answers
-
-
