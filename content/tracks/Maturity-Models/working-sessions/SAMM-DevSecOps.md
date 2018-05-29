@@ -9,6 +9,7 @@ when_day     : Mon
 when_time    : Eve-1
 room_layout  :                    #
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAWERMEEB
 status       : review-content              # draft, review-content, done
 description  : Create a totally new SAMM DevSecOps version
 organizers   :

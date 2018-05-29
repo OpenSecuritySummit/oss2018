@@ -9,6 +9,7 @@ when_day     : Thu                  # NOTE: should be on the brainstorming day, 
 when_time    : AM-1, PM-1, PM-2, PM-3
 room_layout  : circle                   #
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAW9X85PY
 status       :  draft    # draft, review-content, done
 organizers   :
     - Timo Pagel
@@ -92,11 +93,11 @@ All that in your own speed and schedule!
 
 | Juice Shop                                                                                                                                                                   | CTF-Extension                                                                                                                                                                   |
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|  [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               |  [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
-|  [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) |  [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
-|  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)                                       |  [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf)                                  |
-|  [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop)                 |  [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop-ctf)            |
-| [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop-staging)](https://juice-shop-staging.herokuapp.com)                                                            |                                                                                                                                                                                  |
+| [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               | [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
+| [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
+| [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)                                       | [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf)                                  |
+| [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop)                 | [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop-ctf)            |
+| [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop-staging)](https://juice-shop-staging.herokuapp.com)                                                            |                                                                                                                                                                                 |
 
 ### Content
 

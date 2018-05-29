@@ -10,6 +10,7 @@ when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : done              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants :

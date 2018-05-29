@@ -3,12 +3,13 @@ title        : Define an Open Risk Pattern format
 type         : working-session
 track        : Threat Model
 technology   :
-categories   :                      
+categories   :
 featured     : # review with summit team "yes"
 when_day     : Tues
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
+session_slack: 
 status       : draft             # draft, review-content, done
 organizers   :
     - Stephen de Vries
@@ -44,4 +45,3 @@ In order for risk patterns to be useful as a means for collaborating on describi
 - A name for this format
 - The defined format itself
 - An example
-

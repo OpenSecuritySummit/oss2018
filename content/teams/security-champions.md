@@ -5,6 +5,7 @@ team_type       : Community team
 #image           :
 linkedin        :
 twitter         :
+session_slack   :
 website         :
 email           :
 status          :
@@ -19,6 +20,3 @@ members:
 
 notes :
 ---
-
-
-

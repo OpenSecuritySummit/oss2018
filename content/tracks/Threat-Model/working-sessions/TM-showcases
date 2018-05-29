@@ -3,15 +3,16 @@ title        : Methodology / technique showcase
 type         : working-session
 track        : Threat Model
 technology   :
-categories   :                      
-featured     :                    
-when_day     : 
-when_time    : 
-room_layout  :                    
+categories   :
+featured     :
+when_day     :
+when_time    :
+room_layout  :
 room_number  :
+session_slack: 
 status       : draft
 organizers   :
-participants : 
+participants :
 description  : Methodology / technique showcase
 ---
 

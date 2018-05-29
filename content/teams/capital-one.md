@@ -4,6 +4,7 @@ type            : team
 team_type       : Company
 image           : https://www.capitalone.com/assets/enterprise/img/logo/capitalone-logo-2x-main.png
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.capitalone.com/
 email           :
@@ -16,6 +17,3 @@ members:
     - Capital One 4
 notes :
 ---
-
-
-

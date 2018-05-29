@@ -12,6 +12,7 @@ when_day     : Thu
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack   :
 status       : draft              # draft, review-content, done
 description  : Hands on session on using a customized version of the The Hive for Incident Response
 organizers   :
@@ -29,8 +30,3 @@ Share knowledge on incident handling with The Hive
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-
-

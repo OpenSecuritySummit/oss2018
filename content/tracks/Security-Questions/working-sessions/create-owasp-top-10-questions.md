@@ -7,6 +7,7 @@ when_day     : Mon
 when_time    : PM-2
 room_layout  :
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAV9PU56X
 status       : ok
 organizers   :
 description  :
@@ -15,5 +16,3 @@ organizers   :
     - John Fitzgerald
     - Rachel Power
 ---
-
-

@@ -8,9 +8,10 @@ when_day     : Thu
 when_time    : AM-1
 room_layout  :
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAVCFHYG2
 status       : done
 categories   : ["CISO"]
-organizers   : 
+organizers   :
   - Tony Richards
   - Simon Wardley
 description  : Spotify compliant organizational model in security domain

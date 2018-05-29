@@ -3,15 +3,16 @@ title        : SABSA and threat modeling
 type         : working-session
 track        : Threat Model
 technology   :
-categories   :                     
-featured     :                    
-when_day     : 
-when_time    : 
-room_layout  : 
+categories   :
+featured     :
+when_day     :
+when_time    :
+room_layout  :
 room_number  :
+session_slack: 
 status       : draft
-organizers   : 
-participants : 
+organizers   :
+participants :
 description  : SABSA and threat modeling
 ---
 

@@ -12,6 +12,7 @@ when_day     : Tue
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform
 organizers   :
@@ -30,7 +31,4 @@ The session runs on the [avatao](https://avatao.com) platform, an online tool th
 ## Outcomes
 
 By participating you'll see some interesting security issues at design, development, testing and deployment phases of the SDLC. Hopefully you will understand why is it important to shift security as left as possible and see how Avatao could help you achieving this.
-
-
-
 

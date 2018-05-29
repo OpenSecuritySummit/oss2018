@@ -12,6 +12,7 @@ when_day     : Mon
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Meet the Owasp team and learn about the benefits of becoming an Owasp corporate member
 organizers   :
@@ -26,7 +27,3 @@ Meet the Owasp team and learn about the benefits of becoming an Owasp corporate 
 ## Outcomes
 
 Join Owasp
-
-
-
-
