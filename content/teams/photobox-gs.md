@@ -16,19 +16,36 @@ should attend:
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
+    ## Akamai
     - Akamai WAF & Ruleset Session (Tue)
     - Akamai Alerting (Wed)
-    - Akamai Logging (Thu)
+    - Akamai Logging (Thu)  
+    - Writing Akamai Rules
+    ## Darktrace
     - Darktrace Tuning Session (Mon)
     - Darktrace API & Elastic Stack (Wed)
     - Darktrace Alerts (Thu)
     - Darktrace Review (Fri)
+    - Incident handling with Darktrace
+    ## AWS
     - AWS Brand Review (Mon)
     - AWS Lambda Security (Tue)
     - AWS WAF for DDoS Mitigation (Tue)
     - Replacing Akamai with AWS Shield (Tue)
     - AWS Logging (Wed)
-    - AWS Scenarios (Thu)
+    - AWS Scenarios (Thu) 
+    - Securing AWS S3 Buckets
+    ## GDPR
+    - Creating a standard for GDPR patterns
+    - GDPR Appropriate Security Controls
+    - Hands-on GDPR patterns
+    - Using graphs for GDPR mappings 
+    ## Neo4J
+    - Using Neo4J Enterprise
+    ## Threat Modeling
+    - Threat Model Cheat Sheets
+    - TM in Agile Organisations
+    - Using Threat Models for GDPR
     
     
     members:
