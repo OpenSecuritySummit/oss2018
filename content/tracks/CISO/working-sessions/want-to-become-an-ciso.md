@@ -1,5 +1,5 @@
 ---
-title        : Want to become an CISO?
+title        : Want to become a CISO?
 type         : working-session
 track        : CISO
 topics       : ["CISO"]
