@@ -8,7 +8,7 @@ when_day     : Tue
 when_time    : PM-2
 room_layout  :
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAWFGK7K9
 status       : review-content                   # draft, review-content, done
 description  : Hands on sessions of mapping GDPR data to graphs
 organizers   :
