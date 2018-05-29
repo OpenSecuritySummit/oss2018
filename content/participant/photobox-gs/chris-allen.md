@@ -18,9 +18,22 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
+ - AWS Lambda Security
+ - Threat model cheat sheets
 notes :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
 ---
+Chris Allen is an architect, innovator and engineer. With over twenty years experience in the electronics, software and e-commerce industries he is recognised for a series of technical innovations in web site scalability, performance, database sharding and cloud computing.
 
-<!-- put more details about participant here -->
+As a co-founder of PhotoBox, he has been directly responsible for many of their most successful technical projects, including:
+
+* Design and implementation of their original commerce web site from the ground up.
+
+* Development of their proprietary system for storage and distribution of photo images - a system that has scaled to billions of images and petabytes of data.
+
+* Architecture of their software-as-a-service web application, now in its tenth successful year of operation.
+
+* Design of their innovative solution for massive scalability into the cloud - a system that allowed the power of the computing cloud to be exploited while allowing legacy systems to continue running unhindered.
+
+Prior to PhotoBox, Chris designed software and hardware solutions for pharmaceutical and other industries and was also responsible for the CopyStation disk duplicator - a high-end mass duplication system with sales in over 20 countries.
+
