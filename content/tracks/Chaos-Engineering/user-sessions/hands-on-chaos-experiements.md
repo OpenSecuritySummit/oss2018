@@ -16,6 +16,7 @@ description  :
 organizers   :
 participants:
     - Russ Miles
+    - Chris Allen
 ---
 
 In this session, attendees will learn how to build chaos experiments from scratch using the free and open source Chaos Toolkit.
