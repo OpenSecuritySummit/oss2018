@@ -15,6 +15,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+ - Chris Allen
 description  : API Threat Modeling Cheat Sheet
 ---
 
