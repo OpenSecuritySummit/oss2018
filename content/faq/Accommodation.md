@@ -32,11 +32,11 @@ Towels and bed linen are provided at the accommodation. You may wish to bring to
 
 #### 5. Will I have my own room?
 
-Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide the room arrangeemts with your house mates.
+Each villa has a mix of single and double rooms. When you arrive at your villa, it is your responsibility to decide the room arrangements with your house mates.
 
 #### 6. Where should I go on arrival?
 
-When you arrive at Center Parcs, follow the 'all traffic' signs. At the arrivals lodge you will be met by security. Let them know that you are attending the Open Security Summit in 'The Venue'. They will direct you either to parking if you have driven, or to the 'The Venue'. Attendees arriving on Monday will be able to check into their accommodation from 3.00pm, you will be able to store your luggage at 'The Venue'.
+When you arrive at Center Parcs, follow the 'all traffic' signs. At the arrivals lodge you will be met by security. Let them know that you are attending the Open Security Summit in 'The Venue'. They will direct you either to parking if you have driven, or to the 'The Venue'. Attendees arriving on Monday will be able to check into their accommodation from 4.30pm, you will be able to store your luggage at 'The Venue'.
 
 #### 7. Where should I check in?
 
