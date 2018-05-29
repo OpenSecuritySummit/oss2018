@@ -2,10 +2,11 @@
 title        : Maturity Models
 type         : track
 owasp-project: yes
+session_slack: https://os-summit.slack.com/messages/CAXRDK9C5
 when_day     : Mon,Tue,Wed,Thu
 categories   : ["OWASP SAMM"]
 description  : Track addressing multiple Security Maturity Models and with team working together in a 5-day sprint on SAMMv2
-organizers   : 
+organizers   :
 ---
 
 In addition to specific Maturity Models sessions, a large number of [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) Working-Sessions will occur at the Summit.
