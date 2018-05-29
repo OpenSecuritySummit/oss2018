@@ -10,7 +10,7 @@ when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAW9W7F0E
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx

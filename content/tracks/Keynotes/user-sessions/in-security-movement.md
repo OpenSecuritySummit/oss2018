@@ -10,7 +10,7 @@ when_day     : Tue
 when_time    : KN-2
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAWPHNHPA
 status       : draft              # draft, review-content, done
 organizers   :
     - Jane Frankland
