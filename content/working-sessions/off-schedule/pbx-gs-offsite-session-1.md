@@ -4,6 +4,7 @@ type         : private-session
 when_day     : Mon
 when_time    : PM-1
 room_number  :
+session_slack: 
 status       : done
 organizers   :
     - Jemma Davis-Smith

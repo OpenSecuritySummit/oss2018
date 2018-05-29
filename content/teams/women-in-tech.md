@@ -3,6 +3,7 @@ title           : Women in Tech
 type            : team
 team_type       : Community team
 #image           :
+session_slack   :
 linkedin        :
 twitter         :
 website         :

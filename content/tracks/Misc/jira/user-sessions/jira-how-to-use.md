@@ -10,6 +10,7 @@ when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content             # draft, review-content, done
 organizers   :
     - Ann-Marie Grace
@@ -23,6 +24,3 @@ description  : How to use Jira for risk management, incident response and managi
  - how to use Jira
  - customised workflows
  - how PBX GS use Jira
-
-
-

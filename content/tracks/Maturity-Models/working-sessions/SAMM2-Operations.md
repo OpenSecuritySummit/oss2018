@@ -9,6 +9,7 @@ when_day     : Wed
 when_time    : AM-2
 room_layout  :
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAUNDND0Q
 status       : review-content              # draft, review-content, done
 description  : multiple working sessions on the new SAMMv2
 organizers   :

@@ -4,6 +4,7 @@ type            : team
 team_type       : Community team
 image           : https://www.owasp.org/images/thumb/c/c1/DevSlop_Logo.jpg/630px-DevSlop_Logo.jpg
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.owasp.org/index.php/OWASP_DevSlop_Project
 email           :
@@ -22,4 +23,3 @@ members:
     - Tanya Janca
 notes :
 ---
-

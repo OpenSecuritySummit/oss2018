@@ -2,7 +2,7 @@
 title        : Writing Akamai rules
 type         : product-session
 track        : DevSecOps
-host_text    : 
+host_text    :
 host_link    :
 session_type : Chatham house rules
 technology   :
@@ -12,6 +12,7 @@ when_day     : Tue
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack   :
 status       : draft              # draft, review-content, done
 description  : Share knowledge on incident handling with Akamai
 organizers   :
@@ -28,8 +29,3 @@ Share knowledge on incident handling with Akamai
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-
-

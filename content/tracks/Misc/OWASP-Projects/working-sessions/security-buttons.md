@@ -8,6 +8,7 @@ when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAVGVAMC5
 status       : done              # draft, review-content, done
 organizers   : Timo Pagel
 categories   : ["OWASP projects"]

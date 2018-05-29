@@ -4,6 +4,7 @@ type         : private-session
 when_day     : Tue
 when_time    : PM-1
 room_number  :
+session_slack: 
 status       : done
 description  :
 organizers   :

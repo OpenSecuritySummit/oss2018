@@ -4,6 +4,7 @@ type            : team
 team_type       : Company
 image           : https://avatao.com/images/avatao_logo.svg
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.avatao.com/
 email           :
@@ -15,6 +16,3 @@ members:
     - Gabor Pek
 notes :
 ---
-
-
-

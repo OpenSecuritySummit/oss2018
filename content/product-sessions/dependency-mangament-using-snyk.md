@@ -12,6 +12,7 @@ when_day     : Wed
 when_time    : Eve-1
 room_layout  :
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to best use Snyk for dependency management
 organizers   :
@@ -30,7 +31,3 @@ How to securely integrate via GitHub and other providers
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-

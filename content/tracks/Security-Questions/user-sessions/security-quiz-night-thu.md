@@ -7,6 +7,7 @@ when_day     : Thu
 when_time    : Eve-1
 room_layout  :
 room_number  :
+session_slack:
 status       : ok
 organizers   :
 description  :
@@ -15,5 +16,3 @@ organizers   :
     - John Fitzgerald
     - Rachel Power
 ---
-
-

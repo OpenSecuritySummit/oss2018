@@ -4,6 +4,7 @@ type            : team
 team_type       : Sponsor
 image           : /img/sponsors/devseccon.png
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.devseccon.com/
 email           :
@@ -20,5 +21,3 @@ members:
 
 notes :
 ---
-
-

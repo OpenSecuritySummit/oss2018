@@ -8,6 +8,7 @@ when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAV65AXGU
 status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
 organizers   : ["Yvette Connor"]

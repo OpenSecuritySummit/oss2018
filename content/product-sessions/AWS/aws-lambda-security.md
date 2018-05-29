@@ -9,6 +9,7 @@ when_day     : Tue
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content                   # draft, review-content, done
 description  : How to secure Lambda functions
 organizers   :

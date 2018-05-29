@@ -12,6 +12,7 @@ when_day     : Thu
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack   :
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to use Veracode's SAST Engine
 organizers   :
@@ -27,7 +28,3 @@ Hands on session on how to use Veracode's SAST Engine
 ## Outcomes
 
 Better understanding of Veracode's SAST engine
-
-
-
-

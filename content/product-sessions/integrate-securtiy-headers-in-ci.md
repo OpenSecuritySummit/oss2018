@@ -12,6 +12,7 @@ when_day     : Thu
 when_time    : Eve-1
 room_layout  :
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to integrate securityheaders.com in CI pipeline
 organizers   :
@@ -28,7 +29,3 @@ Hands on session on how to integrate securityheaders.com in CI pipeline
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-

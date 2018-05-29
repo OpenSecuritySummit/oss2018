@@ -9,6 +9,7 @@ when_day     : Mon
 when_time    : AM-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
 description  : Introduction session on SAMM for people who want to know more about the project
 organizers   :

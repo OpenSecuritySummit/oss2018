@@ -1,8 +1,8 @@
 ---
 title        : Dark and Deep Web Threat Intelligence Source
 type         : user-session
-track        : 
-host_text    : 
+track        :
+host_text    :
 host_link    :
 session_type : Chatham House Rules
 technology   : OSINT
@@ -12,8 +12,9 @@ when_day     : Thu
 when_time    : Eve-1
 room_layout  :
 room_number  :
+session_slack:
 status       : review-content              # draft, review-content, done
-description  : Understanding the Deep Web, the Dark Web, & How to Guard Your Network and Sharing knowledge on Dark and Deep web Open Source Intelligence 
+description  : Understanding the Deep Web, the Dark Web, & How to Guard Your Network and Sharing knowledge on Dark and Deep web Open Source Intelligence
 organizers   :
     - Naushad Saboor
     - Amar Singh CISO
@@ -33,5 +34,3 @@ This course is “produced from publicly available information that is collected
 We will cover the most popular and important tools for a security researchers. Basically, Dark web tools are used in the reconnaissance phase to gather as much information about the target as possible. These open source intelligence tools utilize artificial intelligence features to mine data from the Web about all possible matches to the desired target.
 
 <img src="https://www.naushad.co.uk/wp-content/uploads/2018/05/Types-of-Web.png">.
-
-

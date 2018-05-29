@@ -9,6 +9,7 @@ when_day     : Tue
 when_time    : Eve-1, Eve-2
 room_layout  :                    #
 room_number  :
+session_slack:
 status       : draft              # draft, review-content, done
 organizers   :
     - Steven Wierckx

@@ -4,6 +4,7 @@ type            : team
 team_type       : Community team
 image           : https://www.owasp.org/images/thumb/f/fe/Owasp_logo.jpg/300px-Owasp_logo.jpg
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.owasp.org/
 email           :
@@ -45,6 +46,3 @@ members:
 
 notes :
 ---
-
-
-

@@ -8,6 +8,7 @@ when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
 room_number  :
+session_slack: https://os-summit.slack.com/messages/CAWE8J5JB
 status       : review-content     # draft, review-content, done
 organizers   :
 description  :

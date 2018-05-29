@@ -5,6 +5,7 @@ team_type       : Sponsor
 _image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
 linkedin        :
 twitter         :
+session_slack   :
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
@@ -20,6 +21,3 @@ members:
 
 notes :
 ---
-
-
-

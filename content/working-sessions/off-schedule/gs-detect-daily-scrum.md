@@ -4,6 +4,7 @@ type         : private-session
 when_day     : Mon
 when_time    : AM-1
 room_number  :
+session_slack: 
 status       : done
 organizers   :
     - James Wharton

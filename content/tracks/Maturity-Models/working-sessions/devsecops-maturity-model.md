@@ -7,8 +7,9 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes
 when_day     : Thu
-when_time    : PM-1, PM-2, PM-3                  
+when_time    : PM-1, PM-2, PM-3
 room_layout  :                    #
+session_slack: https://os-summit.slack.com/messages/CAUS9V0CR
 room_number  :
 status       : draft              # draft, review-content, done
 organizers   :
