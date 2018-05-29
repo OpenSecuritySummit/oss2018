@@ -20,6 +20,7 @@ participants :
     - John Killilea
     - Vladimir Voskresenskiy
     - Jaimen Lathia
+    - Chris Allen
 
 ---
 
