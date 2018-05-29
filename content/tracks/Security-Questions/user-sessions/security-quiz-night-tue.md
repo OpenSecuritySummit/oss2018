@@ -7,7 +7,7 @@ when_day     : Tue
 when_time    : Eve-1
 room_layout  :
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAV7B4D1S
 status       : ok
 organizers   :
 description  :

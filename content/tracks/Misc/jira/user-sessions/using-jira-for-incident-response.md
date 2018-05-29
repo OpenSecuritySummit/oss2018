@@ -10,7 +10,7 @@ when_day     : Thu
 when_time    : PM-1, PM-2, PM-3
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAXR31ZCM
 status       : draft              # draft, review-content, done
 organizers   :
     - Francois Raynaud

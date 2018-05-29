@@ -10,7 +10,7 @@ when_day     :  Wed
 when_time    :  PM-1
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation

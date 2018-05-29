@@ -8,7 +8,7 @@ when_day     : Thu
 when_time    : Eve-1
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAVH3MHPX
 status       : review-content     # draft, review-content, done
 organizers   :
 track        : DevSecOps
