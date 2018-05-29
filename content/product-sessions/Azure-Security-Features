@@ -12,7 +12,7 @@ when_day     : Tues
 when_time    : Eve-1
 room_layout  :
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAX20DZBJ
 status       : draft
 description  : A demonstration of a few of Azure's Security features including: Access Control (AIM), Just in Time (JIT),
 Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.

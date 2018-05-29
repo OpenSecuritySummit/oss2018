@@ -9,7 +9,7 @@ when_day     : Tue
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAV7FLP60
 status       : review-content                   # draft, review-content, done
 description  : How to secure Lambda functions
 organizers   :

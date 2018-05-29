@@ -12,6 +12,7 @@ when_day     : Wed
 when_time    : Eve-2
 room_layout  :
 room_number  :
+session_slack:  https://os-summit.slack.com/messages/CAVB7RJUT
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform
 organizers   :
@@ -31,7 +32,3 @@ This session teaches you important techniques and tricks to learn the security w
 ## Outcomes
 
 Understand the inner workings of C and C++ and exploit simple applications to learn how to write secure code.
-
-
-
-
