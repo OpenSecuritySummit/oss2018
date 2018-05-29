@@ -6,7 +6,7 @@ The website is generated using [Hugo](https://gohugo.io). We use a theme origina
 
 To contribute to this repository, you can edit simply using the GitHub integrated editor. You will need to have a [GitHub account](#github), and a new pull request with your changes will be created.
 
-If you need to edit multiple files, or if you want to check the resulting pages before posting a pull request, you can download Hugo and use it locally. It is a simple process, and you cna check your work before submitting the changes.
+If you need to edit multiple files, or if you want to check the resulting pages before posting a pull request, you can download Hugo and use it locally. It is a simple process, and you can check your work before submitting the changes.
 
 # Editing locally
 
