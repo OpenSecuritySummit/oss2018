@@ -2,15 +2,15 @@
 title           : Chris Allen
 type            : participant
 sponsored_by    : PhotoBox
-job_title       :
+job_title       : Chief Scientist
 company         : Photobox GS
-travel_from     :
+travel_from     : Ipswich
 image           : https://media.licdn.com/dms/image/C4E03AQG6VOyKkGUr1Q/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=f6OxauAMb2d3KxWRvx9MBrvBtc2bjaqMu5DjPsjHJks
 linkedin        :
-twitter         :
+twitter         : chrisotherwise
 facebook        :
 website         :
-email           :
+email           : chris@allen.uk
 venue           : Mon, Tue, Thu, Fri
 night_day       : Mon, Thu
 night_where     : villa-6
@@ -20,6 +20,10 @@ status          : add details
 sessions:
  - AWS Lambda Security
  - Threat model cheat sheets
+ - Hands on Chaos Experiments
+ - Securing AWS S3 Buckets
+ - API Threat Modeling Cheat Sheet
+ - Hands on Chaos Experiments
 notes :
 
 ---
