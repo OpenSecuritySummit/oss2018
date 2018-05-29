@@ -7,8 +7,6 @@ status       : draft              # draft, review-content, done
 description  :
 ---
 
-## Outcomes
-
 (...)
 
 ## References
