@@ -17,6 +17,7 @@ pre-summit      :
 status          : add details
 sessions        :    
     - Using Pixi  
+    - API Threat Modeling Cheat Sheet
     - Application Security Verification Standard 
     - Getting more women in Cyber-security  
     - Cloud brokerage 
