@@ -11,7 +11,7 @@ website         :
 email           :
 project_leader  : OWASP SecureTea
 chapter_leader  : OWASP Indonesia
-regonline       :
+eventbrite_id   :
 status          : add-details
 sessions:
 notes :

@@ -13,7 +13,7 @@ email           : fraser@0x10.co
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       :
 night_where     : villa-5
-regonline       :
+eventbrite_id   :
 pre_summit      :
 status          : add details
 sessions:

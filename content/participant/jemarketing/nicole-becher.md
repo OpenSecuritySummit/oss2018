@@ -15,7 +15,7 @@ project_leader  : DevSlop
 chapter_leader  : Brooklyn
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
-regonline       : 
+eventbrite_id   :
 pre-summit      : 
 status          : Nicole Becher specializes in application security, red teaming, penetration testing, malware analysis and computer forenscics. OWASP Brooklyn Chapter Leader, OWASP DevSlop Project Leader, Adjunct Instructor at NYU, political junkie, marathoner, martial artist and animal lover. OWASP WASPY 2017 winner!
 sessions        : 

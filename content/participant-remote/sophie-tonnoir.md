@@ -13,7 +13,7 @@ website         :
 email           : sophie.tonnoir@avanade.com
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : done
 sessions:
  - Agile Practices for Security Teams

@@ -12,7 +12,7 @@ facebook        :
 website         :
 email           :
 venue           : Fri
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

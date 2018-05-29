@@ -12,7 +12,7 @@ website         : https://bugwrangler.in
 email           : abhinav.sejpal@owasp.org
 project_leader  :
 chapter_leader  : Bangalore
-regonline       :
+eventbrite_id   :
 pre_summit      :
 status          : add details
 sessions:

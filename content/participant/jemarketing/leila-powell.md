@@ -12,7 +12,7 @@ facebook        :
 website         :
 email           :
 venue           : Wed                # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 tracks          :

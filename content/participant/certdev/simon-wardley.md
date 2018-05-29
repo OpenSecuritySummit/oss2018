@@ -1,6 +1,7 @@
 ---
 title           : Simon Wardley
 type            : participant
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :
@@ -10,9 +11,9 @@ twitter         : swardley
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
-regonline       :
+venue           : Thu
+night_day       : Wed
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

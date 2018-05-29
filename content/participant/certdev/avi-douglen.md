@@ -17,7 +17,7 @@ chapter_leader  : Israel
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-5
-regonline       :
+eventbrite_id   :
 status          : add-details
 tracks          :
     - Threat Model

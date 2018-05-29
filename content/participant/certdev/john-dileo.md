@@ -18,7 +18,7 @@ venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-1
 night_room      : 4
-regonline       :
+eventbrite_id   :
 status          : 
 sessions        : 
 - SAMM Project Meeting

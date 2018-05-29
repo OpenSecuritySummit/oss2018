@@ -13,7 +13,7 @@ website         :
 email           :
 venue           : Tue
 night_day       :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

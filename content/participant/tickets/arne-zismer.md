@@ -15,7 +15,7 @@ night_day       : Mon, Tue, Wed, Thu
 eventbrite_id   : 772846753
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

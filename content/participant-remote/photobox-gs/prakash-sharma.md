@@ -10,7 +10,7 @@ twitter         : 1lastBr3ath
 website         : http://rootme.in/
 email           : prakash.sharma@yandex.com
 project_leader  :
-regonline       : 
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

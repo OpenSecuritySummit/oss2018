@@ -15,7 +15,7 @@ email           : adam@shostack.org
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-10
-regonline       :
+eventbrite_id   :
 featured         : yes
 status          : add-details
 sessions:

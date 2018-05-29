@@ -14,7 +14,7 @@ website         :
 email           :
 venue           : Mon
 night_day       :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

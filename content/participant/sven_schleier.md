@@ -8,7 +8,7 @@ image           : https://pbs.twimg.com/profile_images/848871453906747392/XbBDTe
 linkedin        : https://www.linkedin.com/in/sven-schleier-98259194/
 twitter         : bsd_daemon
 night_where     : 
-regonline       :
+eventbrite_id   :
 sessions        :
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions

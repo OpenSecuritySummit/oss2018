@@ -12,7 +12,7 @@ website         :
 email           : oss2018@timo-pagel.de
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

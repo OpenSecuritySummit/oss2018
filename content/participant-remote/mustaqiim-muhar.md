@@ -13,7 +13,7 @@ website         :
 email           : mustaqiimuhar@gmail.com
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : done
 sessions:
     - AWS Lambda Security

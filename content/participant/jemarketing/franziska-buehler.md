@@ -13,7 +13,7 @@ website         : http://devslop.co
 email           : franziska.buehler@owasp.org
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
-regonline       : 
+eventbrite_id   :
 pre-summit      : 
 featured        : yes
 status          : add details

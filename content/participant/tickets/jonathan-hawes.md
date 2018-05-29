@@ -1,17 +1,18 @@
 ---
-title           : Simon Cole
+title           : Jonathan	Hawes
 type            : participant
 job_title       :
-company         : Capital One
+company         :
 travel_from     :
-image           : https://media.licdn.com/dms/image/C5603AQFz7zuzQrl6kw/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=9H_ZPwDF6ZOYo0Vrh6njnoHLe9VGzGrhN4KARFawwII
-linkedin        : simoncole1904
+image           :
+linkedin        :
 twitter         :
 facebook        :
 website         :
 email           :
 venue           : Mon, Tue, Wed, Thu, Fri
-eventbrite_id   :
+night_day       : Mon, Tue, Wed, Thu
+eventbrite_id   : 777022410
 pre-summit      :
 status          : add details
 sessions        :
