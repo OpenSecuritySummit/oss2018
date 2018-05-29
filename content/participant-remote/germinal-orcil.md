@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : EDF Optimization & Trading
 company         : EDF
 travel_from     :
-image           :
+image           : https://media.licdn.com/dms/image/C5603AQF1A3D4X0gzhw/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=d4RFdgB7U-5erlDwSguRAOTWl2Y1Giwj_4fuajiriJs
 linkedin        : germinal-orcil-50928661
 twitter         :
 facebook        :
