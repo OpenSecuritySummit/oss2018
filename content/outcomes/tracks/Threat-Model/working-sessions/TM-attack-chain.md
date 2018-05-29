@@ -1,0 +1,16 @@
+---
+title        : Attack chains as TM technique
+type         : outcome
+technology   :
+categories   :                    # GDPR, Juice Shop, etc.
+status       : draft              # draft, review-content, done
+description  :
+---
+
+## Outcomes
+
+(...)
+
+## References
+
+(...)
