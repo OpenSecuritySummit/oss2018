@@ -11,7 +11,7 @@ featured     :
 when_day     : Thu
 when_time    : Eve-1
 room_layout  :
-room_number  :
+room_number  : https://os-summit.slack.com/messages/CAUTMJVS5
 session_slack:
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to integrate securityheaders.com in CI pipeline
