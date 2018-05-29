@@ -1,8 +1,9 @@
 ---
-title           : Capital One 4
+title           : Talal Albacha
 type            : participant
 job_title       :
-company         : Capital One
+sponsored_by    : CertDev
+company         :
 travel_from     :
 image           :
 linkedin        :
@@ -10,7 +11,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Mon, Tue, Wed, Thu, Fri
+venue           : Fri
 regonline       :
 pre-summit      :
 status          : add details

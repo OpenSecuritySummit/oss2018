@@ -1,6 +1,7 @@
 ---
 title           : Sara Davis
 type            : participant
+sponsored_by    : JE Marketing
 role            : 
 job_title       : IT Engineer
 company         : Centerprise International

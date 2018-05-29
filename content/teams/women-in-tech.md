@@ -20,7 +20,6 @@ members:
     - Fernanda Almeida
     - Franziska Buehler
     - PBX GS Head of Risk
-    - Jane Frankland
     - Jemma Davis-Smith
     - Leila Powell
     - Lisa Raynaud
@@ -30,4 +29,5 @@ members:
     - Tanya Janca
     - Thordis
     - Sara Davis
+    - Barbara Schachner
 ---

@@ -1,6 +1,7 @@
 ---
 title           : Franziska Buehler
 type            : participant
+sponsored_by    : JE Marketing
 job_title       : Systems Engineer
 company         : Post CH AG
 travel-from     : Switzerland
@@ -10,8 +11,8 @@ twitter         : bufrasch
 facebook        : 
 website         : http://devslop.co 
 email           : franziska.buehler@owasp.org
-project_leader  : 
-chapter_leader  : 
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
 regonline       : 
 pre-summit      : 
 featured        : yes

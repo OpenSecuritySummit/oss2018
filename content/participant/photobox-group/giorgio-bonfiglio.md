@@ -1,6 +1,7 @@
 ---
 title           : Giorgio Bonfiglio
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 company         :
 travel_from     :

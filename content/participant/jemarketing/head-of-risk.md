@@ -1,8 +1,7 @@
 ---
-title           : Russ Miles
+title           : Head of Risk
 type            : participant
-sponsored_by    : CertDev
-when_day        : Mon
+sponsored_by    : JE Marketing
 job_title       :
 company         :
 travel-from     :
@@ -12,15 +11,18 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+night_where     : villa-7
 regonline       :
 pre-summit      :
 status          : add details
-sessions        :
-    - AppSec SOC Monitoring Visualisation
-    - Using activity-oriented metrics for Security
-    - DevSecOps Maturity Model (DSOMM)
+tracks:
+    - GDPR
+sessions: 
+    - Creating Appsec metrics and visualisation
+    - Using graphs for GDPR mappings and visualisations
+notes :
 ---
 
 <!-- put more details about participant here -->

@@ -21,12 +21,12 @@ locked       : true
 
 ## Why
 
-The templates for the MS Threat Modeling tool are published here under a liberal OS license: https://github.com/jpschaaf/threat-modeling-templates
+The Medical Device threat modeling template for the MS Threat Modeling tool is created by GE Healthcare and published here under a liberal OS license: https://github.com/jpschaaf/threat-modeling-templates/blob/master/MedicalDeviceTemplate.tb7 
+Converting it to an editable risk pattern format will achieve the following:
+- It will be easier to use the template outside the MS tool (e.g. in a document or spreadsheet)
+- It will be possible to expand recommended countermeasures list
+- It will be possible to support change review of smaller changes to the file
 
-By converting them to an editable risk pattern format they:
-- are easier to use outside the MS tool (e.g. in a document or spreadsheet)
-- can include recommended countermeasures
-- can support change review of smaller changes to the file
 
 ## What
 
@@ -37,4 +37,4 @@ The recommended countermeasures are likely to be the biggest gap.
 
 ## Outcomes
 
-A set of risk patterns built on the content already provided by GE-Health
+A set of risk patterns built on the content already provided by GE Healthcare in the Medical Device threat modeling template.

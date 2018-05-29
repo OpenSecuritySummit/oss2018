@@ -1,6 +1,7 @@
 ---
 title           : Vijay Nair
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : BA
 company         : Photobox Group
 need_funding_for: Travel,Ticket

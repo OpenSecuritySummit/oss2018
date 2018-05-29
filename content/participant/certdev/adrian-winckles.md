@@ -1,6 +1,7 @@
 ---
 title           : Adrian Winckles
 type            : participant
+sponsored_by    : CertDev
 job_title       : Director of Cyber Security, Networking and Big Data Research Group
 company         : Anglia Ruskin University
 travel_from     : Cambridge, UK.

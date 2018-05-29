@@ -1,6 +1,7 @@
 ---
 title           : Naushad Saboor
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : IT Security Specialist
 company         : Photobox GS
 travel_from     : London

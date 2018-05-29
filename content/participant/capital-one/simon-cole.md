@@ -1,18 +1,16 @@
 ---
-title           : Jane Frankland
+title           : Simon Cole
 type            : participant
-funded_by       : CertDev
 job_title       :
-company         :
+company         : Capital One
 travel_from     :
-image           : https://media.licdn.com/dms/image/C4D03AQHe7-46ejvWIQ/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=PVfUibOl6UjSjr3GdAwL_bKnxVevLdc1zCzBAA-IAFw
-linkedin        : janefrankland
-twitter         : JaneFrankland
+image           : https://media.licdn.com/dms/image/C5603AQFz7zuzQrl6kw/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=9H_ZPwDF6ZOYo0Vrh6njnoHLe9VGzGrhN4KARFawwII
+linkedin        : simoncole1904
+twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
 regonline       :
 pre-summit      :
 status          : add details

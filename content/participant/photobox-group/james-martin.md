@@ -1,6 +1,7 @@
 ---
 title           : James Martin
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 company         : Moonpig
 travel_from     :

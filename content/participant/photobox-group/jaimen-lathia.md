@@ -1,6 +1,7 @@
 ---
 title           : Jaimen Lathia
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Software Engineer
 company         : Moonpig
 travel_from     :
@@ -10,7 +11,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
+venue           : TBC                  # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
 regonline       :
 pre-summit      :
 status          : add details

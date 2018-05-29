@@ -10,8 +10,8 @@ twitter         : TashJNorris
 facebook        :
 website         :
 email           : tashjnorris@gmail.com
-project_leader  :
-chapter_leader  :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
 regonline       :
 status          :
 sessions        :

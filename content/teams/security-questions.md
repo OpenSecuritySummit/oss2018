@@ -40,7 +40,6 @@ members:
     - Avi Douglen
     - Barbara Prevel
     - Felipe Zipitria
-    - Jane Frankland
     - Jim Newman
     - John DiLeo
     - John Fitzgerald
