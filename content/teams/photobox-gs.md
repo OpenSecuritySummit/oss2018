@@ -36,6 +36,7 @@ should attend:
     - Charlotte Bullock
     - Christoph Jung
     - Dan Gapco
+    - David Cervigni
     - Dinis Cruz
     - Felicia Hislop
     - Fernanda Almeida
@@ -51,7 +52,7 @@ should attend:
     - Stu Hirst
     - Toby Shelswell
     - Vladimir Voskresenskiy
-    - David Cervigni
+    
 
 notes :
 ---
