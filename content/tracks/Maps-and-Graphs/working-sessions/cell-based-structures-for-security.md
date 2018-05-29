@@ -8,7 +8,7 @@ when_day     : Thu
 when_time    : AM-1
 room_layout  :
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAVCFHYG2
+session_slack:
 status       : done
 categories   : ["CISO"]
 organizers   :

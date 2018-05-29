@@ -8,7 +8,7 @@ when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAU646WRE
+session_slack:
 status       : review-content     # draft, review-content, done
 description  : Session on ASVS
 organizers   :

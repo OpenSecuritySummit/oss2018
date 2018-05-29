@@ -9,7 +9,7 @@ when_day     : Thu                  # NOTE: should be on the brainstorming day, 
 when_time    : AM-1, PM-1, PM-2, PM-3
 room_layout  : circle                   #
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAW9X85PY
+session_slack:
 status       :  draft    # draft, review-content, done
 organizers   :
     - Timo Pagel

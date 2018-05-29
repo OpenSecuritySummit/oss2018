@@ -8,7 +8,7 @@ when_day     : Mon
 when_time    : PM-3
 room_layout  :                    #
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAVD37L6N
+session_slack:
 status       : review-content      # draft, review-content, done
 description  : List of top 10 lessons from bug bounty experts and guidelines on improving bug bounty programmes
 organizers   :

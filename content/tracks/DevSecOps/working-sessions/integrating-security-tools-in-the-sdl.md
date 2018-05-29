@@ -10,7 +10,7 @@ when_day     : Thu
 when_time    : AM-1, PM-1
 room_layout  :                    #
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAUSF58HF
+session_slack:
 status       : review-content              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants : Francois Raynaud

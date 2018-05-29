@@ -9,7 +9,7 @@ when_day     : Thu
 when_time    : PM-3
 room_layout  :                    #
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAWAFCUH4
+session_slack:
 status       : draft              # draft, review-content, done
 description  :
 participants :

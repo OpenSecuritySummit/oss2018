@@ -7,7 +7,7 @@ when_day     : Thu
 when_time    : PM-2
 room_layout  :
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAV5Y63GC
+session_slack:
 status       : ok
 organizers   :
 description  :

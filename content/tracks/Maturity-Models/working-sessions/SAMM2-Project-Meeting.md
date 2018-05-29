@@ -9,7 +9,7 @@ when_day     : Fri
 when_time    : AM-1
 room_layout  :                    #
 room_number  :
-session_slack: https://os-summit.slack.com/messages/CAVAEG0DR
+session_slack:
 status       : review-content              # draft, review-content, done
 description  : Project meeting to review the status and update the plan for SAMM2
 organizers   :
