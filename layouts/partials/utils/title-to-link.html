@@ -2,12 +2,12 @@
 {{ if $page }}
     {{ $user := (index $page 0) }}
 
-    <div class="hidden-print">
+    <span class="hidden-print">
         <a href="{{$user.Permalink }}">{{$user.Params.title}}</a>
-    </div>
-    <div class="visible-print">
+    </span>
+    <span class="visible-print">
         <b>{{$user.Params.title}}</b>
-    </div>
+    </span>
 
 {{ else}}
      <span class="text-danger">

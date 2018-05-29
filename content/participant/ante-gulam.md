@@ -10,8 +10,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Tue
 eventbrite_id   :
 pre-summit      :
 status          : add details
