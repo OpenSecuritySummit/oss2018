@@ -1,0 +1,20 @@
+
+{{ define "breadcrumbs" }}
+
+    <div class="inner_main_working_sessions">
+        <div class="center_heading">
+            <div class="container">
+                <h1>{{ .Title }}</h1>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{ define "content" }}
+
+    {{ .Content }}
+
+    <hr/>
+    <a href="/outcomes/">Back to list of all Outcomes</a>
+{{ end }}
