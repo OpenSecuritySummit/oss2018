@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : CMO
 company         : Shopbot
 travel_from     :
-image           :
+image           : /participant-remote/images/lia-aguiar-almeida.jpg
 linkedin        : liaalmeida
 twitter         :
 facebook        :
