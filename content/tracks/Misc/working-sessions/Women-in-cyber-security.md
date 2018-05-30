@@ -1,5 +1,5 @@
 ---
-title        : Women in Cyber-security: improving the gender balance
+title        : "Women in Cyber-security: improving the gender balance"
 type         : working-session
 track        : Misc
 topics       : ["Women in Tech"]
