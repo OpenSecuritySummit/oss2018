@@ -30,11 +30,11 @@ sessions        :
   - Getting more women in Cyber-security
   - Recruiting Appsec Talent
   - Agile practices for security teams
-  - OWASP DEVSECOPS STUDIO
-  - CREATING APPSEC METRICS AND VISUALISATION
-  - A SEAT AT THE TABLE
-  - ADDING PRIVACY BY DESIGN IN SECURE APPLICATION DEVELOPMENT
-  - CROSSING THE RIVER BY FEELING THE STONES
+  - OWASP DevSecOps Studio
+  - Creating Appsec metrics and visualisation
+  - A seat at the table
+  - Adding Privacy by Design in Secure Application Development
+  - Crossing the river by feeling the stones
 
 ---
 
