@@ -1,10 +1,10 @@
 ---
-title        : Integrating Security into an Spotify Model
+title        : Integrating Security into an Spotify Model (and using Squads for Security teams)
 type         : working-session
-track        : CISO
+track        : DevSecOps
 topics       : ["Agile"]
 featured     : yes                  # review with summit team "yes"
-when_day     : Tue
+when_day     : Wed
 when_time    : PM-1
 room_layout  :                    #
 room_number  :
