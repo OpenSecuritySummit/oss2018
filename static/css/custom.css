@@ -1513,9 +1513,6 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 
 /* About 2017 - Previous summit page */
-.about2017_sec{
-  margin-bottom:40px;
-}
 
 .about2017_sec .row{
   display:flex;
