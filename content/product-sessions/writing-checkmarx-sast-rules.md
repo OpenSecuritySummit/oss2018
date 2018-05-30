@@ -15,7 +15,9 @@ room_number  :
 session_slack   : https://os-summit.slack.com/messages/CAUP9KVTJ
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to write custom rules for the Checkmarx SAST engine
-organizers   :
+organizers   : 
+  - Avi Douglen
+  - Nuno Oliveira
 participants :
     - Stu Hirst
     - David Cervigni
@@ -24,8 +26,19 @@ participants :
 
 ## What
 
-Hands on session on how to write custom rules for the Checkmarx SAST engine
+Hands on session on how to write custom rules for the Checkmarx SAST engine.   
+In addition to many out-of-the-box queries, Checkmarx supports creating custom queries using its own domain-specific language, CxQL. This allows for very granular queries, as well as complex logic, to enable users to find exactly what we're looking for in the codebase. 
 
 ## Outcomes
 
-Knowledge sharing and learn new techniques.
+During this session we will explain the querying logic of CxQL, cover the various atomic queries, and dive into some possibilities as well as cover some tips, common mistakes, integration and automation opportunities, and performance optimization. 
+
+## Who 
+
+The target audience for this Session is:  
+ - Developers 
+ - AppSec professionals
+ - Security champions
+ - Checkmarx users (or potential users)
+ - Anyone interested in customizing their SAST approach. 
+ 
