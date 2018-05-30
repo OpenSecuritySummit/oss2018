@@ -7,6 +7,8 @@ when_day     : Mon,Tue,Wed,Thu
 categories   : ["OWASP SAMM"]
 description  : Track addressing multiple Security Maturity Models and with team working together in a 5-day sprint on SAMMv2
 organizers   :
+    - Sebastien Deleersnyder
+    - Steven Wierckx
 ---
 
 In addition to specific Maturity Models sessions, a large number of [OWASP SAMM](https://www.owasp.org/index.php/OWASP_SAMM_Project) Working-Sessions will occur at the Summit.
