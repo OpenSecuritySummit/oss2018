@@ -19,6 +19,10 @@
 
       {{ partial "participant/contact-details.html" . }}
 
+      {{ if .Params.sponsored_by }}
+        {{ partial "sponsors/participant-sponsored.html" (dict "sponsor" .Params.sponsored_by "this" .) }}
+      {{ end }}
+
       {{ partial "participant/team.html"            . }}
       {{ partial "participant/when-day.html"        . }}
       {{ partial "participant/schedule.html"        . }}

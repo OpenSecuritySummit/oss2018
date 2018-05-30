@@ -1619,3 +1619,8 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 {
   padding:20px 0 20px 0;
 }
+
+/* Sponsored by image size */
+.sponsored-by {
+  width:150px;
+}
