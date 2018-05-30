@@ -8,7 +8,7 @@
 {{ end }}
 
 <h3>Participant's team(s):</h3>
-<ul>
+<ul class="list-inline">
 {{range $.Scratch.Get "teams" }}
     {{if  isset .Params "image"}}
         <li><a href="{{.Permalink}}"><img src="{{ .Params.image }}" width="100"/></a></li>
