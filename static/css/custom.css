@@ -1613,3 +1613,9 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   background:#1fc4f4;
 }
 .oss-card-button:active { background:#00549e; }
+
+/* FAQ pages - VBU was here 30/05/2018 */
+.FAQs_main_content, .FAQs_list_main_content
+{
+  padding:20px 0 20px 0;
+}
