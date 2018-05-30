@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : Professor
 company         : University of Namur  
 travel_from     :
-image           : https://documents.unamur.be/index.php/s/isiaWZ0rsOLHgHE
+image           : https://avatars1.githubusercontent.com/u/3629802?s=460&v=4
 linkedin        : https://www.linkedin.com/in/jncolin/
 twitter         :
 facebook        : 
