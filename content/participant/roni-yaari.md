@@ -1,15 +1,15 @@
 ---
-title           :Roni Yaari
+title           : Roni Yaari
 type            : participant
-job_title       :Product manager
-company         :Checkmarx
+job_title       : Product manager
+company         : Checkmarx
 travel_from     :
 image           :
-linkedin        :https://www.linkedin.com/in/roniyaari/
+linkedin        : https://www.linkedin.com/in/roniyaari/
 twitter         :
 facebook        :
 website         :
-email           :roni.yaari@checkmarx.com
+email           : roni.yaari@checkmarx.com
 venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
 eventbrite_id   :
 pre-summit      :
