@@ -11,7 +11,8 @@ description  : Hands on session writing security tests
 status       : draft
 organizers   :
     - Sotiraki Sima
-participants : Stephen Hookings
+participants :
+    - Stephen Hookings
 ---
 
 Hands on session writing security tests
