@@ -1,11 +1,11 @@
 ---
 title        : Using Neo4J to filter and review SAST findings
 type         : user-session
-track        :
+track        : Maps and Graphs
 topics       :  ["Neo4J"]
 featured     :                    # review with summit team "yes"
-when_day     :                    # i.e.    Tue
-when_time    :                    # i.e.    AM-1
+when_day     : Wed
+when_time    : Eve-2
 room_layout  :                    #
 room_number  :
 session_slack: https://os-summit.slack.com/messages/CAYFSNVGF

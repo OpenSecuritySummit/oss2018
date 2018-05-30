@@ -1,7 +1,7 @@
 ---
 title        : Automation of MASVS with BDD
 type         : working-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

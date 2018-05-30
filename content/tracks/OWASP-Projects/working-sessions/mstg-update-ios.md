@@ -1,7 +1,7 @@
 ---
 title        : Update MSTG with changes in iOS 11
 type         : working-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

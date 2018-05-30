@@ -1,7 +1,7 @@
 ---
 title        : Owasp Securetea tools project
 type         : working-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Owasp Project"]
 featured     : yes                  # review with summit team "yes"
 when_day     : Thu

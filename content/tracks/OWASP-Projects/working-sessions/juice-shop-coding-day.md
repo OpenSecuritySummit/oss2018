@@ -1,7 +1,7 @@
 ---
 title        : Juice Shop Coding Day
 type         : working-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Owasp Juice Shop"]
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 featured     :                    # review with summit team "yes"

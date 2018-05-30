@@ -1,7 +1,7 @@
 ---
 title        : Cloud brokerage - authentication and authorisation
 type         : dynamic-session
-track        : Misc
+track        : DevSecOps
 technology   :
 featured     :                    # review with summit team "yes"
 when_day     : Wed

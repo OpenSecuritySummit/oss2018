@@ -11,6 +11,10 @@ categories   :
 description  : Incident response simulations and role play scenarios
 status       : review-content             # draft, review-content, done
 organizers   :
+    - Ann-Marie Grace
+    - James Wharton
+participants :
 ---
 
-{{< description >}}
+Incident response simulations and role play scenarios
+

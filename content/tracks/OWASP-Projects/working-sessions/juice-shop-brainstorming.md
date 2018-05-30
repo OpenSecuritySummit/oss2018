@@ -1,7 +1,7 @@
 ---
 title        : Juice Shop Brainstorming
 type         : working-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Owasp Juice Shop"]
 technology   : Node
 description  : Brainstorming and designing new hacking challenges and other features for OWASP Juice Shop and its CTF-extension.

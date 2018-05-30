@@ -1,6 +1,6 @@
 ---
 title        : Ask me anything (AMA) - Meet the Experts
-type         : working-session
+type         : user-session
 track        : Misc
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

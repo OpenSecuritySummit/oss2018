@@ -1,7 +1,7 @@
 ---
 title        : Update MSTG with changes in Android 8 (Oreo)
 type         : working-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Mobile Security"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

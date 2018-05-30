@@ -1,7 +1,7 @@
 ---
 title        : Running CTF Games with OWASP Juice Shop
 type         : user-session      # working-session, user-session
-track        : Misc
+track        : Owasp Projects
 topics       : ["Owasp Juice Shop"]
 technology   : nodejs,docker,docker-compose
 categories   : JuiceShop,CTF                      # GDPR, Juice Shop, etc.
