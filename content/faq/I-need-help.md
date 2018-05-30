@@ -3,8 +3,8 @@ title       : I need help
 layout      : FAQ
 ---
 
-We would be glad to help you during the Summit, but also before its start.\
-Please find the frequently asked questions on this page about `how` and `where` you can find help during and before the Summit start.
+We would be glad to help you during the Summit, but also before it starts.\
+Please find the frequently asked questions on this page on `how` and `where` you can find help during and before the Summit starts.
 
 ### How to find help?
 
@@ -16,7 +16,7 @@ If you would like to email before or during the event please contact [info@opens
 
 ##### Join us on Slack
 Get in touch via [Slack](https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc) on `os-summit.slack.com` workspace.\
-We various channels that has to support various topics that you might be interested in.
+We have various channels that support various topics that you might be interested in.
 
 - **[#oss-general](https://os-summit.slack.com/messages/CAULHPHU2)**\
 This channel is for workspace-wide communication and announcements. All members are in this channel.
@@ -25,7 +25,7 @@ This channel is for workspace-wide communication and announcements. All members 
 This helpdesk is to help participants with general issues regarding the Summit.
 
 - **Tracks and sessions related channels**\
-We have channels for every track and sessions. The following legend describe the prefixes of the channels' names for the tracks and sessions.<br/><br/>
+We have channels for every track and session. The following legend describe the prefixes of the channels' names for the tracks and sessions.<br/><br/>
 **w** = working sessions\
 **u** = user session\
 **p** = product session\
