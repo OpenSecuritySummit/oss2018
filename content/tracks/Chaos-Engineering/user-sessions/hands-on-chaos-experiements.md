@@ -33,7 +33,7 @@ The attendees will design their own Game Days and automated chaos experiments us
 
 ## Outcomes
 
-The attendees will know how to, and will develop, a plan to conduct and implement effective Game Days and automated Chaos Experiments.
+The attendees will know how to, and will, develop a plan to conduct and implement effective Game Days and automated Chaos Experiments.
 
 ## References
 
