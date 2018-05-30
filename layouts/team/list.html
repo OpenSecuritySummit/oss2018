@@ -30,6 +30,7 @@
 
             {{ .Content }}
 
+<!--
             <table class="tbale_section">
                 <thead>
                 <tr>
@@ -50,6 +51,30 @@
                     {{ end }}
                 {{ end }}
             </table>
+-->
+
+            <div class="list_team_attendees">
+
+              <h2>Current list of teams attending the Summit</h2>
+
+              <ul>
+                {{ range $index, $local := where .Data.Pages ".Params.type" "team" }}
+
+                    {{if ne .Params.hidden true}}
+                      {{ partial "teams/card.html" . }}
+                    {{ end }}
+
+                {{ if ne $index 0 }}
+                  {{ if eq (mod $index 5) 0 }}</ul><ul>{{ end }}
+                {{ end }}
+
+                {{ end }}
+              </ul>
+
+
+            </div><!-- list_team_attendees -->
+
+            <div class="clearfix"></div>
         </div>
     </div>
 
