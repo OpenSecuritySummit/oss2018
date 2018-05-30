@@ -22,6 +22,35 @@ pre_summit      :
 status          : add details
 sessions:
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+# Monday
+- A seat at the table
+- Creating a Steady-State Hypothesis
+- Customising the Chaos Toolkit
+# - Owasp Cloud Security Workshop (BETA)
+- Hands on Chaos Experiments
+- Real world Chaos Engineering
+- Writing security tests to confirm vulnerabilities and fixes
+# Tuesday
+- Gamifying Security Dashboards
+- Using maps to define how to capture, detect and prevent 6 real-world security incidents
+# - Describe different ways of implementing TM in agile organisations
+- Agile Practices for Security Teams
+- Attack chains as TM technique
+- Back to the future with Threat Modeling
+# Wednesday
+- Thinking in Graphs
+- Threat model cheat sheets
+- Getting more women in Cyber-security
+- Using Data Science for log analysis
+- Create a Slack bot in Python
+# Thursday
+- Crossing the river by feeling the stones
+- Using JIRA for incident response
+# - 
+- Threat Model training through Gamification
+- Incident Response - simulations
+# Friday
+- Using AI and ML for incident response
 ---
 
 <!-- put more details about participant here -->
