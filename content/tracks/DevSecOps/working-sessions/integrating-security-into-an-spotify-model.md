@@ -24,6 +24,8 @@ We need companies that have tried, failed, and succeeded to integrate security i
 
 This working session will focus on increasing our knowledge of how best to integrate Agile Security into the Spotify model.
 
+We will also explore how Security Teams can use the Squads model themselves, as a way to organise and focus the multiple projects driven by those teams.
+
 ## What
 
  - Which security activities can be integrated into the Spotify Model?
