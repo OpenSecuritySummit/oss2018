@@ -1,4 +1,3 @@
-
 ---
 title           : Alina Radu
 type            : participant
@@ -22,6 +21,7 @@ sessions        :
   - Create a Slack bot in Python
   - Getting more women in Cyber-security
   - Docker and Kubernetes Threat Modeling Cheat Sheet
+
 ---
 
 <!-- put more details about participant here -->
