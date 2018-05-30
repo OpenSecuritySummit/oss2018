@@ -24,6 +24,7 @@ sessions        :
     - Agile Practices for Security Teams
     - Cyber Risk Modeling
     - European GDPR variations
+    - GDPR Compliance what does it mean?
 ticket          : 5x24h
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
