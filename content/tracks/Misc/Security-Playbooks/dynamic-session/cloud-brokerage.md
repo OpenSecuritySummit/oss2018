@@ -1,10 +1,8 @@
 ---
 title        : Cloud brokerage - authentication and authorisation
-type         : working-session
+type         : dynamic-session
 track        : Misc
-topics       : ["Security Playbooks"]
 technology   :
-categories   : ["Security Playbooks"]
 featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : Eve-1

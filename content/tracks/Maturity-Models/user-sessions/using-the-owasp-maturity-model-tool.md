@@ -1,6 +1,6 @@
 ---
 title        : Using the OWASP Maturity Model tool
-type         : working-session    # working-session, user-session
+type         : user-session    # working-session, user-session
 track        : Maturity Models
 topics       : ["OWASP"]
 technology   :
@@ -12,7 +12,7 @@ room_layout  :                    #
 room_number  :
 session_slack:
 status       : review-content              # draft, review-content, done
-description  : Practical session on using the JIRA-NeoVis tool
+description  : Practical session on using the OWASP Maturity Model tool
 organizers   :
     - Sotiraki Sima
 participants :

@@ -1,27 +1,28 @@
 ---
-title        : Implementing the OWASP responsible disclosure Maturity Model
-type         : user-session    # working-session, user-session
+title        : Creating an open 3rd Party Supplier Questionnaire and maturity model
+type         : working-session    # working-session, user-session
 track        : Maturity Models
 topics       : ["OWASP"]
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     : yes                 # review with summit team "yes"
-when_day     : Wed
+when_day     : Thu
 when_time    : PM-2
 room_layout  :                    #
 room_number  :
 session_slack:
 status       : review-content              # draft, review-content, done
-description  : Hand-on session on creating the OWASP responsible disclosure Maturity Model
+description  : Create a common  3rd Party Supplier Maturity Model
 organizers   :
-    - Sotiraki Sima
-    - Stu Hirst
+    - Goher Mohammad
 participants :
     - Ann-Marie Grace
+    - Sotiraki Sima
 ---
 
-Hands-on session on using the https://github.com/owasp/maturity-models tool to implement the
-model created in last year's summit https://owaspsummit.org/Working-Sessions/Security-Crowdsourcing/Responsible-disclosure.html
+Consolidate shared (by Summit participants) 3rd party questionnaire currently used internally
+
+Use the https://github.com/owasp/maturity-models tool to create an easy way to capture and visualise the data.
 
 <!--(add intro)
 
