@@ -11,7 +11,7 @@ description  : Hands on session on how to use JIRA for incident response
 status       : draft
 organizers   :
     - Ann-Marie Grace
-participants
+participants :
 ---
 
 Hands on session on how to use JIRA for incident response
