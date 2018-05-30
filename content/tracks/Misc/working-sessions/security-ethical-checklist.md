@@ -25,7 +25,7 @@ Developers have to design, write, test and deploy code. They are potentially the
 
 ## What
 
-As a group, we'll be reviewing and improving upon some initial thoughts on a usable ethical security checklist for developers.
+As a group, we'll be reviewing and improving upon some initial thoughts on a usable ethical security checklist for developers, working through our outline agenda: https://docs.google.com/document/d/1M9Tk44JJXV36M3Im-HswopbgjjOCU_jdOZA0fgnydrU/edit?usp=sharing.
 
 ## Outcomes
 
