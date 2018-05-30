@@ -22,24 +22,19 @@ status          : add-details
 tracks          :
     - Threat Model
 sessions        :
-#  - API Threat Modeling Cheat Sheet
-#  - Attack chains as TM technique
-#  - Back to the future with Threat Modeling
-#  - Describe different ways of implementing TM in agile organisations
-#  - Docker and Kubernetes Threat Modeling Cheat Sheet
-#  - Federated Login with Social Platforms Threat Modeling Cheat Sheet
-#  - How to Threat Model Features with Questionnaires
-#  - How to scale Threat Modeling.
-#  - IoT Threat Modeling Cheat Sheet
-#  - Threat Model training through Gamification
-#  - Threat model cheat sheets
-#  - Update Threat Modeling pages on owasp web site
   - Integrating Security Tools in the SDL
-#  - Using Threat Models for GDPR
+  - Using Threat Models for GDPR
   - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
   - OwaspSAMM - Best Practices
   - Wardley Mapping – a practical session on how to use value chain mapping
   - Getting more women in Cyber-security
+  - Recruiting Appsec Talent
+  - Agile practices for security teams
+  - OWASP DevSecOps Studio
+  - Creating Appsec metrics and visualisation
+  - A seat at the table
+  - Adding Privacy by Design in Secure Application Development
+  - Crossing the river by feeling the stones
 
 ---
 
