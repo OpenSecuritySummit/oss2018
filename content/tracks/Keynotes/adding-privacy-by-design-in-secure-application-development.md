@@ -11,11 +11,9 @@ room_layout  :                    #
 room_number  :
 session_slack:
 status       :                   # draft, review-content, done
-organizers   : ["Dinis Cruz"]
-description  : Keynote by Dinis Cruz
+organizers   : ["Sebastien Deleersnyder"]
+description  : Keynote by Sebastien Deleersnyder
 ---
-
-Follow up version of the ideas presented at https://www.youtube.com/watch?v=xwuXz1ZEnhA
 
 <!--(add intro)
 
