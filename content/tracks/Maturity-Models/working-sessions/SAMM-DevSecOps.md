@@ -18,6 +18,7 @@ participants:
     - Jeff Williams
     - Bart De Win
     - Yan Kravchenko
+    - Matteo Meucci
 
 ---
 
