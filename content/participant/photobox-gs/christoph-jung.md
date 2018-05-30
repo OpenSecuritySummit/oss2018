@@ -13,7 +13,7 @@ facebook        :
 website         :
 email           :
 venue           : Wed, Thu
-night_day       : Tue, Wed
+night_day       : Tue, Wed, Thu
 night_where     : villa-6
 eventbrite_id   :
 pre-summit      :
