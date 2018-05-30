@@ -19,8 +19,6 @@ This Working Session aims to continue the work done at the last Summit on this C
 
 ## Why
 
-
-
 In the same way that countries use [NATO Collective defence - Article 5](http://www.nato.int/cps/cn/natohq/topics_110496.htm)
  to:
 
@@ -32,9 +30,6 @@ companies should share information, knowledge, and resources so that malicious a
 
 The framework created at the Working Session will promote collaboration between companies and create a shared mission to
 protect customer data and company assets.
-
-
-https://open-security-summit.org/tracks/ciso/working-sessions/owasp-collective-defence-agreement/
 
 ## What
 
