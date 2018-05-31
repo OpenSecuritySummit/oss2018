@@ -12,6 +12,7 @@ status       : draft
 organizers   :
     - Sotiraki Sima
 participants :
+    - Stephen Hookings
 ---
 
 Hands on session writing security tests

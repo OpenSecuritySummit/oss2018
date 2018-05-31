@@ -15,7 +15,7 @@ description  :
 participants :
 ---
 
-This Working Session aims to continue the work done at the last Summit on this CDC model
+This Working Session aims to continue the work done at the last Summit on this CDC model.
 
 ## Why
 
@@ -33,7 +33,8 @@ protect customer data and company assets.
 
 ## What
 
- - Review model created last year and share experiences from companies that tried it
+ - Review model created last year
+ - Share experiences from companies that tried it
 
 
 ## Outcomes

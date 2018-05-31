@@ -19,6 +19,7 @@ participants :
     - Dominik de Smit
     - Manuel Jeckelmann
     - Onkar Dhane
+    - Stephen Hookings
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 
