@@ -1,5 +1,5 @@
 ---
-title           : Yiannis Koukouras
+title           : Panagiotis Yialouris
 type            : participant
 job_title       :
 company         :

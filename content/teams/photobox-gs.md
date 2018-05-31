@@ -9,19 +9,53 @@ twitter         :
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
-_sessions:
+should attend:
     - Creating a Steady-State Hypothesis
     - GS Detect Daily Scrum (Mon)
     - Hands on Chaos Experiments
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
-members:
-    - Anne-Marie Grace
+    ## Akamai
+    - Akamai WAF & Ruleset Session (Tue)
+    - Akamai Alerting (Wed)
+    - Akamai Logging (Thu)  
+    - Writing Akamai Rules
+    ## Darktrace
+    - Darktrace Tuning Session (Mon)
+    - Darktrace API & Elastic Stack (Wed)
+    - Darktrace Alerts (Thu)
+    - Darktrace Review (Fri)
+    - Incident handling with Darktrace
+    ## AWS
+    - AWS Brand Review (Mon)
+    - AWS Lambda Security (Tue)
+    - AWS WAF for DDoS Mitigation (Tue)
+    - Replacing Akamai with AWS Shield (Tue)
+    - AWS Logging (Wed)
+    - AWS Scenarios (Thu) 
+    - Securing AWS S3 Buckets
+    ## GDPR
+    - Creating a standard for GDPR patterns
+    - GDPR Appropriate Security Controls
+    - Hands-on GDPR patterns
+    - Using graphs for GDPR mappings 
+    ## Neo4J
+    - Using Neo4J Enterprise
+    ## Threat Modeling
+    - Threat Model Cheat Sheets
+    - TM in Agile Organisations
+    - Using Threat Models for GDPR
+    
+    
+    members:
+    - Ann-Marie Grace
     - Charlotte Bullock
     - Christoph Jung
     - Dan Gapco
+    - David Cervigni
     - Dinis Cruz
+    - Felicia Hislop
     - Fernanda Almeida
     - Goher Mohammad
     - James Wharton
@@ -35,7 +69,7 @@ members:
     - Stu Hirst
     - Toby Shelswell
     - Vladimir Voskresenskiy
-    - David Cervigni
+    
 
 notes :
 ---
