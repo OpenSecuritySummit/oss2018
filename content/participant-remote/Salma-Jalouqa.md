@@ -16,12 +16,11 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :    
-    - Using Pixi  
     - API Threat Modeling Cheat Sheet
     - Application Security Verification Standard 
     - Getting more women in Cyber-security  
-    - Cloud brokerage 
-    - authentication and authorisation   
+    - Publishing apps in a VSTS security pipeline
+    - Owasp Cloud Security Workshop (BETA)
     - Owasp Testing Guide v5  
     - Security Playbooks
 ---
