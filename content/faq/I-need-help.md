@@ -35,7 +35,7 @@ If you would like to email before or during the event please contact [info@opens
 
 ### I need help before the Summit starts
 We created a dedicated Slack channel `#open-security-channel` for pre-summit correspondence on `owasp.slack.com`\
-Please find the details [how you can join this channel](https://open-security-summit.org/faq/reach-us-in-slack/).
+Please find details [how you can join this channel](https://open-security-summit.org/faq/reach-us-in-slack/).
 
 ### I'm interested in specifics about a session. Who can help me?
 We created separate Slack channels for every session. ([Join us]((https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc)) on Slack)\
