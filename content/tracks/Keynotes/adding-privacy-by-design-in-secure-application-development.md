@@ -8,7 +8,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Fri
 when_time    : KN-2
 room_layout  :                    #
-room_number  :
+room_id      :
 session_slack:
 status       :                   # draft, review-content, done
 organizers   : ["Sebastien Deleersnyder"]

@@ -3,7 +3,7 @@ title        : GS Detect Daily Scrum (Mon)
 type         : private-session
 when_day     : Mon
 when_time    : AM-1
-room_number  :
+room_id      :
 session_slack: 
 status       : done
 organizers   :

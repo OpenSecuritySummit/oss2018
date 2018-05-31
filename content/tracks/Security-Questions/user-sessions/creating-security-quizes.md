@@ -6,7 +6,7 @@ technology   :
 when_day     : Thu
 when_time    : PM-1
 room_layout  :
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVAX0YN7
 status       : ok
 organizers   :

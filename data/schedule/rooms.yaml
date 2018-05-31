@@ -1,0 +1,15 @@
+main-hall:
+  title    : Main Hall
+  layout   : tbd
+  location : conference
+  capacity : 100
+room-1:
+  title    : Kings
+  layout   : tbd
+  location : conference
+  capacity : 40
+room-2:
+  title    : Portland
+  layout   : tbd
+  location : conference
+  capacity : 40

@@ -6,7 +6,7 @@ technology   :
 when_day     : Fri
 when_time    : PM-1,PM-2
 room_layout  :
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAUMGE4HW
 status       : ok
 organizers   :

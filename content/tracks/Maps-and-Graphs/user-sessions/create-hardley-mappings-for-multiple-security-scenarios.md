@@ -7,8 +7,7 @@ categories   :                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-2
-room_layout  :                    #
-room_number  :
+room_id      : room-2
 session_slack:
 status       : review-content              # draft, review-content, done
 description  : Practical session on creating [Hardley Maps]

@@ -8,7 +8,7 @@ featured     : yes
 when_day     : Tue
 when_time    : AM-2
 room_layout  :                    #
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWETV4UF
 status       : review-content              # draft, review-content, done
 description  : multiple working sessions on the new SAMMv2

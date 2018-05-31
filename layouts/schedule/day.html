@@ -1,0 +1,18 @@
+{{ define "content" }}
+
+ <!--{{ .Params.day}}-->
+
+{{ range .Site.Data.schedule.rooms}}
+    <li>{{ .title }}</li>
+{{ end }}
+
+{{ index .Site.Data.schedule.rooms "room-1"}}
+
+
+{{ $pages := where .Site.Pages ".Params.when_day" "in" "Mon" }}
+
+{{ range $pages }}
+    <li> <b>{{.Params.room_id}}</b>  | {{ . }} </li>
+{{ end }}
+
+{{ end }}

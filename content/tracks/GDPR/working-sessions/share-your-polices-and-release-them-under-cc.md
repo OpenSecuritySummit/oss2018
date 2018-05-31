@@ -9,7 +9,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
-room_number  :
+room_id      :
 session_slack:
 status       : draft              # draft, review-content, done
 description  : Map out what these are and what is the best way to measure them

@@ -9,7 +9,7 @@
 #when_day     : Tue
 #when_time    : PM-3
 #room_layout  :
-#room_number  :
+#room_id      :
 #status       : draft              # draft, review-content, done
 #description  : Owasp Devslop User Session
 #organizers   : Tanya Janca

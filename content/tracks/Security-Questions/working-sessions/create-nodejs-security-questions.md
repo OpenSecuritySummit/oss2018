@@ -7,7 +7,7 @@ featured     : yes
 when_day     : Wed
 when_time    : PM-2
 room_layout  :
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVGN3J7P
 status       : ok
 organizers   :

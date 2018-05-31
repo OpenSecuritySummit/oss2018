@@ -9,7 +9,7 @@ featured     : yes                # review with summit team "yes"
 when_day     : Thu                # i.e.    Tue
 when_time    : PM-2               # i.e.    AM-1
 room_layout  :                    #
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAXE826E8
 status       : review-content              # draft, review-content, done
 description  :

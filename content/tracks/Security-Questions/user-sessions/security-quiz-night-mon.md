@@ -6,7 +6,7 @@ technology   :
 when_day     : Mon
 when_time    : Eve-1
 room_layout  :
-room_number  :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVDZFF1Q
 status       : ok
 description  :

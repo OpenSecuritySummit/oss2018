@@ -7,7 +7,7 @@ featured     : yes
 when_day     : Tue
 when_time    : AM-1
 room_layout  :
-room_number  :
+room_id      :
 session_slack:
 status       : done
 description  : Hands on session on how to use Wardley maps

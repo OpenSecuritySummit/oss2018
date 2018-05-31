@@ -9,7 +9,7 @@
 #when_day     : Wed
 #when_time    : AM-1
 #room_layout  :                    #
-#room_number  :
+#room_id      :
 #status       :                # draft, review-content, done
 #description  :
 #organizers   :

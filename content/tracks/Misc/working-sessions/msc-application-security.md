@@ -9,7 +9,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
-room_number  :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAW9Y64GN
 status       : draft              # draft, review-content, done
 description  : a core set of learning objectives for MSc level Application Security curricula (through online survey)
