@@ -34,7 +34,7 @@ Please go to the venue reception desk, if they can't help you, they will direct 
 If you would like to email before or during the event please contact [info@opensecsummit.org](mailto:info@opensecsummit.org).
 
 ### I need help before the Summit starts
-We created a dedicated Slack channel `#open-security-channel` for pre-summit correspondence on `owasp.slack.com`\
+We created dedicated Slack channel `#open-security-channel` for pre-summit correspondence on `owasp.slack.com`\
 Please find details [how you can join this channel](https://open-security-summit.org/faq/reach-us-in-slack/).
 
 ### I'm interested in specifics about a session. Who can help me?
