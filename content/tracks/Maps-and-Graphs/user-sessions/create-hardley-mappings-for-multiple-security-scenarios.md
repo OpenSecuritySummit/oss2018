@@ -1,5 +1,5 @@
 ---
-title        : Create Hardley Maps for multiple security scenarios
+title        : Create Wardley Maps for multiple security scenarios
 type         : working-session    # working-session, user-session
 track        : Maps and Graphs
 technology   :
