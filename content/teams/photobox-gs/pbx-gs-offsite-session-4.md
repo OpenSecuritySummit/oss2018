@@ -1,7 +1,7 @@
 ---
-title        : PBX-GS Offsite session 2
+title        : PBX-GS Offsite session 4
 type         : private-session
-when_day     : Tue
+when_day     : Thu
 when_time    : PM-3
 room_id      : villa-3
 locked       : true
@@ -13,5 +13,4 @@ organizers   :
 participants :
 ---
 
-
-Session #2 for members of Photobox Group Security
+Session #3 for members of Photobox Group Security.

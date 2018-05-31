@@ -16,14 +16,14 @@ regonline       :
 status          : add-details
 sessions        :
 notes           :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line):
-- Creating a Steady-State Hypothesis
-- Creating a standard for GDPR patterns
-- Integrating Security into an Spotify Model
-- Describe different ways of implementing TM in agile organisations
-- Securing the CI Pipeline
-- Creating Appsec metrics and visualisation
-- Using Jira for Incident Response
+    # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line):
+    - Creating a Steady-State Hypothesis
+    - Creating a standard for GDPR patterns
+    - Integrating Security into an Spotify Model
+    - Describe different ways of implementing TM in agile organisations
+    - Securing the CI Pipeline
+    - Creating Appsec metrics and visualisation
+    - Using Jira to handle Incident Response - simulations
 
 
 ---

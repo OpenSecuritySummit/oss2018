@@ -23,6 +23,7 @@
                 <span id="cell_widgets">
                     {{ partial "widgets/clues.html" .}}
                 </span>
+                <div class="schedule-by-track-cell-room-id">{{ .Params.room_id }}</div>
                 <div id="cell_participants">
                     {{ $participants := $.self.Scratch.Get .Params.title}}
                     {{ range $participants}}

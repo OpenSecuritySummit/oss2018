@@ -4,7 +4,8 @@ type         : private-session
 when_day     : Wed
 when_time    : PM-3
 room_layout  :                     #
-room_id      :
+room_id      : villa-3
+locked       : true
 session_slack: 
 status       : done
 description  :

@@ -5,7 +5,8 @@ track        : Misc
 topics       :
 when_day     : Fri
 when_time    : AM-1
-room_id      : 2
+room_id      : room-2
+locked       : true
 technology   :
 session_slack: https://os-summit.slack.com/messages/CAWPHNHPA
 categories   :
@@ -14,7 +15,12 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Ann-Marie Grace
     - James Wharton
+    - Francois Raynaud
+    - Puneet Thapliyal
+    - Imran Mohammed A
+    - Paul Dubourg
 participants :
+
 ---
 
 Incident response simulations and role play scenarios

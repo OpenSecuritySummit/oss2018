@@ -6,8 +6,8 @@ topics       : ["Wardley Maps"]
 featured     : yes
 when_day     : Tue
 when_time    : AM-1
-room_layout  :
-room_id      :
+room_id      : room-2
+locked       : true
 session_slack:
 status       : done
 description  : Hands on session on how to use Wardley maps

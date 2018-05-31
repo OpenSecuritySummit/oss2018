@@ -1,6 +1,6 @@
 ---
-title        : Jira - how to use it
-type         : working-session
+title        : JIRA - how to use it
+type         : user-session
 track        : Misc
 topics       : ["JIRA"]
 technology   :
@@ -9,7 +9,8 @@ featured     :                    # review with summit team "yes"
 when_day     : Mon
 when_time    : AM-1
 room_layout  : villa-2
-room_id      :
+room_id      : room-4
+locked       : true
 session_slack: https://os-summit.slack.com/messages/CAWPJ06U8
 status       : review-content             # draft, review-content, done
 organizers   :

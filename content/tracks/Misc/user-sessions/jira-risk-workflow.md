@@ -1,18 +1,18 @@
 ---
 title        : JIRA Risk Workflow
 type         : working-session
-tracks       : Misc
+track        : Misc
 topics       : ["JIRA"]
 featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : AM-1
-room_layout  :                    #
-room_id      :
+room_id      : room-2
+locked       : true
 session_slack: https://os-summit.slack.com/messages/CAVH3MHPX
 status       : review-content     # draft, review-content, done
-organizers   :
-track        : DevSecOps
 description  : This Working Session should result in an improved JIRA Risk Workflow
+organizers   :
+    Dinis Cruz
 participants :
 ---
 

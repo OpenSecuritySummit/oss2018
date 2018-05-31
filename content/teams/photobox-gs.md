@@ -10,21 +10,22 @@ website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
 sessions:
-    - GS Detect Daily Scrum (Mon)
-    - GS Detect Daily Scrum (Tue)
-    - GS Detect Daily Scrum (Wed)
-    - GS Detect Daily Scrum (Thu)
-    - GS Detect Daily Scrum (Fri)
+#    - GS Detect Daily Scrum (Mon)
+#    - GS Detect Daily Scrum (Tue)
+#    - GS Detect Daily Scrum (Wed)
+#    - GS Detect Daily Scrum (Thu)
+#    - GS Detect Daily Scrum (Fri)
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
+    - PBX-GS Offsite session 4
+    - PBX-GS Offsite session 5
     - Create a Slack bot in Python
     - Create Wardley Maps for multiple security scenarios
     - Using Jira to handle Incident Response - simulations
     - Hands-on JIRA Schema refactoring
     - JIRA - how to use it
     - JIRA Risk Workflow
-    - Using JIRA-NeoVis to create graphical representations of JIRA data
     - Using maps to define how to capture, detect and prevent 6 real-world security incidents
     - Using User Story Mapping for effective communication
     - Wardley Mapping – a practical session on how to use value chain mapping

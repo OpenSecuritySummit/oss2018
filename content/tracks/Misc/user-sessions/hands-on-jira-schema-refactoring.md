@@ -8,8 +8,8 @@ categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-1
-room_layout  :                    #
-room_id      :
+room_id      : room-4
+locked       : true
 session_slack: https://os-summit.slack.com/messages/CAWPJ06U8
 status       : review-content             # draft, review-content, done
 organizers   :
