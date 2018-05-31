@@ -1,15 +1,15 @@
 ---
-title           : Takis Krommydakis
+title           : Xenofon Vassilakopoulos
 type            : participant
-job_title       : Senior Information Security Consultant / Penetration Tester
+job_title       :
 company         : Twelvesec
 travel_from     : Greece
-image           : https://media.licdn.com/dms/image/C5603AQELfNzc3gp0XQ/profile-displayphoto-shrink_200_200/0?e=1528563600&v=beta&t=y3ND0lYs43_BYO3b67wbXZX1RkxuwgCAiRYKkKMWxvs
-linkedin        : panagiotis-krommydakis-6b45b020/
+image           : 
+linkedin        : 
 twitter         : Twelvesec
 facebook        :
 website         : https://www.twelvesec.com/
-email           : tkrommydakis@twelvesec.com
+email           : 
 project_leader  :
 chapter_leader  :
 eventbrite_id   :
