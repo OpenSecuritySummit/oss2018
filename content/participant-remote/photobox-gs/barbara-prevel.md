@@ -18,6 +18,13 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :
+
+          - AWS Lambda Security 
+          - AWS WAF for DDoS Mitigation 
+          - Replacing Akamai with AWS Shield 
+          - Incident handling with DarkTrace
+          - Owasp Testing Guide v5
+          - Using AI and ML for incident response
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
