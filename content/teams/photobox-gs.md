@@ -62,13 +62,11 @@ members:
     - John Killilea
     - Manuel Almeida
     - Naushad Saboor
-    - Prakash Sharma
     - Robert Grace
     - Simon Pavillon
+    - Sotiraki Sima
     - Stu Hirst
     - Toby Shelswell
-    - Vladimir Voskresenskiy
-    
 
 notes :
 ---

@@ -2,7 +2,7 @@
 title        : PBX-GS Offsite session 2
 type         : private-session
 when_day     : Tue
-when_time    : PM-1
+when_time    : PM-3
 room_id      :
 session_slack: 
 status       : done

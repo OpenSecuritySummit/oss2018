@@ -1,20 +1,20 @@
 ---
-title        : GS Detect Daily Scrum (Mon)
-type         : private-session
-when_day     : Mon
-when_time    : AM-1
-room_id      :
+title        : GS Detect Daily Scrum (Wed)
+type         : dynamic-session
+when_day     : Wed
+when_time    : DS-1
+room_id      : table-1
 session_slack: 
 status       : done
+description  :
 organizers   :
     - James Wharton
-description  :
 participants :
     - Dan Gapco
     - John Killilea
     - Naushad Saboor
     - Simon Pavillon
-    - Vladimir Voskresenskiy
+    - Stu Hirst
 
 ---
 
