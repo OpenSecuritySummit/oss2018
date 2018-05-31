@@ -11,6 +11,7 @@ facebook        :
 website         : flyingbinary.com
 email           : ian.taylor@flyingbinary.com
 venue           : Thu
+when_day        : Thu
 featured        : no
 project_leader  :
 chapter_leader  :
