@@ -7,8 +7,7 @@ categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Wed
 when_time    : KN-2
-room_layout  :                    #
-room_id      :
+room_id      : main-stage
 session_slack:
 status       :                   # draft, review-content, done
 organizers   : ["Dinis Cruz"]

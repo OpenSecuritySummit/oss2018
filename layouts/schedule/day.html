@@ -27,60 +27,7 @@
     </style>
 
     {{ partial "schedule/by-room/day.html" (dict "self" . "day" .Params.day ) }}
-    <h1>aaaa</h1>
-    {{ $pages := where .Site.Pages ".Params.when_day" "in" .Params.day }}
 
-    {{ range $pages }}
-        {{ if .Params.room_id }}
-            {{ $.Scratch.Add .Params.room_id   (slice .) }}
-            {{ $.Scratch.Add .Params.when_time (slice .) }}
-        {{ else }}
-            {{ $.Scratch.Add "no room" (slice .) }}
-        {{  end }}
-    {{ end }}
-    <h2>Main conference facility</h2>
-    <table class="table">
-        <thead>
-            <td class="schedule-by-track-row-time"></td>
-            {{ range $key ,$value := .Site.Data.schedule.rooms}}
-                <th>
-                    <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
-                    <div class="schedule-by-track-cell-room-id">{{$key}}</div>
-                </th>
-            {{ end }}
-        </thead>
-
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.rooms "time" "KN-2" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.rooms "time" "AM-1" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.rooms "time" "PM-1" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.rooms "time" "PM-2" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.rooms "time" "PM-3" )}}
-    </table>
-
-    <h2>Villas</h2>
-    <table class="table">
-        <thead>
-        <td class="schedule-by-track-row-time"></td>
-        {{ range $key ,$value := .Site.Data.schedule.villas}}
-            <th>
-                <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
-                <div class="schedule-by-track-cell-room-id">{{$key}}</div>
-            </th>
-        {{ end }}
-        </thead>
-
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.villas "time" "KN-2" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.villas "time" "AM-1" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.villas "time" "PM-1" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.villas "time" "PM-2" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.villas "time" "Eve-1" )}}
-        {{ partial "schedule/by-room/row.html" (dict "self" . "where" .Site.Data.schedule.villas "time" "Eve-2" )}}
-    </table>
-
-<h3>Sessions with no room booked for {{ .Params.day}}</h3>
-    {{ range $.Scratch.Get "no room" }}
-        <li><a href="{{.Permalink }}">{{.Params.title}}</a></li>
-    {{ end }}
-
-{{ partial "schedule/by-room/links-to-days.html" }}
+    {{ partial "schedule/by-room/no-room-booked.html" (dict "self" . "day" .Params.day )  }}
+    {{ partial "schedule/by-room/links-to-days.html" }}
 {{ end }}

@@ -3,3 +3,18 @@ villa-1:
   layout   : tbd
   location : villa
   capacity : 40
+villa-2:
+  title    : Villa 2
+  layout   : tbd
+  location : villa
+  capacity : 40
+villa-3:
+  title    : Villa 3
+  layout   : tbd
+  location : villa
+  capacity : 40
+villa-4:
+  title    : Villa 4
+  layout   : tbd
+  location : villa
+  capacity : 40

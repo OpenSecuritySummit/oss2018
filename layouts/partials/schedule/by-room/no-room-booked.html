@@ -1,0 +1,6 @@
+<h3>Sessions with no room booked for {{ .day}}</h3>
+<ul>
+    {{ range .self.Scratch.Get "no room" }}
+        <li><a href="{{.Permalink }}">{{.Params.title}}</a></li>
+    {{ end }}
+</ul>
