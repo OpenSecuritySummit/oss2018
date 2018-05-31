@@ -26,4 +26,6 @@ sessions        :
     - IoT Threat Modeling Cheat Sheet
     - How to scale Threat Modeling.
     - Threat Model training through Gamification
+    - Getting more women in Cyber-security
+    
 ---
