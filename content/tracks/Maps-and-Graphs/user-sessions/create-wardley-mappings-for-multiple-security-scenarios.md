@@ -1,5 +1,5 @@
 ---
-title        : Create Hardley Maps for multiple security scenarios
+title        : Create Wardley Maps for multiple security scenarios
 type         : working-session    # working-session, user-session
 track        : Maps and Graphs
 technology   :
@@ -10,13 +10,13 @@ when_time    : PM-2
 room_id      : room-2
 session_slack:
 status       : review-content              # draft, review-content, done
-description  : Practical session on creating [Hardley Maps]
+description  : Practical session on creating [Wardley Maps]
 organizers   :
     - Dinis Cruz
 participants :
 ---
 
-Practical session on creating [Hardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
+Practical session on creating [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)
 
 <!--(add intro)
 

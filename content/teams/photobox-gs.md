@@ -10,34 +10,45 @@ website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
 sessions:
-   
+    - GS Detect Daily Scrum (Mon)
+    - GS Detect Daily Scrum (Tue)
+    - GS Detect Daily Scrum (Wed)
+    - GS Detect Daily Scrum (Thu)
+    - GS Detect Daily Scrum (Fri)
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
+    - Create a Slack bot in Python
+    - Create Wardley Maps for multiple security scenarios
+    - Using Jira to handle Incident Response - simulations
+    - Hands-on JIRA Schema refactoring
+    - JIRA - how to use it
+    - JIRA Risk Workflow
+    - Using JIRA-NeoVis to create graphical representations of JIRA data
+    - Using maps to define how to capture, detect and prevent 6 real-world security incidents
+    - Using User Story Mapping for effective communication
+    - Wardley Mapping – a practical session on how to use value chain mapping
+    - Using Threat Models for GDPR
+
+
+other:
     ## Akamai
-    - Akamai WAF & Ruleset Session (Tue)
-    - Akamai Alerting (Wed)
-    - Akamai Logging (Thu)  
-    - Writing Akamai Rules
+    - Akamai WAF & Ruleset : Tue - PM-1
+    - Akamai Alerting and Logging : Tue - DS-1
+    - Writing Akamai Rules  :  Tue - DS-2
     ## AWS
-    - AWS Brand Review (Mon)
-    - AWS Lambda Security (Tue)
-    - AWS WAF for DDoS Mitigation (Tue)
-    - Replacing Akamai with AWS Shield (Tue)
-    - AWS Logging (Wed)
-    - AWS Scenarios (Thu) 
-    - Securing AWS S3 Buckets
-    - Using AWS Neptune GraphDB
-    - AWS Macie
-    - AWS Guard Duty
+    - AWS Lambda Security (Wed) - PM-1
+    - AWS WAF for DDoS Mitigation : Wed - AM-1
+    - Replacing Akamai with AWS Shield - Tue - PM-2
+    - AWS Scenarios (Thu) -  Fri PM-1
+    - Securing AWS S3 Buckets - Wed - PM-2
+    - AWS Macie  - Tue - Eve-1
+    - AWS Guard Duty - Tue - Eve-2
     ## Darktrace
-    - Darktrace Tuning Session (Mon)
-    - Darktrace API & Elastic Stack (Wed)
-    - Darktrace Alerts (Thu)
-    - Darktrace Review (Fri)
-    - Incident handling with Darktrace
-    ## ELK Dashboards
-    - Creating ELK Dashboards
+    - Darktrace Tuning Session (Wed Eve-1)
+    - Darktrace Alerts (Wed Eve-2)
+    - Darktrace API & Elastic Stack (Fri - PM-2)
+
     ## GDPR
     - Creating a standard for GDPR patterns
     - GDPR Appropriate Security Controls
@@ -45,7 +56,6 @@ sessions:
     - Using graphs for GDPR mappings 
     ## Incident response
     - Using AI and ML for incident response
-    - Incident response - simulations
     ## Mapping
     - Using maps to capture, detect, and prevent security incidents
     - Using User story mapping for effective communication
@@ -74,7 +84,6 @@ sessions:
     - Creating a Steady-State Hypothesis
     - Dark and Deep Web Threat Intelligence
     - Dependency management using Snyk
-    - GS Detect Daily Scrum (Mon)
     - Hands on Chaos Experiments
     - Integrate securityheaders.com in CI pipeline
     - Lessons learned from public bug bounty programmes
@@ -84,12 +93,8 @@ sessions:
     - Using Elastic Stack services
     - Using a Rules Engine and Risk Patters with IriusRisk
     - Writing security tests to confirm vulnerabilities and fixes
-    
-    
- 
-    
-    
-    members:
+
+members:
     - Ann-Marie Grace
     - Charlotte Bullock
     - Christoph Jung

@@ -1,14 +1,14 @@
 ---
-title        : Jira (how to use it)
+title        : Jira - how to use it
 type         : working-session
 track        : Misc
 topics       : ["JIRA"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-1
-room_layout  :                    #
+when_day     : Mon
+when_time    : AM-1
+room_layout  : villa-2
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWPJ06U8
 status       : review-content             # draft, review-content, done

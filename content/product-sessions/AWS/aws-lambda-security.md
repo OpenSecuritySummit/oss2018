@@ -1,6 +1,6 @@
 ---
 title        : AWS Lambda Security
-type         : working-session
+type         : product-session
 topics       : ["AWS"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

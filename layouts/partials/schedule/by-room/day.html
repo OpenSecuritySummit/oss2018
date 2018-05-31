@@ -2,8 +2,14 @@
 
 {{ range $pages }}
     {{ if .Params.room_id }}
-        {{ $.self.Scratch.Add .Params.room_id   (slice .) }}
-        {{ $.self.Scratch.Add .Params.when_time (slice .) }}
+        {{if eq  (printf "%T"  .Params.room_id) "string" }}
+            {{ $.self.Scratch.Add .Params.room_id   (slice .) }}
+            {{ if .Params.when_time }}
+                {{ $.self.Scratch.Add .Params.when_time (slice .) }}
+            {{ else }}
+                {{ $.self.Scratch.Add "no time" (slice .) }}
+            {{ end }}
+        {{ end }}
     {{ else }}
         {{ $.self.Scratch.Add "no room" (slice .) }}
     {{  end }}

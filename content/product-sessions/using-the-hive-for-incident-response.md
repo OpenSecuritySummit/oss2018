@@ -18,6 +18,7 @@ description  : Hands on session on using a customized version of the The Hive fo
 organizers   :
     - Francois Raynaud
 participants :
+    - James Wharton
     - Dan Gapco
     - John Killilea
     - Vladimir Voskresenskiy

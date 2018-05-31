@@ -48,7 +48,7 @@ sessions:
 - Using JIRA for incident response
 # - 
 - Threat Model training through Gamification
-- Incident Response - simulations
+- Using Jira to handle Incident Response - simulations
 # Friday
 - Using AI and ML for incident response
 ---

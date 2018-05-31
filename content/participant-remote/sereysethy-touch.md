@@ -15,7 +15,7 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
-  - Owasp Top 5 Machine Learning risks
+    - Owasp Top 5 Machine Learning risks
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---

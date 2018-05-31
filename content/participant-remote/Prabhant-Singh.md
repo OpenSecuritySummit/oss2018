@@ -15,5 +15,6 @@ chapter_leader  :
 eventbrite_id   :
 pre-summit      :
 status          : Remote
-sessions        : OWASP Top 5 Machine Learning Risks
+sessions        :
+    - OWASP Top 5 Machine Learning Risks
 ---
