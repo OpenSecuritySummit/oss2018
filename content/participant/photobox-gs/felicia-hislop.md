@@ -4,7 +4,7 @@ type            : participant
 job_title       : Programme Manager
 company         : Photobox
 travel_from     : 
-image           : 
+image           : https://media.licdn.com/dms/image/C5603AQGd13uMVJpSgA/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=KdTb-orr-lWH8IPq4EpDBEyrtmZZmWOBr0c2kNDxTG4
 linkedin        : felicia-hislop-1b08b333
 twitter         :
 facebook        :

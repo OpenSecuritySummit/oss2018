@@ -5,7 +5,7 @@ sponsored_by    : JE Marketing
 job_title       : Penetration Tester
 company         : OWASP
 travel_from     : NYC
-image           : 
+image           : https://media.licdn.com/dms/image/C4D03AQF8uydwCjbeSA/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=Iv9m2RVLJkGMBr8wutnnBu_3WEhR_l-T2c7X8pb_wpw
 linkedin        : karen-staley
 twitter         : thedeadrobots
 facebook        :

@@ -10,12 +10,6 @@ description  :
 organizers   :
     - James Wharton
 participants :
-    - Dan Gapco
-    - John Killilea
-    - Naushad Saboor
-    - Simon Pavillon
-    - Stu Hirst
-
 ---
 
 
