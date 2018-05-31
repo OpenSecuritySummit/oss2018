@@ -1,0 +1,50 @@
+{{ $pages := where .self.Site.Pages ".Params.when_day" "in" .day }}
+
+{{ range $pages }}
+    {{ if .Params.room_id }}
+        {{ $.self.Scratch.Add .Params.room_id   (slice .) }}
+        {{ $.self.Scratch.Add .Params.when_time (slice .) }}
+    {{ else }}
+        {{ $.self.Scratch.Add "no room" (slice .) }}
+    {{  end }}
+{{ end }}
+
+<h2>Main conference facility</h2>
+<table class="table">
+    <thead>
+        <th class="schedule-by-track-row-time"></th>
+        {{ range $key ,$value := .self.Site.Data.schedule.rooms}}
+            <th>
+                <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
+                <div class="schedule-by-track-cell-room-id">{{$key}}</div>
+            </th>
+        {{ end }}
+    </thead>
+
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.rooms "time" "KN-2" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.rooms "time" "AM-1" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.rooms "time" "PM-1" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.rooms "time" "PM-2" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.rooms "time" "PM-3" )}}
+</table>
+
+
+<h2>Villas</h2>
+<table class="table">
+    <thead>
+    <td class="schedule-by-track-row-time"></td>
+    {{ range $key ,$value := .self.Site.Data.schedule.villas}}
+    <th>
+        <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
+        <div class="schedule-by-track-cell-room-id">{{$key}}</div>
+    </th>
+    {{ end }}
+    </thead>
+
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.villas "time" "KN-2" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.villas "time" "AM-1" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.villas "time" "PM-1" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.villas "time" "PM-2" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.villas "time" "Eve-1" )}}
+    {{ partial "schedule/by-room/row.html" (dict "self" .self "where" .self.Site.Data.schedule.villas "time" "Eve-2" )}}
+</table>

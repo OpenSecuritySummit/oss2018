@@ -1,5 +1,5 @@
 ---
-title : Schedule by day
+title : Monday's schedule
 type  : schedule
 day   : Mon
 layout: day
