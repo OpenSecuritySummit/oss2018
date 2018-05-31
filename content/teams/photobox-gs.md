@@ -10,7 +10,6 @@ website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
 sessions:
-   
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
@@ -84,12 +83,7 @@ sessions:
     - Using Elastic Stack services
     - Using a Rules Engine and Risk Patters with IriusRisk
     - Writing security tests to confirm vulnerabilities and fixes
-    
-    
- 
-    
-    
-    members:
+members:
     - Ann-Marie Grace
     - Charlotte Bullock
     - Christoph Jung
@@ -110,8 +104,6 @@ sessions:
     - Stu Hirst
     - Toby Shelswell
     - Vladimir Voskresenskiy
-    
-
 notes :
 ---
 
