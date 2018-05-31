@@ -11,7 +11,7 @@ session_slack: https://os-summit.slack.com/messages/CAVCRC17U
 status       : ok
 organizers   :
 description  :
-participants :
+participants : Anne Currie
 organizers   :
     - John Fitzgerald
     - Rachel Power
