@@ -10,11 +10,13 @@ website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
 sessions:
+
 #    - GS Detect Daily Scrum (Mon)
 #    - GS Detect Daily Scrum (Tue)
 #    - GS Detect Daily Scrum (Wed)
 #    - GS Detect Daily Scrum (Thu)
 #    - GS Detect Daily Scrum (Fri)
+
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
@@ -114,8 +116,6 @@ members:
     - Simon Pavillon
     - Sotiraki Sima
     - Stu Hirst
-    - Toby Shelswell
-
 notes :
 ---
 

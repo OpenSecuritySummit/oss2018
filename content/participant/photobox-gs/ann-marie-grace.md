@@ -18,6 +18,9 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
+    
+    - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
+    - PBX-GS Offsite session 3
 ---
 
