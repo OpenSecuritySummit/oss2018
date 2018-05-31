@@ -9,10 +9,8 @@ twitter         :
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 status          :
-sessions   :
-    - Creating a Steady-State Hypothesis
-    - GS Detect Daily Scrum (Mon)
-    - Hands on Chaos Experiments
+sessions:
+   
     - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
@@ -21,12 +19,6 @@ sessions   :
     - Akamai Alerting (Wed)
     - Akamai Logging (Thu)  
     - Writing Akamai Rules
-    ## Darktrace
-    - Darktrace Tuning Session (Mon)
-    - Darktrace API & Elastic Stack (Wed)
-    - Darktrace Alerts (Thu)
-    - Darktrace Review (Fri)
-    - Incident handling with Darktrace
     ## AWS
     - AWS Brand Review (Mon)
     - AWS Lambda Security (Tue)
@@ -35,19 +27,69 @@ sessions   :
     - AWS Logging (Wed)
     - AWS Scenarios (Thu) 
     - Securing AWS S3 Buckets
+    - Using AWS Neptune GraphDB
+    - AWS Macie
+    - AWS Guard Duty
+    ## Darktrace
+    - Darktrace Tuning Session (Mon)
+    - Darktrace API & Elastic Stack (Wed)
+    - Darktrace Alerts (Thu)
+    - Darktrace Review (Fri)
+    - Incident handling with Darktrace
+    ## ELK Dashboards
+    - Creating ELK Dashboards
     ## GDPR
     - Creating a standard for GDPR patterns
     - GDPR Appropriate Security Controls
     - Hands-on GDPR patterns
     - Using graphs for GDPR mappings 
+    ## Incident response
+    - Using AI and ML for incident response
+    - Incident response - simulations
+    ## Mapping
+    - Using maps to capture, detect, and prevent security incidents
+    - Using User story mapping for effective communication
+    - SOC value chain using Wardley maps
     ## Neo4J
     - Using Neo4J Enterprise
+    - Usng Neo4J to filter and review SAST
+    ## OWASP
+    - Using the OWASP Maturity Model Tool
+    - Implementing the OWASP responsible disclosure Maturity Model
+    - OWASP Testing Guide v5
+    ## Policies
+    - Share your security policies and release them under Creative Commons
+    - Policies for the security industry
+    ## SAST
+    - Writing Checkmarx SAST rules
+    - Using Veracode SAST Engine
     ## Threat Modeling
     - Threat Model Cheat Sheets
     - TM in Agile Organisations
     - Using Threat Models for GDPR
-
-members:
+    ## Miscellaneous
+    - Cloud brokerage
+    - Create a Slackbot in Python
+    - Create a Tech radar for Security teams
+    - Creating a Steady-State Hypothesis
+    - Dark and Deep Web Threat Intelligence
+    - Dependency management using Snyk
+    - GS Detect Daily Scrum (Mon)
+    - Hands on Chaos Experiments
+    - Integrate securityheaders.com in CI pipeline
+    - Lessons learned from public bug bounty programmes
+    - Security Crowdsourcing
+    - Using data science for log analysis
+    - Using the Hive for Incident Response
+    - Using Elastic Stack services
+    - Using a Rules Engine and Risk Patters with IriusRisk
+    - Writing security tests to confirm vulnerabilities and fixes
+    
+    
+ 
+    
+    
+    members:
     - Ann-Marie Grace
     - Charlotte Bullock
     - Christoph Jung
