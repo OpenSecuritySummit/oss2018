@@ -1,13 +1,13 @@
 ---
-#title        : Adding CRS3 and Pixi to CircleCI pipeline
-#type         : user-session
-#track        : DecSecOps
-#when_day     : Wed
-#when_time    : PM-3
-#status       : draft
-#organizers   : Franziska Buehler
-#participants : Tanya Janca
-#description  : Adding OWASP ModSecurity Core Rule Set 3 and Pixi to CircleCI pipeline
+title        : Adding CRS3 and Pixi to CircleCI pipeline
+type         : user-session
+track        : DecSecOps
+when_day     : Wed
+when_time    : PM-3
+status       : draft
+organizers   : Franziska Buehler
+participants : Tanya Janca
+description  : Adding OWASP ModSecurity Core Rule Set 3 and Pixi to CircleCI pipeline
 ---
 
 ## Topic
@@ -43,7 +43,7 @@ We will put the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in fr
 ## Outcomes
 
 More security by adding the OWASP ModSecurity Core Rule Set in front of Pixi! <br />
-The CircleCI configuration and the Core Rule Set Docker Container can be taken as a free proof of concept. 
+The CircleCI configuration and the Core Rule Set Docker Container can be taken as a free proof of concept.
 
 ## References
 
