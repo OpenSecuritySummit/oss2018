@@ -2,7 +2,7 @@
 title           : Women in Tech
 type            : team
 team_type       : Community team
-#image           :
+image           : /img/teams/women-in-tech.png
 session_slack   :
 linkedin        :
 twitter         :
