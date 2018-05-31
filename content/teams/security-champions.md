@@ -2,7 +2,7 @@
 title           : Security Champions
 type            : team
 team_type       : Community team
-#image           :
+image           : /img/teams/sec-champ.png
 linkedin        :
 twitter         :
 session_slack   :
