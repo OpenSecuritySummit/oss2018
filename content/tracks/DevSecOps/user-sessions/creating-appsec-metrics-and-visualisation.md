@@ -14,7 +14,9 @@ session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
-participants : Francois Raynaud, Timo Pagel
+participants : 
+  - Francois Raynaud
+  - Timo Pagel
 ---
 
 ## Why
