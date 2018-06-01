@@ -1,5 +1,5 @@
 ---
-title        : Writing Checkmarx SAST rules
+title        : Darktrace Alerts
 type         : outcome
 session_type : product-session    # working-session, user-session, product-sesssion
 technology   :

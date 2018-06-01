@@ -12,7 +12,7 @@ when_day     : Thu
 when_time    : Eve-1
 room_layout  :
 room_id      :
-session_slack: https://os-summit.slack.com/messages/CAX6AT63B
+session_slack: https://os-summit.slack.com/messages/CB05WTDS7
 status       : review-content              # draft, review-content, done
 description  : Understanding the Deep Web, the Dark Web, & How to Guard Your Network and Sharing knowledge on Dark and Deep web Open Source Intelligence
 organizers   :
@@ -28,7 +28,6 @@ This course will attempt to clarify between the Visible Web, the Deep Web, and t
 
 This course is “produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for addressing a specific intelligence requirement.” We have used numerous such tools that act as a silver bullet in terms of accessing public sources.
 
-## Outcomes 
+## Outcomes
 
 We will cover the most popular and important tools for a security researchers. Basically, Dark web tools are used in the reconnaissance phase to gather as much information about the target as possible. These open source intelligence tools utilize artificial intelligence features to mine data from the Web about all possible matches to the desired target.
-
