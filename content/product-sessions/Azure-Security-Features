@@ -14,17 +14,15 @@ room_layout  :
 room_number  :
 session_slack: https://os-summit.slack.com/messages/CAX20DZBJ
 status       : draft
-description  : A demonstration of a few of Azure's Security features including: Access Control (AIM), Just in Time (JIT),
-Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
+description  : A demonstration of a few of Azure's Security features including - Access Control (AIM), Just in Time (JIT), Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
 organizers   : Tanya Janca
 participants :
-    -
+
 ---
 
 ## What
 
-A demonstration of a few of Azure's Security features including: Access Control (AIM), Just in Time (JIT) access control,
-Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
+A demonstration of a few of Azure's Security features including - Access Control (AIM), Just in Time (JIT) access control, Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
 
 ## Outcomes
 
