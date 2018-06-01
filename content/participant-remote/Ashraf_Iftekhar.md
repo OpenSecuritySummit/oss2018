@@ -3,7 +3,7 @@ title           : Ashraf Iftekhar
 type            : participant-remote
 job_title       : QA Engineer
 company         : Mutual Mobile Solutions
-image           : https://photos.google.com/u/0/search/_tra_/photo/AF1QipOCfZ-6kgYN5P8lYEe9vm_xUny66GCUYA6BLsbp
+image           : https://drive.google.com/uc?id=18ae0n3Mbu7xaHHBJFG0Wz5UQNgUEwlHQ
 linkedin        : https://www.linkedin.com/in/ashraf-rizvi-882078100/
 email           : ashrafrizvi3006@gmail.com
 status          : add-details
