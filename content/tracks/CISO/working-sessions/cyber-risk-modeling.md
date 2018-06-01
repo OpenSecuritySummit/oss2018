@@ -11,7 +11,8 @@ room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVGVTQ85
 status       : draft              # draft, review-content, done
 organizers   : ["Yvette Connor"]
-participants : - Tony Richards
+participants : 
+  - Tony Richards
 description  : Session on Risk Modeling
 ---
 
