@@ -27,6 +27,7 @@
         <li><a  class="bg-danger" href="{{ ref . "faq/Organisers-duties.md" }}"><i class="fa fa-exclamation-circle"></i> needs organizer </a></li>
     {{ end }}
 
+
       <li class="pull-right"><a class="bg-default" href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" target="_blank"><i class="fa fa-slack"></i> Invite link </a></li>
 
     {{ with .Params.session_slack }}
@@ -36,6 +37,10 @@
     {{ partial "outcomes/by-title.html" . }}
 
     <li class="pull-right"><a class="bg-default" href="https://owaspsummit.org/Outcomes/" target="_blank"><i class="fa"></i> 2017 Outcomes </a></li>
+
+    {{ with .Params.meet_url }}
+      <li class="pull-right bg-sucess"><a class="bg-success" href="{{ . }}" target="_blank"><i class="fa fa-phone"></i> Join Remotely</a></li>
+    {{ end }}
 
  </ul>
 </div>

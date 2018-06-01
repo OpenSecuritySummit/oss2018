@@ -1,5 +1,5 @@
 ---
-title        : Using AWS Neptune GraphDB
+title        : Akamai Alerting and Logging
 type         : outcome
 session_type : product-sesssion
 technology   :

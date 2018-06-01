@@ -9,11 +9,13 @@ technology   :
 session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
 description  : Hands on session writing security tests
 status       : draft
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 organizers   :
     - Sotiraki Sima
 participants :
     - Stephen Hookings
-meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+    - John Killilea
+    - Timo Pagel
 ---
 
 Hands on session writing security tests

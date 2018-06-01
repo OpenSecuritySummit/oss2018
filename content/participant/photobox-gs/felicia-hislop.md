@@ -19,5 +19,5 @@ sessions        :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
-Felicia Hislop is a programme manager with particular experience preparing businesses for GDPR, namely through risk analysis, data mapping, and embedding GDPR into everyday business practices. Felicia will run a working session on Policies across businesses that are owned by InfoSec teams, and policies in which InfoSec teams have an investment, but are owned by other parts of the business. Theworking session will also look at best practice for embedding these policies & ensuring their relevance.
+Felicia Hislop is a Programme Manager with particular experience preparing businesses for GDPR delivery, namely through risk analysis, data mapping, and embedding GDPR into everyday business practices. Felicia will run a working session on Policies across businesses that are owned by InfoSec teams, and policies in which InfoSec teams have an investment, but are owned by other parts of the business. The working session will also look at best practice for embedding these policies and ensuring their relevance.
 

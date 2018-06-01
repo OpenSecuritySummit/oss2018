@@ -17,6 +17,9 @@ organizers   :
     - Puneet Thapliyal
     - Imran Mohammed A
     - Paul Dubourg
+participants:
+     - Timo Pagel
+    
 description  : DevSecOps Maturity Model (DSOMM)
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
