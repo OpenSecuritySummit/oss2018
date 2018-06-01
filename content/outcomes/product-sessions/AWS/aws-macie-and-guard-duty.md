@@ -1,5 +1,5 @@
 ---
-title        : Using AWS Neptune GraphDB
+title        : AWS Macie and Guard Duty
 type         : outcome
 session_type : product-sesssion
 technology   :
