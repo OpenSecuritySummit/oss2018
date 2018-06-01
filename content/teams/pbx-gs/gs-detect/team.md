@@ -1,8 +1,8 @@
 ---
 title           : PBX GS Detect
-type             : team
+type            : team
+#hidden          : true
 team_type       : Sponsor
-#image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 tracks:

@@ -1,9 +1,9 @@
 ---
-title           : James Martin
+title           : David Jensen
 type            : participant
 sponsored_by    : PhotoBox
 job_title       :
-company         : Moonpig
+company         : PhotoBox
 travel_from     :
 image           :
 linkedin        :
@@ -11,7 +11,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Tue
+venue           : Wed
 eventbrite_id   :
 pre-summit      :
 status          : add details

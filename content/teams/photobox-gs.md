@@ -38,8 +38,7 @@ other:
     - Replacing Akamai with AWS Shield - Tue - PM-2
     - AWS Scenarios (Thu) -  Fri PM-1
     - Securing AWS S3 Buckets - Wed - PM-2
-    - AWS Macie  - Tue - Eve-1
-    - AWS Guard Duty - Tue - Eve-2
+
     ## Darktrace
     - Darktrace Tuning Session (Wed Eve-1)
     - Darktrace Alerts (Wed Eve-2)
@@ -91,24 +90,35 @@ other:
 
 members:
     - GS Detect
-    - Ann-Marie Grace
-    - Charlotte Bullock
-    - Christoph Jung
     - Dan Gapco
+    - James Wharton
+    - John Killilea
+    - Naushad Saboor
+    - Simon Pavillon
+    - Stu Hirst
+
+    - GS Risk
+    - Ann-Marie Grace
+    - Christoph Jung
+    - Goher Mohammad
+    - Robert Grace
+    - Head of Risk
+
+
+    - GS AppSec
     - David Cervigni
     - Dinis Cruz
+    - Sotiraki Sima
+    - Chris Allen
+
+    - GS Summit
+    - Charlotte Bullock
     - Felicia Hislop
     - Fernanda Almeida
-    - Goher Mohammad
-    - James Wharton
     - Jemma Davis-Smith
-    - John Killilea
     - Manuel Almeida
-    - Naushad Saboor
-    - Robert Grace
-    - Simon Pavillon
-    - Sotiraki Sima
-    - Stu Hirst
+
+
 notes :
 ---
 
