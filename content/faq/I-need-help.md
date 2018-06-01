@@ -2,7 +2,8 @@
 title       : I need help
 layout      : FAQ
 ---
-
+   <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
+   
 The Summit team is here to help you both before and during the Summit.\
 Please find below some frequently asked questions on `how` and `where` you can find help during and before the Summit starts.
 
