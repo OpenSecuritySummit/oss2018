@@ -4,7 +4,7 @@ type         : working-session
 technology   :
 categories   : #                   # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :
+when_day     : fri
 when_time    :
 room_layout  :                    #
 room_number  :
@@ -13,6 +13,7 @@ status       : draft              # draft, review-content, done
 organizers   : Felicia Hislop
 description  :
 participants :
+notes        : The organiser wants this session scheduled for Thursday afternoon or Friday
 ---
 
 
