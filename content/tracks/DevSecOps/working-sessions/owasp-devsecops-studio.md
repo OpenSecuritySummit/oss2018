@@ -20,6 +20,7 @@ participants :
     - Manuel Jeckelmann
     - Onkar Dhane
     - Stephen Hookings
+    - Timo Pagel
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 
