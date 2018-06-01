@@ -13,6 +13,7 @@ session_slack: https://os-summit.slack.com/messages/CAUSLQKRQ
 status       : draft              # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## WHY

@@ -16,6 +16,7 @@ outcomes_2017: https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.
 organizers   :
 description  : How to secure Github Integrations
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

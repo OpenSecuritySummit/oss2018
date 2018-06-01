@@ -12,6 +12,7 @@ session_slack: https://os-summit.slack.com/messages/CAV72NACU
 status       :                   # draft, review-content, done
 organizers   : ["Adam Shostack"]
 description  : Keynote by Adam
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 

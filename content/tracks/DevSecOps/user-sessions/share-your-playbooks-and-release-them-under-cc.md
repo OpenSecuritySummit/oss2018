@@ -17,6 +17,7 @@ participants:
     - Kevin Fielder
     - Wayne Moore
     - Mark Regensberg
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Session to consolidate and publish anonymised real-word playbooks (provided by Summit partipants)

@@ -18,6 +18,7 @@ participants :
   - Goher Mohammad
   - John Killilea
 description  : Working Sessions for Owasp Testing Guide v5
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 

@@ -12,6 +12,7 @@ session_slack:
 status       :                   # draft, review-content, done
 organizers   : ["Simon Wardley"]
 description  : Keynote by Simon Wardley
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Deng Xiaoping once described managing the economy as crossing the river by feeling the stones—in other words have a direction but be adaptive. But in a world of constant change, how do you determine the right thing to do? Which pebble to tread on? How do you understand where you’re going and where you need to go? How do you know if your strategy is right? Is there even such a thing?

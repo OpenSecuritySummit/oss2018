@@ -13,6 +13,7 @@ status       : draft              # draft, review-content, done
 owasp-project: yes
 description  : User session to help ZAP users
 organizers   :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 <!--(add intro)

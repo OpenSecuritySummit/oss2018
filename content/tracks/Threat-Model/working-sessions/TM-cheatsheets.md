@@ -13,6 +13,7 @@ status       : review-content             # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 track        : Threat Model
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## WHY

@@ -15,6 +15,7 @@ status       : done              # draft, review-content, done
 description  : Working Session on reviewing and agreeing on a set of GDPR patterns
 organizers   :
     - Mario Platt
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 GDPR Patterns are reusable mappings of data journeys across specific threat modelling

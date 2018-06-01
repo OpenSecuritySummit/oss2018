@@ -15,6 +15,7 @@ description  : Practical session on creating [Wardley Maps]
 organizers   :
     - Dinis Cruz
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Practical session on creating [Wardley Maps](https://medium.com/wardleymaps/on-being-lost-2ef5f05eb1ec)

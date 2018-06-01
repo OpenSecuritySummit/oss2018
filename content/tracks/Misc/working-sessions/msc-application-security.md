@@ -15,6 +15,7 @@ status       : draft              # draft, review-content, done
 description  : a core set of learning objectives for MSc level Application Security curricula (through online survey)
 organizers   : Adrian Winckles
 participants : Ade Yose man
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 
 ---
 

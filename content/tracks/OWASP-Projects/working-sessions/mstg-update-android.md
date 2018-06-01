@@ -14,6 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAVAMMT6F
 status       : done              # draft, review-content, done
 organizers   : Sven Schleier
 description  : Mobile Security Working Session
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 The Mobile Security Testing Guide (MSTG) is a comprehensive manual for mobile app security testing and reverse engineering. It describes technical processes for verifying the controls listed in the OWASP Mobile Application Verification Standard (MASVS).

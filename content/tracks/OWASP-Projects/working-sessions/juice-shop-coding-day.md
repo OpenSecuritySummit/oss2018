@@ -14,6 +14,7 @@ status       :  draft    # draft, review-content, done
 organizers   :
     - Timo Pagel
     - Jannik Hollenbach
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 ## Why
 

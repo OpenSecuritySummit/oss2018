@@ -8,6 +8,7 @@ status       : draft
 organizers   : Franziska Buehler
 participants : Tanya Janca
 description  : Adding OWASP ModSecurity Core Rule Set 3 and Pixi to CircleCI pipeline
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Topic

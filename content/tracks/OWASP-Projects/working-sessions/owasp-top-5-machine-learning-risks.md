@@ -16,6 +16,7 @@ description  :
 organizers   :
     - Talal Albacha
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why
@@ -48,4 +49,3 @@ Define risk rating approach for this type of attacks and suggest defence techniq
 -  paper file https://arxiv.org/abs/1712.05526
 - https://www.owasp.org/index.php/OWASP_Top_5_Machine_Learning_Risks
 - https://owaspsummit.org/Outcomes/machine-learning-and-security/machine-learning-and-security.html
-

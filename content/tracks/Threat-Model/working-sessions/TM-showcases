@@ -9,11 +9,12 @@ when_day     :
 when_time    :
 room_layout  :
 room_number  :
-session_slack: 
+session_slack:
 status       : draft
 organizers   :
 participants :
 description  : Methodology / technique showcase
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

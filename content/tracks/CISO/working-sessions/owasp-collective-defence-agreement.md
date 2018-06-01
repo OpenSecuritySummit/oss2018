@@ -13,6 +13,7 @@ status       : review-content     # draft, review-content, done
 organizers   :
 description  :
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 This Working Session aims to continue the work done at the last Summit on this CDC model.

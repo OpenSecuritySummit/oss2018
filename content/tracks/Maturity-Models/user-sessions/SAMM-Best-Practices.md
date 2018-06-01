@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Sharing best practices on how to get the most out of Owasp SAMM

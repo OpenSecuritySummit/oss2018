@@ -16,6 +16,7 @@ description  : Practical session on using the OWASP Maturity Model tool
 organizers   :
     - Sotiraki Sima
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Hands-on session on using the https://github.com/owasp/maturity-models tool

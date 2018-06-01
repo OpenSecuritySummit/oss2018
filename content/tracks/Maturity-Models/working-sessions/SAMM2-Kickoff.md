@@ -16,7 +16,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Discuss agenda - goals for this week. Welcome people who are going to participate

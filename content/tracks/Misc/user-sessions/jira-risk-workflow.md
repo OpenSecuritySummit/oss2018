@@ -14,6 +14,7 @@ description  : This Working Session should result in an improved JIRA Risk Workf
 organizers   :
     Dinis Cruz
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 This JIRA Risk Workflow can be used to manage the Risk process and ensure that business owners understand the side effects of the decisions they make.

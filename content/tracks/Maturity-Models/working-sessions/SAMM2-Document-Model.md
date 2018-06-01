@@ -16,7 +16,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 The aim is to reach a consensus on which elements we need to have in order to be able to describe the document and to arrive at a YAML format.

@@ -13,6 +13,7 @@ organizers   :
     - Sotiraki Sima
 participants :
     - Stephen Hookings
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Hands on session writing security tests

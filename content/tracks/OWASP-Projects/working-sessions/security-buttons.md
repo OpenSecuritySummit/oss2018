@@ -14,6 +14,7 @@ organizers   : Timo Pagel
 categories   : ["OWASP projects"]
 participants :
 description  : Agile Practices for Security Teams
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

@@ -16,6 +16,7 @@ organizers   :
     - Sotiraki Sima
 participants :
 description  : How to use Jira for risk management, incident response and managing a team
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 

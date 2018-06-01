@@ -12,7 +12,7 @@ status       : draft
 organizers   :
     - James Wharton
 participants:
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Based on the ideas and tech provided by ThoughtWorks at https://www.thoughtworks.com/radar

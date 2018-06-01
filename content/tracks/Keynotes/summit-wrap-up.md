@@ -8,11 +8,11 @@ when_day     : Fri                   # i.e.    Tue
 when_time    : PM-3                   # i.e.    AM-1
 room_layout  :                    #
 room_id      : main-hall
-session_slack: 
+session_slack:
 status       : add-content              # draft, review-content, done
 description  :
 organizers   :
     - Summit Org team
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
-

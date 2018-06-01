@@ -15,7 +15,7 @@ description  : Project meeting to review the status and update the plan for SAMM
 organizers   :
     - Sebastien Deleersnyder
 participants:
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Project meeting to review the status and update the plan for SAMM2

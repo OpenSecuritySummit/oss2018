@@ -22,6 +22,7 @@ participants :
 invited:
     - Simon Wardley
     - Tony Richards
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 How to apply Wardley maps to an SOC (Securty Operations Center).

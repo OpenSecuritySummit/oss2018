@@ -12,6 +12,7 @@ status       : draft
 organizers   :
     - Ann-Marie Grace
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Hands on session on how to use JIRA for incident response

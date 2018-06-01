@@ -16,6 +16,7 @@ organizers   :
   - Tony Richards
   - Simon Wardley
 description  : Practical session on how to use value chain mapping.
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Value Chain Mapping is used for all manner of initiatives; to aid corporate strategy development, to aid organizational development, to writing Sci-Fi books, to developing huge engineering projects, or to gain situational awareness.

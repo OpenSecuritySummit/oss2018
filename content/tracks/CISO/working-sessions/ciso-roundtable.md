@@ -17,6 +17,7 @@ participants :
     - Ante Gulam
     - Kevin Fielder
     - Tony Richards
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 <!--(add intro)

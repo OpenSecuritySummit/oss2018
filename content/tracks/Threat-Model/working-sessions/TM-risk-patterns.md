@@ -9,7 +9,7 @@ when_day     : Tues
 when_time    : AM-1
 room_layout  :                    #
 room_id      :
-session_slack: 
+session_slack:
 status       : draft             # draft, review-content, done
 organizers   :
     - Stephen de Vries
@@ -17,6 +17,7 @@ participants :
     - Paul Santapau, Jorge Esperon
 description  : Define a structure for defining re-usable risk patterns
 locked       : true
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

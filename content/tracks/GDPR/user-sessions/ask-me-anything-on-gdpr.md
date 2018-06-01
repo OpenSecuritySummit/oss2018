@@ -15,8 +15,8 @@ description  : Ask all the burning questions you have on GDPR
 organizers   :
     - Tony Richards
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 
 ---
 
 'Ask Me Anything' session where tech and non-tech people can ask anything someone who is from the industry relating to GDPR
-

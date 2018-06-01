@@ -15,7 +15,7 @@ description  : Introduction session on SAMM for people who want to know more abo
 organizers   :
     - Sebastien Deleersnyder
 participants:
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Crash course on SAMM as project and overview of the content/actions so far

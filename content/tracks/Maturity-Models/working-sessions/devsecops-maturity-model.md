@@ -18,6 +18,7 @@ organizers   :
     - Imran Mohammed A
     - Paul Dubourg
 description  : DevSecOps Maturity Model (DSOMM)
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 <!-- (add more details about DevSecOps Maturity Model here)

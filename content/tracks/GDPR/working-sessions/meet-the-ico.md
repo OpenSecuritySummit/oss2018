@@ -15,6 +15,7 @@ description  : If you could meet the ICO, what questions would you ask
 organizers   :
 participants :
     - Tony Richards
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 <!--(add intro)

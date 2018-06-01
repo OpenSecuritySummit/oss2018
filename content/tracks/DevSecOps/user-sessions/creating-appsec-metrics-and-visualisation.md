@@ -15,6 +15,7 @@ status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
 participants : Francois Raynaud
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

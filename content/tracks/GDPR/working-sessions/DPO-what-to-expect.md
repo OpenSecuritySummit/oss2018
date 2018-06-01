@@ -15,6 +15,7 @@ status       : review-content              # draft, review-content, done
 description  : What should be expected of DPOs (Data Protection Officers)
 organizers   :
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 A Data Protection Officer is acting in an independent manner.

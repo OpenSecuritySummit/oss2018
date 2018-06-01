@@ -18,7 +18,7 @@ participants:
     - Bart De Win
     - Yan Kravchenko
     - Matteo Meucci
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Brainstorm a DevSecOps SAMM version

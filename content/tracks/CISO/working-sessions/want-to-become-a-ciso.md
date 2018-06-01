@@ -12,6 +12,7 @@ session_slack: https://os-summit.slack.com/messages/CAV6XTSQL
 status       : draft                   # draft, review-content, done
 organizers   :
 description  : Working Session for CISOs
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 If you are interested in becoming a Chief Information Security Officer, keep reading and sign up for the Open Security Summit.

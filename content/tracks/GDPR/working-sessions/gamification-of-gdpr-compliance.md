@@ -15,6 +15,7 @@ status       : review-content              # draft, review-content, done
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 organizers   :
 participants : Tony Richards
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 There are a lots of good things behind the GDRR

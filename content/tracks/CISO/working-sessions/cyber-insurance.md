@@ -13,6 +13,7 @@ status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
 organizers   : ["Yvette Connor"]
 description  : Session on Cyber Insurance
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 According to industry veteran and Chief of Security Strategy at SentinelOne, Jeremiah Grossman, the security industry must change. Today, the security industry is one of very few businesses that does not offer any guarantees or warranties.
@@ -80,7 +81,7 @@ The Law of Large Numbers Underwriting
     - Simple application
     - Broad coverage rating based on domicile, industry, revenue and number of employees
     - Streamlined claims process & payment (focused on cyber time vs. natural time)
-    
+
 ### Cyber Insurance Trends Worth Watching
 Insurance companies realized that the handling of a cyber event can have a significant impact on the total amount of the claim.  Therefore, many companies are working to develop Cyber Incident Response services that come bundled with the policies.  This way, once an incident takes place, insurance companies can help to minimize the payouts by making sure events are handled appropriately and with all the necessary due process.
 

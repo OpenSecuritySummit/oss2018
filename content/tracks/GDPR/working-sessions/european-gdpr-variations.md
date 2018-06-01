@@ -16,6 +16,7 @@ description  : Mapping out the multiple differences across the EU
 organizers   :
 participants :
     - Tony Richards
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Within GRPR members there are already legal variations with national laws.

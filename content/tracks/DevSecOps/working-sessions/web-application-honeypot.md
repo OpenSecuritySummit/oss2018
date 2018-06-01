@@ -15,6 +15,7 @@ description  :
 participants :
 organizers   :
     - Adrian Winckles
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 We're rebooting the OWASP Distributed Web Application Honeypot Project which Ryan Barnett used to lead and fell dormant due to a change of employer.  We now have the capacity to host a new community reporting server in ARU's new research lab (as well as plenty of physical server capacity).

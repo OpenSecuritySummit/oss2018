@@ -15,6 +15,7 @@ participants : Anne Currie
 organizers   :
     - John Fitzgerald
     - Rachel Power
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Created based on the content developed on the [Security Ethics Checklis](/tracks/security-questions/working-sessions/security-ethical-exam/) working session

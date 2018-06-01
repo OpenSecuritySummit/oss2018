@@ -8,12 +8,13 @@ when_day     : Mon                    # i.e.    Tue
 when_time    : Eve-2                  # i.e.    AM-1
 room_layout  :                    #
 room_id      :
-session_slack: 
+session_slack:
 status       : draft              # draft, review-content, done
 description  :
 organizers   :
     - Steven Wierckx
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 At the moment we still don't have a good repository of examples of Threat Modeling diagrams.

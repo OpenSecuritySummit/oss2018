@@ -14,6 +14,7 @@ description  : Hands on user session on how to use Threat Models in GDPR mapping
 organizers   :
     - Sotiraki Sima
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Hands on user session on how to use Threat Models in GDPR mappings

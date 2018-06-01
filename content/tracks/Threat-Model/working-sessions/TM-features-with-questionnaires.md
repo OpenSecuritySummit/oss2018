@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Stephen de Vries, Paul Santapau
 description  : How to Threat Model Features with Questionnaires
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why
