@@ -14,7 +14,7 @@ status       : review-content                   # draft, review-content, done
 description  : If you could meet the ICO, what questions would you ask
 organizers   :
 participants :
-    - Tony Richards
+    
 ---
 
 <!--(add intro)
