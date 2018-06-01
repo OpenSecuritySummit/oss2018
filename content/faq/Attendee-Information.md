@@ -15,6 +15,8 @@ We are glad to introduce to you the attendee general flow (attendee journey).
  or just simply list [working](https://open-security-summit.org/working-sessions), [user](https://open-security-summit.org/user-sessions) or [product](https://open-security-summit.org/product-sessions) sessions.
 4. [Register]({{< ref "faq/registration-info.md" >}}) yourself to a session you like to attend.
 
+If you need any assistance you can reach us on [Slack](https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc) or find more details about how you can find help [here]({{< ref "faq/I-need-help.md" >}}).
+
 <p style="text-align: center;"><img src="/img/pages/attendee_journey.png" alt="Attendee Journey" style="width: 70%;"/></p>
 
 <br/>
