@@ -17,7 +17,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+    - Mark-David McLaughlin
 ---
 
 Sharing best practices on how to get the most out of Owasp SAMM
