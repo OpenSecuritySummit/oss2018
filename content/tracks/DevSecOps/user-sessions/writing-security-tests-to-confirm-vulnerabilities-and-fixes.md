@@ -13,6 +13,7 @@ organizers   :
     - Sotiraki Sima
 participants :
     - Stephen Hookings
+    - John Killilea
 ---
 
 Hands on session writing security tests
