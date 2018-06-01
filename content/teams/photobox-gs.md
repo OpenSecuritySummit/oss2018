@@ -128,3 +128,13 @@ notes :
 Photobox Group Security is the team responsible for securing magic moments for customers of our brands.
 
 See [How we think about Security](https://pbx-group-security.com/blog/2017/12/17/how-we-think-about-security/)
+
+### Sub Teams at the Summit
+
+We have created several Group Security sub-teams (each with a separate mapping of sessions), whose schedule
+can be seen at
+
+- [GS AppSec](/teams/pbx-gs/gs-appsec/team/) (consolidated on [GS AppSec](/teams/pbx-gs/gs-appsec/user/) user)
+- [GS Detect](/teams/pbx-gs/gs-detect/team/) (consolidated on [GS Detect](/teams/pbx-gs/gs-detect/user/) user)
+- [GS Risk  ](/teams/pbx-gs/gs-risk/team/  ) (consolidated on [GS Risk  ](/teams/pbx-gs/gs-risk/user/  ) user)
+- [GS Summit](/teams/pbx-gs/gs-summit/team/) (consolidated on [GS Summit](/teams/pbx-gs/gs-summit/user/) user)
