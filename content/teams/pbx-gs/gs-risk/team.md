@@ -14,6 +14,16 @@ sessions:
     - GS Risk Daily Scrum (Thu)
     - GS Risk Daily Scrum (Fri)
     - Ask me anything (AMA) on GDPR
+    - Creating a standard for GDPR patterns
+    - GDPR Appropriate Security Controls
+    - Hands-on GDPR patterns
+    - Using graphs for GDPR mappings
+    - Using the OWASP Maturity Model Tool
+    - Implementing the OWASP responsible disclosure Maturity Model
+    - Share your playbooks and release them under Creative Commons
+    - Share your security polices and release them under Creative Commons
+    - Policies for the security industry
+    - Using a Rules Engine and Risk Patters with IriusRisk
 
 members:
     - GS Risk

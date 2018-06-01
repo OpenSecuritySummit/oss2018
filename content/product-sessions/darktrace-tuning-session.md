@@ -1,5 +1,5 @@
 ---
-title        : Incident handling with DarkTrace
+title        : Darktrace Tuning Session
 type         : product-session
 track        : DevSecOps
 topics       : ["DarkTrace"]
@@ -10,12 +10,12 @@ technology   :
 categories   :
 featured     :
 when_day     : Wed
-when_time    : Eve-2
+when_time    : Eve-1
 room_layout  :
 room_id      :
-session_slack: https://os-summit.slack.com/messages/CAUTM6ML1
+session_slack:
 status       : add-content              # draft, review-content, done
-description  : Share knowledge on incident handling with DarkTrace
+description  : Share knowledge on tunning DarkTrace
 organizers   :
     - PBX GS
 participants :
@@ -23,7 +23,7 @@ participants :
 
 ## What
 
-Share knowledge on incident handling with DarkTrace
+Share knowledge on tunning DarkTrace
 
 ## Outcomes
 

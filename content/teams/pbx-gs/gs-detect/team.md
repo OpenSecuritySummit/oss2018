@@ -22,6 +22,19 @@ sessions:
     - Securing AWS S3 Buckets
     - Using sumo logic to handle-incidents
     - Using The Hive for Incident Response
+
+    #conflict
+    - AWS Lambda Security
+    - Darktrace Tuning Session
+    - Darktrace Alerts
+    - Darktrace API & Elastic Stack
+    - SOC value chain using Wardley maps
+
+    # dynamic sessions
+    - Akamai Alerting and Logging
+    - Writing Akamai rules
+
+
 members:
     - GS Detect
     - Dan Gapco

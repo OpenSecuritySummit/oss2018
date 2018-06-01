@@ -28,65 +28,17 @@ sessions:
     - Summit Wrap Up
 
 other:
-    ## Akamai
-    - Akamai WAF & Ruleset : Tue - PM-1
-    - Akamai Alerting and Logging : Tue - DS-1
-    - Writing Akamai Rules  :  Tue - DS-2
-    ## AWS
-    - AWS Lambda Security (Wed) - PM-1
-    - AWS WAF for DDoS Mitigation : Wed - AM-1
-    - Replacing Akamai with AWS Shield - Tue - PM-2
-    - AWS Scenarios (Thu) -  Fri PM-1
-    - Securing AWS S3 Buckets - Wed - PM-2
-
-    ## Darktrace
-    - Darktrace Tuning Session (Wed Eve-1)
-    - Darktrace Alerts (Wed Eve-2)
-    - Darktrace API & Elastic Stack (Fri - PM-2)
-
-    ## GDPR
-    - Creating a standard for GDPR patterns
-    - GDPR Appropriate Security Controls
-    - Hands-on GDPR patterns
-    - Using graphs for GDPR mappings 
-    ## Incident response
-    - Using AI and ML for incident response
-    ## Mapping
-    - Using maps to capture, detect, and prevent security incidents
-    - Using User story mapping for effective communication
-    - SOC value chain using Wardley maps
-    ## Neo4J
-    - Using Neo4J Enterprise
-    - Usng Neo4J to filter and review SAST
-    ## OWASP
-    - Using the OWASP Maturity Model Tool
-    - Implementing the OWASP responsible disclosure Maturity Model
-    - OWASP Testing Guide v5
-    ## Policies
-    - Share your security policies and release them under Creative Commons
-    - Policies for the security industry
-    ## SAST
-    - Writing Checkmarx SAST rules
-    - Using Veracode SAST Engine
-    ## Threat Modeling
-    - Threat Model Cheat Sheets
-    - TM in Agile Organisations
-    ## Miscellaneous
-    - Cloud brokerage
-    - Create a Slackbot in Python
-    - Create a Tech radar for Security teams
-    - Creating a Steady-State Hypothesis
-    - Dark and Deep Web Threat Intelligence
+    ## NOT MAPPED
     - Dependency management using Snyk
     - Hands on Chaos Experiments
     - Integrate securityheaders.com in CI pipeline
+    - Dependency management using Snyk
     - Lessons learned from public bug bounty programmes
     - Security Crowdsourcing
     - Using data science for log analysis
-    - Using the Hive for Incident Response
     - Using Elastic Stack services
-    - Using a Rules Engine and Risk Patters with IriusRisk
-    - Writing security tests to confirm vulnerabilities and fixes
+
+
 
 members:
     - GS Detect
