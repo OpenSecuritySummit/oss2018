@@ -16,7 +16,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+    - Mark-David McLaughlin
 ---
 
 One working session per business function
