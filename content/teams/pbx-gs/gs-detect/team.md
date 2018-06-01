@@ -1,6 +1,6 @@
 ---
 title           : PBX GS Detect
-type            : team
+type             : team
 team_type       : Sponsor
 #image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
 website         : https://pbx-group-security.com/
@@ -13,7 +13,17 @@ sessions:
     - GS Detect Daily Scrum (Wed)
     - GS Detect Daily Scrum (Thu)
     - GS Detect Daily Scrum (Fri)
+    - Akamai WAF & Ruleset
+    - AWS Macie and Guard Duty
+    - AWS Scenarios
+    - AWS WAF for DDoS Mitigation
+    - Incident handling with DarkTrace
+    - Replacing Akamai with AWS Shield
+    - Securing AWS S3 Buckets
+    - Using sumo logic to handle-incidents
+    - Using The Hive for Incident Response
 members:
+    - GS Detect
     - Dan Gapco
     - James Wharton
     - John Killilea

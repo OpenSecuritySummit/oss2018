@@ -18,7 +18,6 @@ organizers   :
     - James Wharton
 participants :
     - Andrew Johnstone
-    - James Wharton
     - John Killilea
     - Simon Pavillon
     - Vladimir Voskresenskiy

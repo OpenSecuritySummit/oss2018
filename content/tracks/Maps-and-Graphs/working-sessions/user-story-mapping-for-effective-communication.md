@@ -15,10 +15,7 @@ description  :
 organizers   :
     - Fraser Scott
 participants :
-    - Dinis Cruz
-    - Jemma Davis-Smith
     - Vladimir Voskresenskiy
-    - James Wharton
 ---
 
 

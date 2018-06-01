@@ -15,7 +15,6 @@ organizers   :
 participants :
     - Simon Pavillon
     - Andrew Johnstone
-    - James Wharton
     - John Killilea
     - Vladimir Voskresenskiy
 ---

@@ -13,8 +13,6 @@ categories   :
 description  : Incident response simulations and role play scenarios
 status       : review-content             # draft, review-content, done
 organizers   :
-    - Ann-Marie Grace
-    - James Wharton
     - Francois Raynaud
     - Puneet Thapliyal
     - Imran Mohammed A

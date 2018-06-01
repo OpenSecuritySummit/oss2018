@@ -1,14 +1,13 @@
 ---
 title        : GS Detect Daily Scrum (Mon)
-type         : dynamic-session
+type         : working-session
 when_day     : Mon
 when_time    : DS-1
 room_id      : table-1
 session_slack: 
 status       : done
 description  :
-organizers   :
-    - James Wharton
+organizers   : ["PBX-GS"]
 participants :
 ---
 

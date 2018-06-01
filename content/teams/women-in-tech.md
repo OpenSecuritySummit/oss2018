@@ -31,7 +31,7 @@ members:
     - Rachel Power
     - Tanya Janca
     - Tash Norris
-    - Thordis
+    - Þórdís Stella Þorsteins
 
 
 ---

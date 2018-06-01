@@ -12,7 +12,6 @@ session_slack: https://os-summit.slack.com/messages/CAUSX6GGH
 status       : draft              # draft, review-content, done
 description  : Working Sessions for Security Crowdsourcing
 organizers   :
-    - James Wharton
     - Stu Hirst
 participants :
 ---

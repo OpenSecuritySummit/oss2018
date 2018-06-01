@@ -14,7 +14,6 @@ description  :
 organizers   :
 participants :
     - Andrew Johnstone
-    - James Wharton
     - Simon Pavillon
     - Vladimir Voskresenskiy
 

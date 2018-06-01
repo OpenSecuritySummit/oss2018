@@ -1,21 +1,14 @@
 ---
 title        : GS Detect Daily Scrum (Tue)
-type         : dynamic-session
+type         : working-session
 when_day     : Tue
 when_time    : DS-1
 room_id      : table-1
 session_slack: 
 status       : done
 description  :
-organizers   :
-    - James Wharton
+organizers   : ["PBX-GS"]
 participants :
-    - Dan Gapco
-    - John Killilea
-    - Naushad Saboor
-    - Simon Pavillon
-    - Stu Hirst
-
 ---
 
 

@@ -16,7 +16,7 @@ session_slack :
 status       : review-content              # draft, review-content, done
 description  :
 organizers   :
-
+    - PBX GS
 participants :
 ---
 

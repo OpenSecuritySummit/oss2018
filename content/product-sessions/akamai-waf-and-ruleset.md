@@ -1,19 +1,25 @@
 ---
-title        : Using JIRA for incident response
-type         : working-session
-track        : Misc
-topics       : ["JIRA"]
-technology   :
+title        : Akamai WAF & Ruleset
+type         : product-session
+topics       : ["AWS"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Thu
-when_time    : PM-1, PM-2, PM-3
+when_day     : Tue
+when_time    : PM-1
 room_layout  :                    #
 room_id      :
-status       : draft              # draft, review-content, done
-organizers   :
-
+session_slack:
+status       : add-content              # draft, review-content, done
 description  :
+organizers   :
+    - PBX-GS
+participants :
+    - Andrew Johnstone
+    - James Martin
+    - Francois Raynaud
+
+
+
 ---
 
 <!-- (add more details about DevSecOps Maturity Model here)

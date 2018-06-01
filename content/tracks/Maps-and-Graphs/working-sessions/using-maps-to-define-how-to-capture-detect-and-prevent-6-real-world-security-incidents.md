@@ -16,13 +16,9 @@ organizers   :
 participants :
     - Ante Gulam
     - Chris Allen
-    - Dan Gapco
     - Francois Raynaud
-    - James Wharton
     - Jonathan	Hawes
-    - Simon Pavillon
     - Mark Regensberg
-    - Sotiraki Sima
     - Richard Orme
     - Tony Richards
     - Vladimir Voskresenskiy

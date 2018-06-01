@@ -25,7 +25,7 @@ sessions:
     - Using User Story Mapping for effective communication
     - Wardley Mapping – a practical session on how to use value chain mapping
     - Using Threat Models for GDPR
-
+    - Summit Wrap Up
 
 other:
     ## Akamai
@@ -72,7 +72,6 @@ other:
     ## Threat Modeling
     - Threat Model Cheat Sheets
     - TM in Agile Organisations
-    - Using Threat Models for GDPR
     ## Miscellaneous
     - Cloud brokerage
     - Create a Slackbot in Python
@@ -91,6 +90,7 @@ other:
     - Writing security tests to confirm vulnerabilities and fixes
 
 members:
+    - GS Detect
     - Ann-Marie Grace
     - Charlotte Bullock
     - Christoph Jung
