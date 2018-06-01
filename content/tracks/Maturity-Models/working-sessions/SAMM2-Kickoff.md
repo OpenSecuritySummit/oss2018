@@ -16,7 +16,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+    - Mark-David McLaughlin
 ---
 
 Discuss agenda - goals for this week. Welcome people who are going to participate

@@ -16,7 +16,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+    - Mark-David McLaughlin
 ---
 
 SAMM users sharing experiences with each other

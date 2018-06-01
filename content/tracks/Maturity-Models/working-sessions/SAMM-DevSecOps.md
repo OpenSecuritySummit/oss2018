@@ -18,7 +18,7 @@ participants:
     - Bart De Win
     - Yan Kravchenko
     - Matteo Meucci
-
+    - Mark-David McLaughlin
 ---
 
 Brainstorm a DevSecOps SAMM version
