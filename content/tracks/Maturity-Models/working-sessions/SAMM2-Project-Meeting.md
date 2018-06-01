@@ -15,7 +15,7 @@ description  : Project meeting to review the status and update the plan for SAMM
 organizers   :
     - Sebastien Deleersnyder
 participants:
-
+    - Mark-David McLaughlin
 ---
 
 Project meeting to review the status and update the plan for SAMM2
