@@ -32,6 +32,7 @@ members:
     - Goher Mohammad
     - Robert Grace
     - Head of Risk
+    - David Cervigni
 ---
 
 
