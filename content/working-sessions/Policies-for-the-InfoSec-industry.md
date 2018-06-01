@@ -16,11 +16,11 @@ participants :
 ---
 
 
-(add intro)
+Policies provide a clear framework for an organistion to measure how it meets its strategies and obligations, whether these be regulatory, legal, people, security etc. This session will answer key questions about the develpoment and use of policies by IT Security teams.
 
 ## WHY
 
-(...)
+Collaboration of ideas can make the development of policy frameworks and their use easier and more relevant to business.
 
 ## What
 
