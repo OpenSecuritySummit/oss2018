@@ -1,8 +1,8 @@
 ---
 title           : PBX GS Detect
-type             : team
+type            : team
+#hidden          : true
 team_type       : Sponsor
-#image           : https://pbx-group-security.com/img/pbx-gs/pbx-gs-logo.png
 website         : https://pbx-group-security.com/
 email           : group.security@photobox.com
 tracks:
@@ -34,3 +34,5 @@ members:
 
 This is the Photobox Group Security Detect team (responsible for
 Incident Response, SOC and Network Security)
+
+To see all sessions for this team see the [GS Detect](/teams/pbx-gs/gs-detect/user/) user

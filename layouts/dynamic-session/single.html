@@ -18,14 +18,9 @@
 </div>
 
 {{ end }}
-
 {{ define "content" }}
     {{ partial "session/metadata.html" . }}
 
     {{ .Content }}
-
-    {{ partial "session/register-as-participant.html" . }}
-    <hr/>
-    <a href="/user-sessions"> Back to list of all User Sessions</a>
 
 {{ end }}

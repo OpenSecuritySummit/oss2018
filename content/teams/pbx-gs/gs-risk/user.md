@@ -1,5 +1,5 @@
 ---
-title           : GS Detect
+title           : GS Risk
 type            : participant
 company         :
 status          : add details

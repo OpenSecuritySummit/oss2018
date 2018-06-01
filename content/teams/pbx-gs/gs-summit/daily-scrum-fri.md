@@ -1,7 +1,7 @@
 ---
-title        : GS Detect Daily Scrum (Mon)
+title        : GS Summit Daily Scrum (Fri)
 type         : dynamic-session
-when_day     : Mon
+when_day     : Fri
 when_time    : DS-1
 room_id      : table-1
 session_slack: 

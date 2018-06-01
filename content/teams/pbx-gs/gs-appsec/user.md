@@ -1,5 +1,5 @@
 ---
-title           : GS Detect
+title           : GS AppSec
 type            : participant
 company         :
 status          : add details

@@ -1,6 +1,6 @@
 ---
 title        : GS Detect Daily Scrum (Tue)
-type         : working-session
+type         : dynamic-session
 when_day     : Tue
 when_time    : DS-1
 room_id      : table-1

@@ -1,5 +1,5 @@
 ---
-title        : GS Detect Daily Scrum (Mon)
+title        : GS AppSec Daily Scrum (Mon)
 type         : dynamic-session
 when_day     : Mon
 when_time    : DS-1
