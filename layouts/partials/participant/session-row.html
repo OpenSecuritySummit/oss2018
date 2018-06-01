@@ -1,4 +1,4 @@
-{{- range .this.Site.Pages}}
+{{- range where .this.Site.Pages ".Params.type" "!=" "outcome" }}
 
     {{if in (index .Params $.field) $.name}}
         <tr>
