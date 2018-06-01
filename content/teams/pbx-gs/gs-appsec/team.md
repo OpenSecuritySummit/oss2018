@@ -14,6 +14,21 @@ sessions:
     - GS AppSec Daily Scrum (Thu)
     - GS AppSec Daily Scrum (Fri)
 
+    - Using JIRA-NeoVis to create graphical representations of JIRA data
+    - Using JIRA-NeoVis to graph Threat Models
+    - Using AI and ML for incident response
+    - SOC value chain using Wardley maps
+    - Using Neo4J Enterprise
+    - Usng Neo4J to filter and review SAST
+    - OWASP Testing Guide v5
+    - Writing Checkmarx SAST rules
+    - Using Veracode SAST Engine
+    - Threat Model Cheat Sheets
+    - TM in Agile Organisations
+    - Create a Tech radar for Security teams
+    - Creating a Steady-State Hypothesis
+    - Writing security tests to confirm vulnerabilities and fixes
+
 members:
     - GS AppSec
     - David Cervigni
