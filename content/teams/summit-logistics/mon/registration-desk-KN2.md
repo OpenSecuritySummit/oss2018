@@ -1,7 +1,6 @@
 ---
-title        : Registration Desk
+title        : Registration Desk (Mon)
 type         : summit-session
-track        : Summit Team
 when_day     : Mon
 when_time    : KN-2
 room_id      : 

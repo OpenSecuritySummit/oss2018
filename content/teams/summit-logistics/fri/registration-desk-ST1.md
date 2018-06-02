@@ -1,5 +1,5 @@
 ---
-title        : Registration Desk
+title        : Registration Desk (Fri)
 type         : summit-session
 when_day     : Fri
 when_time    : ST-1

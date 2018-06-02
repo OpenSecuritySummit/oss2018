@@ -13,7 +13,7 @@ facebook        :
 website         : 
 venue           : Mon, Tue, Wed, Thur, Fri
 night_day       : Sun-before 
-night_where     : 
+night_where     :
 night_room      : 
 pre_summit      : Sun
 ticket          : 

@@ -1,5 +1,5 @@
 ---
-title        : Registration Desk
+title        : Registration Desk (Tue)
 type         : private-session
 when_day     : Tue
 when_time    : AM-1

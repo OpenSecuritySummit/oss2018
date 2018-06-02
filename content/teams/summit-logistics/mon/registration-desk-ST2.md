@@ -1,5 +1,5 @@
 ---
-title        : Registration Desk
+title        : Registration Desk (Mon)
 type         : summit-session
 when_day     : Mon
 when_time    : ST-2

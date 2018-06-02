@@ -1,5 +1,5 @@
 ---
-title        : Registration Desk
+title        : Registration Desk (Mon)
 type         : summit-session
 track        : Summit Team
 when_day     : Mon
