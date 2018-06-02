@@ -4,7 +4,7 @@ type         : working-session      # working-session, user-session
 track        : Owasp Projects
 topics       : ["Owasp Project", "AI & ML"]
 technology   :
-categories   :
+categories   : ["OWASP projects"]
 featured     :
 when_day     : Fri
 when_time    : AM-1
