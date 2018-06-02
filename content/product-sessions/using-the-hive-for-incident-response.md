@@ -9,7 +9,7 @@ technology   :
 categories   :
 featured     :
 when_day     : Wed
-when_time    : Eve-2
+when_time    : Eve-1
 room_layout  :
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWB4EKLN
