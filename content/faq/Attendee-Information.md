@@ -5,13 +5,13 @@ layout      : FAQ
 ---
 
 ## Welcome to Open Security Summit 2018
-First of all thank you very much for your interest in Open Security Summit 2018 (OSS 2018).
+Thank you for your interest in Open Security Summit 2018 (OSS 2018).
 
-We are glad to introduce to you the attendee general flow (attendee journey).
+The attendee general flow (attendee journey) is as follows;
 
-1. Please [get ticket ]({{< ref "tickets" >}}) (**note:** remote participants no need to register to Eventbrite)
+1. Please [buy a ticket ]({{< ref "tickets" >}}) (**note:** remote participants do not need to register to Eventbrite)
 2. Create [personal page as participant]({{< ref "faq/registration-info.md" >}}) to the summit
-3. Find sessions that you are interested in by looking at the [topic index](https://open-security-summit.org/topics), [tracks view](https://open-security-summit.org/tracks)
+3. Find sessions that you are interested in by viewing the [topic index](https://open-security-summit.org/topics), [tracks view](https://open-security-summit.org/tracks)
  or just simply list [working](https://open-security-summit.org/working-sessions), [user](https://open-security-summit.org/user-sessions) or [product](https://open-security-summit.org/product-sessions) sessions.
 4. [Register]({{< ref "faq/registration-info.md" >}}) yourself to a session you like to attend.
 
@@ -43,7 +43,7 @@ Mutual respect also includes making space for others to talk. Be senstitive to n
 
 When participating in the event you are expected to say what you think plainly so that your working session team can quickly and thoroughly confront the issues they are there to respond to. This is the place to engage, not hold back out of misguided fear of challenging ideas.
 
-Please use Radical Candor.
+Please use [Radical Candor](https://www.radicalcandor.com/).
 
 ### Care Deeply
 
