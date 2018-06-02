@@ -1,18 +1,20 @@
 ---
 title        : Threat model track opening session
 type         : working-session
+track        : Threat Model
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :
+featured     :                   # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-1
 room_layout  :                    #
-room_number  :
-session_slack: 
-status       : draft              # draft, review-content, done
-organizers   : Steven Wierckx
+room_id      :
+session_slack:
+status       : draft             # draft, review-content, done
+organizers   :
+    - Steven Wierckx
+participants :
 description  : Threat Modeling track opening
-track        : Threat Model
 ---
 
 ## WHY

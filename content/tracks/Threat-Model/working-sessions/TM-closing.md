@@ -5,7 +5,7 @@ technology   :
 categories   :                     # GDPR, Juice Shop, etc.
 featured     : yes                  # review with summit team "yes"
 when_day     : Fri
-when_time    : PM-1
+when_time    : PM-3
 room_layout  :                    #
 room_number  :
 session_slack:

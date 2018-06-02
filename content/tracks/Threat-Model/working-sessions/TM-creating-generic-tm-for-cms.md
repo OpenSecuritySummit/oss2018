@@ -1,11 +1,11 @@
 ---
-title        : Share your Threat Models diagrams and create a Book
+title        : Create generic TM for CMS
 type         : working-session      # working-session, user-session, product-session
 track        : Threat Model
 topics       :                    # for example ["GDPR"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Fri                    # i.e.    Tue
-when_time    : PM-1                  # i.e.    AM-1
+when_time    : AM-1, PM-2                 # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack:
