@@ -16,15 +16,16 @@ eventbrite_id   :
 status          :
 sessions        :
     - A seat at the table
-    - Thinking in Graphs
-    - Crossing the river by feeling the stones
-    - Adding Privacy by Design in Secure Application Development
-    - Create a Slack bot in Python
     - Security Quiz Night (Mon)
-    - Running CTF Games with OWASP Juice Shop
+    - Create a Slack bot in Python
     - Lessons learned from public bug bounties programmes
+    - Running CTF Games with OWASP Juice Shop
+    - Thinking in Graph
     - Securing GitHub Integrations
+    - Crossing the river by feeling the stones
     - Web Application Honeypot
+    - Adding Privacy by Design in Secure Application Development
+
 
 notes           :
 ---
