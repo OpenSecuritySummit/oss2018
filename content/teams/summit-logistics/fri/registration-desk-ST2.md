@@ -8,7 +8,7 @@ status       : done             # draft, review-content, done
 organizers   :
     - Jemma Davis-Smith
 participants :
-     - Marjorie Mohammad
+    - Marjorie Mohammad
     - Ann-Marie Grace
     - Robert Grace
 description  : Registration desk management
