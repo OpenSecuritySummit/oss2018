@@ -6,8 +6,8 @@ sponsored_by    : CertDev
 company         :
 travel_from     :
 image           :
-linkedin        :https://www.linkedin.com/in/talalbasha/
-twitter         :https://twitter.com/talal_basha1982
+linkedin        : talalbasha
+twitter         : talal_basha1982
 facebook        :
 website         :
 email           :
