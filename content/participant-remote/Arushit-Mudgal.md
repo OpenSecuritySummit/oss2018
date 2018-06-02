@@ -4,10 +4,10 @@ type            : participant-remote
 job_title       : Student
 company         :
 travel_from     :
-image           : https://imgur.com/a/VSwcN0p
-linkedin        : https://www.linkedin.com/in/arushit-mudgal/
-twitter         : https://twitter.com/arushit
-facebook        : https://www.facebook.com/arushit.mudgal
+image           : https://drive.google.com/open?id=12EOA1gOiTHBl9qZJPd2mmsoeySPp96Pa
+linkedin        : arushit-mudgal
+twitter         : arushit
+facebook        : arushit.mudgal
 website         : 
 email           : arushitmudgal@gmail.com
 project_leader  :
