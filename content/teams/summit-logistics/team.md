@@ -1,6 +1,7 @@
 ---
 title           : Summit Logistics
 type            : team
+layout          : summit-logistics
 hidden          : true
 team_type       : Summit
 sessions:
