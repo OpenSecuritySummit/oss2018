@@ -1,7 +1,7 @@
 ---
 title        : Registration Desk
 type         : summit-session
-when_day     : Mon
+when_day     : Tue
 when_time    : DS-3
 room_id      :
 status       : done             # draft, review-content, done
