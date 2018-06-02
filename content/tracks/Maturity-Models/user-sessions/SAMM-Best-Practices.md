@@ -1,5 +1,5 @@
 ---
-title        : OwaspSAMM - Best Practices
+title        : SAMM - Best Practices
 type         : user-session
 owasp-project: yes
 track        : Maturity Models
