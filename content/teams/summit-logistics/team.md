@@ -5,16 +5,11 @@ hidden          : true
 team_type       : Summit
 sessions:
 members:
-    - GS Detect
-    - Dan Gapco
-    - James Wharton
-    - John Killilea
-    - Naushad Saboor
-    - Simon Pavillon
+    - Robert Grace
+    - Ann-Marie Grace
+    - Jemma Davis-Smith
+    - Fernanda Almeida
+    - Marjorie Mohammad
 ---
 
 
-This is the Photobox Group Security Detect team (responsible for
-Incident Response, SOC and Network Security)
-
-To see all sessions for this team see the [GS Detect](/teams/pbx-gs/gs-detect/user/) user
