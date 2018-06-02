@@ -4,8 +4,8 @@ type         : user-session
 track        : GDPR
 topics       : ["GDPR"]
 featured     :                   # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-2
+when_day     : Mon
+when_time    : PM-3
 room_layout  :
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWFGK7K9

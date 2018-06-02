@@ -14,6 +14,7 @@ status       : draft
 organizers   :
 participants :
 description  : Creating diagrams with DOT language
+locked       : true
 ---
 
 ## Why

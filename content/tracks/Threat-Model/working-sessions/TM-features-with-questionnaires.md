@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Stephen de Vries, Paul Santapau
 description  : How to Threat Model Features with Questionnaires
+locked       : true
 ---
 
 ## Why

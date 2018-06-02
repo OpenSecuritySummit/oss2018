@@ -5,7 +5,7 @@ track        : CISO
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Tue
-when_time    : PM-1
+when_time    : DS-2
 room_layout  :
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAUSJ7P4H
