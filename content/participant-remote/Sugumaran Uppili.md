@@ -12,7 +12,7 @@ website         :
 email           : sugu@lakshyalabs.com
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : 
 sessions        :
     - Owasp Testing Guide v5

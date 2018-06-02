@@ -1,5 +1,5 @@
 ---
-title        : Web Application Honeypot 
+title        : Web Application Honeypot
 type         : working-session
 track        : DevSecOps
 topics       : ["WAF"]
@@ -8,7 +8,8 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAWAFCUH4
 status       : draft              # draft, review-content, done
 description  :
 participants :
@@ -25,7 +26,7 @@ Planning to work with the OWASP ModSec Core Rule Set Project leaders to develop 
 ## What
 
    Web Application Threat Intelligence Architecture Design
-   ModSec Console Server Console Implementation 
+   ModSec Console Server Console Implementation
    Development of new deployable VM (OVA/OVF) honeypot image
    Development of new deployable Docker honeypot image
    Small deployable footprint honeypot on Raspberry Pi.
@@ -33,12 +34,12 @@ Planning to work with the OWASP ModSec Core Rule Set Project leaders to develop 
 
 ## Outcomes
 
-This working session will produce 
+This working session will produce
 
    Strategic Plan for Web Application Threat Intelligence Architecyture to populate wiki.
    New PoC Honeypots VM & Docker images development plans
    Console server setup and testing
-   Community Information sharing policy 
+   Community Information sharing policy
 
 ## References
 

@@ -1,14 +1,15 @@
 ---
 title        : Threat model cheat sheets
 type         : working-session
-technology   :
+topics       : ["Cheatsheets"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                    # review with summit team "yes"
 when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVALJMB5
+status       : review-content             # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 track        : Threat Model

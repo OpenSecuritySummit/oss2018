@@ -1,6 +1,7 @@
 ---
 title           : Fernanda Almeida
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Project Manager
 company         : Photobox GS
 travel_from     : Portugal
@@ -14,7 +15,7 @@ venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu, Fri-after, Sat-after, Sun-after
 night_where     : villa-3
 post-summit     : Fri, Sat, Sun
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

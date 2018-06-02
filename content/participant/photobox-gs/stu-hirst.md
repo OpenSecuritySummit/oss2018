@@ -1,10 +1,11 @@
 ---
 title           : Stu Hirst
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Head Of Security Engineering
 company         : Photobox
 travel_from     :
-image           :
+image           : https://media.licdn.com/dms/image/C4E03AQHA00ulOJokPw/profile-displayphoto-shrink_800_800/0?e=1533168000&v=beta&t=tS30-ebCva3txzutmvdmpz7WD-TH4NukoK4a8x4aLcg
 linkedin        : stuhirst
 twitter         : StuHirstInfoSec
 facebook        :
@@ -13,7 +14,7 @@ email           : stu.hirst@photobox.com
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-3
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

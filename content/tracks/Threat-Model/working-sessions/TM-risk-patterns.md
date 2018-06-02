@@ -1,14 +1,15 @@
 ---
-title        : Define a Risk Pattern format
+title        : Define an Open Risk Pattern format
 type         : working-session
 track        : Threat Model
 technology   :
-categories   :                      
+categories   :
 featured     : # review with summit team "yes"
 when_day     : Tues
 when_time    : AM-1
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: 
 status       : draft             # draft, review-content, done
 organizers   :
     - Stephen de Vries
@@ -21,7 +22,7 @@ locked       : true
 ## Why
 
 Threat Models can be assempled by using pre-written templates.  But entire templates can be too large as a building block for a threat model.  A smaller unit is called a Risk Pattern: a mini-template tied to a particular technology and/or use-case.  Examples of risk patterns:
-- Transimitting sensitive data over untrusted networks
+- Transmitting sensitive data over untrusted networks
 - Single factor authentication against a web app
 - File upload to a web app
 
@@ -41,4 +42,6 @@ In order for risk patterns to be useful as a means for collaborating on describi
 
 ## Outcomes
 
-A format for defining risk patterns
+- A name for this format
+- The defined format itself
+- An example

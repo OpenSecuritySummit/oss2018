@@ -9,8 +9,9 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-2
 room_layout  :                    #
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAUMT90NL
+status       : review-content              # draft, review-content, done
 description  : What should be expected of DPOs (Data Protection Officers)
 organizers   :
 participants :

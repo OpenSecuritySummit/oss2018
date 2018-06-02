@@ -8,11 +8,11 @@
 <table class="table schedule-cell">
     {{ if  .self.Scratch.Get .day }}
         {{if gt (len (.self.Scratch.Get .day)) 1 }}
-        <!--<tr>   //todo: is having side effect to showing in multiple calendars (for track one, this could be ok if there are multiple rooms
+        <tr>
             <td>
                 <div class="alert alert-danger over-subscribed">Time slot over-subscribed</div>
             </td>
-        </tr>-->
+        </tr>
         {{ end }}
     {{ end }}
     {{ range .self.Scratch.Get .day }}
@@ -23,6 +23,7 @@
                 <span id="cell_widgets">
                     {{ partial "widgets/clues.html" .}}
                 </span>
+                <div class="schedule-by-track-cell-room-id">{{ .Params.room_id }}</div>
                 <div id="cell_participants">
                     {{ $participants := $.self.Scratch.Get .Params.title}}
                     {{ range $participants}}

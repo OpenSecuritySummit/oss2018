@@ -12,7 +12,7 @@ website         : https://about.me/stevespringett
 email           : steve.springett@owasp.org
 project_leader  : OWASP Dependency-Track
 chapter_leader  : 
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

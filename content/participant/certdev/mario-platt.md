@@ -1,6 +1,7 @@
 ---
 title           : Mario Platt
 type            : participant
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :
@@ -13,7 +14,7 @@ email           :
 venue           : Mon, Tue
 night_day       : Mon
 night_where     :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :
@@ -23,6 +24,17 @@ sessions        :
     - European GDPR variations
     - Hands-on GDPR Patterns
     - Using graphs for GDPR mappings and visualisations
+    - Creating a Steady-State Hypothesis
+    - Real world Chaos Engineering
+    - Owasp Cloud Security Workshop (BETA
+    - SAMMv2 working session - Governance
+    - Securing the CI Pipeline
+    - Docker and Kubernetes Threat Modeling Cheat Shee
+    - Cell based Structures for Security
+    - Integrating Security Tools in the SDL
+    - JIRA Risk Workflow
+    - Meet the ICO
+    - Security Playbooks
 ---
 
 <!-- put more details about participant here -->

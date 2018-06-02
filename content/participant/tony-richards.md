@@ -13,7 +13,7 @@ email           : tony@securestorm.com
 featured        : yes
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

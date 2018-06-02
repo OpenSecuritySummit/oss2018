@@ -1,6 +1,7 @@
 ---
 title           : Yan Kravchenko
 type            : participant
+sponsored_by    : CertDev
 job_title       : CTO
 company         : Truonix, LLC
 need_funding_for: 
@@ -12,9 +13,9 @@ twitter         : yanfosec
 facebook        :
 website         : https://about.me/yan.kravchenko
 email           : yan.kravchenko@owasp.org
-project_leader  :
-chapter_leader  :
-regonline       :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+eventbrite_id   :
 status          : add-details
 ---
 

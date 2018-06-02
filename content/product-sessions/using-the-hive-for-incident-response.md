@@ -11,14 +11,13 @@ featured     :
 when_day     : Thu
 when_time    : Eve-2
 room_layout  :
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAWB4EKLN
+status       : review-content              # draft, review-content, done
 description  : Hands on session on using a customized version of the The Hive for Incident Response
 organizers   :
     - Francois Raynaud
 participants :
-    - Dan Gapco
-    - John Killilea
     - Vladimir Voskresenskiy
 ---
 
@@ -29,8 +28,3 @@ Share knowledge on incident handling with The Hive
 ## Outcomes
 
 Knowledge sharing and learn new techniques.
-
-
-
-
-

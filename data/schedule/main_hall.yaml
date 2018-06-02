@@ -1,0 +1,20 @@
+main-stage:
+  title    : Main Stage
+  layout   : table
+  capacity : 100
+table-1:
+  title    : table 1
+  layout   : table
+  capacity : 10
+table-2:
+  title    : table 2
+  layout   : table
+  capacity : 10
+table-3:
+  title    : table 3
+  layout   : table
+  capacity : 10
+table-4:
+  title    : table 4
+  layout   : table
+  capacity : 10

@@ -1,3 +1,25 @@
+{{ define "nav" }}
+<header class="full-bg background-teams">
+
+  <div class="dark-mask"></div>
+
+  {{ partial "nav.html" . }}
+
+</header>
+{{ end }}
+
+{{ define "breadcrumbs" }}
+
+<div class="inner_main_participants">
+  <div class="center_heading">
+    <div class="container">
+      <h1>{{ .Title }}</h1>
+    </div>
+  </div>
+</div>
+
+{{ end }}
+
 {{ define "content" }}
 
 <div class="participant">
@@ -18,6 +40,10 @@
       </p>
 
       {{ partial "participant/contact-details.html" . }}
+
+      {{ if .Params.sponsored_by }}
+        {{ partial "sponsors/participant-sponsored.html" (dict "sponsor" .Params.sponsored_by "this" .) }}
+      {{ end }}
 
       {{ partial "participant/team.html"            . }}
       {{ partial "participant/when-day.html"        . }}

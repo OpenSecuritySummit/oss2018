@@ -6,9 +6,10 @@
 
     {{ range .Params.sessions}}
         {{ $matches := (where $site_Pages ".Params.title" .) }}
-        {{ if $matches }}
-            {{ $page := (index $matches 0) }}
-            {{ $.Scratch.Add "pages" (slice $page) }}
+        {{ range $page :=$matches }}
+            {{ if  ne .Params.type "outcome" }}
+                {{ $.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
         {{ end }}
     {{ end }}
 

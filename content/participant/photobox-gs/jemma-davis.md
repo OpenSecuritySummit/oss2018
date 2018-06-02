@@ -1,6 +1,7 @@
 ---
 title           : Jemma Davis-Smith
 type            : participant
+sponsored_by    : PhotoBox
 role            : Summit Event Manager
 job_title       : Summit Event Manager
 company         : Photobox Group
@@ -11,12 +12,12 @@ twitter         :
 facebook        :
 website         : https://pbx-group-security.com/
 venue           : Mon, Tue,
-night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue
+night_day       : Fri-before, Sat-before, Sun-before, Mon
 night_where     : villa-1
 night_room      : 2
 pre_summit      : Fri, Sat, Sun
 ticket          : 5x24h
-regonline       : Yes
+eventbrite_id   :
 pre_summit      : Fri,Sat,Sun
 status          : add details
 sessions:

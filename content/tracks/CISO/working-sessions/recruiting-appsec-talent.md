@@ -7,7 +7,8 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAWA4F91C
 status       : review-content      # draft, review-content, done
 organizers   :
   - Manish Saindane
@@ -18,16 +19,16 @@ locked       : true
 
 AppSec and InfoSec talent are difficult to find these days,
 for several reasons. It is a challenge for an industry corporation to accept
-professionals who are unhappy with their current employment, would like to work
-in a narrow fields such as security but only have experience in
-other areas of IT or development. There are also many people, just starting out in the
-industry and without experience or certifications (usually a degree in CS),
-that cannot easily prove to a potential employer what they can achieve.
+professionals who are unhappy with their current employment, who would like to work
+in a narrow fields such as security, but only have experience in
+other areas of IT or development. There are also many people just starting out in the
+industry who lack experience or certifications (usually a degree in CS) and cannot easily
+prove their potential to prospective employers.
 
 All the while, there is a lack of, and high demand for,
-professionals who can work with and grow in AppSec community.
+professionals who can work with and grow in the AppSec community.
 
-This session will also be a great place to hold thoughtful
+This session will also facilitate thoughtful
 conversations about different kinds of security careers, top skills in high
 demand, and the newest opportunities within the field.
 
@@ -35,13 +36,13 @@ demand, and the newest opportunities within the field.
 
  - What can be done to improve the talent pool?
  - What is the best way to connect employees and employers?
- - Explore the concept of working 2 days a week on a specific project (while employed by another company)
+ - Explore the concept of working two days a week on a specific project (while employed by another company)
  - Should recruitment agencies have a more proactive role in creating talent and finding job opportunities?
  - What should the career path be for developers who want to move into security?
  - What is the role of universities and work placements?
  - How can hiring managers efficiently judge a candidate's abilities and potential?
- - What are essential requirements, and what can be ignored?
- - How can a candidate show their worth to a prospective employer, without violating NDA on their previous work?
+ - What are the essential requirements, and what can be ignored?
+ - How can a candidate show their worth to a prospective employer, without violating NDAs from their previous work?
  - How to make an employer, and specific positions, more attractive
  - What can be done to improve morale and increase retention?
  - What are common career paths into AppSec and InfoSec? How can newbies break into the field, and how can senior practitioners advance?
@@ -53,7 +54,7 @@ demand, and the newest opportunities within the field.
 Suggested Outcomes:
 
 - Example career paths to guide incoming AppSec Professionals
-- Typical appsec jobs and their duties and requirements
+- Typical AppSec jobs and their duties and requirements
 - Recruiters guide
 - Specific guidelines for job postings
 - List of suggested next steps for AppSec Managers looking for long-term growth of their team

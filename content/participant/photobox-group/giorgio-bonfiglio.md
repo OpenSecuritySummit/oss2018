@@ -1,6 +1,7 @@
 ---
 title           : Giorgio Bonfiglio
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 company         :
 travel_from     :
@@ -12,14 +13,14 @@ website         :
 email           :
 venue           : Tue
 night_day       :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :
     - AWS GuardDuty
     - AWS Lambda Security
     - AWS Macie
-    - Create AWS Security Quiz
+    - Create AWS Security Questions
     - Using AWS Neptune GraphDB
     - Securing AWS S3 Buckets
     - Replacing Akamai with AWS Shield

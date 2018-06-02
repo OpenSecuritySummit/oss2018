@@ -11,7 +11,8 @@ featured     :
 when_day     : Mon
 when_time    : Eve-2
 room_layout  :
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVE7UJ4A
 status       : draft              # draft, review-content, done
 description  : Meet the Owasp team and learn about the benefits of becoming an Owasp corporate member
 organizers   :
@@ -26,7 +27,3 @@ Meet the Owasp team and learn about the benefits of becoming an Owasp corporate 
 ## Outcomes
 
 Join Owasp
-
-
-
-

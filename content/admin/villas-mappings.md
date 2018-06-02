@@ -1,4 +1,5 @@
 ---
+draft : true
 title: Villas Mappings
 layout: villas-mappings
 ---

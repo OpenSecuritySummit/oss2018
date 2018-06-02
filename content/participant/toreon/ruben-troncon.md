@@ -10,7 +10,7 @@ twitter         : rubentroncon
 facebook        :
 website         :
 email           : ruben.troncon@gmail.com
-regonline       :
+eventbrite_id   :
 status          : done
 sessions        : 
 notes           :

@@ -1,6 +1,7 @@
 ---
 title           : Vladimir Voskresenskiy
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Cyber Security Analyst
 company         : Photobox GS
 travel_from     : London
@@ -13,7 +14,7 @@ email           :
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-4
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

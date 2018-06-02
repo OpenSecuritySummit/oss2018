@@ -11,7 +11,7 @@ website         :
 email           :
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : need-content
 ticket          : 5x24h
 sessions:

@@ -7,11 +7,11 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAUSX6GGH
 status       : draft              # draft, review-content, done
 description  : Working Sessions for Security Crowdsourcing
 organizers   :
-    - James Wharton
     - Stu Hirst
 participants :
 ---

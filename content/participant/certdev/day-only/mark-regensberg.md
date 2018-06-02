@@ -1,6 +1,7 @@
 ---
 title           : Mark Regensberg
 type            : participant
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :
@@ -13,7 +14,7 @@ email           :
 venue           : Tue
 night_day       :
 night_where     :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

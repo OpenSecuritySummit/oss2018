@@ -1,7 +1,7 @@
 ---
 title           : Steven van der Baan
 type            : participant
-funded_by       : CertDev
+sponsored_by    : CertDev
 job_title       :
 company         :
 travel_from     :
@@ -11,9 +11,9 @@ twitter         : vdbaan
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
-regonline       :
+venue           : Tue, Wed, Thu, Fri
+night_day       : Tue, Wed, Thu
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

@@ -11,9 +11,10 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
-regonline       :
+venue           : TBC
+night_day       : TBC
+night_where     :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

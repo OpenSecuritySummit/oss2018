@@ -11,9 +11,9 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
-regonline       :
+venue           : Mon, Tue, Wed, Thu, Fri
+night_day       : Mon, Tue, Wed, Thu
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

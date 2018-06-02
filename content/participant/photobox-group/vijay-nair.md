@@ -1,6 +1,7 @@
 ---
 title           : Vijay Nair
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : BA
 company         : Photobox Group
 need_funding_for: Travel,Ticket
@@ -15,7 +16,7 @@ email           : vijay.nair@photobox.com
 venue           : Tue
 night_day       :
 night_where     :
-regonline       :
+eventbrite_id   :
 status          : add-details
 sessions:
     - Creating a standard for GDPR patterns

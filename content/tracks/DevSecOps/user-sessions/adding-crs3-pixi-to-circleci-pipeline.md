@@ -43,7 +43,7 @@ We will put the WAF ModSecurity with the OWASP ModSecurity Core Rule Set 3 in fr
 ## Outcomes
 
 More security by adding the OWASP ModSecurity Core Rule Set in front of Pixi! <br />
-The CircleCI configuration and the Core Rule Set Docker Container can be taken as a free proof of concept. 
+The CircleCI configuration and the Core Rule Set Docker Container can be taken as a free proof of concept.
 
 ## References
 

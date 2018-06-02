@@ -9,10 +9,11 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-2, PM-3
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAUAJ8GQH
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : Francois Raynaud, Sophie Tonnoir
+participants : Francois Raynaud
 description  : AppSec SOC Monitoring Visualisation
 ---
 

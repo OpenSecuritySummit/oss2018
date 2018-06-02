@@ -16,7 +16,7 @@ venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-2
 night_room      : 2
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

@@ -12,13 +12,14 @@ website         :
 email           : 
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : 
 sessions        :
     - OWASP Defect Dojo
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
     - DevSecOps Maturity Model (DSOMM)
     - Integrating Security Tools in the SDL
+    - OWASP DevSecOps Studio
 notes           :
 ---
 

@@ -42,6 +42,16 @@
         {{ end }}
     {{ end }}
 
+    {{ if  eq .Params.type "team" }}
+        {{ if in .Params.members $title }}
+            {{ $matches := where $site_Pages ".Params.title" "in" .Params.sessions}}
+            {{ range $matches }}
+                {{ $.Scratch.Add "pages" (slice .) }}
+            {{ end }}
+
+        {{ end }}
+    {{ end }}
+
 {{ end }}
 
 
@@ -65,5 +75,4 @@
 {{ end }}
 
 {{ $pages := .Scratch.Get "pages" }}
-
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}

@@ -5,23 +5,22 @@ job_title       : Software Tester
 company         : EtQ
 travel_from     : 
 image           : 
-linkedin        : salmajalouqa
+linkedin        : salma-jalouqa-39635654
 twitter         : 
 facebook        : 
 website         : 
 email           : Sjalouqa@etq.com
 project_leader  : 
 chapter_leader  : 
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :    
-    - Using Pixi  
+    - API Threat Modeling Cheat Sheet
     - Application Security Verification Standard 
     - Getting more women in Cyber-security  
-    - Cloud brokerage 
-    - authentication and authorisation  
-    - authentication and authorisation  
+    - Publishing apps in a VSTS security pipeline
+    - Owasp Cloud Security Workshop (BETA)
     - Owasp Testing Guide v5  
     - Security Playbooks
 ---

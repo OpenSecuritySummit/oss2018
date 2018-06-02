@@ -11,7 +11,8 @@ featured     :
 when_day     : Mon
 when_time    : Eve-1
 room_layout  :
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVBD42TV
 status       : done              # draft, review-content, done
 organizers   :
     - Stephen de Vries
@@ -24,13 +25,13 @@ participants :
 
 ## What
 
-IriusRisk provides its own approach to Threat Modeling. A Questionnaire based implementation linked to a Rules Engine, gives IriusRisk the power of scaling the Threat Modeling activity in an easy way. 
+IriusRisk provides its own approach to Threat Modeling. A Questionnaire based implementation linked to a Rules Engine, gives IriusRisk the power of scaling the Threat Modeling activity in an easy way.
 Integration with external tools (Issue Trackers, SAST, DAST, Testing frameworks, etc.) makes the follow up of those models an easy tasks as well.
 
 
 ## Outcomes
 
-During this session we’ll drive the attendants through the IriusRisk approach and the main core features of the solution. 
+During this session we’ll drive the attendants through the IriusRisk approach and the main core features of the solution.
 
 ## Who
 
@@ -42,5 +43,3 @@ The target audience for this Working Session is:
 
 
 ## References
-
-

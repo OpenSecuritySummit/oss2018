@@ -12,7 +12,7 @@ website         :
 email           : frederic.tollens@toreon.com
 project_leader  : 
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : done
 pre_summit      :
 sessions:

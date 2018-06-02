@@ -1,6 +1,7 @@
 ---
 title           : Dan Gapco
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Incident Response Analyst
 company         : Photobox GS
 travel_from     :
@@ -12,7 +13,7 @@ email           :
 venue           :  Fri
 night_day       :
 night_where     :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 organizers      :

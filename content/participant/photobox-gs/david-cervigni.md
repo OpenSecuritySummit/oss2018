@@ -1,6 +1,7 @@
 ---
 title           : David Cervigni
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : AppSec consultant
 skills          :
     - SAST,IAST,DAST

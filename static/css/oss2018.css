@@ -44,3 +44,8 @@
 .topic-cards ul li      { display:table-cell; text-align:center; background:#fff; border:#87bb40 1px solid; border-radius:8px; padding:0px 5px;}
 .topic-cards ul li div  { border-radius:8px; border:#00549e 1px solid; margin:10px; padding:5px;}
 .topic-cards ul li a    { font-size:12px ; color: #2678c0 ; font-family: Roboto, sans-serif ;}
+
+.schedule-by-track-row-time         {   width:80px;      }
+.schedule-by-track-cell-track-name  {   font-size:9px;   }
+.schedule-by-track-cell-room-name   {   font-size:20px;   }
+.schedule-by-track-cell-room-id     {   font-size:9px;   }

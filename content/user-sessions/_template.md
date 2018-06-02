@@ -7,7 +7,8 @@ featured     :                    # review with summit team "yes"
 when_day     :                    # i.e.    Tues
 when_time    :                    # i.e.    19:30
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: 
 status       : draft              # draft, review-content, done
 organizers   :
 description  :

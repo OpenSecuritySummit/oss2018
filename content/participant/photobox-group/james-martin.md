@@ -1,6 +1,7 @@
 ---
 title           : James Martin
 type            : participant
+sponsored_by    : PhotoBox
 job_title       :
 company         : Moonpig
 travel_from     :
@@ -10,8 +11,8 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Wed
-regonline       :
+venue           : Tue
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

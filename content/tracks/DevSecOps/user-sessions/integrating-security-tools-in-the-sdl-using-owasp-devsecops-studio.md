@@ -9,10 +9,13 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVDX9TS6
 status       : done              # draft, review-content, done
 organizers   : Imran Mohammed A
-participants : Francois Raynaud, Sophie Tonnoir, Timo Pagel
+participants :
+    - Francois Raynaud
+    - Timo Pagel
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 

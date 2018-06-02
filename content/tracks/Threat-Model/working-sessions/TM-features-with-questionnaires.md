@@ -8,26 +8,29 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-2
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVD0EMUJ
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Stephen de Vries, Paul Santapau
 description  : How to Threat Model Features with Questionnaires
 ---
 
 ## Why
 
-Threat model need to be Agile oriented... Probably the nefarious alternative is not doing Threat Modeling at all. Ideally user stories in a sprint should trigger a basic Threat Model for the new feature.
+Threat Modeling architectural changes through STRIDE is well established.  But many agile teams need to threat model code changes to an existing application, which typically does not involve large architectural changes.  STRIDE can be used for this too - but if we narrow the scope to only web apps and APIs, can we find a more specific version of STRIDE that's easier for non-experts to use?
 
 ## What
 
-One of the approach to handle this is using Architecture-Pattern based analysis of the scope of this new features.
-This analysis can be somehow linked to a set of questions that can help on identifiying common threats.
+STRIDE is already essentially a questionnaire, e.g. "Can an attacker spoof their identity to impersonate a different user?"
+With the scope of this questionnaire narrowed to only web apps and APIs, can we ask more specific questions that are easier to answer?
 
-Open discussion: Is this enough? Can we identify better alternatives?​ How would this be taken to a real case?
-
+Can we provide more specific advise on the countermeasures to implement?
 
 ## Outcomes
 
-This Working Session will publish a document (white paper) gathering the conclussions.
+An article that describes the:
+- Questions to ask
+- Associated threats and recommended countermeasures

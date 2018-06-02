@@ -2,7 +2,7 @@
 title           : Felipe Zipitria
 type            : participant
 job_title       : DevOps/AppSec
-funded_by       : CertDev
+sponsored_by    : CertDev
 travel_from     : Uruguay
 image           : https://avatars1.githubusercontent.com/u/3012076?s=460&v=4
 linkedin        : felipezipitria
@@ -13,10 +13,10 @@ email           : felipe.zipitria@owasp.org
 project_leader  :
 chapter_leader  : Uruguay
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_day       : Sun-before, Mon, Tue, Wed, Thu
 night_where     : hotel-1
 night_room      : tbd
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

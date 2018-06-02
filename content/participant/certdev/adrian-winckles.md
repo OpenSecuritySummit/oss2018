@@ -1,6 +1,7 @@
 ---
 title           : Adrian Winckles
 type            : participant
+sponsored_by    : CertDev
 job_title       : Director of Cyber Security, Networking and Big Data Research Group
 company         : Anglia Ruskin University
 travel_from     : Cambridge, UK.
@@ -10,9 +11,9 @@ twitter         : botflowking
 email           : Adrian.Winckles - at - owasp - dot - org
 project_leader  : OWASP Distributed Web Application Honeypot Project
 chapter_leader  : OWASP Cambridge
-regonline       :
+eventbrite_id   :
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
+night_day       : Mon, Thu
 night_where     : villa-4
 pre-summit      :
 status          : add details

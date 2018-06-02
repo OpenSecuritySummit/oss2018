@@ -5,19 +5,19 @@ topics       : ["AWS"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Tue
-when_time    : PM-3
+when_time    : PM-2
 room_layout  :                    #
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVBAE0TV
+status       : add-content              # draft, review-content, done
 description  :
 organizers   :
     - Francois Raynaud
+    - PBX GS
 participants :
     - Andrew Johnstone
-    - James Wharton
-    - John Killilea
-    - Simon Pavillon
     - Vladimir Voskresenskiy
+    - Jaimen Lathia
 
 
 

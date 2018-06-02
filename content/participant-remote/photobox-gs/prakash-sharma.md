@@ -1,6 +1,6 @@
 ---
 title           : Prakash Sharma
-type            : participant
+type            : participant-remote
 job_title       : Security researcher
 company         : Photobox GS
 travel_from     : Nepal
@@ -10,7 +10,7 @@ twitter         : 1lastBr3ath
 website         : http://rootme.in/
 email           : prakash.sharma@yandex.com
 project_leader  :
-regonline       : 
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

@@ -1,6 +1,7 @@
 ---
 title           : Vinal Shah
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : FP&A Manager
 company         : Photobox Group
 travel_from     :
@@ -11,7 +12,7 @@ facebook        :
 website         :
 email           :
 venue           : Thu
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

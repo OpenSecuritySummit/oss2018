@@ -1,6 +1,7 @@
 ---
 title           : Jaimen Lathia
 type            : participant
+sponsored_by    : PhotoBox
 job_title       : Software Engineer
 company         : Moonpig
 travel_from     :
@@ -10,12 +11,15 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
-regonline       :
+venue           : TBC                  # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
+eventbrite_id   :
 pre-summit      :
 status          : add details
-sessions        :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+sessions        : 
+  - AWS Lambda Security
+  - Replacing Akamai with AWS Shield
+  - AWS WAF for DDoS Mitigation
+
 ---
 
 <!-- put more details about participant here -->
