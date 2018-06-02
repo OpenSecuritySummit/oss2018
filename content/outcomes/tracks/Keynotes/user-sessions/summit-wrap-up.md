@@ -1,5 +1,5 @@
 ---
-title        : Hands on Chaos Experiments
+title        : Summit Wrap Up
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :

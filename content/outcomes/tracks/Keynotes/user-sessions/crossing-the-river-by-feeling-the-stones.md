@@ -1,5 +1,5 @@
 ---
-title        : Hands on Chaos Experiments
+title        : Crossing the river by feeling the stones
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
