@@ -1,5 +1,5 @@
 ---
-title        : Registration Desk
+title        : Registration Desk (Wed)
 type         : summit-session
 when_day     : Wed
 when_time    : DS-3
