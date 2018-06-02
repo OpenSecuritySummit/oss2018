@@ -14,6 +14,7 @@ status       : draft
 organizers   :
 participants :
 description  : How do you define and measure the value of Threat Modeling?
+locked       : true
 ---
 
 ## Why

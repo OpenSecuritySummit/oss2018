@@ -17,6 +17,7 @@ organizers   :
 participants :
  - Chris Allen
 description  : API Threat Modeling Cheat Sheet
+locked       : true
 ---
 
 ## Why

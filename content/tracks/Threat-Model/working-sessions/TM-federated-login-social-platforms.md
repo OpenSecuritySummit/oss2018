@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : Federated Login with Social Platforms Threat Modeling Cheat Sheet
+locked       : true
 ---
 
 ## Why

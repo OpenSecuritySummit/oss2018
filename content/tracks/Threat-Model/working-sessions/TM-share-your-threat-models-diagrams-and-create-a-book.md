@@ -14,6 +14,7 @@ description  :
 organizers   :
     - Steven Wierckx
 participants :
+locked       : true
 ---
 
 At the moment we still don't have a good repository of examples of Threat Modeling diagrams.

@@ -14,6 +14,7 @@ description  :
 organizers   :
     - Steven Wierckx
 participants :
+locked       : true
 ---
 
 

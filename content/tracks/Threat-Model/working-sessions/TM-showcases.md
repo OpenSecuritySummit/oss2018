@@ -14,6 +14,7 @@ status       : draft
 organizers   :
 participants :
 description  : Methodology / technique showcase
+locked       : true
 ---
 
 ## Why

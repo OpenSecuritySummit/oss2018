@@ -14,7 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAUT9ERG9
 status       : review-content     # draft, review-content, done
 description  : Using GDPR Patterns
 organizers   :
-    - Anne-Marie Grace
+  - Ann-Marie Grace
 participants :
   - Goher Mohammad
 invited:

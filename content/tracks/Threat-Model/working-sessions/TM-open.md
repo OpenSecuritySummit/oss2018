@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : Threat Modeling track opening
+locked       : true
 ---
 
 ## WHY

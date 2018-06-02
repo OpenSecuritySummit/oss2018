@@ -14,6 +14,7 @@ status       : draft
 organizers   :
 participants :
 description  : SABSA and threat modeling
+locked       : true
 ---
 
 ## Why

@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : Docker and Kubernetes Threat Modeling Cheat Sheet
+locked       : true
 ---
 
 ## Why

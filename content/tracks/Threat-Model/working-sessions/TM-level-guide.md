@@ -13,6 +13,7 @@ status       : done              # draft, review-content, done
 organizers   : Steven Wierckx
 description  : Threat model guide with levels
 track        : Threat Model
+locked       : true
 ---
 
 ## WHY

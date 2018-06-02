@@ -16,6 +16,7 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : IoT Threat Modeling Cheat Sheet
+locked       : true
 ---
 
 ## Why

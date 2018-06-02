@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : Threat Model training through Gamification
+locked       : true
 ---
 
 ## Why
