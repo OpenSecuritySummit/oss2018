@@ -1,11 +1,11 @@
 ---
-title           : Jorge Esperón
+title           : Stuart Winter-Tear
 type            : participant
-job_title       : Senior Security Architect
+job_title       : Security Analyst
 company         : Continuum Security
-image           : /participant/images/jorge-esperon.jpg
-linkedin        : jesperon
-twitter         : _v3rn3
+image           : 
+linkedin        : 
+twitter         : stegopax
 facebook        :
 website         :
 email           :
