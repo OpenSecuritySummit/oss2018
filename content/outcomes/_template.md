@@ -1,7 +1,7 @@
 ---
 title        :                    # same as the corresponding user|working|product-session
 type         : outcome
-session_type :                    # working-session, user-session, product-sesssion            
+session_type :                    # working-session, user-session, product-session            
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
@@ -10,14 +10,14 @@ description  :
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used for describing the outcomes of a sessions. You can combine the headings in a way you beleive it will describe the results of the session in a best possible way.*
+*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
 
-*If you feel that some additional heading can be edit and this way the outcome material will be even better please add the heading in the current structure.*
+*If you feel that additional headings will improve the outcomes, feel free to add them.*
 
-***NOTE:*** *The italic text in this page/document it is used only to explain the segments of the document and have to be removed or replaced with another useful content.*
+***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
 
 ## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type.*
+*The outcomes are the results produced from a session regardless of the session type. These can be:*
 
 - *Artefacts (Diagrams)*
 - *Documents or Books*
@@ -30,16 +30,16 @@ description  :
 - *Lessons Learned*
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Bullet points/lists as much as possible.*
+*Clear and concise. Use bullet points/lists as much as possible.*
 
 ## Identified Questions
-*The aim of this chapter is to remark all question that might trigger follow up discussions and initiate additional development of the topic covered by the session.*
+*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
 
 ## Important Conclusions
 *Make a simple list of conclusions that were taken at the session.*
 
 ## Working Materials (recommend)
-*Make a list with references to working materials that were created during the session*
+*Make a list of references to working materials that were created during the session*
 
 ## References (recommend)
 - **Session page :** *put a link to the session page*
