@@ -13,6 +13,7 @@ sessions:
     - SAMM Core Daily Scrum (Wed)
     - SAMM Core Daily Scrum (Thu)
     - SAMM Core Daily Scrum (Fri)
+    - DevSecOps Maturity Model (DSOMM)
 
 
 
