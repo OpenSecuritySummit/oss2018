@@ -8,7 +8,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
-room_id      : Villa-4
+room_id      : Villa-1
 session_slack: https://os-summit.slack.com/messages/CAVAEG0DR
 status       : review-content              # draft, review-content, done
 description  : Project meeting to review the status and update the plan for SAMM2

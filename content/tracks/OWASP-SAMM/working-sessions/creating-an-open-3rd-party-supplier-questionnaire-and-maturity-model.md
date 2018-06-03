@@ -9,7 +9,7 @@ featured     : yes                 # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-2
 room_layout  :                    #
-room_id      :
+room_id      : Villa-1
 session_slack:
 status       : review-content              # draft, review-content, done
 description  : Create a common 3rd Party Supplier Maturity Model
