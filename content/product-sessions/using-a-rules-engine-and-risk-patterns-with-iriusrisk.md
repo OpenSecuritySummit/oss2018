@@ -11,7 +11,7 @@ featured     :
 when_day     : Mon
 when_time    : Eve-1
 room_layout  :
-room_id      :
+room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAVBD42TV
 status       : done              # draft, review-content, done
 organizers   :

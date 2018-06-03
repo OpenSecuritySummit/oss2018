@@ -9,7 +9,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVPAADAA
 status       : review-content             # draft, review-content, done
 organizers   :
