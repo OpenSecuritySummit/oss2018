@@ -1,11 +1,14 @@
 {{ $pages := where .self.Site.Pages ".Params.when_day" "in" .day }}
 
 {{ range $pages }}
+    {{ $page := .}}
     {{ if .Params.room_id }}
         {{if eq  (printf "%T"  .Params.room_id) "string" }}
             {{ $.self.Scratch.Add .Params.room_id   (slice .) }}
             {{ if .Params.when_time }}
-                {{ $.self.Scratch.Add .Params.when_time (slice .) }}
+                {{ range (split .Params.when_time ",")}}
+                    {{ $.self.Scratch.Add (trim . "") (slice $page) }}
+                {{ end }}
             {{ else }}
                 {{ $.self.Scratch.Add "no time" (slice .) }}
             {{ end }}
