@@ -2,6 +2,7 @@
 title        : SAMM Introduction
 type         : user-session
 track        : OWASP SAMM
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

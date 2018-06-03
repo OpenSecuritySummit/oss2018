@@ -2,6 +2,7 @@
 title        : SAMMv2 working session - Operations
 type         : working-session
 track        : Maturity Models
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

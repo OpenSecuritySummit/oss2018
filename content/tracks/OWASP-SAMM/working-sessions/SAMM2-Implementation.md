@@ -2,6 +2,7 @@
 title        : SAMMv2 working session - Implementation
 type         : working-session
 track        : OWASP SAMM
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"

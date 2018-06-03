@@ -3,6 +3,7 @@ title        : SAMM - Best Practices
 type         : user-session
 owasp-project: yes
 track        : OWASP SAMM
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes
