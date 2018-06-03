@@ -15,5 +15,10 @@ status       : review-content
 organizers   :
     - Sebastien Deleersnyder
 participants :
+    - Francois Raynaud
+    - Steven Wierckx
+    - Tony Richards
 description  :
 ---
+
+Flash introductions to some of the main summit tracks
