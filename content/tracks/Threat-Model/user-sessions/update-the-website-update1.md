@@ -11,9 +11,11 @@ room_id      :
 session_slack:
 status       : done              # draft, review-content, done
 description  :
+locked       : true
 organizers   :
     - Steven Wierckx
 participants :
+    - Ruben Tronçon
 ---
 
 During these sessions we will update the website with the content created during the day workshops.
