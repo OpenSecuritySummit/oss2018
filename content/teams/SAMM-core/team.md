@@ -3,6 +3,7 @@ title           : SAMM Core
 type            : team
 #hidden          : true
 team_type       : Community Team
+image           : /img/teams/OWASP-SAMM.png
 website         :
 email           :
 tracks:
