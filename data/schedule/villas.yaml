@@ -1,25 +1,35 @@
 villa-1:
-  title    : Threat Modelling Villa
+  title    : OWASP SAMM
   layout   : tbd
-  location : Oak 320
+  location : 311
   capacity : 40
 villa-2:
-  title    : CertDev Villa
+  title    : DevSecCon
   layout   : tbd
-  location : Oak 316
+  location : 313
   capacity : 40
 villa-3:
-  title    : DevSecCon Villa
+  title    : Owasp Projects
   layout   : tbd
-  location : Oak 313
+  location : 314
   capacity : 40
 villa-4:
-  title    : SAMM Villa
+  title    : CertDev
   layout   : tbd
-  location : Oak 311
+  location : 316
   capacity : 40
 villa-5:
-  title    : Photobox Villa
+  title    : Photobox
   layout   : tbd
-  location : Oak 314
+  location : 317
+  capacity : 40
+villa-6:
+  title    : Threat Modeling
+  layout   : tbd
+  location : 320
+  capacity : 40
+villa-7:
+  title    : Women in Tech
+  layout   : tbd
+  location : 321
   capacity : 40

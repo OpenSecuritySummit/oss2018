@@ -19,8 +19,10 @@ organizers   :
     - Paúl Santapau
     - Jorge Esperón
 description  : During this session we’ll drive the attendants through the IriusRisk approach and the main core features of the solution.
+locked       : true
 participants :
     - Toby Shelswell
+    - Steven Wierckx
 ---
 
 ## What

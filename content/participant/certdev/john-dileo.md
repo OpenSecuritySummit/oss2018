@@ -13,7 +13,7 @@ website         :
 email           : john.dileo@owasp.org
 project_leader  : 
 chapter_leader  : 
-- OWASP New Zealand
+    - OWASP New Zealand
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-1
@@ -21,20 +21,20 @@ night_room      : 4
 eventbrite_id   :
 status          : 
 sessions        : 
-- SAMM Project Meeting
-- SAMM benchmarking
-- SAMM2 Kickoff
-- SAMMv2 working session - Design
-- SAMMv2 working session - Governance
-- SAMMv2 working session - Implementation
-- SAMMv2 working session - Operations
-- SAMMv2 working session - Verification
-- DevSecOps Maturity Model (DSOMM)
-- Integrating Security Tools in the SDL
-- JIRA Risk Workflow
-- Security Champions
-- Security Ethics Checklist
-- Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+    - SAMM Project Meeting
+    - SAMM benchmarking
+    - SAMM2 Kickoff
+    - SAMMv2 working session - Design
+    - SAMMv2 working session - Governance
+    - SAMMv2 working session - Implementation
+    - SAMMv2 working session - Operations
+    - SAMMv2 working session - Verification
+    - DevSecOps Maturity Model (DSOMM)
+    - Integrating Security Tools in the SDL
+    - JIRA Risk Workflow
+    - Security Champions
+    - Security Ethics Checklist
+    - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 notes :
 # add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
 

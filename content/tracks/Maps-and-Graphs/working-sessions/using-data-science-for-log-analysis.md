@@ -7,9 +7,9 @@ technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Thu
-when_time    : PM-3
+when_time    : DS-2
 room_layout  :                    #
-room_id      : room-3
+room_id      : table-3
 session_slack:
 status       : review-content              # draft, review-content, done
 description  : Find out ways to use Data Science for log analysis
