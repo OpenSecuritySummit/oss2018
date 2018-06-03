@@ -21,6 +21,8 @@ sessions        :
   - AWS Lambda Security
   - Agile Practices for Security Teams
   - CISO
+  - Creating ELK Dashboards
+  - Using AI and ML for incident response
   - Creation of Security Buttons
   - Getting more women in Cyber-security
   - A seat at the table
