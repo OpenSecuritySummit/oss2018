@@ -19,12 +19,18 @@ pre-summit      :
 status          : add details
 sessions        :
 
-          - AWS Lambda Security 
-          - AWS WAF for DDoS Mitigation 
-          - Replacing Akamai with AWS Shield 
-          - Incident handling with DarkTrace
-          - Owasp Testing Guide v5
+          - Using Jira to handle Incident Response - simulations 
+          - Agile Practices for Security Teams
+          - Cyber Insurance
+          - Owasp Cloud Security Workshop (BETA)
           - Using AI and ML for incident response
+          - AWS Lambda Security 
+          - Owasp Testing Guide v5
+          - Using maps to define how to capture, detect and prevent 6 real-world security incidents
+          
+          
+         
+
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
