@@ -2,7 +2,7 @@
 title           : SAMM Core
 type            : team
 #hidden          : true
-team_type       : Projet
+team_type       : Community Team
 website         :
 email           :
 tracks:
