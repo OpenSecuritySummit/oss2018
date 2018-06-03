@@ -1,7 +1,7 @@
 ---
 title        : Implementing the OWASP responsible disclosure Maturity Model
 type         : user-session    # working-session, user-session
-track        : Maturity Models
+track        : OWASP Projects
 topics       : ["OWASP"]
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.

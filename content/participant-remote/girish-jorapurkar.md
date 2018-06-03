@@ -1,20 +1,21 @@
 ---
-title           : Clara Anel Mansilla
-type            : participant
-job_title       :
-company         :
+title           : Girish Jorapurkar
+type            : participant-remote
+job_title       : Sr. Principle Security Engineer
+company         : 
 travel_from     :
-image           :
-linkedin        :
+image           : 
+linkedin        : https://www.linkedin.com/in/girishsj/
 twitter         :
 facebook        :
 website         :
-email           :
-venue           :                   # add which day you will be attending: Mon, Tue, Wed, Thu, Fri
+email           : girishsj@yahoo.com
+project_leader  :
+chapter_leader  :
 eventbrite_id   :
-pre-summit      :
-status          : add details
+status          : add-details
 sessions        :
+notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 

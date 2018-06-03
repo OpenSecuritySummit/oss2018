@@ -16,6 +16,7 @@ description  :
 organizers   :
     - Talal Albacha
 participants :
+    - Sebastien Deleersnyder
 ---
 
 ## Why

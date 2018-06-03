@@ -1,7 +1,6 @@
 ---
 title       : I'd like to join the Summit
 layout      : FAQ
-status      : draft
 ---
 
 <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
@@ -35,7 +34,23 @@ Please feel free to join any team marked as `community team`. See the [Teams pag
 
 ##### How do I sign up for the OSS newsletter?
 
-<Holding text>
+To subscribe to the OSS Newsletter, click [here](<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+    #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+    /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+       We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="https://opensecsummit.us18.list-manage.com/subscribe/post?u=b36737d10afec8efd80e5e21d&amp;id=2c3ad4cbec" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+   <div id="mc_embed_signup_scroll">
+    <label for="mce-EMAIL">Subscribe to our mailing list</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+   <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+   <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b36737d10afec8efd80e5e21d_2c3ad4cbec" tabindex="-1" value=""></div>
+   <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+   </div>
+</form>
+</div>)
 
 ##### What is the schedule?
 The full schedule is available [here](https://open-security-summit.org/schedule/). Add the names of the sessions you wish to attend to your participant page, and when approved these will upload to your profile page and the relevant session pages.

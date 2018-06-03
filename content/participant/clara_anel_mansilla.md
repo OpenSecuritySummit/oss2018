@@ -1,10 +1,9 @@
 ---
-title           : Head of Risk
+title           : Clara Anel Mansilla
 type            : participant
-sponsored_by    : JE Marketing
 job_title       :
 company         :
-travel-from     :
+travel_from     :
 image           :
 linkedin        :
 twitter         :
@@ -12,17 +11,12 @@ facebook        :
 website         :
 email           :
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Mon, Tue, Wed, Thu
-night_where     : villa-7
 eventbrite_id   :
 pre-summit      :
 status          : add details
-tracks:
-    - GDPR
-sessions: 
-    - Creating Appsec metrics and visualisation
-    - Using graphs for GDPR mappings and visualisations
-notes :
+sessions        : 
+  - Hands on Chaos Experiments
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->

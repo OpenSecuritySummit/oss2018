@@ -7,7 +7,7 @@ room_id      :
 session_slack: 
 status       : done             # draft, review-content, done
 organizers   :
-    - Jemma Davis-Smith
+    - 
 participants :
     - Marjorie Mohammad
     - Ann-Marie Grace
