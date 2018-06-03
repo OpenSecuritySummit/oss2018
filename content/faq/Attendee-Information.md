@@ -5,7 +5,7 @@ layout      : FAQ
 ---
 
 ## Welcome to Open Security Summit 2018
-Thank you for your interest in Open Security Summit 2018 (OSS 2018).
+Thank you for your interest in Open Security Summit 2018 (OSS 2018)
 
 The attendee general flow (attendee journey) is as follows;
 
