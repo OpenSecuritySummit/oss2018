@@ -8,8 +8,7 @@ categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-2,PM-3
-room_layout  :                    #
-room_id      :
+room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAVD5BNRY
 status       : done
 organizers   : ["Fraser Scott"]

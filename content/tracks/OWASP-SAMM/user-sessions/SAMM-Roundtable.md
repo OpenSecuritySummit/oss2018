@@ -10,7 +10,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-3
 room_layout  :                    #
-room_id      : Room-2
+room_id      : room-2
 session_slack: https://os-summit.slack.com/messages/CAXEB4GR2
 status       : review-content              # draft, review-content, done
 description  : Round table session with SAMM users

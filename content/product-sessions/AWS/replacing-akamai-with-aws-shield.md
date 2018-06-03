@@ -7,7 +7,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
-room_id      :
+room_id      : villa-5
 session_slack: https://os-summit.slack.com/messages/CAVBAE0TV
 status       : add-content              # draft, review-content, done
 description  :
