@@ -31,7 +31,11 @@
                             {{ $page := $.self.Scratch.Get . }}
                             {{ if eq (printf "%T" $page) "*hugolib.Page" }}
                                 <a href="{{$page.Permalink}}" title="{{$page.Params.title}}">
-                                    <img class="participant-image img-circle" src="{{ $page.Params.image}}"/>
+                                    {{ if $page.Params.image }}
+                                        <img class="participant-image img-circle" src="{{ $page.Params.image}}"/>
+                                    {{ else}}
+                                        <img class="participant-image img-circle" src="/img/blocks/avatar.jpg"/>
+                                    {{ end }}
                                 </a>
                             {{ end }}
                         {{ end}}

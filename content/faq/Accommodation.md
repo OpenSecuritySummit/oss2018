@@ -27,7 +27,7 @@ http://www.centerparcs.co.uk/hotels_apartments
 
 #### 4. Local taxi information
 
-The local taxi company is A1 taxis, they can be reached on (00 44)1525 757575. You will be unable to order an Uber from Center Parcs, however Uber will bring you to the venue.
+The local taxi company is A1 taxis, they can be reached on (00 44) 1525 757575. You will be unable to order an Uber from Center Parcs, however Uber will bring you to the venue.
 
 #### 5. What is included in my Summit ticket?
 

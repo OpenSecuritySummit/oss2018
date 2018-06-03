@@ -23,18 +23,13 @@
 
 {{ define "content" }}
 
+  {{ $tracks := where .Site.Pages ".Params.type" "track" }}
+  <section class="mid_wrap" >
+    <div class="container">
 
+      {{ partial "home-page/tracks.html" . }}
 
-
-
-
-{{ $tracks := where .Site.Pages ".Params.type" "track" }}
-<section class="mid_wrap" >
-  <div class="container">
-
-    {{ partial "home-page/tracks.html" . }}
-
-  </div>
-</section>
+    </div>
+  </section>
 
 {{ end }}

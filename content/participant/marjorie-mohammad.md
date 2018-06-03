@@ -6,7 +6,7 @@ role            : Summit Event Support
 job_title       : Summit Event Support
 company         : 
 travel_from     : United Kingdom
-image           : 
+image           :
 linkedin        : 
 twitter         :
 facebook        :
