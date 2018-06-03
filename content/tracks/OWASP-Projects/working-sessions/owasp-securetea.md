@@ -11,7 +11,7 @@ room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVD79HPC
 status       : draft              # draft, review-content, done
 categories   : ["OWASP Projects"]
-organizers   : ["Ade Yose man"]
+organizers   :
 description  : owasp small iot tools project https://www.owasp.org/index.php/OWASP_SecureTea_Project
 ---
 
