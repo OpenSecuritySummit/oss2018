@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : Student
 company         :
 travel_from     :
-image           : https://drive.google.com/open?id=12EOA1gOiTHBl9qZJPd2mmsoeySPp96Pa
+image           : http://ieeevit.com/images/arushit.jpg
 linkedin        : arushit-mudgal
 twitter         : arushit
 facebook        : arushit.mudgal
@@ -20,7 +20,7 @@ sessions        :
     - Create a Slack bot in Python
     - Lessons learned from public bug bounties programmes
     - Running CTF Games with OWASP Juice Shop
-    - Thinking in Graph
+    - Thinking in Graphs
     - Securing GitHub Integrations
     - Crossing the river by feeling the stones
     - Web Application Honeypot

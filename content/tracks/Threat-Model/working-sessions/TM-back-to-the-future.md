@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : Back to the future with Threat Modeling
+locked       : true
 ---
 
 ## Why

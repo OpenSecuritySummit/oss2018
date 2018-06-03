@@ -9,11 +9,12 @@ when_day     :
 when_time    :
 room_layout  :
 room_number  :
-session_slack: 
+session_slack:
 status       : draft
 organizers   :
 participants :
 description  : Methodology / technique showcase
+locked       : true
 ---
 
 ## Why

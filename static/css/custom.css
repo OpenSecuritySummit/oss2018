@@ -120,6 +120,12 @@ a.nav {
 
 .inner_main_product_sessions{ height:284px; position:relative; background:url(/img/pages/working_sessions.jpg) no-repeat center bottom; background-size:cover;}
 
+.inner_main_outcomes{ height:284px; position:relative; background:url(/img/pages/outcomes.png) no-repeat center bottom; background-size:cover;}
+
+.background-outcomes {
+    background: url(/img/pages/outcomes.png) center center repeat;
+}
+
 .background-default {
     background: url(/img/banners/default.png) center center repeat;
 }
@@ -1142,6 +1148,11 @@ div.google-map {
   margin-right: auto;
 }
 
+.customers {
+  display: flex;
+  flex-direction: column;
+}
+
 .customers .item img {
   opacity: 0.5;
 }
@@ -1623,4 +1634,29 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 /* Sponsored by image size */
 .sponsored-by {
   width:150px;
+}
+
+/* Sponsors */
+.outcome-sidebar {
+  background: #f5f7fa;
+}
+
+.outcome-content h1 {
+  font-family: 'Roboto Slab';
+  font-weight: bold;
+  font-size: 36pt;
+}
+
+.outcome-content h2 {
+  font-family: 'Oswald';
+  font-size: 16px;
+  font-weight: 400;
+  color: #00549E;
+}
+
+.outcome-sidebar h2 {
+  font-family: 'Oswald';
+  font-size: 16px;
+  font-weight: 400;
+  color: #00549E;
 }

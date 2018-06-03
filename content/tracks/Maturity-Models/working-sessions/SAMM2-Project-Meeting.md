@@ -5,7 +5,7 @@ track        : Maturity Models
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Fri
+when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
 room_id      :
@@ -16,6 +16,7 @@ organizers   :
     - Sebastien Deleersnyder
 participants:
     - Mark-David McLaughlin
+    - Bart De Win
 ---
 
 Project meeting to review the status and update the plan for SAMM2
