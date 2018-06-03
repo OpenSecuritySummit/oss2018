@@ -6,7 +6,7 @@ topics       : ["Owasp Project"]
 technology   :
 featured     : yes                   # review with summit team "yes"
 when_day     : Mon
-when_time    : PM-1, PM-2
+when_time    : AM-1
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAX5SGV2Q
