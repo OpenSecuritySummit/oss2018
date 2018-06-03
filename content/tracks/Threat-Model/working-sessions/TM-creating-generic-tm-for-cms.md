@@ -9,7 +9,7 @@ when_time    : AM-1, PM-2                 # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  :
 organizers   :
     - Steven Wierckx
