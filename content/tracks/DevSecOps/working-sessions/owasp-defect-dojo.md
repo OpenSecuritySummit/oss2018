@@ -9,7 +9,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAXCDCE4S
 status       : done              # draft, review-content, done
 categories   : ["OWASP Project"]
