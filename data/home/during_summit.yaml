@@ -1,0 +1,41 @@
+cards:
+  - id       : card-1
+    title    : I’M AN ONSITE PARTICIPANT
+    questions:
+      - question : How do I get to the venue?
+        link     : someplace
+      - question : What can I do at the Summit?
+        link     : b
+      - question : How do I create my schedule?
+        link: c
+    more_info: /faq/moreinfo/
+  - id       : card-2
+    title    : I’M AN REMOTE PARTICIPANT
+    questions:
+      - question : How do remote sessions work?
+        link     : someplace
+      - question : Which sessions can I join?
+        link     : b
+      - question : How can I invite others to join?
+        link: c
+    more_info: /faq/moreinfo/
+  - id       : card-3
+    title    : I’M A SESSION ORGANISER
+    questions:
+      - question : What are my responsibilities?
+        link     : someplace
+      - question : What resources are available?
+        link     : b
+      - question : What should the outcomes be?
+        link: c
+    more_info: /faq/moreinfo/
+  - id       : card-4
+    title    : "I’M MISSING OUT      :("
+    questions:
+      - question : How do I get a ticket?
+        link     : someplace
+      - question : How can I join remotely?
+        link     : b
+      - question : Can I sign-up to updates?
+        link: c
+    more_info: /faq/moreinfo/
