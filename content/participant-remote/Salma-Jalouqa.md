@@ -18,9 +18,7 @@ status          : add details
 sessions        :    
     - API Threat Modeling Cheat Sheet
     - Application Security Verification Standard 
-    - Getting more women in Cyber-security  
     - Publishing apps in a VSTS security pipeline
     - Owasp Cloud Security Workshop (BETA)
     - Owasp Testing Guide v5  
-    - Security Playbooks
 ---
