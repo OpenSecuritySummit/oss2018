@@ -6,7 +6,7 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes
 when_day     : Tue
-when_time    : AM-2
+when_time    : PM-1
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWETV4UF
