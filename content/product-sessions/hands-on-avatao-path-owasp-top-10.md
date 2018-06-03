@@ -11,7 +11,7 @@ featured     :
 when_day     : Mon
 when_time    : Eve-2
 room_layout  :
-room_id      :
+room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAUP56U8G
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform

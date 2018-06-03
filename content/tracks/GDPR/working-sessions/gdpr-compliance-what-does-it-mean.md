@@ -7,9 +7,9 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Mon
-when_time    : PM-1
+when_time    : DS-2
 room_layout  :                    #
-room_id      : room-3
+room_id      : table-6
 session_slack: https://os-summit.slack.com/messages/CAWECH57Z
 status       : review-content              # draft, review-content, done
 organizers   : 	Goher Mohammad
