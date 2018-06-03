@@ -9,11 +9,12 @@ email           :
 tracks:
     - OWASP SAMM
 sessions:
-    - OWASP SAMM Daily Scrum (Mon)
-    - OWASP SAMM Daily Scrum (Tue)
-    - OWASP SAMM Daily Scrum (Wed)
-    - OWASP SAMM Daily Scrum (Thu)
-    - OWASP SAMM Daily Scrum (Fri)
+    - OWASP Core Daily Scrum (Mon)
+    - OWASP Core Daily Scrum (Tue)
+    - OWASP Core Daily Scrum (Wed)
+    - OWASP Core Daily Scrum (Thu)
+    - OWASP Core Daily Scrum (Fri)
+
 
 
 
