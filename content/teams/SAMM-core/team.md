@@ -6,14 +6,14 @@ team_type       : Community Team
 image           : /img/teams/OWASP-SAMM.png
 website         :
 email           :
-tracks:
-    - OWASP SAMM
+
 sessions:
-    - OWASP SAMM Daily Scrum (Mon)
-    - OWASP SAMM Daily Scrum (Tue)
-    - OWASP SAMM Daily Scrum (Wed)
-    - OWASP SAMM Daily Scrum (Thu)
-    - OWASP SAMM Daily Scrum (Fri)
+    - SAMM Core Daily Scrum (Mon)
+    - SAMM Core Daily Scrum (Tue)
+    - SAMM Core Daily Scrum (Wed)
+    - SAMM Core Daily Scrum (Thu)
+    - SAMM Core Daily Scrum (Fri)
+
 
 
 
@@ -29,4 +29,3 @@ members:
 This is the OWASP SAMM Project core team (responsible for
 developing the OWASP SAMM Project)
 
-To see all sessions for this team see the [SAMM CORE](/teams/SAMM-core/user/) user

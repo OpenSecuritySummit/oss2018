@@ -1,23 +1,20 @@
 ---
-title           : Anton Delsink
+title           : Girish Jorapurkar
 type            : participant-remote
-job_title       :
-company         : Teambase
+job_title       : Sr. Principle Security Engineer
+company         : 
 travel_from     :
-image           :
-linkedin        : anton-delsink
-twitter         : antondelsink
+image           : 
+linkedin        : https://www.linkedin.com/in/girishsj/
+twitter         :
 facebook        :
 website         :
-email           :
+email           : girishsj@yahoo.com
 project_leader  :
 chapter_leader  :
-regonline       :
-status          :
+eventbrite_id   :
+status          : add-details
 sessions        :
- - AWS Lambda Security
- - SOC Value Chain using Wardley maps
- - Wardley Mapping - a practical session on how to use value chain mapping
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
