@@ -26,7 +26,7 @@ paginate = 10
     identifier = "schedule"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 1
-    url = "/Schedule/"
+    url = "/Schedule/all"
 [[menu.main]]
     name = "Sessions"
     identifier = "sessions"
