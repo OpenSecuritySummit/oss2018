@@ -12,6 +12,7 @@ room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAVAEG0DR
 status       : review-content              # draft, review-content, done
 description  : Project meeting to review the status and update the plan for SAMM2
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 organizers   :
     - Sebastien Deleersnyder
 participants:

@@ -15,6 +15,7 @@ organizers   :
 participants:
         - John Fitzgerald
         - Rachel Power
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Security is an ethical issue. What should every single developer be asking themselves to check their code or system is safe to use before they deploy it? The aim of this session is to suggest a simple set of questions that could alert an engineer with limited security knowledge to obvious flaws in their product that could hurt unsuspecting users.

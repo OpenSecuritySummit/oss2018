@@ -12,6 +12,7 @@ session_slack:
 status       :                   # draft, review-content, done
 organizers   : ["Sebastien Deleersnyder"]
 description  : Keynote by Sebastien Deleersnyder
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 The General Data Protection Regulation (GDPR) has arrived! 

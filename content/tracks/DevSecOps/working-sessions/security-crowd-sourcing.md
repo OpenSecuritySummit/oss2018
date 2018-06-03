@@ -14,6 +14,7 @@ description  : Working Sessions for Security Crowdsourcing
 organizers   :
     - Stu Hirst
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Security crowdsourcing is necessary - it is allowing highly talented individuals and resourceful organisations to use the power of their intelligence, skills and resources to fight cyber threats.

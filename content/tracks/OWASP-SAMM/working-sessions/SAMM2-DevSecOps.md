@@ -13,6 +13,7 @@ room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAWERMEEB
 status       : review-content              # draft, review-content, done
 description  : Create a totally new SAMM DevSecOps version
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 organizers   :
     - Sebastien Deleersnyder
 participants:

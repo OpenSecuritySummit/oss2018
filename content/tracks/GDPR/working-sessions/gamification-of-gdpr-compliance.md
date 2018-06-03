@@ -14,7 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAV6AK0J0
 status       : review-content              # draft, review-content, done
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 organizers   :
-participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 There are a lots of good things behind the GDRR

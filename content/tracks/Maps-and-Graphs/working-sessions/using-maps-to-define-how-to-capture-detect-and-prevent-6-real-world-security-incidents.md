@@ -23,10 +23,10 @@ participants :
     - Tony Richards
     - Vladimir Voskresenskiy
     - Wayne Moore
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Based on the ideas shown in the picture below
 
 {{% img src="https://user-images.githubusercontent.com/656739/40690623-b3cde1a0-639f-11e8-8f6c-9031057e3e19.png"
         width="400" %}}
-

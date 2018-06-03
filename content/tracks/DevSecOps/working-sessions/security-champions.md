@@ -13,6 +13,7 @@ status       : review-content     # draft, review-content, done
 organizers   :
 description  :
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.

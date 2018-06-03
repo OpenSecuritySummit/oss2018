@@ -17,6 +17,7 @@ organizers   :
     - Sotiraki Sima
 participants :
     - Dinis Cruz
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Practical session on using the JIRA-NeoVis tool

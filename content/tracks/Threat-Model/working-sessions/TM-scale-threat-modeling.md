@@ -17,6 +17,7 @@ participants :
     - Manish Saindane
 description  : How to scale Threat Modeling
 locked       : true
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

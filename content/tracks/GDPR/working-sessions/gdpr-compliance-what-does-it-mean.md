@@ -14,6 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAWECH57Z
 status       : review-content              # draft, review-content, done
 organizers   : 	Goher Mohammad
 description  : Now that GDPR is in force, what does GDPR Compliance mean and how to measure it
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 GDPR Compliance what does it means for you?

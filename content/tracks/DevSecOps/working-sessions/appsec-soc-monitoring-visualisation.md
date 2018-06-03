@@ -15,6 +15,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
 participants : Francois Raynaud
 description  : AppSec SOC Monitoring Visualisation
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

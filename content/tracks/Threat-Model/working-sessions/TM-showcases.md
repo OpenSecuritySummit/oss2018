@@ -14,7 +14,11 @@ status       : draft
 organizers   :
 participants :
 description  : Methodology / technique showcase
+<<<<<<< HEAD:content/tracks/Threat-Model/working-sessions/TM-showcases
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
 locked       : true
+>>>>>>> master:content/tracks/Threat-Model/working-sessions/TM-showcases.md
 ---
 
 ## Why

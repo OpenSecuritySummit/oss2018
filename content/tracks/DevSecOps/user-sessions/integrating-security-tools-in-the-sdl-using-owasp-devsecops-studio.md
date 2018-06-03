@@ -18,6 +18,7 @@ participants :
     - Timo Pagel
     - Jim Newman
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Most of today´s application security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.

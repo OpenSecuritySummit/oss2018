@@ -14,6 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 participants : 
   - Francois Raynaud
   - Timo Pagel

@@ -21,6 +21,7 @@ participants :
     - Onkar Dhane
     - Stephen Hookings
 description  : Working Sessions for Owasp DevSecOps Studio
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 DevSecOps Studio is one of its kind, self contained DevSecOps environment/distribution to help individuals in learning DevSecOps concepts. It takes lots of efforts to setup the environment for training/demos and more often, its error prone when done manually. DevSecOps Studio is easy to get started, mostly automatic and battle tested during our Free Practical DevSecOps Course at https://www.teachera.io/devsecops-course/

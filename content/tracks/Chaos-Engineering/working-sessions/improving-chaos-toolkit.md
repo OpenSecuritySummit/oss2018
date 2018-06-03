@@ -16,7 +16,7 @@ description  : Practical Guide to Extending the Chaos Toolkit for DevSecOps conc
 organizers   :
     - Russ Miles
 participants:
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 The Chaos Toolkit provides a Universal API for Chaos Engineering experiments that is then used to drive various implementations of chaos-causing and system-state-probing functions.

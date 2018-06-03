@@ -16,6 +16,7 @@ description  : Find out ways to use Data Science for log analysis
 organizers   :
 participants :
     - James Wharton
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Find out ways to use Data Science for log analysis

@@ -13,6 +13,7 @@ status       : review-content     # draft, review-content, done
 description  : Session on ASVS
 organizers   :
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 The OWASP Application Security Verification Standard (ASVS) Project provides a basis for testing web application technical security controls and a list of requirements for secure development for developers.

@@ -14,9 +14,10 @@ session_slack: https://os-summit.slack.com/messages/CAUNTQ124
 status       : review-content              # draft, review-content, done
 description  :
 organizers   :
-participants:
+participants :
     - Russ Miles
     - Chris Allen
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 In this session, attendees will learn how to build chaos experiments from scratch using the free and open source Chaos Toolkit.

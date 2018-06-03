@@ -15,6 +15,7 @@ status       :               # draft, review-content, done
 organizers   : ["Jannik Hollenbach"]
 description  : Running / hosting CTF games with OWASP JuiceShop
 participants :                    # separated by coma
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ![Juice Shop CTF Logo](https://raw.githubusercontent.com/bkimminich/juice-shop-ctf/master/images/JuiceShopCTF_Logo_100px.png)

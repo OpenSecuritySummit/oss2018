@@ -14,4 +14,5 @@ description  :
 organizers   :
     - John Fitzgerald
     - Rachel Power
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---

@@ -13,6 +13,7 @@ organizers   : Ante Gulam
 track        : DevSecOps
 participants :
 description  : Agile Practices for Security Teams
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Until recently, cyber security was often considered as “nice to have” in the software development lifecycle. However, due to several data breaches that hit the headlines, more and more dev teams are now starting to incorporate security practices in their processes.

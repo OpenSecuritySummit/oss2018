@@ -14,7 +14,11 @@ status       : draft
 organizers   :
 participants :
 description  : How do you define and measure the value of Threat Modeling?
+<<<<<<< HEAD:content/tracks/Threat-Model/working-sessions/TM-value
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
 locked       : true
+>>>>>>> master:content/tracks/Threat-Model/working-sessions/TM-value.md
 ---
 
 ## Why

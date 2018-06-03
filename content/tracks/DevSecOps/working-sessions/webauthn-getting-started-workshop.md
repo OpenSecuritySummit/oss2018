@@ -13,7 +13,7 @@ description  :
 organizers   :
     - Yuriy Ackermann
 participants :
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 See how this [Web Authentication: What It Is and What It Means for Passwords](https://duo.com/blog/web-authentication-what-it-is-and-what-it-means-for-passwords)

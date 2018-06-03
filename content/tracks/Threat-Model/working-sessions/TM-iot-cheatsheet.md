@@ -16,7 +16,11 @@ organizers   :
     - Steven Wierckx
 participants :
 description  : IoT Threat Modeling Cheat Sheet
+<<<<<<< HEAD
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
 locked       : true
+>>>>>>> master
 ---
 
 ## Why

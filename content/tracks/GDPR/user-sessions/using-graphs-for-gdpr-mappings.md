@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Mario Platt
     - Goher Mohammad
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 Create graphs as shows in the https://github.com/pbx-gs/gdpr-patterns project

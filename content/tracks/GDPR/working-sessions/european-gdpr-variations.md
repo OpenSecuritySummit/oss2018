@@ -13,9 +13,10 @@ room_id      : table-2
 session_slack: https://os-summit.slack.com/messages/CAUSB0YG1
 status       :                    # draft, review-content, done
 description  : Mapping out the multiple differences across the EU
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 organizers   :
 participants :
-    
+    - Tony Richards
 ---
 
 Within GRPR members there are already legal variations with national laws.

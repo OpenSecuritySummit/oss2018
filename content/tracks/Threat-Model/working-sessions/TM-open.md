@@ -8,6 +8,15 @@ featured     :                   # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-1
 room_layout  :                    #
+<<<<<<< HEAD:content/tracks/Threat-Model/working-sessions/TM-open
+room_number  :
+session_slack:
+status       : draft              # draft, review-content, done
+organizers   : Steven Wierckx
+description  : Threat Modeling track opening
+track        : Threat Model
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
 room_id      : room-1
 session_slack:
 status       : done             # draft, review-content, done
@@ -16,6 +25,7 @@ organizers   :
 participants :
 description  : Threat Modeling track opening
 locked       : true
+>>>>>>> master:content/tracks/Threat-Model/working-sessions/TM-open.md
 ---
 
 ## WHY

@@ -15,6 +15,7 @@ status       : review-content              # draft, review-content, done
 description  : What is the best way to become an DPO (Data Protection Officer)
 organizers   :
 participants :
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 So You want to be a Data protection Officer?

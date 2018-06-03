@@ -14,7 +14,11 @@ status       : draft
 organizers   :
 participants :
 description  : Creating diagrams with DOT language
+<<<<<<< HEAD:content/tracks/Threat-Model/working-sessions/TM-diagrams-dot-language
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
 locked       : true
+>>>>>>> master:content/tracks/Threat-Model/working-sessions/TM-diagrams-dot-language.md
 ---
 
 ## Why

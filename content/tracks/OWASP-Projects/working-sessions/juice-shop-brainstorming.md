@@ -13,7 +13,7 @@ room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAW9WPA9L
 status       :  review-content     # draft, review-content, done
 organizers   : ["Timo Pagel", "Jannik Hollenbach"]
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 ## Why

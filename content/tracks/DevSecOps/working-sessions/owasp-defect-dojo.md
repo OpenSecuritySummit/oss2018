@@ -19,6 +19,7 @@ organizers   :
 participants :
     - Francois Raynaud
 description  : Working Sessions for Owasp Defect Dojo
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 An open source vulnerability management tool that streamlines the testing process by offering templating, report generation, metrics, and baseline self-service tools.
 

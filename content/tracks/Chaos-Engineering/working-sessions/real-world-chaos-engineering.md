@@ -16,7 +16,7 @@ description  : An exploration and working session to characterise, explore and i
 organizers   :
     - Russ Miles
 participants:
-
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 In this session a collection of real-world security cases will be explored through the lens of the chaos engineering discipline.

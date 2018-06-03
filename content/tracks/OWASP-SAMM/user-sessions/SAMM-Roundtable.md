@@ -14,6 +14,7 @@ room_id      : room-2
 session_slack: https://os-summit.slack.com/messages/CAXEB4GR2
 status       : review-content              # draft, review-content, done
 description  : Round table session with SAMM users
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 organizers   :
     - Sebastien Deleersnyder
 participants:

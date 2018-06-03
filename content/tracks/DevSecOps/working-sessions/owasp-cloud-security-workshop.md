@@ -13,6 +13,7 @@ session_slack: https://os-summit.slack.com/messages/CAVD5BNRY
 status       : done
 organizers   : ["Fraser Scott"]
 description  : A beta session of the OWASP Cloud Security Workshop (not to be scheduled on the Tuesday)
+meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---
 
 The OWASP Cloud Security project aims to help people secure their products and services running in the cloud by providing a set of easy to use threat and control BDD stories that pool together the expertise and experience of the development, operations, and security communities.
