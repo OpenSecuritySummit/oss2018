@@ -1,18 +1,17 @@
 ---
-title        : SAMM - Best Practices
+title        : SAMM Introduction
 type         : user-session
-owasp-project: yes
-track        : Maturity Models
+track        : OWASP SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     : yes
+featured     :                    # review with summit team "yes"
 when_day     : Mon
-when_time    : PM-1
+when_time    : PM-3
 room_layout  :                    #
 room_id      :
-session_slack: https://os-summit.slack.com/messages/CAX0FLQ9E
+session_slack: https://os-summit.slack.com/messages/CAXEB4GR2
 status       : review-content              # draft, review-content, done
-description  : User session on how to use Owasp SAMM
+description  : Round table session with SAMM users
 organizers   :
     - Sebastien Deleersnyder
 participants:
@@ -20,4 +19,4 @@ participants:
     - Mark-David McLaughlin
 ---
 
-Sharing best practices on how to get the most out of Owasp SAMM
+SAMM users sharing experiences with each other
