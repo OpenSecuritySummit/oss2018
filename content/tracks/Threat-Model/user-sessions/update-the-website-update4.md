@@ -9,7 +9,7 @@ when_time    : Eve-1               # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  :
 organizers   :
     - Steven Wierckx
@@ -17,23 +17,5 @@ participants :
 ---
 
 
-<!--(add intro)
-
-## WHY
-
-(...)
-
-## What
-
-(...)
-
-## Outcomes
-
-(...)
-
-## References
-
-(...)
-
-
-## Previous-->
+During these sessions we will update the website with the content created during the day workshops.
+If time permits we will also add all the content from the past summit and working sessions from the OWASP TM Slack channel.

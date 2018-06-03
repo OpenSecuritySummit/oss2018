@@ -22,10 +22,10 @@ sessions:
   - Describe different ways of implementing TM in agile organisations
   - Cyber Risk Modeling
   - Real world Chaos Engineering
-  - Women in Cyber-security: improving the gender balance
-  - Security Playbooks
+  - "Women in Cyber-security: improving the gender balance"
+  - Using JIRA to create and execute Security Playbooks
   - GDPR Compliance what does it mean?
-  - Integrating Security into an Spotify Model
+  - Integrating Security into an Spotify Model (and using Squads for Security teams)
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 

@@ -18,4 +18,8 @@ participants:
 
 ---
 
-One working session per business function
+One working session per business function.
+1) Review the draft business function.
+2) Identify received and on-site feedback (capture as issues).
+3) Discuss and resolve the business function issues.
+4) Create one Issue per business function with the agreed upon changes to be implemented.
