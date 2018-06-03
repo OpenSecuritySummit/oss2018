@@ -17,6 +17,7 @@ description  : AppSec Metrics and Visualisation
 participants : 
   - Francois Raynaud
   - Timo Pagel
+  - Jim Newman
 ---
 
 ## Why
