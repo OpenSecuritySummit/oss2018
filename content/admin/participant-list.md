@@ -1,5 +1,5 @@
 ---
-#draft : true
+draft : true
 title : Participant List
 layout: participant-list
 ---
