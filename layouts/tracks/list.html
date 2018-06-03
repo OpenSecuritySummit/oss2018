@@ -22,32 +22,7 @@
 
 {{ define "content" }}
 
-    <style>
-      @media print {
-        .container {
-          width: 100%;
-        }
 
-        .schedule-by-days tr th {
-          border          :1px solid !important;
-          text-transform  : uppercase !important;
-          background-color: #87bb40 !important;
-          color           : white !important;
-          font-family     : Roboto, sans-serif !important;
-          font-weight     : normal !important;
-          font-size       : 16px !important;
-          box-sizing      : border-box !important;
-          line-height     : 20px !important;
-          padding         : 12px !important;
-        }
-        .alert-danger {
-          background-color: #f2dede !important;
-          color: #a94442 !important;
-        }
-        .inner_main_working_sessions h1 { position:absolute; top:-50px;  font-size: 100px !important;}
-
-      }
-    </style>
     <div class="featured-ws">
       <div class="container">
         {{ partial "widgets/clues.html" . }}

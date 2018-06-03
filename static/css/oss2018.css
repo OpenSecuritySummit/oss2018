@@ -49,3 +49,32 @@
 .schedule-by-track-cell-track-name  {   font-size:9px;   }
 .schedule-by-track-cell-room-name   {   font-size:20px;   }
 .schedule-by-track-cell-room-id     {   font-size:9px;   }
+
+
+@media print {
+    .container {
+        width: 100%;
+    }
+
+    .schedule-by-days tr th {
+        border          :1px solid !important;
+        text-transform  : uppercase !important;
+        background-color: #87bb40 !important;
+        color           : white !important;
+        font-family     : Roboto, sans-serif !important;
+        font-weight     : normal !important;
+        font-size       : 16px !important;
+        box-sizing      : border-box !important;
+        line-height     : 20px !important;
+        padding         : 12px !important;
+    }
+    .schedule-by-days tr td b {
+        font-size : 100px; !important;
+    }
+    .alert-danger {
+        background-color: #f2dede !important;
+        color: #a94442 !important;
+    }
+    .inner_main_working_sessions h1 { position:absolute; top:-50px;  font-size: 100px !important;}
+
+}
