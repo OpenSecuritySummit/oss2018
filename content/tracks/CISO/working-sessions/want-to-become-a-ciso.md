@@ -5,9 +5,9 @@ track        : CISO
 topics       : ["CISO"]
 featured     : yes
 when_day     : Tue
-when_time    : PM-1
+when_time    : DS-3
 room_layout  :
-room_id      :
+room_id      : table-3
 session_slack: https://os-summit.slack.com/messages/CAV6XTSQL
 status       : draft                   # draft, review-content, done
 organizers   :
