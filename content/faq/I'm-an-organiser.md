@@ -5,12 +5,6 @@ status      : draft
 ---
    <a href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" class="remote_participant"> Summit Slack channel invite link <span>here</span></a>
    
-
-##### How do I ensure a productive Working Session takes place?
-
-
-  
-  
 ##### What are my responsibilities?
 The organiser's main responsibility is to create the most effective and productive working session environment for the participants.
 
@@ -25,11 +19,20 @@ Each organiser should collaborate with the registered participants of their work
 
 Next, add those outcomes to the appropriate Working Session in https://github.com/OpenSecuritySummit/oss2018/tree/master/content/tracks
 
-Please don’t wait for the Summit to start thinking/sharing/working on either your Working Session or its outcomes.
+Please don’t wait for the Summit to start thinking/sharing/working on either your Working Session or its outcomes. God preparation and planning will help to ensure productivity and dynamism.
   
-##### What resources will be available to me?
+##### What resources and support will be available to me?
+* Meeting room
+* AV equipment
+* Stationery
+* Summit team/content support as available
+* Please create a Pull Request or email info@opensecsummit.org with any questions or requests.
   
 ##### How do I invite participants (both on-site and remote)?
+On-site: Edit your session page and add an 'invite' field under participants. Then add the names of the people you wish to invite. Your invitation will show on their schedule. You should also message them on Slack.
+
+Remote: You can share the Google Meet URL with people who are interested in joining remotely.
+Meet URLS will be available from 10:00 p.m., Sunday, 3 June 2018.
   
 ##### What should the session outcomes look like?
 Here are some examples of what these outcomes/deliverables could look like:
@@ -51,6 +54,4 @@ As mentioned above, organisers should collaborate with the other participants in
 ##### After the session ends, what are the next steps?
 Finalise your session outcomes, and create a Pull Request. The content team may will clarify any with you via the Pull Request.
   
-##### What support will be available to me?
-Content support will be available to session organisers to help with the editing and finalising of outcomes. 
-Please create a Pull Request or email info@opensecsummit.org with any questions or requests.
+
