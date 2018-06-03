@@ -1,22 +1,23 @@
 ---
-title        : SAMMv2 working session - Implementation
+title        : SAMMv2 working session - Governance
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Tue
-when_time    : PM-2
+when_time    : AM-1
 room_layout  :                    #
-room_id      :
-session_slack: https://os-summit.slack.com/messages/CAWA9CQ14
+room_id      : Villa-1
+session_slack: https://os-summit.slack.com/messages/CAWEU9CRM
 status       : review-content              # draft, review-content, done
 description  : multiple working sessions on the new SAMMv2
 organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-
+    - Mark-David McLaughlin
 ---
 
 One working session per business function.

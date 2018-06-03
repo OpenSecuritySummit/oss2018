@@ -1,22 +1,25 @@
 ---
-title        : SAMM2 Kickoff
+title        : SAMMv2 Measurement Model
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Mon
-when_time    : AM-1
+when_day     : Wed
+when_time    : PM-2
 room_layout  :                    #
-room_id      :
-session_slack: https://os-summit.slack.com/messages/CAWA761T8
+room_id      : Villa-1
+session_slack: https://os-summit.slack.com/messages/CAWA8AEMC
 status       : review-content              # draft, review-content, done
-description  : Kickoff session for the summit
+description  : Define SAMMv2 measurement model
 organizers   :
     - Sebastien Deleersnyder
 participants:
     - Yan Kravchenko
-    - Mark-David McLaughlin
+
 ---
 
-Discuss agenda - goals for this week. Welcome people who are going to participate
+## What
+
+Discussion about measuring according to coverage vs. quality. How do we want to measure in SAMM 2.0?

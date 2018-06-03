@@ -1,17 +1,18 @@
 ---
-title        : SAMMv2 Measurement Model
+title        : SAMMv2 Establish the Document Model
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
+locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tue
+when_day     : Wed
 when_time    : PM-3
 room_layout  :                    #
-room_id      :
-session_slack: https://os-summit.slack.com/messages/CAWA8AEMC
+room_id      : Villa-1
+session_slack: https://os-summit.slack.com/messages/CAVDD4NTU
 status       : review-content              # draft, review-content, done
-description  : Define SAMMv2 measurement model
+description  : Define SAMMv2 document Model
 organizers   :
     - Sebastien Deleersnyder
 participants:
@@ -19,6 +20,4 @@ participants:
 
 ---
 
-## What
-
-Discussion about measuring according to coverage vs. quality. How do we want to measure in SAMM 2.0?
+The aim is to reach a consensus on which elements we need to have in order to be able to describe the document and to arrive at a YAML format.
