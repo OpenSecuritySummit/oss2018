@@ -1635,3 +1635,28 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .sponsored-by {
   width:150px;
 }
+
+/* Sponsors */
+.outcome-sidebar {
+  background: #f5f7fa;
+}
+
+.outcome-content h1 {
+  font-family: 'Roboto Slab';
+  font-weight: bold;
+  font-size: 36pt;
+}
+
+.outcome-content h2 {
+  font-family: 'Oswald';
+  font-size: 16px;
+  font-weight: 400;
+  color: #00549E;
+}
+
+.outcome-sidebar h2 {
+  font-family: 'Oswald';
+  font-size: 16px;
+  font-weight: 400;
+  color: #00549E;
+}

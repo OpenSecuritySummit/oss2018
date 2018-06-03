@@ -1,0 +1,9 @@
+{{ $title := .Params.title }}
+
+{{ $session := index (where (where .Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome") 0 }}
+
+{{ if $session.Params.organizers }}
+  {{ partial "utils/titles-with-link.html" (dict "this" . "value" $session.Params.organizers) }}
+{{ else }}
+No organizer yet.
+{{ end }}

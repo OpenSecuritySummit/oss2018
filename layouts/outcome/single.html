@@ -14,7 +14,7 @@
     <div class="inner_main_outcomes">
         <div class="center_heading">
             <div class="container">
-                <h1>{{ .Title }}</h1>
+                <h1>Outcomes</h1>
             </div>
         </div>
     </div>
@@ -23,8 +23,26 @@
 
 {{ define "content" }}
 
-    {{ .Content }}
+<div class="col-md-12">
+  <div class="outcome-content col-md-8">
+    <h1>{{ .Title }}</h1>
+    View the <a href="#">original Working Session content</a>
+    <hr />
+  </div>
+  <div class="outcome-sidebar col-md-4">
+    &nbsp;
+  </div>
+</div>
 
-    <hr/>
-    <a href="/outcomes/">Back to list of all Outcomes</a>
+<div class="col-md-12">
+  <div class="outcome-content col-md-8">
+    {{ .Content }}
+  </div>
+  <div class="outcome-sidebar col-md-4">
+    {{ partial "outcomes/sidebar.html" . }}
+  </div>
+  <hr/>
+  <a href="/outcomes/">Back to list of all Outcomes</a>
+</div>
+
 {{ end }}
