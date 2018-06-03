@@ -9,32 +9,24 @@ when_time    : PM-2                  # i.e.    AM-1
 room_layout  :                    #
 room_id      :
 session_slack:
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  :
 organizers   :
     - Steven Wierckx
 participants :
 locked       : true
 ---
-
-
-<!--(add intro)
-
 ## WHY
 
-(...)
+Get a concensus on the actual TM project content structure website structure.
 
 ## What
 
-(...)
+1. Explenation of the way of working for the website
+2. Review the proposed structure
+3. Start updating the website
 
 ## Outcomes
 
-(...)
+Updated website showing at least the structure without content.
 
-## References
-
-(...)
-
-
-## Previous-->
