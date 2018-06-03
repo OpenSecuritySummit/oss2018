@@ -16,6 +16,7 @@ organizers   : Imran Mohammed A
 participants :
     - Francois Raynaud
     - Timo Pagel
+    - Jim Newman
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 
