@@ -5,11 +5,11 @@ track        : Threat Model
 topics       :                    # for example ["GDPR"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Fri                    # i.e.    Tue
-when_time    : AM-1, PM-2                 # i.e.    AM-1
+when_time    : AM-1                 # i.e.    AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack:
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 description  :
 organizers   :
     - Steven Wierckx

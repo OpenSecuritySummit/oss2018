@@ -1,20 +1,25 @@
 villa-1:
-  title    : Villa 1
+  title    : Threat Modelling Villa
   layout   : tbd
-  location : villa
+  location : Oak 320
   capacity : 40
 villa-2:
-  title    : Villa 2
+  title    : CertDev Villa
   layout   : tbd
-  location : villa
+  location : Oak 316
   capacity : 40
 villa-3:
-  title    : Villa 3
+  title    : DevSecCon Villa
   layout   : tbd
-  location : villa
+  location : Oak 313
   capacity : 40
 villa-4:
-  title    : Villa 4
+  title    : SAMM Villa
   layout   : tbd
-  location : villa
+  location : Oak 311
+  capacity : 40
+villa-5:
+  title    : Photobox Villa
+  layout   : tbd
+  location : Oak 314
   capacity : 40

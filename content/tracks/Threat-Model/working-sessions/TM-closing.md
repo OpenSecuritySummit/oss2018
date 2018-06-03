@@ -7,9 +7,9 @@ featured     : yes                  # review with summit team "yes"
 when_day     : Fri
 when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      : room-1
 session_slack:
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 organizers   : Steven Wierckx
 description  : Threat Modeling Working Session
 track        : Threat Model
@@ -25,7 +25,7 @@ locked       : true
  1. List our achievements for this summit
  2. Agree on the way forward
  3. Distribute tasks
- 4. Benedicat tibi, et trinus in domum tutam
+
 
 ## Outcomes
 

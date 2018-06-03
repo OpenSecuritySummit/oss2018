@@ -7,9 +7,9 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-1
+when_time    : DS-2
 room_layout  :                    #
-room_id      :
+room_id      : table-2
 session_slack: https://os-summit.slack.com/messages/CAW9P1E06
 status       : review-content              # draft, review-content, done
 description  : What is the best way to become an DPO (Data Protection Officer)

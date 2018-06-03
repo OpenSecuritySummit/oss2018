@@ -1,22 +1,22 @@
 ---
-title        : SAMM benchmarking
+title        : SAMM Project Meeting
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Thu
-when_time    : PM-2
+when_time    : AM-1
 room_layout  :                    #
-room_id      :
-session_slack: https://os-summit.slack.com/messages/CAWES3Y8P
+room_id      : Villa-1
+session_slack: https://os-summit.slack.com/messages/CAVAEG0DR
 status       : review-content              # draft, review-content, done
-description  : Define objectives for the SAMM benchmarking project as part of SAMMv2
+description  : Project meeting to review the status and update the plan for SAMM2
 organizers   :
     - Sebastien Deleersnyder
 participants:
-    - Yan Kravchenko
-
+    - Mark-David McLaughlin
+    - Bart De Win
 ---
 
-Define objectives for the SAMM benchmarking project as part of SAMMv2
+Project meeting to review the status and update the plan for SAMM2

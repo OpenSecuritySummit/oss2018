@@ -1,22 +1,22 @@
 ---
-title        : SAMM Project Meeting
+title        : SAMM2 Kickoff
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Thu
-when_time    : AM-1
+when_day     : Mon
+when_time    : PM-1
 room_layout  :                    #
-room_id      :
-session_slack: https://os-summit.slack.com/messages/CAVAEG0DR
+room_id      : Room-1
+session_slack: https://os-summit.slack.com/messages/CAWA761T8
 status       : review-content              # draft, review-content, done
-description  : Project meeting to review the status and update the plan for SAMM2
+description  : Kickoff session for the summit
 organizers   :
     - Sebastien Deleersnyder
 participants:
+    - Yan Kravchenko
     - Mark-David McLaughlin
-    - Bart De Win
 ---
 
-Project meeting to review the status and update the plan for SAMM2
+Discuss agenda - goals for this week. Welcome people who are going to participate

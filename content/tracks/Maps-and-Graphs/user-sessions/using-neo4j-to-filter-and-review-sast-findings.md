@@ -5,9 +5,9 @@ track        : Maps and Graphs
 topics       :  ["Neo4J"]
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : Eve-2
+when_time    : Eve-1
 room_layout  :                    #
-room_id      :
+room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAYFSNVGF
 status       : draft              # draft, review-content, done
 description  :

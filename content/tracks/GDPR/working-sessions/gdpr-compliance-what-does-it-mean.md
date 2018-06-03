@@ -9,10 +9,10 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAWECH57Z
 status       : review-content              # draft, review-content, done
-organizers   :
+organizers   : 	Goher Mohammad
 description  : Now that GDPR is in force, what does GDPR Compliance mean and how to measure it
 ---
 

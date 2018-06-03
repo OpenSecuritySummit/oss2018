@@ -8,9 +8,9 @@ featured     : yes                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAUSLQKRQ
-status       : draft              # draft, review-content, done
+status       : done              # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 locked       : true

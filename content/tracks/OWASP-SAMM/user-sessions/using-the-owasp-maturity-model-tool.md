@@ -1,7 +1,7 @@
 ---
 title        : Using the OWASP Maturity Model tool
 type         : user-session    # working-session, user-session
-track        : Maturity Models
+track        : OWASP SAMM
 topics       : ["OWASP"]
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.

@@ -77,4 +77,9 @@
     }
     .inner_main_working_sessions h1 { position:absolute; top:-50px;  font-size: 100px !important;}
 
+    @media print {
+        .schedule-cell b {
+            font-size: 30px;  !important;
+        }
+    }
 }
