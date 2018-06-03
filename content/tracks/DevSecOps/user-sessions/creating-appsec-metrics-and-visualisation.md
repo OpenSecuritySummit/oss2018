@@ -9,7 +9,7 @@ featured     :  yes                  # review with summit team "yes"
 when_day     :  Wed
 when_time    :  PM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   : Imran Mohammed A
