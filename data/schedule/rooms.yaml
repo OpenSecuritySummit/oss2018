@@ -4,25 +4,25 @@
 #  capacity : 100
 room-1:
   title    : Kings
-  layout   : tbd
-  capacity : 40
+  layout   : cabaret
+  capacity : 48
 room-2:
   title    : Portland
   layout   : tbd
-  capacity : 40
+  capacity : 30
 room-3:
   title    : Larch
-  layout   : tbd
+  layout   : cabaret
   capacity : 40
 room-4:
   title    : Montague
-  layout   : tbd
+  layout   : cabaret
   capacity : 40
 room-5:
   title    : Maulden
-  layout   : tbd
+  layout   : cabaret
   capacity : 40
 room-6:
   title    : Pedley
-  layout   : tbd
-  capacity : 40
+  layout   : classroom
+  capacity : 36

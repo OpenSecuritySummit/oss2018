@@ -8,14 +8,18 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVU2J0AK
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
 description  : Back to the future with Threat Modeling
+<<<<<<< HEAD
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
+locked       : true
+>>>>>>> master
 ---
 
 ## Why

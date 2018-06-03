@@ -6,7 +6,7 @@ topics       : ["Wardley Maps"]
 featured     : yes
 when_day     : Tue
 when_time    : AM-1
-room_id      : room-2
+room_id      : room-3
 locked       : true
 session_slack:
 status       : done

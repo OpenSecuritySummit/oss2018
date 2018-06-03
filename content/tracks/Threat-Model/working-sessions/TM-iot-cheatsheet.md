@@ -9,14 +9,18 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAW9W7F0E
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
 description  : IoT Threat Modeling Cheat Sheet
+<<<<<<< HEAD
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
+locked       : true
+>>>>>>> master
 ---
 
 ## Why

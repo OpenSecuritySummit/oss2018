@@ -7,7 +7,7 @@ topics       :                    # for example ["GDPR"]
 featured     : yes                 # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-1
-room_id      : room-2
+room_id      : room-3
 locked       : true
 session_slack: https://os-summit.slack.com/messages/CAX9L015H
 status       :               # draft, review-content, done

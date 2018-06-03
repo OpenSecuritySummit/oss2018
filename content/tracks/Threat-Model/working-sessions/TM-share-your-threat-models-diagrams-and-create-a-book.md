@@ -4,25 +4,30 @@ type         : working-session      # working-session, user-session, product-ses
 track        : Threat Model
 topics       :                    # for example ["GDPR"]
 featured     : yes                   # review with summit team "yes"
-when_day     : Mon                    # i.e.    Tue
-when_time    : Eve-2                  # i.e.    AM-1
+when_day     : Fri                    # i.e.    Tue
+when_time    : PM-1                  # i.e.    AM-1
 room_layout  :                    #
+<<<<<<< HEAD
 room_id      :
 session_slack:
 status       : draft              # draft, review-content, done
+=======
+room_id      : room-1
+session_slack:
+status       : done              # draft, review-content, done
+>>>>>>> master
 description  :
 organizers   :
     - Steven Wierckx
 participants :
+<<<<<<< HEAD
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
+locked       : true
+>>>>>>> master
 ---
 
-At the moment we still don't have a good repository of examples of Threat Modeling diagrams.
-
-The summit is the perfect location for all the Threat Modeling practitioners to share anonymised versions
-of the models they have created, so that we can consolidate them in a book.
-
-All models will be stored in a GitHub repo and released under Creative Commons
+Discuss the possibility and usefulness of combining all knowledge captured on the website into a book somewhat similar to the tseting guide.
 
 <!--(add intro)
 

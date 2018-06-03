@@ -18,6 +18,7 @@
 {{ end}}
 {{ $.Scratch.Delete "pages" }}
 
+<!--
 <h3>What sessions are the {{.Params.title}} team participating</h3>
 {{ range .Params.members }}                                                     {{/* for all members of this team */}}
     {{ $title := . }}
@@ -70,7 +71,6 @@
 {{ end                                                                  }}
 
 
-
 {{ $pages_Titles := .Scratch.Get "pages_Titles" }}                                    {{/* .Scratch['pages'] has the titles of the sessions */}}
 
 {{ range $site_Pages }}
@@ -82,3 +82,5 @@
 {{ $pages := $.Scratch.Get "pages"}}
 
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
+
+-->

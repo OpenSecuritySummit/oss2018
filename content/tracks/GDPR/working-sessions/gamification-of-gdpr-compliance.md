@@ -7,9 +7,9 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : AM-1
+when_time    : DS-3
 room_layout  :                    #
-room_id      :
+room_id      : table-2
 session_slack: https://os-summit.slack.com/messages/CAV6AK0J0
 status       : review-content              # draft, review-content, done
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance

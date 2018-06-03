@@ -8,7 +8,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-2
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVD0EMUJ
 status       : review-content             # draft, review-content, done
 organizers   :
@@ -16,7 +16,11 @@ organizers   :
 participants :
     - Stephen de Vries, Paul Santapau
 description  : How to Threat Model Features with Questionnaires
+<<<<<<< HEAD
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
+locked       : true
+>>>>>>> master
 ---
 
 ## Why

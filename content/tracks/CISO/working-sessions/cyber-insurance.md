@@ -7,7 +7,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
-room_id      :
+room_id      : room-2
 session_slack: https://os-summit.slack.com/messages/CAV65AXGU
 status       : review-content     # draft, review-content, done
 categories   : ["CISO"]

@@ -11,6 +11,8 @@
         </tr>
     </thead>
     <tbody>
+        {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "ST-1"  )}}
+        {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "ST-2"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "KN-1"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "KN-2"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "DS-1"  )}}
@@ -19,6 +21,7 @@
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "PM-1"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "PM-2"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "PM-3"  )}}
+        {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "ST-3"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "DS-3"  )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "Eve-1" )}}
         {{ partial "schedule/track-tr-time.html" (dict "self" .self "pages" .pages "time" "Eve-2" )}}

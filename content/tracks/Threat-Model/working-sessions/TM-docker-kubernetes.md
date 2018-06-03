@@ -8,14 +8,18 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAUSAQJ2V
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
 description  : Docker and Kubernetes Threat Modeling Cheat Sheet
+<<<<<<< HEAD
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+=======
+locked       : true
+>>>>>>> master
 ---
 
 ## Why

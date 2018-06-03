@@ -8,8 +8,13 @@ featured     : # review with summit team "yes"
 when_day     : Tues
 when_time    : AM-1
 room_layout  :                    #
+<<<<<<< HEAD
 room_id      :
 session_slack:
+=======
+room_id      : room-1
+session_slack: 
+>>>>>>> master
 status       : draft             # draft, review-content, done
 organizers   :
     - Stephen de Vries

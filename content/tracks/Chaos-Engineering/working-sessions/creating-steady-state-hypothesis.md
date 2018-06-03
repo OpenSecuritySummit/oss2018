@@ -9,7 +9,7 @@ when_day     : Mon
 when_time    : PM-1
 locked       : true
 room_layout  :                    #
-room_id      : room-1
+room_id      : room-6
 session_slack: https://os-summit.slack.com/messages/CAUMQHC1E
 status       : review-content             # draft, review-content, done
 organizers   :

@@ -1,5 +1,5 @@
 ---
-title        : CISO roundtable
+title        : CISO Ask Me Anything (AMA)
 type         : working-session
 track        : CISO
 topics       : ["CISO"]
