@@ -2,8 +2,17 @@
 title        : Creating a Steady-State Hypothesis
 type         : working-session
 track        : Chaos Engineering
-status       : review
-organizers   : 
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     : Mon
+when_time    : PM-1
+locked       : true
+room_layout  :                    #
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAUMQHC1E
+status       : review-content             # draft, review-content, done
+organizers   :
 description  : Exploring the Chaos Toolkit's stead-state hypothesis and how one can be designed and constructed for DevSecOps concerns.
 organizers   :
     - Russ Miles

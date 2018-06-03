@@ -1,27 +1,34 @@
 {{ define "nav" }}
-<header class="full-bg background-working-sessions">
+  <header class="full-bg background-working-sessions">
 
-  <div class="dark-mask"></div>
+    <div class="dark-mask"></div>
 
-  {{ partial "nav.html" . }}
+    {{ partial "nav.html" . }}
 
-</header>
+  </header>
 {{ end }}
 
 {{ define "breadcrumbs" }}
 
-<div class="inner_main_working_sessions">
-  <div class="center_heading">
-    <div class="container">
-        <h1>{{ .Title }}</h1>
+  <div class="inner_main_working_sessions">
+    <div class="center_heading">
+      <div class="container">
+          <h1>{{ .Title }}</h1>
+      </div>
     </div>
   </div>
-</div>
 
 {{ end }}
 
 {{ define "content" }}
-    {{ .Content }}
+  <div class="row">
+    <div class="col-lg-6 text-sessions">
+      {{ .Content }}
+    </div>
+    <div class="col-lg-6">
+      <img class="img img-responsive" src="/img/pages/working_sessions_right.png" />
+    </div>
+  </div>
 
     See also the planned <a href="/user-sessions">User Sessions</a>
 
@@ -31,7 +38,7 @@
         Here are the Working Sessions currently planned for the Summit
     </p>
 
-    {{ $sessions := where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit"}}
+    {{ $sessions := where (where (where .Site.Pages ".Params.type" "working-session") ".Params.when" "ne" "pre-summit") ".Params.title" "ne" "" }}
     {{ partial "sessions/simple-table.html" $sessions }}
 
     <h2>Pre-Summit Working Sessions</h2>

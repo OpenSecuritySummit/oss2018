@@ -1,6 +1,6 @@
 ---
-title: Participants
+title: Remote Participants
 ---
 
-For reference, here are the participants from the last Summit in 2017:
-https://owaspsummit.org/website/participants.html
+For reference, here are the remote participants from the last Summit in 2017:
+https://owaspsummit.org/website/participants-remote.html

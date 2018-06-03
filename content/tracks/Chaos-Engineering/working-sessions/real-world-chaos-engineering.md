@@ -2,7 +2,16 @@
 title        : Real world Chaos Engineering
 type         : working-session
 track        : Chaos Engineering
-status       : draft
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     : Mon
+when_time    : PM-3
+locked       : true
+room_layout  :                    #
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAUN7NXFS
+status       : draft              # draft, review-content, done                    #
 description  : An exploration and working session to characterise, explore and implement real-world DevSecOps chaos experiments.
 organizers   :
     - Russ Miles

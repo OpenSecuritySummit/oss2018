@@ -1,12 +1,13 @@
 ---
 title        : GDPR Patterns (based on Threat Models)
-type         : working-session
+type         : pre-summit-working-session
 when         : pre-summit
 featured     : yes                  # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     :
+when_time    :
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: 
 status       : done              # draft, review-content, done
 description  : Reusable mappings of data journeys across specific threat modeling scenarios.
 organizers   : ["Dinis Cruz"]

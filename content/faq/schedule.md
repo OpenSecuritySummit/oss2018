@@ -1,8 +1,9 @@
 ---
-title    : Schedule
+title       : Schedule
+layout      : FAQ
 ---
 
-### 1.	The schedule looks complicated 
+### 1.	The schedule looks complicated
 At the bottom of every workshop description use the “edit” button, to add your name to your chosen sessions. There are many workshops, to keep track of your sign-ups access your [personal schedule]({{< ref "/faq/registration-info.md" >}}).
 
 
@@ -14,5 +15,3 @@ Evening sessions are self-organised, informal discussions scheduled to take plac
 
 ### 4.	Why is my workshop no longer on the schedule?
 Workshops with insufficient detail or no organizer or too few participants, are cancelled.
-
-

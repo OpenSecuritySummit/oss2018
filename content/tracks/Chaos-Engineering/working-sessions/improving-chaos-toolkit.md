@@ -2,7 +2,16 @@
 title        : Customising the Chaos Toolkit
 type         : working-session
 track        : Chaos Engineering
-status       : review
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                 # review with summit team "yes"
+when_day     : Mon
+when_time    : Eve-1
+locked       : true
+room_layout  :                    #
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAUS7SZEV
+status       : review-content              # draft, review-content, done
 description  : Practical Guide to Extending the Chaos Toolkit for DevSecOps concerns.
 organizers   :
     - Russ Miles

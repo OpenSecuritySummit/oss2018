@@ -2,14 +2,23 @@
 title        : GDPR Compliance what does it mean?
 type         : working-session
 track        : GDPR
-status       : featured
-organizers   : 
+topics       : ["GDPR"]
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     : yes                   # review with summit team "yes"
+when_day     : Mon
+when_time    : PM-1
+room_layout  :                    #
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAWECH57Z
+status       : review-content              # draft, review-content, done
+organizers   :
 description  : Now that GDPR is in force, what does GDPR Compliance mean and how to measure it
 ---
 
 GDPR Compliance what does it means for you?
 
-On the 27th of April 2016 the European parliament and council adopted the GDPR. Enforceable from the 25th of May 2018 it replaces the 1995 Data Protection Directive. 
+On the 27th of April 2016 the European parliament and council adopted the GDPR. Enforceable from the 25th of May 2018 it replaces the 1995 Data Protection Directive.
 
 ## WHY
 
@@ -27,7 +36,7 @@ Before storing any person data, the organisation must get the consent from that 
 The GDPR defines:
 
 -	Who is responsible and accountable
--	Data protection by design 
+-	Data protection by design
 -	Data breaches
 -	Sanctions
 -	Rights of access

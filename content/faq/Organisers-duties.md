@@ -1,5 +1,6 @@
 ---
-title    : Organisers' Duties
+title       : Organisers' Duties
+layout      : FAQ
 ---
 
 #### 1. **What is the role of a working session organiser at the Open Security Summit, and what activities will I be responsible for?**
@@ -8,7 +9,7 @@ The Open Security Summit is a five day participant-driven event, dedicated to th
 
 Each working session has an organiser, and the organiser's main responsibility is to create the most effective and productive working  environment for the participants.
 
-The organiser's main duties cover providing the vision for the working session content and outcomes. The energy you bring to your working session will impact its success. 
+The organiser's main duties cover providing the vision for the working session content and outcomes. The energy you bring to your working session will impact its success.
 
 #### 2. **How do I ensure a productive working session takes place?**
 
@@ -30,7 +31,7 @@ Here are some examples of what these outcomes/deliverables could look like:
 - Documents or Books
 - Playbooks
 - Roadmaps (for next meeting)
-- Wiki pages 
+- Wiki pages
 - Code
 - Statement or Position (signed by the Working Sessions Participants)
 - Security Review (or a particular application or api)

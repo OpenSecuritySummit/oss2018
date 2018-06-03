@@ -1,5 +1,6 @@
 ---
-title    : Infrastructure needs
+title       : Infrastructure needs
+layout      : FAQ
 ---
 
 #### 1. **What infrastructure will be available at the Venue?**

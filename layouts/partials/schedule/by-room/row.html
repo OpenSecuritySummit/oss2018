@@ -1,0 +1,19 @@
+<tr>
+    <td>{{ .time }}</td>
+    {{ range $key ,$value := .where}}
+        <td>
+            {{range $.self.Scratch.Get $key }}
+                {{ if eq .Params.when_time $.time}}
+                <div class="hidden-print">
+                    <a href="{{.Permalink }}">{{.Params.title}}</a>
+                    <div class="schedule-by-track-cell-track-name">{{.Params.track}}</div>
+                </div>
+
+                 <div class="visible-print">
+                    <b>{{.Params.title}}</b>
+                </div>
+                {{ end }}
+            {{ end }}
+        </td>
+    {{ end }}
+</tr>

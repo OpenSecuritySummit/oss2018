@@ -1,19 +1,22 @@
 ---
 title        :
-type         : working-session      # working-session, user-session
+type         : working-session      # working-session, user-session, product-session
 technology   :
-categories   :                      # GDPR, Juice Shop, etc.
-status       : review-content       # draft, review, done
-when_date    : tba                  # default = tba
-when_time    : tba                  # default = tba
-room_layout  :                      #
-organizers   :                      # separated by coma
+topics       :                    # for example ["GDPR"]
+featured     :                    # review with summit team "yes"
+when_day     :                    # i.e.    Tue
+when_time    :                    # i.e.    AM-1
+room_layout  :                    #
+room_id      :
+session_slack: 
+status       : draft              # draft, review-content, done
 description  :
-participants :                      # separated by coma
+organizers   :
+participants :
 ---
 
 
-(add intro)
+<!--(add intro)
 
 ## WHY
 
@@ -32,4 +35,4 @@ participants :                      # separated by coma
 (...)
 
 
-## Previous
+## Previous-->

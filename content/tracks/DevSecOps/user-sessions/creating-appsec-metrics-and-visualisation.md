@@ -1,24 +1,35 @@
 ---
 title        : Creating Appsec metrics and visualisation
 type         : user-session
-track        : DevSecOps 
-status       : featured 
+track        : DevSecOps
+topics       : ["Visualisation"]
+technology   :
+categories   :                      # GDPR, Juice Shop, etc.
+featured     :  yes                  # review with summit team "yes"
+when_day     :  Wed
+when_time    :  PM-1
+room_layout  :                    #
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
+status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
-participants : Francois Raynaud
+participants : 
+  - Francois Raynaud
+  - Timo Pagel
 ---
 
-## Why 
+## Why
 
 You can't improve what you don't measure. Its important to measure the activities as part of SDL and drive future improvements to the application security program. Metrics show business value to stakeholders and help drive further investments in the program. Metrics also help in figuring out whats working and whats not.
 
 Metrics used should be meaningful and not there for the sake of just metrics (metric fatigue?).
 
-## What 
+## What
 
 The goal of this User Session is to find ways to create meaningful metrics and dashboards for AppSec Professionals like Mean Time To Remediate, Mean Time To Find etc.,
 
-This session also works what metrics are effective and meaningful. What can you do to get started and different challenges, you might come across. 
+This session also works what metrics are effective and meaningful. What can you do to get started and different challenges, you might come across.
 
 ## Content
 
@@ -26,7 +37,7 @@ This session also works what metrics are effective and meaningful. What can you 
  - How to get started and different challenges.
  - What are the best practices for using tools like ELK or prometheus?
  - How to visualise the data collected in actionable/meaningful graphs.
- - Learning curve of tools like graphviz, dot format, etc., 
+ - Learning curve of tools like graphviz, dot format, etc.,
 
 ## Outcomes
 
@@ -35,7 +46,7 @@ This Working Session will publish:
 - A list of meaningful metrics to measure application security program
 - A guide on how to calculate them using open source tools.
 
-## Who 
+## Who
 
 The target audience for this Working Session is:
  - Developers

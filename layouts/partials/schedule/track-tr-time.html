@@ -1,0 +1,26 @@
+{{ $.self.Scratch.Delete "Mon" }}
+{{ $.self.Scratch.Delete "Tue" }}
+{{ $.self.Scratch.Delete "Wed" }}
+{{ $.self.Scratch.Delete "Thu" }}
+{{ $.self.Scratch.Delete "Fri" }}
+{{ $.self.Scratch.Set "has-session" false }}
+{{ range .pages  }}
+    {{ if in .Params.when_time $.time }}
+        {{ if ne (trim .Params.when_day "") "" }}
+            {{ $.self.Scratch.Add .Params.when_day (slice .) }}
+            {{ $.self.Scratch.Set "has-session" true         }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{if  $.self.Scratch.Get "has-session" }}
+    <tr class="tr-schedule">
+        <td>{{ partial "schedule/time.html"       (dict "self" .self "time" .time )}}</td>
+        <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Mon" )}}</td>
+        <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Tue" )}}</td>
+        <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Wed" )}}</td>
+        <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Thu" )}}</td>
+        <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Fri" )}}</td>
+    </tr>
+{{ end }}
+
+

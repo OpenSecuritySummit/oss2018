@@ -22,12 +22,19 @@
 
 {{ define "content" }}
 
-    {{ .Content }}
+  <div class="row">
+    <div class="col-lg-6 text-sessions">
+      {{ .Content }}
+    </div>
+    <div class="col-lg-6">
+      <img class="img img-responsive" src="/img/pages/user_sessions.png" />
+    </div>
+  </div>
 
     <h2>Current User Sessions</h2>
 
 
-    {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
+    {{ $sessions := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
     {{ partial "sessions/simple-table.html" $sessions }}
 
 {{ end }}
