@@ -1,5 +1,9 @@
 <tr>
-    <td>{{ .time }}</td>
+    <td>{{ .time }}
+        <div class="session-time">
+        {{ index .self.Site.Data.schedule.times .time}}
+        </div>
+    </td>
     {{ range $key ,$value := .where}}
         <td>
             {{range $.self.Scratch.Get $key }}
