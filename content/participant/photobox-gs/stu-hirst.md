@@ -20,12 +20,18 @@ status          : add details
 sessions:
   - Agile Practices for Security Teams
   - DevSecOps Maturity Model (DSOMM)
-  - Integrating Security into an Spotify Model
   - Lessons learned from public bug bounties programmes
   - JIRA Risk Workflow
   - Real world Chaos Engineering
   - Security Champions
   - Security Playbooks
+  - CISO roundtable
+  - Create AWS Security Questions
+  - Owasp Cloud Security Workshop (BETA)
+  - Security Crowdsourcing
+  - Creating ELK Dashboards
+  - Gamifying Security Dashboards
+  - Running CTF Games with OWASP Juice Shop
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
