@@ -9,7 +9,7 @@ villa-2:
   location : 313
   capacity : 40
 villa-3:
-  title    : Photobox
+  title    : Owasp Projects
   layout   : tbd
   location : 314
   capacity : 40
@@ -19,7 +19,7 @@ villa-4:
   location : 316
   capacity : 40
  villa-5:
-  title    : Villa
+  title    : Photobox
   layout   : tbd
   location : 317
   capacity : 40
