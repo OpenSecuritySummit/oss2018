@@ -29,7 +29,7 @@ We have channels for every track and session. The following legend describes the
 *Example: the channel name for the working session "Agile Practices for Security Teams" is: `#w-agile-prac-sec-team`*
 
 ##### Go to the venue reception desk
-Please go to the venue reception desk, if they can't help you, they will direct you to a member of the summit team.
+Please go to the registration desk, or look for a member of the summit team, they'll be wearing blue lanyards.
 
 ##### Send email message
 If you would like to email before or during the event please contact [info@opensecsummit.org](mailto:info@opensecsummit.org).
