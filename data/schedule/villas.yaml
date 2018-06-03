@@ -1,20 +1,35 @@
 villa-1:
-  title    : Villa 1
+  title    : OWASP SAMM
   layout   : tbd
   location : 311
   capacity : 40
 villa-2:
-  title    : Villa 2
+  title    : DevSecCon
   layout   : tbd
   location : 313
   capacity : 40
 villa-3:
-  title    : Villa 3
+  title    : Photobox
   layout   : tbd
   location : 314
   capacity : 40
 villa-4:
-  title    : Villa 4
+  title    : CertDev
   layout   : tbd
   location : 316
+  capacity : 40
+ villa-5:
+  title    : Villa
+  layout   : tbd
+  location : 317
+  capacity : 40
+ villa-6:
+  title    : Threat Modeling
+  layout   : tbd
+  location : 320
+  capacity : 40
+ villa-7:
+  title    : Women in Tech
+  layout   : tbd
+  location : 321
   capacity : 40
