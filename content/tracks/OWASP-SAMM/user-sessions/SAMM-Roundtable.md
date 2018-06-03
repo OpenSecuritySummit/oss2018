@@ -1,8 +1,9 @@
 ---
-title        : SAMM Introduction
+title        : SAMM Round Table
 type         : user-session
 track        : OWASP SAMM
 locked       : true
+featured     : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
