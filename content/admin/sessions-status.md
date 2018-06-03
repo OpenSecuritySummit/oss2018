@@ -1,5 +1,5 @@
 ---
-#draft : true
+draft : true
 title: Sessions Status
 layout: sessions-status
 ---
