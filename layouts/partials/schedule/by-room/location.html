@@ -6,8 +6,13 @@
     <th class="schedule-by-track-row-time"></th>
     {{ range $key ,$value := .where}}
     <th>
-        <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
-        <div class="schedule-by-track-cell-room-id">{{$key}}</div>
+        <div class="schedule-by-track-cell-room-name">
+            {{ $value.title}}
+            <div class="schedule-by-track-cell-room-id">
+                {{ $value.topic}}
+            </div>
+        </div>
+        <!--<div class="schedule-by-track-cell-room-id">{{$key}}</div>-->
     </th>
     {{ end }}
     </thead>

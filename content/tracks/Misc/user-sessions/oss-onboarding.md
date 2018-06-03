@@ -1,5 +1,5 @@
 ---
-title        : OS Onboarding
+title        : Summit Onboarding
 type         : user-session
 track        : Misc
 topics       :
