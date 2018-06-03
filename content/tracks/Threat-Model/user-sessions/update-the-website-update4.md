@@ -1,5 +1,5 @@
 ---
-title        : Update website
+title        : Update Treat Modeling website 5
 type         : user-session      # working-session, user-session, product-session
 track        : Threat Model
 topics       :                    # for example ["GDPR"]
@@ -7,7 +7,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Thu                    # i.e.    Tue
 when_time    : Eve-1               # i.e.    AM-1
 room_layout  :                    #
-room_id      : villa-1
+room_id      : villa-6
 session_slack:
 status       : done              # draft, review-content, done
 description  :

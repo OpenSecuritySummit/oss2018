@@ -9,7 +9,7 @@ featured     :                    # review with summit team "yes"
 when_day     :  Wed
 when_time    :  DS-2
 room_layout  :                    #
-room_id      :
+room_id      : table-4
 session_slack: https://os-summit.slack.com/messages/CAVDGHD1Q
 status       : review-content              # draft, review-content, done
 outcomes_2017: https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.html

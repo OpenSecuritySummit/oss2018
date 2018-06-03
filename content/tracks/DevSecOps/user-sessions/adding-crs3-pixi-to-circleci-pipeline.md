@@ -4,6 +4,7 @@ type         : user-session
 track        : DecSecOps
 when_day     : Wed
 when_time    : PM-3
+room_id      :
 status       : draft
 organizers   : Franziska Buehler
 participants : Tanya Janca

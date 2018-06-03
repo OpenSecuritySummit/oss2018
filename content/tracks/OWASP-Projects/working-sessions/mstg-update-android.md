@@ -9,10 +9,12 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : AM-1, PM-1, PM-2,PM-3
 room_layout  :                    #
-room_id      : villa-1
+room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAVAMMT6F
 status       : done              # draft, review-content, done
 organizers   : Sven Schleier
+participants :
+    - Carlos Pérez Holguera
 description  : Mobile Security Working Session
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---

@@ -4,8 +4,8 @@ type         : working-session
 track        : DevSecOps
 topics       : ["Security Champions"]
 featured     :                    # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-3
+when_day     :
+when_time    :
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWE8J5JB

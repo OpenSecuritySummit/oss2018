@@ -9,7 +9,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
-room_id      :
+room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAVB0PH99
 status       :               # draft, review-content, done
 organizers   : ["Jannik Hollenbach"]

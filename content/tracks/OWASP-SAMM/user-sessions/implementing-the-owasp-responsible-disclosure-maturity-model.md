@@ -7,9 +7,9 @@ technology   :
 categories   :                    # GDPR, Juice Shop, etc.
 featured     : yes                 # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-2
+when_time    : DS-2
 room_layout  :                    #
-room_id      :
+room_id      : table-3
 session_slack:
 status       : review-content              # draft, review-content, done
 description  : Hand-on session on creating the OWASP responsible disclosure Maturity Model

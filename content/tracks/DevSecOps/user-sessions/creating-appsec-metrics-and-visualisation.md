@@ -18,6 +18,7 @@ meet_url     : #URL to the relevant Google Meet Room thus the remote participant
 participants : 
   - Francois Raynaud
   - Timo Pagel
+  - Jim Newman
 ---
 
 ## Why

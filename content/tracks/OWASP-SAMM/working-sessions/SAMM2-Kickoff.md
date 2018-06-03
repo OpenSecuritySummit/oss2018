@@ -5,10 +5,10 @@ track        : OWASP SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Mon
-when_time    : PM-1
+when_day     :
+when_time    :
 room_layout  :                    #
-room_id      : Room-1
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAWA761T8
 status       : review-content              # draft, review-content, done
 description  : Kickoff session for the summit

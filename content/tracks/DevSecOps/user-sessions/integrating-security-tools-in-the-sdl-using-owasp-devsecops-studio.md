@@ -16,6 +16,7 @@ organizers   : Imran Mohammed A
 participants :
     - Francois Raynaud
     - Timo Pagel
+    - Jim Newman
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
 ---

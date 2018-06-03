@@ -1,18 +1,17 @@
 ---
-title        : A seat at the table
+title        : A long successful career in IT (women in tech)
 type         : user-session
 track        : Keynotes
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Mon
+when_day     : Tue
 when_time    : DS-2
 room_id      : main-stage
-session_slack: https://os-summit.slack.com/messages/CAV72NACU
+session_slack:
 status       :                   # draft, review-content, done
-organizers   : ["Adam Shostack"]
-description  : Keynote by Adam
-meet_url     : #URL to the relevant Google Meet Room thus the remote participants can join a session
+organizers   : ["Tanya Janca", "Franziska Buehler"]
+description  : Keynote by Ante Gulam
 ---
 
 

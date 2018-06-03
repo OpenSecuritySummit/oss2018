@@ -4,8 +4,8 @@ type         : dynamic-session
 track        : DevSecOps
 technology   :
 featured     :                    # review with summit team "yes"
-when_day     : Wed
-when_time    : DS-2
+when_day     :
+when_time    :
 room_layout  :                    #
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAW9BF1HU
@@ -17,7 +17,7 @@ participants :
   - Goher Mohammad
 ---
 
-(add intro)
+<!--(add intro)
 
 ## WHY
 
@@ -33,4 +33,4 @@ participants :
 
 ## References
 
-(...)
+(...)-->

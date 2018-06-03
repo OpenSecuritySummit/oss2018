@@ -4,7 +4,7 @@ type         : user-session
 track        : DevSecOps
 topics       :
 when_day     : Mon
-when_time    : Eve-1, Eve-2
+when_time    : Eve-1,Eve-2
 room_id      : villa-2
 locked       : true
 session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
