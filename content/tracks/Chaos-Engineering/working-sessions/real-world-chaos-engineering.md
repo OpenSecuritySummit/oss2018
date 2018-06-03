@@ -4,11 +4,13 @@ type         : working-session
 track        : Chaos Engineering
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
-featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+featured     : yes                   # review with summit team "yes"
+when_day     : Mon
+when_time    : PM-3
+locked       : true
 room_layout  :                    #
-room_number  :
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAUN7NXFS
 status       : draft              # draft, review-content, done                    #
 description  : An exploration and working session to characterise, explore and implement real-world DevSecOps chaos experiments.
 organizers   :

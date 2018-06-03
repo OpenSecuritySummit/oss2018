@@ -1,0 +1,9 @@
+{{ range .pages }}
+    {{ if or (eq (trim .Params.when_day "") "") (eq (trim .Params.when_time "") "")  }}
+        {{ if .Params.title }}
+            {{ if ne .Params.hide true}}
+                <li> {{ partial "link.html" . }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+{{ end }}

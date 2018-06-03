@@ -1,10 +1,11 @@
 ---
 title        : Threat Model
 type         : track
+when_day     : Mon,Tue,Wed,Thu,Fri
 status       : featured
-categories   : ["Threat Model"]
 description  : With Working Sessions such as Attack chains as TM technique and Threat Model cheat sheets
-organizers   : 
+organizers   :
+    - Steven Wierckx
 ---
 
 ### Summary

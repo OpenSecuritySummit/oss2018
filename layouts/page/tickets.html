@@ -13,7 +13,7 @@
 <div class="inner_main_tickets">
   <div class="center_heading">
     <div class="container">
-        <h1>{{ .Title }}</h1>
+      <h1>{{ .Title }}</h1>
     </div>
   </div>
 </div>
@@ -22,43 +22,82 @@
 
 {{ define "content" }}
 
-<div class="get-your-ticket">
-  <div class="row">
-    <div class="col-xs-12 col-sm-10">
-      <p>We have 3 types of tickets available at the Summit, please see below for details.</p>
-      <h4>Group Discount (for the 5 day tickets)</h4>
-      <ul>
-        <li>If you buy 5 to 9 tickets you get 10% discount</li>
-        <li>If you buy more than 10 tickets you get 20% discount</li>
-      </ul>
-      <h4>Buy using invoice</h4>
-      <ul>
-        <li>If you want to purchase via an invoice or more than 4 tickets please contact <a href='mailto:francois@devseccon.com'>Francois Raynaud</a></li>
-      </ul>
-      <hr/>
+<section class="mid_wrap" >
+
+<div class="container">
+  <div class="t_rw text-center"><h2>We have 5 types of tickets available at the Summit, please see below for details.</h2></div>
+
+  <div class="sec_4 ">
+    <div class="row">
+      <div class="col-sm-8">
+        <div class="group_discount ul_bx">
+          <h3>Group Discount (for the 5 day tickets)</h3>
+          <ul>
+            <li>If you buy 5 to 9 tickets you get 10% discount</li>
+            <li>If you buy more than 10 tickets you get 20% discount</li>
+          </ul>
+
+
+        </div>
+
+        <div class="buy_using ul_bx">
+          <h3>Buy using invoice</h3>
+          <ul>
+            <li>If you want to purchase via an invoice or more than 4 tickets please contact <a href="#" class="link_1">Francois Raynaud</a></li>
+
+          </ul>
+
+
+        </div>
+
+      </div>
+      <div class="col-sm-4 text-center"><img src="/img/blocks/ticket.png" class="img-responsive"  alt="ticket img"></div>
+
     </div>
+
   </div>
 
-  <div class="row">
-    <div class="flexbox">
-      {{ range $index, $ticket := sort .Site.Data.tickets "weight" }}
-      <div class="ticket">
-        <div class="ticket-box {{ if eq (mod $index 2) 0 }}green-box{{ else }}blue-box{{ end }}">
-          <div class="ticket-type">{{ $ticket.type }}</div>
-          <div class="price">&pound;{{ $ticket.cost }}*<span class="currency">GBP</span></div>
-          <div class="small">* plus fee and VAT</div>
-          <div class="ticket-duration">{{ $ticket.duration }}</div>
-          {{ range $ticket.description }}
-          <div class="fa fa-check"><span class="item">{{ . }}</span></div><br/>
-          {{ end }}
+  <div class="pricing m_b_160">
+    <div class="row">
+        {{ range $index, $ticket := sort .Site.Data.tickets "weight" }}
+        <div class="col-lg-4 col-md-4 col-sm-12">
+          <div class="price_bx">
+            <div class="head_price text-center">
+              <h3>{{ $ticket.type }}</h3>
+            </div>
+            <div class="mid_price">
+              <div class="text-center price_gbp"><span class="price_cl">&pound;{{ $ticket.cost }}*</span><span class="gbp">GBP</span></div>
+              <p class="plus_free text-center">* plus fee and VAT</p>
+              <h4 class="participant">{{ $ticket.duration }}</h4>
+              <div class="ul_bx">
+                <ul>
+                  {{ range $ticket.description }}
+                  <li>{{ . }}</li>
+                  {{ end }}
+                </ul>
+              </div>
+              {{ if eq $ticket.cost 0 }}
+                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">{{$ticket.text }}</a></div>
+              {{ else}}
+                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">Buy Ticket</a></div>
+              {{ end }}
+            </div>
+          </div>
         </div>
-        <div class="{{ if eq (mod $index 2) 0 }}green-box{{ else }}blue-box{{ end }}">
-          <div class="buy-ticket"><a href="{{ $ticket.buy }}" class="btn btn-primary">Buy Ticket</a></div>
-        </div>
+        {{ end }}
       </div>
-      {{ end }}
     </div>
+    <!--
+    <div class="row">
+        <div class="col-lg-offset-3 col-lg-6">
+          <img class="img img-responsive" src="/img/pages/tickets_explained.png" />
+        </div>
+    </div>
+    -->
   </div>
-</div>
-</div>
-{{ end }}
+
+</div><!-- container -->
+
+</section>
+
+  {{ end }}

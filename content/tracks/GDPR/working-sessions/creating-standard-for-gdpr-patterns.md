@@ -2,20 +2,19 @@
 title        : Creating a standard for GDPR patterns
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Tue
+when_time    : AM-1
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAVGV2J0M
 status       : done              # draft, review-content, done
 description  : Working Session on reviewing and agreeing on a set of GDPR patterns
 organizers   :
     - Mario Platt
-participants :
-    - Dinis Cruz
-    - Tony Richards
 ---
 
 GDPR Patterns are reusable mappings of data journeys across specific threat modelling

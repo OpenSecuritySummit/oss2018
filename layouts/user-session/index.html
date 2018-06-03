@@ -34,7 +34,7 @@
     <h2>Current User Sessions</h2>
 
 
-    {{ $sessions := where .Site.Pages ".Params.type" "user-session"}}
+    {{ $sessions := where (where .Site.Pages ".Params.type" "user-session") ".Params.title" "ne" "" }}
     {{ partial "sessions/simple-table.html" $sessions }}
 
 {{ end }}

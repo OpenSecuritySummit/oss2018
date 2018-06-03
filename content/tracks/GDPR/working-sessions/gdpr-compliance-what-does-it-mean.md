@@ -2,14 +2,16 @@
 title        : GDPR Compliance what does it mean?
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Mon
+when_time    : PM-1
 room_layout  :                    #
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAWECH57Z
+status       : review-content              # draft, review-content, done
 organizers   :
 description  : Now that GDPR is in force, what does GDPR Compliance mean and how to measure it
 ---

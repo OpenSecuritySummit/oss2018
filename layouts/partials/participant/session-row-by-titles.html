@@ -1,15 +1,18 @@
 {{ range .titles }}
     {{ $title   := .}}
-    {{ $matches := (where $.this.Site.Pages ".Params.title" $title) }}
+    {{ $matches := where (where $.this.Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome" }}
     <tr>
         {{ if $matches }}
             {{ $page := (index $matches 0) }}
-            <th>
-                <a href="{{$page.Permalink }}">{{$page.Params.title}}</a>
-            </th>
             <td>
+                <a href="{{$page.Permalink }}">{{$page.Params.title}}</a>
+            </td>
+            <td>{{ $page.Params.description }}</td>
+            <td class="text-center">
                 {{ $page.Params.type }}
             </td>
+            <td>{{ if ne $page.Params.type "track" }}{{ $page.Params.when_day }}{{ end }}</td>
+            <td>{{ if ne $page.Params.type "track" }}{{ $page.Params.when_time }}{{ end }}</td>
             <td>
                 <span class="label label-success">participant</span>
             </td>

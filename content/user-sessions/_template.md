@@ -4,14 +4,15 @@ type         : user-session      # working-session, user-session
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     :                    # i.e.    Tues
+when_time    :                    # i.e.    19:30
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: 
 status       : draft              # draft, review-content, done
-organizers   :                    # separated by coma
+organizers   :
 description  :
-participants :                    # separated by coma
+participants :
 ---
 
 (add intro)

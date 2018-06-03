@@ -1,12 +1,10 @@
 weight: 2
-type: "Summit + Accommodation"
+type: "Summit Only Ticket"
 early_bird:
 # price is in pounds. don't add VAT nor fees
-cost: 350
-duration: "1 day x 24h participant"
+cost: 240
+duration: "1 day x 8h participant"
 buy: "https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt"
 description:
   - "Access to all working sessions"
   - "Breakfast, lunch and refreshments during breaks"
-  - "Dinner and drinks"
-  - "Accommodation in Villa (1 night)"

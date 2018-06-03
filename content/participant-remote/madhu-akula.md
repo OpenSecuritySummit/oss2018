@@ -5,13 +5,13 @@ job_title       : Automation Ninja
 company         : Appsecco
 image           : https://avatars0.githubusercontent.com/u/6764192
 linkedin        : madhuakula
-twitter         : madhuakula 
+twitter         : madhuakula
 facebook        : madhu.akula
 website         : https://madhuakula.com
 email           : madhu.akula@hotmail.com
 project_leader  :
-chapter_leader  : 
-regonline       :
+chapter_leader  :
+eventbrite_id   :
 status          : add-details
 pre_summit      : Sat,Sun
 sessions:
@@ -20,7 +20,7 @@ sessions:
     - Security Crowdsourcing
     - Securing GitHub Integrations
     - Securing the CI Pipeline
-    
+
 ---
 
 <!-- put more details about participant here -->

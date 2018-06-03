@@ -2,13 +2,15 @@
 title        : Integrating Security Tools in the SDL
 type         : working-session
 track        : DevSecOps
+topics       : ["SDL"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Thu
+when_time    : AM-1, PM-1
 room_layout  :                    #
-room_number  :
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAUSF58HF
 status       : review-content              # draft, review-content, done
 organizers   : Imran Mohammed A
 participants : Francois Raynaud

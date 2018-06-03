@@ -2,14 +2,10 @@
 title       : Keynotes
 type        : track
 technology  :
-categories  :
+when_day    : Mon,Thu
+session_slack: https://os-summit.slack.com/messages/CAXJCNU9H
 status      : featured
-description : Keynote track featuring talks on Monday and Friday
+description : Keynote track featuring talks by security experts
 organizers  :
 ---
 
-## Summary
-
-More keynotes to be announced in the coming weeks!
-
-**If you are interested in presenting or proposing a keynote, contact us!**

@@ -2,17 +2,19 @@
 title        : Gamification of GDPR compliance
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :                    # default = tba,    Tues
-when_time    :                    # default = tba,    19:30
+when_day     : Wed
+when_time    : AM-1
 room_layout  :                    #
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAV6AK0J0
+status       : review-content              # draft, review-content, done
 description  : How to create positive feedback loops between the multiple teams aiming for GDPR Compliance
 organizers   :
-participants : Tony Richards
+participants :
 ---
 
 There are a lots of good things behind the GDRR

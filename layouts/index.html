@@ -10,31 +10,23 @@
         <header class="full-bg background-photogrid">
 
           <div class="dark-mask"></div>
-
-          {{ partial "top.html" . }}
-
-          {{ partial "nav.html" . }}
-
-          {{ partial "carousel.html" . }}
-
+          {{ partial "top.html"         . }}
+          {{ partial "nav.html"         . }}
+          {{ partial "carousel.html"    . }}
         </header>
-
-        {{ partial "features.html" . }}
-
-        {{ partial "testimonials.html" . }}
-
-        {{ partial "see_more.html" . }}
-
-        {{ partial "recent_posts.html" . }}
-
-        {{ partial "sponsors.html" . }}
-
-        {{ partial "footer.html" . }}
+        {{ partial "home-page/intro.html"         . }}
+        {{ partial "home-page/tracks.html"        . }}
+        {{ partial "home-page/topics.html"        . }}
+        {{ partial "home-page/featured.html"      . }}
+        {{ partial "home-page/session-types.html" . }}
+        {{ partial "home-page/features.html"      . }}
+        {{ partial "home-page/sponsors.html"      . }}
+        {{ partialCached "footer.html"        . }}
 
     </div>
     <!-- /#all -->
 
-    {{ partial "scripts.html" . }}
+    {{ partialCached "scripts.html" . }}
 
   </body>
 </html>

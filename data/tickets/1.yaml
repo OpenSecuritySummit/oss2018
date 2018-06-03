@@ -1,14 +1,11 @@
-weight: 3
-type: "Summit + Accommodation"
+weight    : 1
+type      : "Sponsored (onsite)"
 early_bird:
 # price is in pounds. don't add VAT nor fees
-cost: 1250
-duration: "5 days x 24h participant"
-buy: "https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt"
+cost      : 0
+duration  : "1 day 24h participant"
+buy       : mailto:info@opensecsummit.org
+text      : apply
 description:
-  - "Access to all working sessions"
-  - "Breakfast, lunch and refreshments during breaks"
-  - "Dinner and drinks"
-  - "Accommodation in Villa (4 nights)"
-  - "End of summit party"
-
+  - "Several Summit sponsors have allocated tickets to sponsor security professionals (based on pre-defined criteria)"
+  - "Please contact the Summit team if you want to apply for sponsorship"

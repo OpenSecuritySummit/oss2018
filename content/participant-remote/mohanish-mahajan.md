@@ -3,7 +3,7 @@ title           : Mohanish Mahajan
 type            : participant-remote
 job_title       :
 company         :
-image           : https://pbs.twimg.com/profile_images/800553392296759296/G4h7vRhk_400x400.jpg
+image           :
 linkedin        :
 twitter         : mysteriousnicks
 facebook        :
@@ -11,10 +11,10 @@ website         :
 email           :
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : add-details
 notes :
-# add a comma delimited list of the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions: Security Playbooks Diagrams, Hackathon Daily Sessions
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 sessions:
     - AWS Lambda Security
     - AppSec SOC Monitoring Visualisation
