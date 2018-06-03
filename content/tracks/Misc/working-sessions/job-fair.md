@@ -4,10 +4,8 @@ type         : working-session
 track        : Misc
 topics       :
 when_day     : Wed
-when_time    : PM-1
-technology   :
-session_slack:
-categories   :
+when_time    : DS-3
+room_id      : table-3
 description  : Meet companies that are hiring at the Summit
 status       : review-content             # draft, review-content, done
 organizers   :
