@@ -19,7 +19,6 @@ sessions:
     - SAMMv2 Establish the Document Model
     - OWASP Collective Defence Agreement
     - Owasp Cloud Security Workshop (BETA)
-    - Owasp Securetea tools project
     - Owasp Testing Guide v5
     - OWASP Defect Dojo
     - Owasp Top 10 2017 - usage
