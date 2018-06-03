@@ -3,7 +3,7 @@
 #  layout   : tbd
 #  capacity : 100
 room-1:
-  title    : Kings
+  title    : Kings (Threat Model)
   layout   : cabaret
   capacity : 48
 room-2:
@@ -11,15 +11,15 @@ room-2:
   layout   : tbd
   capacity : 30
 room-3:
-  title    : Larch
+  title    : Larch (Maps)
   layout   : cabaret
   capacity : 40
 room-4:
-  title    : Montague
+  title    : Montague (Security Questions)
   layout   : cabaret
   capacity : 40
 room-5:
-  title    : Maulden
+  title    : Maulden (DevSecOps)
   layout   : cabaret
   capacity : 40
 room-6:

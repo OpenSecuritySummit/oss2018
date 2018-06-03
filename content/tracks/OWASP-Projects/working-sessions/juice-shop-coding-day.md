@@ -6,7 +6,7 @@ topics       : ["Owasp Juice Shop"]
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 featured     :                    # review with summit team "yes"
 when_day     : Thu                  # NOTE: should be on the brainstorming day, brainstorming should be the first session.
-when_time    : AM-1, PM-1, PM-2, PM-3
+when_time    : AM-1,PM-1,PM-2,PM-3
 room_layout  : circle                   #
 room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAW9X85PY

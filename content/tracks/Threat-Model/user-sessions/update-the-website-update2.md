@@ -1,5 +1,5 @@
 ---
-title        : Update website 2
+title        : Update Treat Modeling website 2
 type         : user-session      # working-session, user-session, product-session
 track        : Threat Model
 topics       :                    # for example ["GDPR"]

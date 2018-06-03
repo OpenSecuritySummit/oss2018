@@ -8,9 +8,9 @@ session_type : public
 technology   :
 categories   :
 featured     :
-when_day     : Mon
-when_time    : Eve-2
-room_id      : villa-3
+when_day     :
+when_time    :
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVE7UJ4A
 status       : draft              # draft, review-content, done
 description  : Meet the Owasp team and learn about the benefits of becoming an Owasp corporate member
