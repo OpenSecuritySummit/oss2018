@@ -1,9 +1,9 @@
 ---
-title           : Head of Risk
+title           : Yasmin Martin
 type            : participant
 sponsored_by    : JE Marketing
 job_title       :
-company         :
+company         : Photobox
 travel-from     :
 image           :
 linkedin        :
