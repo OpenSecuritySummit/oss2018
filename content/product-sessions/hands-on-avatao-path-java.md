@@ -10,8 +10,7 @@ categories   :
 featured     :
 when_day     : Tue
 when_time    : Eve-2
-room_layout  :
-room_id      :
+room_id      : villa-2
 session_slack: https://os-summit.slack.com/messages/CAWB0G0FQ
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform

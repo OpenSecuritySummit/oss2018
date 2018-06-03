@@ -4,9 +4,9 @@ type         : working-session
 track        : Security Questions
 technology   :
 when_day     : Tue
-when_time    : AM-1
+when_time    : DS-1
 room_layout  :
-room_id      :
+room_id      : table-6
 session_slack: https://os-summit.slack.com/messages/CAUSQJLHF
 status       : ok
 organizers   :
