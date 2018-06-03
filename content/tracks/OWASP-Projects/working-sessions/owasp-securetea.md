@@ -7,7 +7,7 @@ featured     : yes                  # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-1
 room_layout  :                   #
-room_id      :
+room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAVD79HPC
 status       : draft              # draft, review-content, done
 categories   : ["OWASP Projects"]

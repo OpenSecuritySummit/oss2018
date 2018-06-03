@@ -8,7 +8,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu                  # NOTE: should be on the brainstorming day, brainstorming should be the first session.
 when_time    : AM-1, PM-1, PM-2, PM-3
 room_layout  : circle                   #
-room_id      :
+room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAW9X85PY
 status       :  draft    # draft, review-content, done
 organizers   :

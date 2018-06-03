@@ -9,7 +9,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : AM-1, PM-1, PM-2,PM-3
 room_layout  :                    #
-room_id      :
+room_id      : villa-1
 session_slack: https://os-summit.slack.com/messages/CAVAMMT6F
 status       : done              # draft, review-content, done
 organizers   : Sven Schleier
