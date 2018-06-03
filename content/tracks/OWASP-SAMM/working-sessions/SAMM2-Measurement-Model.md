@@ -1,7 +1,7 @@
 ---
 title        : SAMMv2 Measurement Model
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
 locked       : true
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.

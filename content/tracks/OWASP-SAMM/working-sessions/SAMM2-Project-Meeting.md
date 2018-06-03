@@ -1,7 +1,7 @@
 ---
 title        : SAMM Project Meeting
 type         : working-session
-track        : Maturity Models
+track        : OWASP SAMM
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
