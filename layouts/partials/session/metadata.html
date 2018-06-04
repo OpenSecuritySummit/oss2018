@@ -14,6 +14,15 @@
         </td>
     </tr>
     <tr>
+        <th>Where:</th>
+        <td>
+            {{ with .Params.room_id }}
+            {{   $room := index $.Site.Data.schedule.rooms . }}
+            {{ $room.title }}
+            {{ end }}
+        </td>
+    </tr>
+    <tr>
         <th>Organizers</th>
         <td>
             {{ partial "utils/titles-with-link.html" (dict "this" . "name" .Params.title "value" .Params.organizers)   }}
