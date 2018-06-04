@@ -20,10 +20,15 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
-    - Put Pixi, Core Rule Set 3 for ModSecurity
-    - SDL in practice
-    - Securing CI/CD pipeline
-    - Intro to HTTP v2
+    - OWASP Defect Dojo
+    - OWASP DevSecOps Studio
+    - Owasp Cloud Security Workshop (BETA)
+    - Adding CRS3 and Pixi to CircleCI pipeline
+    - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+    - Publishing apps in a VSTS security pipeline
+    - A long successful career in IT (women in tech)
+    
+    
 ---
 
 Tanya Janca is a senior cloud advocate for Microsoft, specializing in application security; evangelizing software security and advocating for developers through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs and community events.  As an ethical hacker, OWASP Project and Chapter Leader, software developer, effective altruist and professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science.  
