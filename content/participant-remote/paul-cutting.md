@@ -15,9 +15,9 @@ chapter_leader  :
 regonline       :
 status          : add-details
 sessions        :
-  - Integrating Security into an Spotify Model
-  - Describe different ways of implementing TM in agile organisations
-  - Creating Appsec metrics and visualisation
-  - Using JIRA to create and execute Security Playbooks
+    - Integrating Security into an Spotify Model
+    - Describe different ways of implementing TM in agile organisations
+    - Creating Appsec metrics and visualisation
+    - Using JIRA to create and execute Security Playbooks
 notes           :
 ---
