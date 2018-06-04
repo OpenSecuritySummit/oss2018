@@ -15,6 +15,7 @@ organizers   :
     - John Fitzgerald
     - Rachel Power
 participants :
+    - Naushad Saboor
 invited :
     - Dinis Cruz
 ---
