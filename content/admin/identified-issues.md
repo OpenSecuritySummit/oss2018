@@ -8,6 +8,7 @@ layout: identified-issues
 
 ## Infrastructure Related
 * Extended cables for electricity were missing.
+* People are going directly to Slack trying to find the appropriate channels and not using the website session page.
 
 ### Live Stream
 * Audio was lost in "Maulden room", and after sometime everything was OK again.
