@@ -24,6 +24,7 @@ sessions        :
     - Akamai WAF & Ruleset
     - Real world Chaos Engineering
     - Create a Slack bot in Python
+    - AWS Lambda Security
 
 ---
 
