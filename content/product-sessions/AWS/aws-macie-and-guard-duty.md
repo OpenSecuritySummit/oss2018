@@ -12,6 +12,7 @@ session_slack: https://os-summit.slack.com/messages/CAUP2NR40
 status       : draft
 description  : 
 organizers   : 
+    - Giorgio Bonfiglio
 participants : 
     - Andrew Johnstone
     - Vladimir Voskresenskiy
