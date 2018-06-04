@@ -1,54 +1,62 @@
 ---
 title        : Threat model track opening session
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session    
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : Threat Model                 
+status       : draft              
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
-
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
-
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
-
 ## Outcomes/Deliverables (recommend)
 *The outcomes are the results produced from a session regardless of the session type. These can be:*
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+- Cheat sheets (one was created in 2017; three will be created in 2018)
+- One pager that explains what TM is, the different names for it, different methodologies etc. 
+- A common set of data, that can be filtered according to different user needs, e.g. central security team, regulators, dev teams etc.
+- This set of data should be consumable, consistent, actionable, prioritise-able, and reusable
+- Decision to either rewrite or archive website material that is out of date, as the OWASP TM project is currently way down the list of Google search results. This decision will be made at the evening 'update the website' session.
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+- This was an introductory session to allow participants to decide what will be covered in the Summit's TM sessions.
+- Every session should be reflected on the OWASP TM Project website 
+- They will feed into Fraser Scott's sessions on Cloud Security
+- Steven explained the colegial and community-driven nature of the TM project: 
+   - Discussions will take place on the Project Slack channel
+   - A Google doc will allow comments, updates
+   - When Steven believes consensus has been reached on a topic, he will include the consensus view on the website, for further debate and discussion as appropriate.
 
 ## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+- Most threat model methodologies answer one or more of the following questions:
+   - What are we building?
+   - What can go wrong?
+   - What are we going to do about that?
+   - Did we do a good enough job? 
+The TM Project will create a searchable database of techniques, methods, tools, and examples of all these questions.
+-  What are the paramaters of a threat that should be captured in the proposed common set of reusable data? Initial discussions suggested the following as mandatory:
+   - ID
+   - Name and short description
+   - Assets 
+ And the following as optional:
+    - Tags
+    - Link to Model
 
 ## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+As this was an introductory session, the conclusions will develop as the week continues.
 
 ## Working Materials (recommend)
 *Make a list of references to working materials that were created during the session*
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- https://open-security-summit.org/tracks/threat-model/working-sessions/tm-open/ 
+- https://owaspsummit.org/Working-Sessions/Threat-Model/index.html
+- https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Where-do-I-Start.html
 
 ### Additional/External References
 *Make a bullet list with additional references that might be useful in a given context*
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+* [OWASP Threat Modeling pages}(https://www.owasp.org/index.php/OWASP_Threat_Model_Project)
+* The Owasp TM GitHub website is under construction. When ready it will facilitate easier collaboration
+
