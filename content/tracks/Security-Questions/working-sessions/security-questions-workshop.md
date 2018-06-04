@@ -18,3 +18,6 @@ participants :
 invited :
     - Dinis Cruz
 ---
+
+Introduce participants to the [Security Questions](/tracks/security-questions/) track and
+create the first set of questions
