@@ -17,6 +17,7 @@ organizers   :
 participants :
     - Ruben Tronçon
     - Adam Shostack
+    - Orid Ahmed
 ---
 
 During these sessions we will update the website with the content created during the day workshops.
