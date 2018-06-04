@@ -22,6 +22,7 @@ participants :
     - Stephen Hookings
     - Luis Saiz
     - Daniel Garcia
+    - Claudio Camerino
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 
