@@ -4,13 +4,13 @@ type            : participant
 job_title       : Security Consultant
 company         : MWR InfoSecurity
 travel_from     : Cambridgeshire
-image           : /participant/images/matthew-pendlebury.jpg
-linkedin        : 
-twitter         : 
+image           : 
+linkedin        :
+twitter         :
 facebook        :
 website         : www.mwrinfosecurity.com
 email           : matthew.pendlebury@mwrinfosecurity.com
-featured        : yes
+featured        :
 project_leader  :
 chapter_leader  :
 eventbrite_id   :
