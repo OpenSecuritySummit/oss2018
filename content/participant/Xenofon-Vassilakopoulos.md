@@ -2,7 +2,7 @@
 title           : Xenofon Vassilakopoulos
 type            : participant
 job_title       : Information Security Consultant
-company         : Twelvesec
+company         : TwelveSec
 travel_from     : Greece
 image           : 
 linkedin        : https://gr.linkedin.com/in/xvass
