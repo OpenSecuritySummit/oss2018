@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 Measurement Model
+title        : Methodology / technique showcase
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :

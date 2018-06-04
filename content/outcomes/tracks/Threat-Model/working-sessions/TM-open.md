@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 Measurement Model
+title        : Threat model track opening session
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
