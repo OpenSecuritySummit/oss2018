@@ -14,6 +14,8 @@ organizers   : Steven Wierckx
 description  : Threat Modeling Working Session
 track        : Threat Model
 locked       : true
+participants :
+     - Adam Shostack
 ---
 
 ## WHY
