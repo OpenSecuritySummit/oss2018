@@ -10,10 +10,9 @@ room_layout  :
 room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAUP2NR40
 status       : draft
-description  :
-organizers   :
-    - Giorgio Bonfiglio
-participants :
+description  : 
+organizers   : 
+participants : 
     - Andrew Johnstone
     - Vladimir Voskresenskiy
 

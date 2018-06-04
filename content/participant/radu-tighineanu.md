@@ -1,5 +1,5 @@
 ---
-title           : Walter Turczak
+title           : Radu Tighineanu
 type            : participant
 job_title       :
 company         :
@@ -10,15 +10,14 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
+venue           : Mon
 eventbrite_id   :
 pre-summit      :
 status          : add details
-sessions:
-notes :
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+sessions        :
+  
 
+# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
 <!-- put more details about participant here -->
