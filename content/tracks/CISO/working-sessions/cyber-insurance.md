@@ -13,7 +13,6 @@ status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
 organizers   :
  - Yvette Connor
- - Judy Selby
 description  : Session on Cyber Insurance
 ---
 
