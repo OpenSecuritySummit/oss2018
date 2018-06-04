@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
     - Stephen de Vries, Paul Santapau
+    - Adam Shostack
 description  : How to Threat Model Features with Questionnaires
 locked       : true
 ---
