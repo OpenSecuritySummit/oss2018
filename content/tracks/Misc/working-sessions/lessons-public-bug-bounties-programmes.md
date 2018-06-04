@@ -26,6 +26,7 @@ While bug bounties are seen as a lucrative way to make quick money for researche
 
 ## What
 
+- What is required to kick off a bug bounty? Considerations/implications/inputs
 -	Top 10 lessons that people have learned
 -	How to improve bug bounty programmes
 -	How to anticipate and therefore avoid problems
