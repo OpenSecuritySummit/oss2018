@@ -4,7 +4,7 @@ type         : working-session
 track        : Owasp Projects
 topics       : ["Owasp Project"]
 featured     :                    # review with summit team "yes"
-when_day     : Thu
+when_day     : Tue
 when_time    : AM-1
 room_layout  :                    #
 room_id      : room-6
