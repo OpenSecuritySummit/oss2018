@@ -13,7 +13,7 @@ room_id      : room-6
 session_slack: https://os-summit.slack.com/messages/CAUNTQ124
 status       : review-content              # draft, review-content, done
 description  :
-organizers   :
+organizers   : sylvain hellegouarch
 participants:
     - Russ Miles
     - Chris Allen
