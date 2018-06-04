@@ -21,7 +21,7 @@ sessions:
      - SAMM DevSecOps Version
      - Creating Appsec metrics and visualisation
      - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
-	   - OwaspSAMM - Best Practices
+     - OwaspSAMM - Best Practices
      - OWASP DevSecOps Studio
 
 ---
