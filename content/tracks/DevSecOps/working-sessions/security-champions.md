@@ -13,6 +13,7 @@ status       : review-content     # draft, review-content, done
 organizers   :
 description  :
 participants :
+    - Arne Zismer
 ---
 
 Security Champions are a key element of any AppSec team, since they create a cross-functional team focused on Application Security.
