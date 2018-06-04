@@ -10,7 +10,7 @@ room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAVD37L6N
 status       : review-content      # draft, review-content, done
 description  : List of top 10 lessons from bug bounty experts and guidelines on improving bug bounty programmes
-organizers   :
+organizers   : Stu Hirst
 participants :
   - Prakash Sharma
   - John Killilea
