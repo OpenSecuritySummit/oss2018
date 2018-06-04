@@ -5,9 +5,9 @@ technology   :
 categories   : DevSecOps          # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed                # i.e.    Tues
-when_time    : PM-3                   # i.e.    19:30
+when_time    : PM-2                   # i.e.    19:30
 room_layout  :                    #
-room_id      :
+room_id      : room-6
 session_slack:
 status       : draft              # draft, review-content, done
 organizers   :

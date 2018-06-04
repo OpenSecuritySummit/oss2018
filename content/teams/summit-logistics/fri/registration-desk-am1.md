@@ -1,6 +1,6 @@
 ---
 title        : Registration Desk (Fri)
-type         : private-session
+type         : summit-session
 when_day     : Fri
 when_time    : AM-1
 room_id      :
