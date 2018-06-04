@@ -17,9 +17,8 @@ eventbrite_id   :
 pre-summit      :
 status          : 
 sessions        :
-    - AWS GuardDuty
+    - AWS Macie and Guard Duty
     - AWS Lambda Security
-    - AWS Macie
     - Create AWS Security Questions
     - Hands on Chaos Experiments
     - Using AWS Neptune GraphDB
