@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Mario Platt
     - Goher Mohammad
+    - Jim Newman
 ---
 
 Create graphs as shows in the https://github.com/pbx-gs/gdpr-patterns project

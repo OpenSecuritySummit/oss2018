@@ -9,6 +9,7 @@ when_time    :                    # i.e.    19:30
 room_layout  :                    #
 room_id      :
 session_slack: 
+meet_url     : 
 status       : draft              # draft, review-content, done
 organizers   :
 description  :
