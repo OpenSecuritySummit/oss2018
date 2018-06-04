@@ -5,7 +5,7 @@ sponsored_by    : PhotoBox
 job_title       : TAM
 company         : AWS
 travel_from     : London
-image           : https://pbs.twimg.com/profile_images/861708347162099712/iklH3Rqh_400x400.jpg
+image           : https://grg.pw/giorgio-propic16_800x800.jpg
 linkedin        : giorgiobonfiglio
 twitter         : g_bonfiglio
 facebook        :
