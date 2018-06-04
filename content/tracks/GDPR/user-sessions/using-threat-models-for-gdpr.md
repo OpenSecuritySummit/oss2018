@@ -14,6 +14,7 @@ description  : Hands on user session on how to use Threat Models in GDPR mapping
 organizers   :
     - Sotiraki Sima
 participants :
+- Naushad Saboor
 ---
 
 Hands on user session on how to use Threat Models in GDPR mappings
