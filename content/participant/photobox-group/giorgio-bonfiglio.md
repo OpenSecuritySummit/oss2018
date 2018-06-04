@@ -8,14 +8,14 @@ travel_from     : London
 image           : https://grg.pw/giorgio-propic16_800x800.jpg
 linkedin        : giorgiobonfiglio
 twitter         : g_bonfiglio
-facebook        :
+facebook        : giorgio.bonfiglio
 website         : https://grg.pw/
 email           : bonfigg@amazon.com
 venue           : Tue, Wed
 night_day       : Mon, Tue
 eventbrite_id   :
 pre-summit      :
-status          : 
+status          : done
 sessions        :
     - AWS Macie and Guard Duty
     - AWS Lambda Security
