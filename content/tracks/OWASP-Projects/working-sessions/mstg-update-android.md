@@ -14,7 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAVAMMT6F
 status       : done              # draft, review-content, done
 organizers   : Sven Schleier
 participants :
-    - Carlos Pérez Holguera
+    - Carlos Holguera
 description  : Mobile Security Working Session
 ---
 
