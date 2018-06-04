@@ -14,7 +14,7 @@ status       : done              # draft, review-content, done
 organizers   : ["Steven Wierckx"]
 description  : Threat Modeling Working Session
 locked       : true
- participants :
+participants :
   - Adam Shostack
 ---
 
