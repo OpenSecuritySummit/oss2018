@@ -8,7 +8,7 @@ when_day     : Mon                    # i.e.    Tue
 when_time    : PM-3               # i.e.    AM-1
 room_layout  :                    #
 room_id      : room-1
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB27W9VP1
 status       : done              # draft, review-content, done
 description  :
 locked       : true
