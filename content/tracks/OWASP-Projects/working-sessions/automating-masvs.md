@@ -15,6 +15,7 @@ status       : done              # draft,  review-content, done
 organizers   : ["Sven Schleier", "Davide Cioccia"]
 participants :
   - Carlos Holguera
+  - Arne Zismer
 description  : Mobile Security Working Session
 ---
 
