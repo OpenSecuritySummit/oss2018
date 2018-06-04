@@ -23,31 +23,33 @@ status          : add details
 sessions:
     # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
     # Monday
-    - A seat at the table
     - Creating a Steady-State Hypothesis
-    - Customising the Chaos Toolkit
-    # - Owasp Cloud Security Workshop (BETA)
     - Hands on Chaos Experiments
     - Real world Chaos Engineering
-    - Writing security tests to confirm vulnerabilities and fixes
+    - Create a Slack bot in Python
     # Tuesday
+    - A long successful career in IT (women in tech)
     - Gamifying Security Dashboards
     - Using maps to define how to capture, detect and prevent 6 real-world security incidents
-    # - Describe different ways of implementing TM in agile organisations
     - Agile Practices for Security Teams
     - Attack chains as TM technique
     - Back to the future with Threat Modeling
     # Wednesday
     - Thinking in Graphs
-    - Threat model cheat sheets
-    - Getting more women in Cyber-security
-    - Using Data Science for log analysis
-    - Create a Slack bot in Python
+    - Women in Cyber-security: improving the gender balance
+    - Ask me anything (AMA) - Meet the Experts
+    - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
+    - AppSec SOC Monitoring Visualisation
+    - Using Elastic Stack services
     # Thursday
+    - Integrating Security Tools in the SDL
+    - JIRA - how to use it
+    - Using Data Science for log analysis
     - Crossing the river by feeling the stones
-    - Using Jira to handle Incident Response - simulations
     - Threat Model training through Gamification
+    - Writing security tests to confirm vulnerabilities and fixes
     # Friday
+    - Using Jira to handle Incident Response - simulations
     - Using AI and ML for incident response
 ---
 
