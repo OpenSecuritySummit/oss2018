@@ -27,7 +27,7 @@
                     {{ if .Params.room_id }}
                         {{ if in .Params.room_id "villa" }}
                             {{ $villa := index .Site.Data.schedule.villas .Params.room_id }}
-                            {{ $villa.title }} villa
+                            {{ $villa.location }} - {{ $villa.title }} villa
                         {{ else if in .Params.room_id "room" }}
                             {{ $room := index .Site.Data.schedule.rooms .Params.room_id }}
                             {{ $room.title }} room
