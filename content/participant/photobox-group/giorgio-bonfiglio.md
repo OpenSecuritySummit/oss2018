@@ -26,6 +26,10 @@ sessions        :
     - PBX-GS Offsite session 3
     - Securing AWS S3 Buckets
     - Replacing Akamai with AWS Shield
+    - Akamai WAF & Ruleset
+    - Real world Chaos Engineering
+    - Docker and Kubernetes Threat Modeling Cheat Sheet
+    - Securing AWS S3 Buckets
 
 ---
 
