@@ -16,6 +16,7 @@ eventbrite_id   :
 status          :
 sessions        :
     - Threat model track opening session
+    - Threat Modeling Website Structure
     - Using a Rules Engine and Risk Patterns with IriusRisk
     - Describe different ways of implementing TM in agile organisations
     - API Threat Modeling Cheat Sheet
@@ -26,8 +27,12 @@ sessions        :
     - Using Threat Models for GDPR
     - Federated Login with Social Platforms Threat Modeling Cheat Sheet
     - IoT Threat Modeling Cheat Sheet
+    - Threat model guide
     - How to scale Threat Modeling.
     - Threat Model training through Gamification
     - Getting more women in Cyber-security
+    - Create generic TM for CMS
+    - Using User Story Mapping for effective communication
+    - Share your Threat Models diagrams and create a Book
     
 ---
