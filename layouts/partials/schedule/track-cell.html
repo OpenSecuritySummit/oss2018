@@ -23,7 +23,23 @@
                 <span id="cell_widgets">
                     {{ partial "widgets/clues.html" .}}
                 </span>
-                <div class="schedule-by-track-cell-room-id">{{ .Params.room_id }}</div>
+                <div class="schedule-by-track-cell-room-id">
+                    {{ if .Params.room_id }}
+                        {{ if in .Params.room_id "villa" }}
+                            {{ $villa := index .Site.Data.schedule.villas .Params.room_id }}
+                            {{ $villa.title }} villa
+                        {{ else if in .Params.room_id "room" }}
+                            {{ $room := index .Site.Data.schedule.rooms .Params.room_id }}
+                            {{ $room.title }} room
+                        {{ else if in .Params.room_id "table" }}
+                            {{ $room := index .Site.Data.schedule.main_hall .Params.room_id }}
+                            {{ $room.title }}
+                        {{ else }}
+                            {{ .Params.room_id }}
+                        {{ end }}
+                    {{ end }}
+
+                </div>
                 <div id="cell_participants">
                     {{ $participants := $.self.Scratch.Get .Params.title}}
                     {{ range $participants}}
