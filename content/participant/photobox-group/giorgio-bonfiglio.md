@@ -22,8 +22,8 @@ sessions        :
     - Create AWS Security Questions
     - Hands on Chaos Experiments
     - Using AWS Neptune GraphDB
-    - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
+    - PBX-GS Offsite session 3
     - Securing AWS S3 Buckets
     - Replacing Akamai with AWS Shield
 
