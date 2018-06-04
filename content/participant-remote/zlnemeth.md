@@ -1,15 +1,15 @@
 ---
-title           :Zoltán L. Németh
-type            :participant-remote
-job_title       :assistant professor
-company         :University of Szeged
-travel_from     :Hungary
-image           :http://www.inf.u-szeged.hu/~zlnemeth/NemethZoltan.jpg
+title           : Zoltán L. Németh
+type            : participant-remote
+job_title       : assistant professor
+company         : University of Szeged
+travel_from     : Hungary
+image           : http://www.inf.u-szeged.hu/~zlnemeth/NemethZoltan.jpg
 linkedin        :
 twitter         :
 facebook        :
-website         :www.inf.u-szeged.hu/~zlnemeth
-email           :zlnemeth@inf.u-szeged.hu
+website         : www.inf.u-szeged.hu/~zlnemeth
+email           : zlnemeth@inf.u-szeged.hu
 project_leader  :
 chapter_leader  :
 eventbrite_id   :
