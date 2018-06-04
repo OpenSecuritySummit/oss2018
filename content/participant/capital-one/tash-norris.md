@@ -15,6 +15,7 @@ night_day       : Mon, Tue, Wed, Thu
 eventbrite_id   :
 status          :
 sessions        :
+    - Threat model track opening session
     - Using a Rules Engine and Risk Patterns with IriusRisk
     - Describe different ways of implementing TM in agile organisations
     - API Threat Modeling Cheat Sheet
