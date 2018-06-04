@@ -24,7 +24,7 @@ sessions:
  - Securing AWS S3 Buckets
  - API Threat Modeling Cheat Sheet
  - Hands on Chaos Experiments
- - akamai-waf-and-ruleset
+ - Akamai WAF & Ruleset
 notes :
 
 ---
