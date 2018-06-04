@@ -19,14 +19,19 @@ sessions:
 - Owasp Testing Guide v5
 - Running CTF Games with OWASP Juice Shop
 - SAMM2 Kickoff
-- OwaspSAMM - Best Practices
+- SAMM - Best Practices
 - SAMM Introduction
 - SAMMv2 working session - Governance
 - SAMMv2 working session - Implementation
 - SAMMv2 working session - Verification
+- SAMMv2 working session - Operations
 - SAMMv2 Establish the Document Model
-- SAMM benchmarking
 - SAMM Project Meeting
+- SAMMv2 Measurement Model
+- Gamifying Security Dashboards
+- Thinking in Graphs
+- Crossing the river by feeling the stones
+- Adding Privacy by Design in Secure Application Development
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
