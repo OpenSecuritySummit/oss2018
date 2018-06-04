@@ -15,6 +15,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Sotiraki Sima
 participants :
+ - Orid Ahmed
 description  : How to use Jira for risk management, incident response and managing a team
 ---
 
