@@ -1,7 +1,7 @@
 ---
 title           : Tash Norris
 type            : participant
-job_title       : Security Architect and Consutlant
+job_title       : Security Architect and Consultant
 company         : Capital One
 travel_from     : Nottingham, UK
 image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=ZkjP_z-J-sZ6YPImKXIOiz6Gv0WpYkFmtdiHPxUipC0
