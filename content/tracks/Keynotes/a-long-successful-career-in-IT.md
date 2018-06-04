@@ -15,15 +15,14 @@ description  : Keynote by Ante Gulam
 ---
 
 
-<!--(add intro)
+Tanya Janca and Franziska Buehler of the OWASP Project DevSlop discuss their long and very successful careers in IT.  The ups and the downs.  Q & A 
 
 ## WHY
-
-(...)
+This talk is to both encourage other women in IT, and also to help everyone understand the challenges that women sometimes face by working in information technology.
 
 ## What
 
-(...)
+Mostly success stories, with a few war stories.  
 
 ## Outcomes
 
