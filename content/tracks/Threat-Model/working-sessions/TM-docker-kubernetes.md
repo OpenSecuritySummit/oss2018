@@ -14,6 +14,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Adam Shostack
 description  : Docker and Kubernetes Threat Modeling Cheat Sheet
 locked       : true
 ---
