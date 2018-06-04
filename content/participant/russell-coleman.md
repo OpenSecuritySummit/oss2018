@@ -5,8 +5,8 @@ job_title       : Sales Manager EMEA
 company         : HackerOne
 travel_from     : London
 image           : https://media.licdn.com/dms/image/C5603AQGXwUDMg_bNIQ/profile-displayphoto-shrink_200_200/0?e=1533772800&v=beta&t=_1MnVrb5crsCDbEO2Rn2QfERBjN6w8SrHsC38lOYrfo
-linkedin        : https://www.linkedin.com/in/russellcoleman/
-twitter         : @rhcoleman8
+linkedin        : russellcoleman/
+twitter         : rhcoleman8
 facebook        :
 website         :
 email           : russell@hackerone.com
