@@ -17,11 +17,11 @@ organizers   :
 description  : "DevSecOps: adding security testing, review and configurations to a VSTS pipeline"
 ---
 
-The OWASP DevSlop VSTS pipeline, affectionately known as "Patty", needs to produce the absolute most secure code possible, as not it is used to release DevSlop.com (our website), it is a proof of concept pipeline for anyone to use, anywhere, for free.  Come help us improve the security of this proof of concept but hacking it and helping us add more checks!
+The OWASP DevSlop VSTS pipeline, affectionately known as "Patty", needs to produce the absolute most secure code possible, as it is used to release DevSlop.co (our website), it is a proof of concept pipeline.  Come help us improve the security of this proof of concept but hacking it and helping us add more checks!
 
 ## WHY
 
-Adding more security to this pipeline means that companies everywhere that use VSTS can adopt this proof of concept internally, adjust it for their specific needs, and starting making more secure apps, very quickly.
+Adding more security to this pipeline means that companies everywhere that use VSTS can adopt this proof of concept internally, adjust it for their specific needs, and starting making more secure apps, very quickly.  It will be exported in JSON format, which can be imported into VSTS.
 
 ## What
 
