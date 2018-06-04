@@ -12,6 +12,7 @@ website         :
 email           : fabien.thalgott@toreon.com
 eventbrite_id   :
 status          : done
-sessions        : -Owasp Cloud Security Workshop (BETA)
+sessions        : 
+  - Owasp Cloud Security Workshop (BETA)
 notes           :
 ---
