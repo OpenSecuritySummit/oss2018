@@ -17,6 +17,7 @@ pre-summit      :
 status          : add details
 sessions:
   - OWASP DevSecOps Studio
+  - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
   - Owasp Cloud Security Workshop (BETA)
   - A seat at the table
   - Using a Rules Engine and Risk Patterns with IriusRisk
