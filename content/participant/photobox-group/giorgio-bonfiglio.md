@@ -2,26 +2,29 @@
 title           : Giorgio Bonfiglio
 type            : participant
 sponsored_by    : PhotoBox
-job_title       :
-company         :
-travel_from     :
-image           : https://media.licdn.com/dms/image/C5603AQE_Bx_ZGXJunw/profile-displayphoto-shrink_800_800/0?e=1532563200&v=beta&t=8PJyrd6EQQAW7_ue68qms8NWy4jKXqjhd5CqOWFcytA
+job_title       : TAM
+company         : AWS
+travel_from     : London
+image           : https://pbs.twimg.com/profile_images/861708347162099712/iklH3Rqh_400x400.jpg
 linkedin        : giorgiobonfiglio
-twitter         :
+twitter         : g_bonfiglio
 facebook        :
-website         :
-email           :
-venue           : Tue
-night_day       :
+website         : https://grg.pw/
+email           : bonfigg@amazon.com
+venue           : Tue, Wed
+night_day       : Mon, Tue
 eventbrite_id   :
 pre-summit      :
-status          : add details
+status          : 
 sessions        :
     - AWS GuardDuty
     - AWS Lambda Security
     - AWS Macie
     - Create AWS Security Questions
+    - Hands on Chaos Experiments
     - Using AWS Neptune GraphDB
+    - PBX-GS Offsite session 1
+    - PBX-GS Offsite session 2
     - Securing AWS S3 Buckets
     - Replacing Akamai with AWS Shield
 
