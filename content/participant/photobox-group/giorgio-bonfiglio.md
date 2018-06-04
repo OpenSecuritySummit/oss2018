@@ -18,18 +18,11 @@ pre-summit      :
 status          : done
 sessions        :
     - AWS Macie and Guard Duty
-    - AWS Lambda Security
-    - Create AWS Security Questions
     - Hands on Chaos Experiments
-    - Using AWS Neptune GraphDB
     - PBX-GS Offsite session 2
     - PBX-GS Offsite session 3
-    - Securing AWS S3 Buckets
-    - Replacing Akamai with AWS Shield
     - Akamai WAF & Ruleset
     - Real world Chaos Engineering
-    - Docker and Kubernetes Threat Modeling Cheat Sheet
-    - Securing AWS S3 Buckets
     - Create a Slack bot in Python
 
 ---

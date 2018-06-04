@@ -5,9 +5,9 @@ topics       : ["AWS"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : DS-3
+when_time    :
 room_layout  :                    #
-room_id      : table-3
+room_id      :
 session_slack: https://os-summit.slack.com/messages/CAVE947BL
 status       : draft              # draft, review-content, done
 description  :
