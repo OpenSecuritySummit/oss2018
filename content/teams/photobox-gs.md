@@ -62,7 +62,6 @@ members:
     - Dinis Cruz
     - Sotiraki Sima
     - Chris Allen
-    - Giorgio Bonfiglio
 
     - GS Summit
     - Charlotte Bullock
