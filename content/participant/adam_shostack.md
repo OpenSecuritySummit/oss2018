@@ -19,22 +19,22 @@ eventbrite_id   :
 featured         : yes
 status          : add-details
 sessions:
-A seat at the table
-Threat model track opening session
-Threat Modeling Website Structure
-Update Treat Modeling website 1
-Using a Rules Engine and Risk Patterns with IriusRisk
-Update Treat Modeling website 2
-Threat model cheat sheets
-API Threat Modeling Cheat Sheet
-Attack chains as TM technique
-Back to the future with Threat Modeling
-Update Treat Modeling website 3
-Update Treat Modeling website 4
-How to Threat Model Features with Questionnaires
-How to scale Threat Modeling
-Federated Login with Social Platforms Threat Modeling Cheat Sheet
-Threat Model training through Gamification
+ - A seat at the table
+ - Threat model track opening session
+ - Threat Modeling Website Structure
+ - Update Treat Modeling website 1
+ - Using a Rules Engine and Risk Patterns with IriusRisk
+ - Update Treat Modeling website 2
+ - Threat model cheat sheets
+ - API Threat Modeling Cheat Sheet
+ - Attack chains as TM technique
+ - Back to the future with Threat Modeling
+ - Update Treat Modeling website 3
+ - Update Treat Modeling website 4
+ - How to Threat Model Features with Questionnaires
+ - How to scale Threat Modeling
+ - Federated Login with Social Platforms Threat Modeling Cheat Sheet
+ - Threat Model training through Gamification
 
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
