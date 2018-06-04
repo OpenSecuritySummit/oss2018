@@ -29,7 +29,6 @@ sessions        :
   - Hands-on GDPR Patterns
   - Using Threat Models for GDPR
   - Security Playbooks
-  - Hands on Chaos Experiments
   - Owasp Cloud Security Workshop (BETA)
   - OWASP Defect Dojo
   - Using The Hive for Incident Response
