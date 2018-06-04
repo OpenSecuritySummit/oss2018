@@ -5,7 +5,7 @@ track        : Misc
 topics       :
 when_day     : Wed
 when_time    : DS-3
-room_id      : table-3
+room_id      : table-4
 description  : Meet companies that are hiring at the Summit
 status       : review-content             # draft, review-content, done
 organizers   :

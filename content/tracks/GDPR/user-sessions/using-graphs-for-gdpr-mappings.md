@@ -4,7 +4,7 @@ type         : user-session
 track        : GDPR
 topics       : ["GDPR"]
 featured     :                   # review with summit team "yes"
-when_day     : Mon
+when_day     : Wed
 when_time    : PM-3
 room_layout  :
 room_id      : room-3

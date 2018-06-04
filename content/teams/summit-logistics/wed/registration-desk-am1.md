@@ -1,6 +1,6 @@
 ---
 title        : Registration Desk (Wed)
-type         : private-session
+type         : summit-session
 when_day     : Wed
 when_time    : AM-1
 room_id      :
