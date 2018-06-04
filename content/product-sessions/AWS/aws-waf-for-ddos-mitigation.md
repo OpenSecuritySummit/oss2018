@@ -22,6 +22,8 @@ participants :
 
 Hands-on session based on the [Advanced Techniques for DDoS Mitigation and Web Application Defense](http://london-summit-slides-2017.s3.amazonaws.com/Advanced%20Techniques%20for%20DDoS%20Mitigation%20and%20Web%20Application%20Defense.pdf) presentation
 
+Quickstart [here](https://aws.amazon.com/answers/security/aws-waf-security-automations/)
+
 <!-- (add more details about DevSecOps Maturity Model here)
 
 ## WHY

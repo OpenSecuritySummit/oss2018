@@ -16,7 +16,7 @@ participants :
     - Andrew Johnstone
     - Simon Pavillon
     - Vladimir Voskresenskiy
-
+    - Giorgio Bonfiglio
 ---
 
 Session on how to use [AWS Neptune](https://aws.amazon.com/neptune/) Graph Database
