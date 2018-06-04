@@ -17,6 +17,7 @@ participants :
     - Francois Raynaud
     - Timo Pagel
     - Jim Newman
+    - Orid Ahmed
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 
