@@ -12,7 +12,7 @@ room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVD0EMUJ
 status       : review-content             # draft, review-content, done
 organizers   :
-    - Steven Wierckx
+    - Stephen de Vries
 participants :
     - Stephen de Vries, Paul Santapau
     - Adam Shostack
