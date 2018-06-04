@@ -23,7 +23,7 @@ description  :
 - This was an introductory session to allow participants to decide what will be covered in the Summit's TM sessions.
 - Every session should be reflected on the OWASP TM Project website 
 - They will feed into Fraser Scott's sessions on Cloud Security
-- Steven explained the colegial and community-driven nature of the TM project: 
+- Steven explained the colegial and community-driven nature of the TM project which is reflected on the OWASP TM website: 
    - Discussions will take place on the Project Slack channel
    - A Google doc will allow comments, updates
    - When Steven believes consensus has been reached on a topic, he will include the consensus view on the website, for further debate and discussion as appropriate.
@@ -34,7 +34,7 @@ description  :
    - What can go wrong?
    - What are we going to do about that?
    - Did we do a good enough job? 
-The TM Project will create a searchable database of techniques, methods, tools, and examples of all these questions.
+-  The TM Project will create a searchable database of techniques, methods, tools, and examples of all these questions.
 -  What are the paramaters of a threat that should be captured in the proposed common set of reusable data? Initial discussions suggested the following as mandatory:
    - ID
    - Name and short description
