@@ -15,7 +15,9 @@ chapter_leader  :
 eventbrite_id   :
 pre-summit      :
 status          :
-sessions: Update MSTG with changes in Android 8 (Oreo)
+sessions: 
+  - Update MSTG with changes in Android 8 (Oreo)
+  - Update MSTG with changes in iOS 11
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
