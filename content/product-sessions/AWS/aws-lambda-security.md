@@ -23,6 +23,7 @@ participants :
     - Jaimen Lathia
     - Chris Allen
     - Giorgio Bonfiglio
+    - Stephen de Vries
 ---
 
 ## Why
