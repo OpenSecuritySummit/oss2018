@@ -14,7 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAVU146H5
 status       : done              # draft,  review-content, done
 organizers   : ["Sven Schleier", "Davide Cioccia"]
 participants :
-  - Carlos Pérez Holguera
+  - Carlos Holguera
 description  :
   - Mobile Security Working Session
 ---
