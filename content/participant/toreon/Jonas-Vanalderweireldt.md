@@ -13,5 +13,6 @@ email           : Jonas.Vanalderweireldt@toreon.com
 eventbrite_id   :
 status          : done
 sessions        : 
+  - Owasp Cloud Security Workshop (BETA)
 notes           :
 ---
