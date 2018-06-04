@@ -14,5 +14,9 @@ eventbrite_id   :
 status          : done
 sessions        : 
   - Owasp Cloud Security Workshop (BETA)
+  - Using a Rules Engine and Risk Patterns with IriusRisk
+  - Threat model cheat sheets
+  - API Threat Modeling Cheat Sheet
+  
 notes           :
 ---
