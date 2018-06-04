@@ -4,7 +4,12 @@
     {{ range $key ,$value := .where}}
     <th>
         <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
-        <div class="schedule-by-track-cell-room-id">{{$key}}</div>
+        <div class="schedule-by-track-cell-room-id">{{ if hasPrefix $key "villa" }} {{ (index $.self.Site.Data.schedule.villas $key).location }}
+        {{ else }}
+            {{ $key }}
+        {{ end }}
+
+        {{ .self.Scratch.Get "name"}}    </div>
     </th>
     {{ end }}
     </thead>
