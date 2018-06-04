@@ -30,6 +30,7 @@ sessions        :
     - Real world Chaos Engineering
     - Docker and Kubernetes Threat Modeling Cheat Sheet
     - Securing AWS S3 Buckets
+    - Create a Slack bot in Python
 
 ---
 
