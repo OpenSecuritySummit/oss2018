@@ -5,7 +5,7 @@ job_title       : Software Engineer
 company         : Yelp
 travel_from     : London
 image           : https://avatars.githubusercontent.com/transcedentalia
-linkedin        : https://www.linkedin.com/in/alina-radu-13baa728/
+linkedin        : alina-radu-13baa728
 twitter         : transcedentalia
 facebook        :
 website         :

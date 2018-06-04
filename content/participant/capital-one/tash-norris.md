@@ -5,7 +5,7 @@ job_title       : Cyber Threat Modeling Engineer
 company         : Capital One
 travel_from     : Nottingham, UK
 image           : https://media.licdn.com/dms/image/C5603AQFuOt74wYiizA/profile-displayphoto-shrink_200_200/0?e=1532563200&v=beta&t=ZkjP_z-J-sZ6YPImKXIOiz6Gv0WpYkFmtdiHPxUipC0
-linkedin        : tash-norris-4019892b/
+linkedin        : tash-norris-4019892b
 twitter         : TashJNorris
 facebook        :
 website         :

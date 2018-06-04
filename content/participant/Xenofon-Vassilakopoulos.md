@@ -5,7 +5,7 @@ job_title       : Information Security Consultant
 company         : Twelvesec
 travel_from     : Greece
 image           : 
-linkedin        : https://gr.linkedin.com/in/xvass
+linkedin        : xvass
 twitter         : Twelvesec
 facebook        :
 website         : https://www.twelvesec.com/
