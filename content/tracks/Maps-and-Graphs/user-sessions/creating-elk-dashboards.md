@@ -19,7 +19,6 @@ organizers   :
 participants :
     - Andrew Johnstone
     - John Killilea
-    - Simon Pavillon
     - Vladimir Voskresenskiy
 ---
 

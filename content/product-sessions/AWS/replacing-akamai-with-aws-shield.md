@@ -18,7 +18,7 @@ participants :
     - Andrew Johnstone
     - Vladimir Voskresenskiy
     - Jaimen Lathia
-
+    - Giorgio Bonfiglio
 
 
 ---

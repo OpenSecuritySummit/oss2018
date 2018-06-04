@@ -14,6 +14,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Adam Shostack
 description  : Back to the future with Threat Modeling
 locked       : true
 ---

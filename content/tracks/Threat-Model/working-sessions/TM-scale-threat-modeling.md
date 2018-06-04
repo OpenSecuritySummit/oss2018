@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
     - Manish Saindane
+    - Adam Shostack
 description  : How to scale Threat Modeling
 locked       : true
 ---

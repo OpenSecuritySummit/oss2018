@@ -14,7 +14,6 @@ featured        : yes
 project_leader  :
 chapter_leader  :
 eventbrite_id   :
-pre-summit      :
 status          : add details
 sessions:
 notes :

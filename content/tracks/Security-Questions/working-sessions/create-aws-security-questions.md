@@ -13,6 +13,7 @@ status       : ok
 organizers   :
 description  :
 participants :
+    - Giorgio Bonfiglio
 organizers   :
     - John Fitzgerald
     - Rachel Power
