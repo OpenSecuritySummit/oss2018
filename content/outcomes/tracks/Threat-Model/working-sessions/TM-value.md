@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 Measurement Model
+title        : How do you define and measure the value of Threat Modeling?
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
