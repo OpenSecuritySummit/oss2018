@@ -14,6 +14,7 @@ description  : Working Sessions for Security Crowdsourcing
 organizers   :
     - Stu Hirst
 participants :
+    - Naushad Saboor
 ---
 
 Security crowdsourcing is necessary - it is allowing highly talented individuals and resourceful organisations to use the power of their intelligence, skills and resources to fight cyber threats.
