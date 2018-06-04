@@ -19,6 +19,7 @@ participants :
     - Vladimir Voskresenskiy
     - Jaimen Lathia
     - Giorgio Bonfiglio
+    - Naushad Saboor
 
 
 ---
