@@ -23,6 +23,7 @@ participants :
     - Tony Richards
     - Vladimir Voskresenskiy
     - Wayne Moore
+    - Naushad Saboor
 ---
 
 Based on the ideas shown in the picture below
