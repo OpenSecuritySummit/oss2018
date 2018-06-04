@@ -5,7 +5,7 @@ track        : DevSecOps
 topics       : ["Agile"]
 featured     : yes                  # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-2
+when_time    : PM-3
 room_layout  :                    #
 room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAVA3LWPM

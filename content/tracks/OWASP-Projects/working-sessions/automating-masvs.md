@@ -15,8 +15,7 @@ status       : done              # draft,  review-content, done
 organizers   : ["Sven Schleier", "Davide Cioccia"]
 participants :
   - Carlos Holguera
-description  :
-  - Mobile Security Working Session
+description  : Mobile Security Working Session
 ---
 
 The version 1.0  fixed hyphen release of the  Mobile Application Security Verification Standard (MASVS) was [published earlier this year](https://github.com/OWASP/owasp-masvs/releases). The project is getting positive feedback from all over the world and is becoming an accepted industry best practice for mobile apps. The MASVS establishes baseline security requirements for mobile apps that are useful in many scenarios, including:
