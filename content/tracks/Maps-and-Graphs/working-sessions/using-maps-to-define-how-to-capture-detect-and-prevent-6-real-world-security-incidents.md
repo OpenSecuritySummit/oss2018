@@ -6,7 +6,7 @@ topics       : ["Wardley Maps"]
 featured     : yes
 when_day     : Tue
 when_time    : AM-1
-room_id      : room-2
+room_id      : room-3
 locked       : true
 session_slack:
 status       : done
@@ -23,6 +23,7 @@ participants :
     - Tony Richards
     - Vladimir Voskresenskiy
     - Wayne Moore
+    - Naushad Saboor
 ---
 
 Based on the ideas shown in the picture below

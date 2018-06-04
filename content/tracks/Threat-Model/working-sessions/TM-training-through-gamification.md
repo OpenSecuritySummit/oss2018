@@ -8,13 +8,14 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : PM-3
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVALJMB5
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
 description  : Threat Model training through Gamification
+locked       : true
 ---
 
 ## Why

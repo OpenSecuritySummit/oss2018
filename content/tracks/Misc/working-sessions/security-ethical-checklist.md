@@ -6,7 +6,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : AM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-4
 session_slack: https://os-summit.slack.com/messages/CAWABURUN
 status       : done              # draft, review-content, done
 description  :
@@ -15,6 +15,7 @@ organizers   :
 participants:
         - John Fitzgerald
         - Rachel Power
+        - Naushad Saboor
 ---
 
 Security is an ethical issue. What should every single developer be asking themselves to check their code or system is safe to use before they deploy it? The aim of this session is to suggest a simple set of questions that could alert an engineer with limited security knowledge to obvious flaws in their product that could hurt unsuspecting users.

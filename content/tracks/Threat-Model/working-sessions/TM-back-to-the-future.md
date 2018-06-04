@@ -8,13 +8,15 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
-room_id      :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAVU2J0AK
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Adam Shostack
 description  : Back to the future with Threat Modeling
+locked       : true
 ---
 
 ## Why

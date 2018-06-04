@@ -6,9 +6,9 @@ topics       : ["Owasp Juice Shop"]
 description  : Hands-on coding session series to implement new challenges and other features in OWASP Juice Shop and its CTF-extension project.
 featured     :                    # review with summit team "yes"
 when_day     : Thu                  # NOTE: should be on the brainstorming day, brainstorming should be the first session.
-when_time    : AM-1, PM-1, PM-2, PM-3
+when_time    : AM-1,PM-1,PM-2,PM-3
 room_layout  : circle                   #
-room_id      :
+room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAW9X85PY
 status       :  draft    # draft, review-content, done
 organizers   :
@@ -95,8 +95,8 @@ All that in your own speed and schedule!
 |:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![Build Status](https://travis-ci.org/bkimminich/juice-shop.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop)                                               | [![Build Status](https://travis-ci.org/bkimminich/juice-shop-ctf.svg?branch=develop)](https://travis-ci.org/bkimminich/juice-shop-ctf)                                          |
 | [![Build status](https://ci.appveyor.com/api/projects/status/903c6mnns4t7p6fa/branch/develop?svg=true)](https://ci.appveyor.com/project/bkimminich/juice-shop/branch/master) | [![Coverage Status](https://coveralls.io/repos/github/bkimminich/juice-shop-ctf/badge.svg?branch=master)](https://coveralls.io/github/bkimminich/juice-shop-ctf?branch=develop) |
-| [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)                                       | [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf)                                  |
-| [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop)                 | [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop-ctf)            |
+| [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)                                       |                                   |
+| [![In Progress Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=in%20progress&title=In%20Progress)](https://waffle.io/bkimminich/juice-shop)                 |             |
 | [![Heroku](https://heroku-badge.herokuapp.com/?app=juice-shop-staging)](https://juice-shop-staging.herokuapp.com)                                                            |                                                                                                                                                                                 |
 
 ### Content

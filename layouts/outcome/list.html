@@ -1,0 +1,20 @@
+{{ define "content" }}
+
+<section class="mid_wrap" >
+
+    <div class="featured-ws">
+        <div class="container">
+
+            {{ .Content }}
+
+            <ul>
+            {{ range .Pages  }}
+                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+            {{ end }}
+            </ul>
+
+        </div>
+    </div>
+
+</section>
+{{ end}}

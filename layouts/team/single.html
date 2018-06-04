@@ -21,23 +21,28 @@
 
 {{ define "content" }}
 
+  <style>
+    @media print {
+      .schedule-cell b {
+        font-size: 30px;  !important;
+      }
+    }
+  </style>
   <div class="participant">
       <div class="participant-main-section">
         <div class="container">
-
-        {{ partial "teams/image.html"                 . }}
-
-        <p>
-          {{ .Content }}
-        </p>
+          <div class="hidden-print">
+            <p>
+              {{ partial "teams/image.html"                 . }}
+            </p>
+            {{ .Content }}
+          </div>
+        </div>
 
         {{ partial "teams/members.html"               . }}
         {{ partial "participant/contact-details.html" . }}
         {{ partial "teams/schedule.html"              . }}
 
-
-
-        </div>
       </div>
   </div>
 {{ end }}

@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : Student
 company         :
 travel_from     :
-image           :
+image           : https://pbs.twimg.com/profile_images/981191016123219969/DAnmSAsW_400x400.jpg
 linkedin        :
 twitter         : https://twitter.com/adarshd905
 facebook        : https://facebook.com/adarsh.devamritham

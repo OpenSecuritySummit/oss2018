@@ -7,13 +7,14 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
-room_id      :
+room_id      : villa-2
 session_slack: https://os-summit.slack.com/messages/CAUSX6GGH
 status       : draft              # draft, review-content, done
 description  : Working Sessions for Security Crowdsourcing
 organizers   :
     - Stu Hirst
 participants :
+    - Naushad Saboor
 ---
 
 Security crowdsourcing is necessary - it is allowing highly talented individuals and resourceful organisations to use the power of their intelligence, skills and resources to fight cyber threats.

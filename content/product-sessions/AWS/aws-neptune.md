@@ -5,9 +5,9 @@ topics       : ["AWS"]
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-3
+when_time    : DS-3
 room_layout  :                    #
-room_id      :
+room_id      : table-3
 session_slack: https://os-summit.slack.com/messages/CAVE947BL
 status       : draft              # draft, review-content, done
 description  :
@@ -16,7 +16,7 @@ participants :
     - Andrew Johnstone
     - Simon Pavillon
     - Vladimir Voskresenskiy
-
+    - Giorgio Bonfiglio
 ---
 
 Session on how to use [AWS Neptune](https://aws.amazon.com/neptune/) Graph Database

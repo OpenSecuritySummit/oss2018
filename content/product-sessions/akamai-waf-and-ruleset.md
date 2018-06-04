@@ -7,7 +7,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
-room_id      :
+room_id      : room-6
 session_slack:
 status       : add-content              # draft, review-content, done
 description  :
@@ -17,6 +17,7 @@ participants :
     - Andrew Johnstone
     - James Martin
     - Francois Raynaud
+    - Orid Ahmed
 
 
 

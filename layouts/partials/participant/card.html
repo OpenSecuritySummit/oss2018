@@ -2,9 +2,9 @@
   <a href="{{ .Permalink }}">
     <i>
       {{ if .Params.image }}
-      <img src="{{ .Params.image }}"  alt="{{ .Title }}" />
+        <img src="{{ .Params.image }}"  alt="{{ .Title }}" />
       {{ else }}
-      <img src="/img/blocks/avatar.jpg" alt="Placeholder avatar" />
+        <img src="/img/blocks/avatar.jpg" alt="Placeholder avatar" />
       {{ end }}
     </i>
     <h4>{{ .Title }}</h4>

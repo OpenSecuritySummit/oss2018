@@ -4,10 +4,10 @@ type         : user-session
 track        : GDPR
 topics       : ["GDPR"]
 featured     :                   # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-2
+when_day     : Wed
+when_time    : PM-3
 room_layout  :
-room_id      :
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAWFGK7K9
 status       : review-content                   # draft, review-content, done
 description  : Hands on sessions of mapping GDPR data to graphs
@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Mario Platt
     - Goher Mohammad
+    - Jim Newman
 ---
 
 Create graphs as shows in the https://github.com/pbx-gs/gdpr-patterns project

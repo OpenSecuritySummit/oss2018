@@ -4,8 +4,8 @@ type         : working-session
 track        : CISO
 topics       : ["CISO"]
 featured     : yes
-when_day     : Tue
-when_time    : PM-1
+when_day     :
+when_time    :
 room_layout  :
 room_id      :
 session_slack: https://os-summit.slack.com/messages/CAV6XTSQL

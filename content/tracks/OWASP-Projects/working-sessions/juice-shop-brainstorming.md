@@ -9,7 +9,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-3
 room_layout  : circle                   #
-room_id      :
+room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAW9WPA9L
 status       :  review-content     # draft, review-content, done
 organizers   : ["Timo Pagel", "Jannik Hollenbach"]
@@ -57,10 +57,7 @@ This working session will gather, discuss and design the following:
 - GitHub issues for new functional enhancements to place challenges in
 - Communication with the GSoC Juice-Shop students
 
-| Juice Shop                                                                                                                             | CTF-Extension                                                                                                                                  |
-|:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) | [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
-
+[![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)
 
 ### Synopsis and Takeaways
 

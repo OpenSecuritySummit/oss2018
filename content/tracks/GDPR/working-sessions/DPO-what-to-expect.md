@@ -7,9 +7,9 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-2
+when_time    : DS-3
 room_layout  :                    #
-room_id      :
+room_id      : table-1
 session_slack: https://os-summit.slack.com/messages/CAUMT90NL
 status       : review-content              # draft, review-content, done
 description  : What should be expected of DPOs (Data Protection Officers)

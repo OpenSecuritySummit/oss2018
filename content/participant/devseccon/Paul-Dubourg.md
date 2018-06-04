@@ -21,13 +21,14 @@ sessions        :
   - AWS Lambda Security
   - Agile Practices for Security Teams
   - CISO
+  - Creating ELK Dashboards
+  - Using AI and ML for incident response
   - Creation of Security Buttons
   - Getting more women in Cyber-security
   - A seat at the table
   - Hands-on GDPR Patterns
   - Using Threat Models for GDPR
   - Security Playbooks
-  - Hands on Chaos Experiments
   - Owasp Cloud Security Workshop (BETA)
   - OWASP Defect Dojo
   - Using The Hive for Incident Response

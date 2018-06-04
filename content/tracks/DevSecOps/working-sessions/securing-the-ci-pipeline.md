@@ -6,10 +6,10 @@ topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Wed
-when_time    : AM-1, PM-1
+when_day     : Thu
+when_time    : PM-2,PM-3
 room_layout  :                    #
-room_id      :
+room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUNFBMAL
 status       : review-content              # draft, review-content, done
 organizers   :
@@ -17,6 +17,7 @@ organizers   :
     - Francois Raynaud
 description  : Secure the CI/CD pipeline
 participants :
+    - Arne Zismer
 ---
 
 ## Why

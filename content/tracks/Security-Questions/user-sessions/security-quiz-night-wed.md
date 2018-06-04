@@ -5,8 +5,7 @@ track        : Security Questions
 technology   :
 when_day     : Wed
 when_time    : Eve-1
-room_layout  :
-room_id      :
+room_id      : villa-4
 session_slack: https://os-summit.slack.com/messages/CAVB2BH51
 status       : ok
 organizers   :

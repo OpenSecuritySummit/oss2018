@@ -12,7 +12,7 @@ featured     :
 when_day     : Wed
 when_time    : Eve-1
 room_layout  :
-room_id      :
+room_id      : villa-5
 session_slack:
 status       : add-content              # draft, review-content, done
 description  : Share knowledge on tunning DarkTrace
