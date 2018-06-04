@@ -15,6 +15,7 @@ status       : review-content              # draft, review-content, done
 organizers   :
     - Imran Mohammed A
     - Francois Raynaud
+    - Arne Zismer
 description  : Secure the CI/CD pipeline
 participants :
 ---
