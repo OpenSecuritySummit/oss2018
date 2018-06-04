@@ -14,6 +14,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
 participants :
+    - Adam Shostack
 description  : Federated Login with Social Platforms Threat Modeling Cheat Sheet
 locked       : true
 ---
