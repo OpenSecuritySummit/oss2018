@@ -29,6 +29,9 @@ sessions        :
   - Zap - How to use it
   - Juice Shop Coding Day
   - Cyber Risk Modeling
+  - OWASP Defect Dojo
+  - Using maps to define how to capture, detect and prevent 6 real-world security incidents
+  - Threat model cheat sheets
 ---
 
 <!-- put more details about participant here -->
