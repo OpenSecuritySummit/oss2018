@@ -1,5 +1,5 @@
 ---
-title        : MSc Appication Security
+title        : MSc Application Security
 type         : working-session
 track        : Misc
 topics       : ["Education"]
