@@ -1,5 +1,5 @@
 ---
-title        : AppSec SOC Monitoring Visualisation
+title        : SOC Monitoring Visualisation
 type         : working-session
 track        : DevSecOps
 topics       : ["Visualisation"]

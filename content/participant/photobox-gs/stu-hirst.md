@@ -19,10 +19,8 @@ pre-summit      :
 status          : add details
 sessions:
   - Agile Practices for Security Teams
-  - DevSecOps Maturity Model (DSOMM)
   - Lessons learned from public bug bounties programmes
   - JIRA Risk Workflow
-  - Real world Chaos Engineering
   - Security Champions
   - Security Playbooks
   - CISO roundtable

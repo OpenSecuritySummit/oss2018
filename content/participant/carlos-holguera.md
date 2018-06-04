@@ -1,5 +1,5 @@
 ---
-title           : Perez Holguera Carlos
+title           : Carlos Holguera
 type            : participant
 sponsored_by    :
 job_title       : Security Engineer

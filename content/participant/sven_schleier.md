@@ -10,6 +10,16 @@ twitter         : bsd_daemon
 night_where     : 
 eventbrite_id   :
 sessions        :
+    - Automation of MASVS with BDD
+    - Update MSTG with changes in Android 8 (Oreo)
+    - Update MSTG with changes in iOS 11
+    - Cell based Structures for Security
+    - Describe different ways of implementing TM in agile organisations
+    - DevSecOps Maturity Model (DSOMM) 
+    - Integrating Security Tools in the SDL 
+    - OWASP DevSecOps Studio
+    - OWASP Defect Dojo
+    - Securing the CI Pipeline
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
