@@ -25,11 +25,8 @@ sessions:
     - Owasp Cloud Security Workshop (BETA)
     - Adding CRS3 and Pixi to CircleCI pipeline
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
-    - Publishing apps in a VSTS security pipeline
     - A long successful career in IT (women in tech)
-    - Adding security to VSTS pipeline
     - Azure Security Features
-    
 ---
 
 Tanya Janca is a senior cloud advocate for Microsoft, specializing in application security; evangelizing software security and advocating for developers through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs and community events.  As an ethical hacker, OWASP Project and Chapter Leader, software developer, effective altruist and professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science.  
