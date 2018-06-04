@@ -3,7 +3,7 @@ title           : Giorgio Bonfiglio
 type            : participant
 sponsored_by    : PhotoBox
 job_title       : TAM
-company         : AWS
+company         : Amazon Web Services
 travel_from     : London
 image           : https://grg.pw/giorgio-propic16_800x800.jpg
 linkedin        : giorgiobonfiglio
