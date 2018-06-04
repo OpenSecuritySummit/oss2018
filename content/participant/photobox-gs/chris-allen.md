@@ -24,10 +24,11 @@ sessions:
  - Securing AWS S3 Buckets
  - API Threat Modeling Cheat Sheet
  - Hands on Chaos Experiments
+ - akamai-waf-and-ruleset
 notes :
 
 ---
-Chris Allen is an architect, innovator and engineer. With over twenty years experience in the electronics, software and e-commerce industries he is recognised for a series of technical innovations in web site scalability, performance, database sharding and cloud computing.
+Chris Allen is an architect, innovator and engineer with over twenty years experience in the electronics, software, e-commerce and cloud computing industries.
 
 As a co-founder of PhotoBox, he has been directly responsible for many of their most successful technical projects, including:
 
@@ -39,5 +40,5 @@ As a co-founder of PhotoBox, he has been directly responsible for many of their 
 
 * Design of their innovative solution for massive scalability into the cloud - a system that allowed the power of the computing cloud to be exploited while allowing legacy systems to continue running unhindered.
 
-Prior to PhotoBox, Chris designed software and hardware solutions for pharmaceutical and other industries and was also responsible for the CopyStation disk duplicator - a high-end mass duplication system with sales in over 20 countries.
+Prior to PhotoBox, Chris designed software and hardware solutions for pharmaceutical and other industries and was also responsible for the CopyStation disk duplicator - a high-end mass duplication system with sales in over 20 countries. 
 
