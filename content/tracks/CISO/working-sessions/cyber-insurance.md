@@ -11,7 +11,9 @@ room_id      : room-2
 session_slack: https://os-summit.slack.com/messages/CAV65AXGU
 status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
-organizers   : ["Yvette Connor"]
+organizers   :
+ - Yvette Connor
+ - Judy Selby
 description  : Session on Cyber Insurance
 ---
 
@@ -80,7 +82,7 @@ The Law of Large Numbers Underwriting
     - Simple application
     - Broad coverage rating based on domicile, industry, revenue and number of employees
     - Streamlined claims process & payment (focused on cyber time vs. natural time)
-    
+
 ### Cyber Insurance Trends Worth Watching
 Insurance companies realized that the handling of a cyber event can have a significant impact on the total amount of the claim.  Therefore, many companies are working to develop Cyber Incident Response services that come bundled with the policies.  This way, once an incident takes place, insurance companies can help to minimize the payouts by making sure events are handled appropriately and with all the necessary due process.
 
