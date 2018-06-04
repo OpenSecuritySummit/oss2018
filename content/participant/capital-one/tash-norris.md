@@ -22,6 +22,7 @@ sessions        :
     - Back to the future with Threat Modeling
     - Threat model cheat sheets
     - How to Threat Model Features with Questionnaires
+    - Using Threat Models for GDPR
     - Federated Login with Social Platforms Threat Modeling Cheat Sheet
     - IoT Threat Modeling Cheat Sheet
     - How to scale Threat Modeling.
