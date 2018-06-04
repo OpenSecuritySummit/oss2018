@@ -8,7 +8,7 @@ when_day     : Tue
 when_time    : DS-3
 room_layout  :                    #
 room_id      : table-1
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAZFE6A5N
 status       : add-content              # draft, review-content, done
 description  :
 organizers   :
