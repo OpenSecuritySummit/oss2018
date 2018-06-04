@@ -19,20 +19,24 @@
 {{ end }}
 
 <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#rooms" aria-controls="conference-rooms" role="tab" data-toggle="tab">Conference Rooms</a></li>
-    <li role="presentation"><a href="#main-conference-hall" aria-controls="main-conference-hall" role="tab" data-toggle="tab">Main Conference Hall</a></li>
-    <li role="presentation"><a href="#villas" aria-controls="villas" role="tab" data-toggle="tab">Villas</a></li>
+    <li role="presentation" class="active">
+        <a href="#conference-rooms"     aria-controls="conference-rooms"     role="tab" data-toggle="tab">Conference Rooms</a></li>
+    <li role="presentation">
+        <a href="#main-conference-hall" aria-controls="main-conference-hall" role="tab" data-toggle="tab">Main Conference Hall</a></li>
+    <li role="presentation">
+        <a href="#villas"               aria-controls="villas" role="tab" data-toggle="tab">Villas</a></li>
 </ul>
 
 <div class="tab-content">
-  <div role="tabpanel" class="tab-pane active" id="conference-rooms">
-{{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Conference Rooms" "where" .self.Site.Data.schedule.rooms "times" (slice "AM-1" "PM-1" "PM-2" "PM-3") )}}
-</div>
+    <div role="tabpanel" class="tab-pane active" id="conference-rooms">
+        {{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Conference Rooms" "where" .self.Site.Data.schedule.rooms "times" (slice "AM-1" "PM-1" "PM-2" "PM-3") )}}
+    </div>
 
-<div role="tabpanel" class="tab-pane" id="main-conference-hall">
-{{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Main conference Hall" "where" .self.Site.Data.schedule.main_hall "times" (slice "KN-1" "KN-2" "DS-1" "DS-2" "DS-3" ) )}}
-</div>
+    <div role="tabpanel" class="tab-pane"        id="main-conference-hall">
+        {{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Main conference Hall" "where" .self.Site.Data.schedule.main_hall "times" (slice "KN-1" "KN-2" "DS-1" "DS-2" "DS-3" ) )}}
+    </div>
 
-<div role="tabpanel" class="tab-pane" id="villas">
-{{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Villas" "where" .self.Site.Data.schedule.villas "times" (slice "AM-1" "PM-1" "PM-2" "PM-3" "Eve-1" "Eve-2") )}}
+    <div role="tabpanel" class="tab-pane"        id="villas">
+        {{ partial "schedule/by-room/location-tabs.html" (dict "self" .self "location" "Villas" "where" .self.Site.Data.schedule.villas "times" (slice "AM-1" "PM-1" "PM-2" "PM-3" "Eve-1" "Eve-2") )}}
+    </div>
 </div>

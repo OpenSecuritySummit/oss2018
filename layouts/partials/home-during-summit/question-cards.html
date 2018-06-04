@@ -1,14 +1,17 @@
 <section class="bar background-white no-mb">
+
     <div class="container text-center">
         <div class="heading custom-border text-center">
-            <h2 class="no-margin">This week at the summit</h2>
+            <h1 class="no-margin">Welcome to the Open Security Summit (4th June 2018)</h1>
         </div>
 
         {{ range .Site.Data.home.during_summit.cards }}
         <div class="col-lg-3 col-md-3 col-sm-12">
           <div class="oss-card-small">
             <div class="oss-card-small-title">
-              <h3>{{ .title | upper }}</h3>
+              <a href="{{ .more_info }}">
+                <h3>{{ .title | upper }}</h3>
+              </a>
             </div>
             <div class="oss-card-small-body">
               <div class="">
