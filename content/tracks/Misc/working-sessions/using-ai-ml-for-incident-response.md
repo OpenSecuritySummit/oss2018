@@ -5,7 +5,7 @@ track        : Misc
 topics       : ["AI & ML"]
 when_day     : Fri
 when_time    : PM-1
-technology   :
+room_id      : room-3
 session_slack: https://os-summit.slack.com/messages/CAWPHNHPA
 categories   :
 description  : How to use AI and ML for incident response
