@@ -34,5 +34,6 @@ sessions        :
     - Create generic TM for CMS
     - Using User Story Mapping for effective communication
     - Share your Threat Models diagrams and create a Book
+    - Owasp Cloud Security Workshop (BETA)
     
 ---
