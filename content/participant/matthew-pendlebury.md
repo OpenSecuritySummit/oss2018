@@ -1,17 +1,19 @@
 ---
-title           : Matthew Pendlebury
+title           : Matt Pendlebury
 type            : participant
-job_title       :
-image           :
-linkedin        :
-twitter         :
+job_title       : Security Consultant
+company         : MWR InfoSecurity
+travel_from     : Cambridgeshire
+image           : /participant/images/matthew-pendlebury.jpg
+linkedin        : 
+twitter         : 
 facebook        :
-website         :
-email           :
+website         : www.mwrinfosecurity.com
+email           : matthew.pendlebury@mwrinfosecurity.com
+featured        : yes
 project_leader  :
 chapter_leader  :
 eventbrite_id   :
-pre_summit      :
 status          : add details
 sessions:
 notes :
