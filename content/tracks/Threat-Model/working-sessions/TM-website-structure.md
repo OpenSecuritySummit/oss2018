@@ -16,7 +16,7 @@ organizers   :
 participants :
     - Ruben Tronçon
     - Adam Shostack
-    -Orid Ahmed
+    - Orid Ahmed
 locked       : true
 ---
 ## WHY
