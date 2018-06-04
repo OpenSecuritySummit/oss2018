@@ -14,6 +14,8 @@ organizers   : Steven Wierckx
 description  : Threat model guide with levels
 track        : Threat Model
 locked       : true
+participants:
+   - Adam Shostack
 ---
 
 ## WHY
