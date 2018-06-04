@@ -3,7 +3,7 @@ title        : PBX-GS Offsite session 5
 type         : private-session
 when_day     : Fri
 when_time    : PM-2
-room_id      : villa-3
+room_id      : villa-5
 locked       : true
 session_slack: 
 status       : done

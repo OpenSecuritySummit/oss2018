@@ -1,6 +1,14 @@
-<h3>Sessions with no room booked for {{ .day}}</h3>
-<ul>
-    {{ range .self.Scratch.Get "no room" }}
-        <li><a href="{{.Permalink }}">{{.Params.title}}</a></li>
-    {{ end }}
-</ul>
+<div class="hidden-print">
+    <h3>Sessions with no room booked for {{ .day}}</h3>
+    <ul>
+        {{ range .self.Scratch.Get "no room" }}
+            {{ if ne .Params.type "summit-session"}}
+                {{ if ne .Params.type "participant"}}
+                    {{ if ne .Params.type "track"}}
+                        <li><a href="{{.Permalink }}">{{.Params.title}}</a></li>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        {{ end }}
+    </ul>
+</div>

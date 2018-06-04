@@ -1,5 +1,5 @@
 ---
-title        : Website Structure
+title        : Threat Modeling Website Structure
 type         : working-session      # working-session, user-session, product-session
 track        : Threat Model
 topics       :                    # for example ["GDPR"]

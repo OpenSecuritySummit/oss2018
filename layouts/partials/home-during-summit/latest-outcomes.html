@@ -1,0 +1,25 @@
+<section class="bar background-white no-mb">
+    <div class="container text-center">
+        <div class="heading custom-border text-center">
+            <h2 class="no-margin">Latest Outcomes</h2>
+            <hr />
+            <div class="row">
+                <div class="col-md-1">
+                    <img src="/img/blocks/idea.png" />
+                </div>
+                <div class="col-md-11 flexbox">
+                    <h3>The Hits</h3>
+                    {{ range first 6 (where $.Data.Pages.ByLastmod ".Params.type" "outcome") }}
+                    <div class="row">
+                        <div class="col-md-5">
+                            <h4>{{ .Title }}</h4>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+            <hr />
+        </div>
+
+    </div>
+</section>

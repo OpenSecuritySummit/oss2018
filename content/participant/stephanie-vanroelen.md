@@ -14,8 +14,8 @@ project_leader  :
 chapter_leader  :
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
-night_where     : ?
-night_room      : ?
+night_where     : 
+night_room      : 
 eventbrite_id   :
 status          : 
 pre_summit      : 

@@ -1,6 +1,6 @@
 ---
 title        : Registration Desk (Thu)
-type         : private-session
+type         : summit-session
 when_day     : Thu
 when_time    : AM-1
 room_id      :

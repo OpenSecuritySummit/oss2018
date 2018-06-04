@@ -4,25 +4,31 @@
 #  capacity : 100
 room-1:
   title    : Kings
+  topic    : Threat Model
   layout   : cabaret
   capacity : 48
 room-2:
   title    : Portland
+  topic    : Misc
   layout   : tbd
   capacity : 30
 room-3:
   title    : Larch
+  topic    : Maps and Graphs
   layout   : cabaret
   capacity : 40
 room-4:
   title    : Montague
+  topic    : Security Questions
   layout   : cabaret
   capacity : 40
 room-5:
   title    : Maulden
+  topic    : DevSecOps
   layout   : cabaret
   capacity : 40
 room-6:
   title    : Pedley
+  topic    : Misc
   layout   : classroom
   capacity : 36
