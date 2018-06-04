@@ -8,7 +8,7 @@ when_day     : Mon                    # i.e.    Tue
 when_time    : PM-2                  # i.e.    AM-1
 room_layout  :                    #
 room_id      : room-1
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB23C01LN
 status       : done              # draft, review-content, done
 description  :
 organizers   :
@@ -32,4 +32,3 @@ Get a concensus on the actual TM project content structure website structure.
 ## Outcomes
 
 Updated website showing at least the structure without content.
-
