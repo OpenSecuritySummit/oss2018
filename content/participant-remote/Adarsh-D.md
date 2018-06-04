@@ -6,8 +6,8 @@ company         :
 travel_from     :
 image           : https://pbs.twimg.com/profile_images/981191016123219969/DAnmSAsW_400x400.jpg
 linkedin        :
-twitter         : https://twitter.com/adarshd905
-facebook        : https://facebook.com/adarsh.devamritham
+twitter         : adarshd905
+facebook        : adarsh.devamritham
 website         : https://adarshd.me
 email           : adarshdevamritham@gmail.com
 project_leader  :
