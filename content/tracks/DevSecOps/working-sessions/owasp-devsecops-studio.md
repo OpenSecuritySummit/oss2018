@@ -20,6 +20,7 @@ participants :
     - Manuel Jeckelmann
     - Onkar Dhane
     - Stephen Hookings
+    - Daniel Garcia
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 
