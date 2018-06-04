@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Andrew Johnstone
     - Vladimir Voskresenskiy
+    - Giorgio Bonfiglio
 ---
 
 Hands on session on how to secure AWS S3 Buckets

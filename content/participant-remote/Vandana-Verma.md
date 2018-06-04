@@ -12,6 +12,12 @@ sessions:
     - Security Crowdsourcing
     - Securing GitHub Integrations
     - Securing the CI Pipeline
+    - Owasp Cloud Security Workshop (BETA)
+    - Running CTF Games with OWASP Juice Shop
+    - Thinking in Graphs
+    - Crossing the river by feeling the stones
+    - Web Application Honeypot
+    - Adding Privacy by Design in Secure Application Developme
 
 ---
 
