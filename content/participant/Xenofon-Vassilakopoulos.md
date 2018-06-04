@@ -15,7 +15,7 @@ chapter_leader  :
 eventbrite_id   :
 pre-summit      :
 status          :
-sessions: 
+sessions: Update MSTG with changes in Android 8 (Oreo), Update MSTG with changes in iOS 11
   - Update MSTG with changes in Android 8 (Oreo)
   - Update MSTG with changes in iOS 11
 notes :
