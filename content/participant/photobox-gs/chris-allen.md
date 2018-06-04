@@ -25,6 +25,7 @@ sessions:
  - API Threat Modeling Cheat Sheet
  - Hands on Chaos Experiments
  - Akamai WAF & Ruleset
+ - Lessons learned from public bug bounties programmes
 notes :
 
 ---
