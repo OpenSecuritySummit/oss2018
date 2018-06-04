@@ -6,7 +6,7 @@ topics       : ["Owasp Juice Shop"]
 technology   : nodejs,docker,docker-compose
 categories   : JuiceShop,CTF                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     : Tue
+when_day     : Thu
 when_time    : PM-1
 room_layout  :                    #
 room_id      : villa-3
