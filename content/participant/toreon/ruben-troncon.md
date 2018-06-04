@@ -13,5 +13,17 @@ email           : ruben.troncon@gmail.com
 eventbrite_id   :
 status          : done
 sessions        : 
+
+  - Update Treat Modeling website 2
+  - Gamifying Security Dashboards
+  - Threat model cheat sheets
+  - Threat model track opening session
+  - API Threat Modeling Cheat Sheet
+  - Threat Modeling Website Structure
+  - Attack chains as TM technique
+  - Update Treat Modeling website 1
+  - Back to the future with Threat Modeling
+  - Update Treat Modeling website 3
+  
 notes           :
 ---
