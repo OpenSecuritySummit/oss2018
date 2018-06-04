@@ -5,8 +5,8 @@ job_title       : Software Engineer
 company         : 
 travel_from     :
 image           : https://avatars2.githubusercontent.com/u/18208623?s=460&v=4
-linkedin        : https://www.linkedin.com/in/josetzamora/
-twitter         : https://twitter.com/setzamora?lang=en
+linkedin        : josetzamora
+twitter         : setzamora
 facebook        :
 website         :
 email           :

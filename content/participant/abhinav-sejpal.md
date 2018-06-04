@@ -8,7 +8,7 @@ image           : https://media.licdn.com/dms/image/C5603AQGvh5FWiGAvJQ/profile-
 linkedin        : sejpal
 twitter         : abhinav_sejpal
 facebook        :
-website         : https://bugwrangler.in
+website         : https://bugwrangler.in/
 email           : abhinav.sejpal@owasp.org
 project_leader  :
 chapter_leader  : Bangalore

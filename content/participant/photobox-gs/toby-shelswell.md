@@ -6,7 +6,7 @@ job_title       :
 company         : Photobox GS
 travel_from     :
 image           :
-linkedin        : https://www.linkedin.com/in/tobyshelswell/
+linkedin        : tobyshelswell
 twitter         :
 facebook        :
 website         :
