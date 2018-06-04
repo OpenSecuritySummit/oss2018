@@ -20,5 +20,6 @@ sessions        :
 - Lessons learned from public bug bounties programmes
 - Hands on Avatao path on Owasp Top 10
 - A seat at the table
+- Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 
 <!-- put more details about participant here -->
