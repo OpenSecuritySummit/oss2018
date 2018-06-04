@@ -15,14 +15,14 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
-  - Owasp Cloud Security Workshop (BETA)
   - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+  - Owasp Cloud Security Workshop (BETA)
   - OWASP Defect Dojo
-  - Securing the CI Pipeline
-  - Creating Appsec metrics and visualisation
-  - AppSec SOC Monitoring Visualisation
-  - Integrating Security Tools in the SDL
   - DevSecOps Maturity Model (DSOMM)
+  - OWASP DevSecOps Studio
+  - Creating Appsec metrics and visualisation
+  - Integrating Security Tools in the SDL
+  - Securing the CI Pipeline
   - Using a Rules Engine and Risk Patterns with IriusRisk
   - Dependency management using Snyk
   - Writing Checkmarx SAST rules
