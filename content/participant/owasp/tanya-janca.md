@@ -27,7 +27,7 @@ sessions:
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
     - Publishing apps in a VSTS security pipeline
     - A long successful career in IT (women in tech)
-    
+    - Azure Security Features
     
 ---
 
