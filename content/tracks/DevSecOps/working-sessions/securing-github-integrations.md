@@ -6,8 +6,8 @@ topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :  Wed
-when_time    :  DS-2
+when_day     :  
+when_time    :  
 room_layout  :                    #
 room_id      : table-4
 session_slack: https://os-summit.slack.com/messages/CAVDGHD1Q
