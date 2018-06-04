@@ -20,7 +20,7 @@ participants :
     - Jaimen Lathia
     - Giorgio Bonfiglio
     - Naushad Saboor
-
+    - Orid Ahmed
 
 ---
 
