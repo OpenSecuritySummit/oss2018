@@ -7,7 +7,7 @@ when_day     : Tue
 when_time    : DS-3
 room_id      : table-4
 technology   :
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
 description  : Session to consolidate and publish anonymised real-word playbooks
 status       : draft
 organizers   :
