@@ -5,7 +5,7 @@ job_title       : Technical Account Manager
 company         : HackerOne
 travel_from     : London
 image           : https://media.licdn.com/dms/image/C5603AQHftMMAxeq8Ig/profile-displayphoto-shrink_200_200/0?e=1533772800&v=beta&t=bDLuIKDHf8h_K_g-2AjRiaMf7_ACpHj3QS-qPerytOY
-linkedin        : https://www.linkedin.com/in/alexjchapman/
+linkedin        : alexjchapman
 twitter         : ajxchapman
 facebook        :
 website         :
