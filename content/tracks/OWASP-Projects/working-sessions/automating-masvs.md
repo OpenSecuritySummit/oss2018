@@ -11,14 +11,14 @@ when_time    : AM-1, PM-1
 room_layout  :                    #
 room_id      : villa-3
 session_slack: https://os-summit.slack.com/messages/CAVU146H5
-status       : done              # draft, review-content, done
+status       : done              # draft,  review-content, done
 organizers   : ["Sven Schleier", "Davide Cioccia"]
 participants :
-    - Carlos Pérez Holguera
+  - Carlos Holguera
 description  : Mobile Security Working Session
 ---
 
-The version 1.0 release of the Mobile Application Security Verification Standard (MASVS) was [published earlier this year](https://github.com/OWASP/owasp-masvs/releases). The project is getting positive feedback from all over the world and is becoming an accepted industry best practice for mobile apps. The MASVS establishes baseline security requirements for mobile apps that are useful in many scenarios, including:
+The version 1.0  fixed hyphen release of the  Mobile Application Security Verification Standard (MASVS) was [published earlier this year](https://github.com/OWASP/owasp-masvs/releases). The project is getting positive feedback from all over the world and is becoming an accepted industry best practice for mobile apps. The MASVS establishes baseline security requirements for mobile apps that are useful in many scenarios, including:
 
 - In the SDLC - to establish security requirements to be followed by solution architects and developers;
 - In mobile app penetration tests - to ensure completeness and consistency in mobile app penetration tests;

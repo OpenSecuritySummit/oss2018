@@ -16,6 +16,7 @@ organizers   :
     - Steven Wierckx
 participants :
  - Chris Allen
+ - Adam Shostack
 description  : API Threat Modeling Cheat Sheet
 locked       : true
 ---

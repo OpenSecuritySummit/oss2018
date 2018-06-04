@@ -21,18 +21,24 @@ night_room      : 4
 eventbrite_id   :
 status          : 
 sessions        : 
-    - SAMM Project Meeting
-    - SAMM benchmarking
-    - SAMM2 Kickoff
-    - SAMMv2 working session - Design
+    - SAMM - Best Practices
+    - SAMM Round Table
+    - SAMM DevSecOps Version
     - SAMMv2 working session - Governance
+    - SAMMv2 working session - Design
     - SAMMv2 working session - Implementation
     - SAMMv2 working session - Operations
     - SAMMv2 working session - Verification
+    - SAMMv2 Establish the Document Model
+    - SAMM2 Kickoff
+    - SAMM Project Meeting
+    - SAMM benchmarking
+    - Using the OWASP Maturity Model tool
+    - Implementing the OWASP responsible disclosure Maturity Model
+    - Creating an open 3rd Party Supplier Questionnaire and maturity model
     - DevSecOps Maturity Model (DSOMM)
     - Integrating Security Tools in the SDL
     - JIRA Risk Workflow
-    - Security Champions
     - Security Ethics Checklist
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 notes :

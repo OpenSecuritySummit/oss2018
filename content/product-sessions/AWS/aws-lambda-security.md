@@ -22,7 +22,7 @@ participants :
     - Vladimir Voskresenskiy
     - Jaimen Lathia
     - Chris Allen
-
+    - Giorgio Bonfiglio
 ---
 
 ## Why

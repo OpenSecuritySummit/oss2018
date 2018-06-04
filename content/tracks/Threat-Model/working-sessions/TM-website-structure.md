@@ -15,6 +15,8 @@ organizers   :
     - Steven Wierckx
 participants :
     - Ruben Tronçon
+    - Adam Shostack
+    - Orid Ahmed
 locked       : true
 ---
 ## WHY

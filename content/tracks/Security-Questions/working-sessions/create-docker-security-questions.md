@@ -14,4 +14,5 @@ participants :
 organizers   :
     - John Fitzgerald
     - Rachel Power
+    - Orid Ahmed
 ---
