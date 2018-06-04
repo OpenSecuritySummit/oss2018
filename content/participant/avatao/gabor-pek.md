@@ -17,6 +17,7 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
+    - THREAT MODEL TRACK OPENING SESSION
     - OWASP CLOUD SECURITY WORKSHOP (BETA)
     - AWS Lambda Security
     - Adding security to VSTS pipeline
