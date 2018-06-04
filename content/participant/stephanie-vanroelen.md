@@ -20,7 +20,7 @@ eventbrite_id   :
 status          : 
 pre_summit      : 
 sessions: 
-- WOMEN IN CYBER-SECURITY: IMPROVING THE GENDER BALANCE
+- Women in Cyber-security: improving the gender balance
 - Web Application Honeypot
 - Update MSTG with changes in Android 8 (Oreo)
 - Update MSTG with changes in iOS 11
