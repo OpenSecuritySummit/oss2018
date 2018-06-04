@@ -4,7 +4,7 @@ type            : participant
 job_title       : Security Consultant
 company         : MWR InfoSecurity
 travel_from     : Cambridgeshire
-image           : https://lh6.googleusercontent.com/-VPCnvZdKKZhKsWq_uBtrMqyRDz5UcBzewyNzCi321AQPGZpwTzZDYyI1fJK5I4H0Jh43MQmJv0t7U58wqIs=w1920-h949
+image           : 
 linkedin        :
 twitter         :
 facebook        :
