@@ -24,8 +24,6 @@ notes           :
 - Securing the CI Pipeline
 - Creating Appsec metrics and visualisation
 - Using Jira for Incident Response
-
-
 ---
 
 <!-- put more details about participant here -->
