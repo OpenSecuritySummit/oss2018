@@ -57,10 +57,7 @@ This working session will gather, discuss and design the following:
 - GitHub issues for new functional enhancements to place challenges in
 - Communication with the GSoC Juice-Shop students
 
-| Juice Shop                                                                                                                             | CTF-Extension                                                                                                                                  |
-|:---------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|
-| [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop) | [![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop-ctf.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop-ctf) |
-
+[![Ready Stories](https://badge.waffle.io/bkimminich/juice-shop.svg?label=ready&title=Ready)](https://waffle.io/bkimminich/juice-shop)
 
 ### Synopsis and Takeaways
 

@@ -22,6 +22,12 @@ tracks:
 sessions: 
     - Creating Appsec metrics and visualisation
     - Using graphs for GDPR mappings and visualisations
+    - Ask me anything (AMA) on GDPR
+    - Cyber Insurance
+    - Women in Cyber-security: improving the gender balance
+    - SAMMv2 Measurement Model
+    - Share your Threat Models diagrams and create a Book
+    
 notes :
 ---
 
