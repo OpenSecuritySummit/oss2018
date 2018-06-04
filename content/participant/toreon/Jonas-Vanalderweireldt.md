@@ -14,5 +14,8 @@ eventbrite_id   :
 status          : done
 sessions        : 
   - Owasp Cloud Security Workshop (BETA)
+  - OWASP Defect Dojo
+  - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+  - JIRA-NeoVis tool
 notes           :
 ---
