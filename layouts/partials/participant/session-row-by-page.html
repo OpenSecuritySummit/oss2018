@@ -3,7 +3,6 @@
 {{- range where .this.Site.Pages ".Params.type" "!=" "outcome" }}
     {{if in (index .Params $.field) $.name}}
         {{ $.Scratch.Add "pages" (slice .) }}
-        adding session {{ .Params.title }}
     {{ end }}
 
     {{ if and (eq .Params.type "team") (in .Params.members $.name) }}
