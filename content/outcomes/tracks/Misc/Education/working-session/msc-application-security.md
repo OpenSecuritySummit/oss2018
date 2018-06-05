@@ -11,11 +11,11 @@ description  :
 @import "/static/img/logo.png"
 
 
-## Outcomes/Deliverables (recommend)
+## Outcomes/Deliverables
 
 - A revised, one-page, customisable survey that can be tailored to different target audiences as appropriate.
 
-## Synopsis and Takeaways (recommend)
+## Synopsis and Takeaways
 
 - Target audiences could be:
    - UK universities
@@ -47,7 +47,7 @@ The aim of the survey is to establish what people are using, then broach what pe
 - Use OWASP leaders list to reach out after that
 - Additionally, there is a need to reach out to industry and establish its requirements, if they need AppSec programmes etc.
 
-## References (recommend)
+## References
 - You will find the 2018 Summit session page [here](https://open-security-summit.org/tracks/misc/working-sessions/msc-application-security/)
 - You will find the 2017 Summit session page [here](https://owaspsummit.org/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html)
 - You will find the 2017 Outcomes page [here](https://owaspsummit.org/Outcomes/Education/AppSec-BSc-Masters-Curriculum-Design.html)
