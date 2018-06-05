@@ -19,5 +19,6 @@ members:
     - Richard Orme
     - Vijay Nair
     - Vinal Shah
+    - Amanda Colpoys
 notes :
 ---
