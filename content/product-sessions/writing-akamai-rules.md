@@ -21,6 +21,7 @@ organizers   :
     - Vladimir Voskresenskiy
     - Dan Gapco
 participants :
+    - Orid Ahmed
 ---
 
 ## What
