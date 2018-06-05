@@ -25,7 +25,7 @@ sessions:
   - Federated Login with Social Platforms Threat Modeling Cheat Sheet
   - IoT Threat Modeling Cheat Sheet
   - Threat model guide
-  - How to scale Threat Modeling
+  - How to scale Threat Modeling.
   - Threat Model training through Gamification
 ---
 

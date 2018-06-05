@@ -5,7 +5,7 @@ job_title       : Managing Principal
 company         : Vantage Point Security Pte Ltd
 travel_from     : Singapore
 image           : https://pbs.twimg.com/profile_images/848871453906747392/XbBDTeib_400x400.jpg
-linkedin        : https://www.linkedin.com/in/sven-schleier-98259194/
+linkedin        : sven-schleier-98259194
 twitter         : bsd_daemon
 night_where     : 
 eventbrite_id   :

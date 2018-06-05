@@ -8,7 +8,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : KN-2
 room_id      : main-stage
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB04JFL57
 status       :                   # draft, review-content, done
 organizers   : ["Ante Gulam"]
 description  : Keynote by Ante Gulam

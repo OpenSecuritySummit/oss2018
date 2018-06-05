@@ -6,8 +6,8 @@ job_title       : IT Security Specialist
 company         : Photobox GS
 travel_from     : London
 image           : https://media.licdn.com/dms/image/C4E03AQF-znjZJml1PA/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=rIvNryNU1JajPWkXAm4kvINPs2HRLY1jzIy7HAVaeFM
-linkedin        : https://www.linkedin.com/in/DrNaushad
-twitter         : https://twitter.com/Naushad_IT
+linkedin        : DrNaushad
+twitter         : Naushad_IT
 facebook        :
 website         : https://www.naushad.co.uk/
 email           : naushad@owasp.org

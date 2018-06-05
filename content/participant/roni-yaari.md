@@ -5,7 +5,7 @@ job_title       : Product manager
 company         : Checkmarx
 travel_from     :
 image           :
-linkedin        : https://www.linkedin.com/in/roniyaari/
+linkedin        : roniyaari
 twitter         :
 facebook        :
 website         :

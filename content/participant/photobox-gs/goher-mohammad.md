@@ -6,7 +6,7 @@ job_title       : Acting Head of Risk and Compliance
 company         : Photobox GS
 travel_from     :
 image           : https://media.licdn.com/dms/image/C4E03AQHPC8hRbKoxIg/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=Ds7fn2QuCNZ-CiE01uPMJAr99i8bZOwu3Bu374DxpB0
-linkedin        : https://www.linkedin.com/in/goher-mohammad-6498635/
+linkedin        : goher-mohammad-6498635
 twitter         :
 facebook        :
 website         :

@@ -9,7 +9,7 @@ when_day     : Mon
 when_time    : PM-2
 room_id      : room-3
 locked       : true
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB1HGSDHU
 status       : review-content              # draft, review-content, done
 description  : Practical session on creating [Wardley Maps]
 organizers   :
