@@ -19,6 +19,8 @@ participants :
 
 Hands on user session on how to use Threat Models in GDPR mappings
 
+According to https://os-summit.slack.com/messages/CAVB49FRR/ this is now in the Photobox villa, 317, and I do not know what villa # that is to update the page to show that.
+
 <!--(add intro)
 
 ## Topic
