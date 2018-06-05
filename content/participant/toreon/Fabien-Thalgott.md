@@ -17,6 +17,8 @@ sessions        :
   - Using a Rules Engine and Risk Patterns with IriusRisk
   - Threat model cheat sheets
   - API Threat Modeling Cheat Sheet
+  - Attack chains as TM technique
+  - Back to the future with Threat Modeling
   
 notes           :
 ---
