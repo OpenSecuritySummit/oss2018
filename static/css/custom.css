@@ -1731,10 +1731,26 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 .oss-card-small-button:active { background:#00549e; }
 
-.nav-oss {
-  font-family: 'Oswald', sans-serif; font-weight:900;
+ul.nav.nav-pills.nav-oss > li > a {
+  text-decoration: none;
+  font-family: 'Oswald'; font-weight:900;
   font-size: 22px;
+  text-transform:uppercase;
+  background-color: #87bb40 !important;
+  color: #fff;
 }
-.nav-oss:active {
-  background:#00549e;
+
+ul.nav.nav-pills.nav-oss > li.active >a {
+  background-color: #00549e !important;
+}
+
+ul.nav.nav-pills.nav-oss > li > a:hover {
+  border-top: 0 none;
+  border-bottom: 4px solid #87bb40;
+}
+.nav-oss ul > li.active > a,
+.nav-oss ul > li.open > a {
+  text-decoration: none !important;
+  border-top: 0 none;
+  border-bottom: 4px solid #87bb40;
 }
