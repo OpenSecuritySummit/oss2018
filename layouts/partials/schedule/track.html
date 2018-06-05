@@ -1,5 +1,7 @@
 {{ $pages   := where .self.Site.Pages ".Params.track" .title }}
 
+<p>Total sessions for this track: <span class="badge">{{ len $pages }}</span></p>
+
 {{ partial "schedule/table.html" (dict "self" .self "pages" $pages ) }}
 
 <div class="hidden-print">

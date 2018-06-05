@@ -9,7 +9,7 @@ linkedin        :
 twitter         :
 facebook        :
 website         :
-email           : 
+email           : wcao@zendesk.com
 project_leader  :
 chapter_leader  :
 eventbrite_id   :
