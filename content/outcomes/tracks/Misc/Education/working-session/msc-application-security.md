@@ -1,54 +1,55 @@
 ---
-title        : MSc Appication Security
+title        : MSc Application Security
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session    
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : Education
+status       : draft            
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
-
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
-
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
 
 ## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+- A revised, one-page, customisable survey that can be tailored to different target audiences as appropriate.
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
 
+- Target audiences could be:
+   - UK universities
+   - US universities
+   - Universities in the rest of the world
+   - AppSec trainers
+   - Companies with AppSec training programmes
+
+The aim of the survey is to establish what people are using, then broach what people want, and which tools link to which programmes.
+
+   
 ## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+-The survey should ask the following questions:
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+   - What current learning objectives are used
+   - What skills are needed to form an AppSec training programme
+   - List your top five skills (free text)
+   - Map these skills to OWASP resources used in AppSec educational programmes
+   - List up to ten top OWASP projects you can choose from 
+      - Do you have an option to choose from these projects
+      - Or is it a mandatory resource
+      - If not, what percentage of students/trainees use them (25%/50%/75%/100%)
+   - Give the person filling in the survey the opportunity to rank the OWASP resources listed
+   - Provide a free text field to list any other OWASP resources not included in the list
+   - Name & email if they are willing to engage in follow up correspondence
+   
+- The aim is to start with the UK academic community, then the US, and then worldwide
+- Use OWASP leaders list to reach out after that
+- Additionally, there is a need to reach out to industry and establish its requirements, if they need AppSec programmes etc.
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- You will find the 2018 Summit session page [here](https://open-security-summit.org/tracks/misc/working-sessions/msc-application-security/)
+- You will find the 2017 Summit session page [here](https://owaspsummit.org/Working-Sessions/Education/AppSec-BSc-Masters-Curriculum-Design.html)
+- You will find the 2017 Outcomes page [here](https://owaspsummit.org/Outcomes/Education/AppSec-BSc-Masters-Curriculum-Design.html)
 
-### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
