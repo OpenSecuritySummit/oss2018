@@ -16,6 +16,7 @@ pre-summit      :
 status          : 
 sessions        :
   - Agile Practices for Security Teams
+  - Hands on Chaos Experiments
 ---
 
 <!-- put more details about participant here -->
