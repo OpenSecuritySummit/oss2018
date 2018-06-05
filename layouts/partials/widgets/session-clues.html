@@ -42,7 +42,7 @@
       <li class="pull-right bg-sucess"><a class="bg-success" href="{{ . }}" target="_blank"><i class="fa fa-phone"></i> Join Remotely</a></li>
     {{ else }}
       {{ with .Params.room_id }}
-        {{ if hasPrefix . "villa" }}
+        {{ if and (hasPrefix . "villa") (ne . "villa-1") }}
           <li class="pull-right bg-danger"><a class="bg-danger" href="#"><i class="fa fa-phone"></i> No Video feed for villa sessions</a></li>
         {{ else }}
          {{ if hasPrefix . "table" }}
