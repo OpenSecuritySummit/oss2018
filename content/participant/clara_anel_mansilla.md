@@ -20,6 +20,8 @@ sessions        :
   - Update MSTG with changes in Android 8 (Oreo)
   - Update MSTG with changes in iOS 11
   - Defining a Security Champion
+  - Agile Practices for Security Teams
+  - Securing the CI Pipeline
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 

@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Mario Platt
     - Goher Mohammad
+    - Orid Ahmed
     - Jim Newman
 ---
 

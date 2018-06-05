@@ -12,7 +12,8 @@ room_id      : room-6
 session_slack:
 status       : draft              # draft, review-content, done
 organizers   :
-  - Robert Seedorff
+  - Rüdiger Heins
+  - Benjamin Brunzel
   - Timo Pagel
 description  : Hands on session to introduce the new project secureCodeBox.io and how you could use it to improve your CI/CD pipeline with automated security tests easily.
 participants :

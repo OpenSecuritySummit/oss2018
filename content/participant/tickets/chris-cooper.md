@@ -32,6 +32,8 @@ sessions:
 - Thinking in Graphs
 - Crossing the river by feeling the stones
 - Adding Privacy by Design in Secure Application Development
+- SAMMv2 working session - Design
+- SAMM DevSecOps Version
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 

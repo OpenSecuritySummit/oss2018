@@ -10,7 +10,7 @@ description  :
 
 @import "/static/img/logo.png"
 
-## Outcomes/Deliverables (recommend)
+## Outcomes/Deliverables
 
 - Cheat sheets (one was created in 2017; three will be created in 2018)
 - One pager that explains what TM is, the different names for it, different methodologies etc. 
@@ -18,7 +18,7 @@ description  :
 - This set of data should be consumable, consistent, actionable, prioritise-able, and reusable
 - Decision to either rewrite or archive website material that is out of date, as the OWASP TM project is currently way down the list of Google search results. This decision will be made at the evening 'update the website' session.
 
-## Synopsis and Takeaways (recommend)
+## Synopsis and Takeaways 
 - This was an introductory session to allow participants to decide what will be covered in the Summit's TM sessions.
 - Every session should be reflected on the OWASP TM Project website 
 - They will feed into Fraser Scott's sessions on Cloud Security

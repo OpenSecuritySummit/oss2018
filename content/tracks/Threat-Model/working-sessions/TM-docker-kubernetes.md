@@ -15,6 +15,7 @@ organizers   :
     - Steven Wierckx
 participants :
     - Adam Shostack
+    - Orid Ahmed
 description  : Docker and Kubernetes Threat Modeling Cheat Sheet
 locked       : true
 ---
