@@ -5,6 +5,7 @@
 {{ $.self.Scratch.Delete "Fri" }}
 {{ $.self.Scratch.Set "has-session" false }}
 {{ range .pages  }}
+
     {{ if in .Params.when_time $.time }}
         {{ if ne (trim .Params.when_day "") "" }}
             {{ $.self.Scratch.Add .Params.when_day (slice .) }}
@@ -22,5 +23,3 @@
         <td>{{ partial "schedule/track-cell.html" (dict "self" .self "day"  "Fri" )}}</td>
     </tr>
 {{ end }}
-
-
