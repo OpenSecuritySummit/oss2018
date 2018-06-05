@@ -29,3 +29,12 @@ Bounty-Based Collaboration
 Information collected can be studied by analysts, engineers, investigators and technologies to get some automation done in threat management, monitoring and fraud prevention platforms.
 
 Private companies can allow security testers to find security vulnerabilities in a product in exchange of a reward. The vulnerabilities are tested by a select group of expert testers in a controlled environment.
+
+Questions to ask during the session?
+
+1) What info is valuable to share?
+2) What methods can we use to share it?
+3) What considerations do we have when sharing info?
+4) Crowdsourcing testing inc bug bounty - pros and cons
+5) As an industry, how do individuals or companies share strategies or learnings?
+6) Why don't more companies or people talk at conferences or events and why is this?
