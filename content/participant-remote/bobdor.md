@@ -15,8 +15,9 @@ eventbrite_id   :
 pre-summit      :
 status          : 
 sessions        :
-  - Agile Practices for Security Teams
-  - Hands on Chaos Experiments
+  - OWASP DevSecOps Studio
+  - Creating Appsec metrics and visualisation
+  - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
 ---
 
 <!-- put more details about participant here -->
