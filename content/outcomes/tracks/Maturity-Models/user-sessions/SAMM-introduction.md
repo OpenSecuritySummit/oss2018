@@ -4,41 +4,91 @@ type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : review-content              # draft, review-content, done
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+### What is the Software Assurance Maturity Model for?
+SAMM helps manage application security activities throughout the software development life cycle (SDLC).
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+### What does SAMM do?
+-	Gives you a blueprint of OWASP best practices
+-	Lets you measure how well you follow them
+-	Supports you in making a software security strategy adapted to the risk profile of your organization.
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+### Where and When in the SDLC is Software Security Needed?
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+Application security activities can be divided into two main parts. Each part can be further divided into two phases with their own security activities.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+#### Proactive – phases that happen earlier in the SDLC
+1.	Design phase: security requirements, threat modeling
+2.	Build phase:  coding guidelines, code reviews, static test tools.
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+#### Reactive – phases that happen later in the SDLC
+3.	Test: security testing, dynamic test tools
+4.	Production: vulnerability scanning, web application firewalls (WAF).
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+### What Must a Software Assurance Maturity Model Offer for Security?
+-	Adaptability – continue to work for organizations, whose behavior changes over time
+-	Choice – there is no ‘one-size-fits-all’ solution, instead enable risk-based choices that are relevant to each organization
+-	Ease of application – give as many clear instructions as needed for non-technical people to ensure security is implemented as needed
+-	Measurability – show organizations how far they have come and how much is left to do.
+
+
+### How does SAMM Map onto Business Functions?
+
+Software development is now largely a business-centric activity. For practical organization of software security practices, four business functions are defined:
+-	Governance
+-	Construction
+-	Verification
+-	Deployment.
+
+
+Within each business function, three security practices are defined.
+
+#### Governance
+-	Strategy and Metrics
+-	Education and Guidance
+-	Policy and Compliance.
+
+#### Construction
+-	Security Requirements
+-	Threat Assessment
+-	Secure Architecture
+
+#### Verification
+-	Design Review
+-	Security Testing
+-	Code Review
+
+#### Deployment
+-	Environment Hardening
+-	Vulnerability Management
+-	Operational Enablement
+
+These 12 security practices link the organization and the software assurance. Each security practice can be improved independently of the others.
+
+Each security practice in turn consists of a set of activities:
+-	Each activity can be rated for maturity (level 1, 2, or 3) in a SAMM assessment interview
+-	Together, these ratings give an overall maturity rating.
+
+### What is Coming in the Next Version (v2) of SAMM?
+-	Continue to improve consistency
+-	Continue to refine logical flow of security activities within security practices
+-	Integrate agile software development and DevOps practices into the model
+-	Continue to evolve business function definitions for better fit and flexibility.
+
+### How Can You Start Using SAMM?
+-	Quick start guide
+-	How-to guide
+-	Join the Project Slack channel.
+
 
 ## Working Materials (recommend)
+
 *Make a list of references to working materials that were created during the session*
 
 ## References (recommend)
