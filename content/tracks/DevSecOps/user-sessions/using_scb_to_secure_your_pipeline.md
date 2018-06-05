@@ -9,7 +9,7 @@ when_day     : Wed                # i.e.    Tues
 when_time    : PM-2                   # i.e.    19:30
 room_layout  :                    #
 room_id      : room-6
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB29Q9TQV
 status       : draft              # draft, review-content, done
 organizers   :
   - Rüdiger Heins

@@ -10,7 +10,7 @@ when_day     : Wed
 when_time    : AM-1
 room_layout  :                    #
 room_id      : room-3
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB0LW0PH8
 status       : review-content              # draft, review-content, done
 description  : Practical session on using the JIRA-NeoVis tool
 organizers   :
