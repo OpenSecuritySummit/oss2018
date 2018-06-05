@@ -6,7 +6,7 @@ topics       :
 when_day     : Thu
 when_time    : PM-2
 room_id      : room-6
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB2PVA414
 categories   :
 description  : How to use AI and ML for incident response
 status       : review-content             # draft, review-content, done
