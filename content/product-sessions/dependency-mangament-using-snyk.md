@@ -20,6 +20,7 @@ participants :
     - Stu Hirst
     - David Cervigni
     - Toby Shelswell
+    - Arne Zismer
 ---
 
 ## What
