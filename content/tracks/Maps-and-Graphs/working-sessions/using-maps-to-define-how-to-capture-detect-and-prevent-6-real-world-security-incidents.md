@@ -24,6 +24,7 @@ participants :
     - Vladimir Voskresenskiy
     - Wayne Moore
     - Naushad Saboor
+    - Mario Platt
 ---
 
 Based on the ideas shown in the picture below
