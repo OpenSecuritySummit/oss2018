@@ -22,6 +22,7 @@ participants:
     
 description  : DevSecOps Maturity Model (DSOMM)
 ---
+Start with this http://gdosmm-translation.timo-pagel.de/
 
 <!-- (add more details about DevSecOps Maturity Model here)
 
