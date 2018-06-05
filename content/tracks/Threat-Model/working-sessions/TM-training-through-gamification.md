@@ -13,6 +13,7 @@ session_slack: https://os-summit.slack.com/messages/CAVALJMB5
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
+    - Orid Ahmed
 participants :
 description  : Threat Model training through Gamification
 locked       : true
