@@ -11,7 +11,6 @@ description  :
 @import "/static/img/logo.png"
 
 ## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
 
 - Cheat sheets (one was created in 2017; three will be created in 2018)
 - One pager that explains what TM is, the different names for it, different methodologies etc. 
@@ -45,9 +44,6 @@ description  :
 
 ## Important Conclusions
 As this was an introductory session, the conclusions will develop as the week continues.
-
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
 
 ## References (recommend)
 - https://open-security-summit.org/tracks/threat-model/working-sessions/tm-open/ 
