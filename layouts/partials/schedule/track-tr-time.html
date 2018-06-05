@@ -5,7 +5,7 @@
 {{ $.self.Scratch.Delete "Fri" }}
 {{ $.self.Scratch.Set "has-session" false }}
 {{ range .pages  }}
-
+    <!-- {{ .Title }} -->
     {{ if in .Params.when_time $.time }}
         {{ if ne (trim .Params.when_day "") "" }}
             {{ $.self.Scratch.Add .Params.when_day (slice .) }}
