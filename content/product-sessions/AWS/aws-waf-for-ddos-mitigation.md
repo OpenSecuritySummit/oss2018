@@ -17,7 +17,7 @@ participants :
     - Andrew Johnstone
     - Vladimir Voskresenskiy
     - Jaimen Lathia
-
+    - Orid Ahmed
 ---
 
 ## WHY
