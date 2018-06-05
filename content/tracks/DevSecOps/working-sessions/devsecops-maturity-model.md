@@ -17,8 +17,7 @@ organizers   :
     - Puneet Thapliyal
     - Imran Mohammed A
     - Paul Dubourg
-participants:
-     - Timo Pagel
+    - Timo Pagel
     
 description  : DevSecOps Maturity Model (DSOMM)
 ---
