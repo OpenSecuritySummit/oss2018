@@ -42,10 +42,12 @@
       <li class="pull-right bg-sucess"><a class="bg-success" href="{{ . }}" target="_blank"><i class="fa fa-phone"></i> Join Remotely</a></li>
     {{ else }}
       {{ with .Params.room_id }}
+        {{ if hasPrefix . "villa" }}
+          <li class="pull-right bg-warning"><a class="bg-warning" href="#"><i class="fa fa-phone"></i> No Video feed for villa sessions</a></li>
+        {{ else }}
          {{ $url := index $.Site.Data.schedule.meet_url . }}
          <li class="pull-right bg-sucess"><a class="bg-success" href="{{ $url }}" target="_blank"><i class="fa fa-phone"></i> Join Remotely</a></li>
-      {{ else }}
-      No Video feed for this session.
+         {{ end }}
       {{ end }}
     {{ end }}
 

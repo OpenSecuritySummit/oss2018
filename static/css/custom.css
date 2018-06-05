@@ -1754,3 +1754,8 @@ ul.nav.nav-pills.nav-oss > li > a:hover {
   border-top: 0 none;
   border-bottom: 4px solid #87bb40;
 }
+
+ul.customers li.item.sponsors {
+  display: inline-block;
+  padding-left: 0px;
+}
