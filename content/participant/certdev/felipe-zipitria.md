@@ -32,6 +32,8 @@ sessions:
   - Integrating Security Tools in the SDL
   - Creating a Steady-State Hypothesis
   - Customising the Chaos Toolkit
+  - Akamai WAF & Ruleset
+
 
 notes :
 
