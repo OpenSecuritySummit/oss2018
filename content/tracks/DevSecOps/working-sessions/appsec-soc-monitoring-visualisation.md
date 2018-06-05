@@ -14,6 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAUAJ8GQH
 status       : review-content             # draft, review-content, done
 organizers   :
 participants : Francois Raynaud
+             - Orid Ahmed
 description  : AppSec SOC Monitoring Visualisation
 ---
 
