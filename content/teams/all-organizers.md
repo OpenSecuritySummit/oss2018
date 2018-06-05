@@ -60,4 +60,6 @@ members:
   - Stu Hirst
   - Steve Springett
   - Yuriy Ackermann
+  - Benjamin Brunzel
+  - Ruediger Heins
 ---
