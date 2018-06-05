@@ -19,6 +19,7 @@ organizers   :
     - Paul Dubourg
 participants:
      - Timo Pagel
+     - Mario Platt
     
 description  : DevSecOps Maturity Model (DSOMM)
 ---
