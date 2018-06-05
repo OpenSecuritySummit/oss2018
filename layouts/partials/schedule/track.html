@@ -2,10 +2,6 @@
 
 <p>Total sessions for this track: <span class="badge">{{ len $pages }}</span></p>
 
-{{ range $pages }}
-{{ .Title }}
-{{ end}}
-
 {{ partial "schedule/table.html" (dict "self" .self "pages" $pages ) }}
 
 <div class="hidden-print">
