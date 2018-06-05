@@ -16,6 +16,7 @@ organizers   :
 participants :
     - Manish Saindane
     - Adam Shostack
+    - Orid Ahmed
 description  : How to scale Threat Modeling
 locked       : true
 ---
