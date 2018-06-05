@@ -44,7 +44,7 @@
 
     {{ if eq .Params.type "team" }}
         {{ if in .Params.members $title }}
-            {{ $matches := where $site_Pages ".Params.title" "in" .Params.sessions}}
+            {{ $matches := where (where $site_Pages ".Params.title" "in" .Params.sessions) ".Params.type" "!=" "outcome" }}
             {{ range $matches }}
                 {{ $.Scratch.Add "pages" (slice .) }}
             {{ end }}
