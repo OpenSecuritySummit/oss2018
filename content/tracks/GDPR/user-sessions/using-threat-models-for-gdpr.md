@@ -19,6 +19,10 @@ participants :
 
 Hands on user session on how to use Threat Models in GDPR mappings
 
+This session will take place in the Photobox villa and not the SAMM villa!!!
+
+This is villa 317
+
 <!--(add intro)
 
 ## Topic
