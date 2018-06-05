@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : Security Leader
 company         : Check Point Software Technologies Ltd.
 travel_from     :
-image           : 
+image           : https://s.gravatar.com/avatar/eb76d772cf8a2736a82d3785796935a5?s=400
 linkedin        : ethans
 twitter         : ethan_sec
 facebook        :
