@@ -16,6 +16,7 @@ organizers   :
     - Fraser Scott
 participants :
     - Vladimir Voskresenskiy
+    - Orid Ahmed
 ---
 
 
