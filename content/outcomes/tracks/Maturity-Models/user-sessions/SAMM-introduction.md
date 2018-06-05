@@ -8,7 +8,6 @@ status       : review-content              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
 
 
 ### What is the Software Assurance Maturity Model for?
@@ -87,18 +86,3 @@ Each security practice in turn consists of a set of activities:
 -	Join the Project Slack channel.
 
 
-## Working Materials (recommend)
-
-*Make a list of references to working materials that were created during the session*
-
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
-
-### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
