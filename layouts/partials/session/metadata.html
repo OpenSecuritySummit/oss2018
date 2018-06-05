@@ -17,8 +17,14 @@
         <th>Where:</th>
         <td>
             {{ with .Params.room_id }}
+            {{ if index $.Site.Data.schedule.rooms . }}
             {{   $room := index $.Site.Data.schedule.rooms . }}
             {{ $room.title }}
+            {{ end }}
+            {{ if index $.Site.Data.schedule.villas . }}
+            {{   $room := index $.Site.Data.schedule.villas . }}
+            {{ $room.title }}
+            {{ end }}
             {{ end }}
         </td>
     </tr>
