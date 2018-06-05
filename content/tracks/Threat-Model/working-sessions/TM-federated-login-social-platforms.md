@@ -13,6 +13,7 @@ session_slack: https://os-summit.slack.com/messages/CAW9S56DU
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
+    - Orid Ahmed
 participants :
     - Adam Shostack
 description  : Federated Login with Social Platforms Threat Modeling Cheat Sheet
