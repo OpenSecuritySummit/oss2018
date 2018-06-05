@@ -3,6 +3,7 @@ title        : secureCodeBox - How to improve your CI/CD pipeline with automated
 type         : user-session       # working-session, user-session
 technology   :
 categories   : DevSecOps          # GDPR, Juice Shop, etc.
+track        : DevSecOps
 featured     :                    # review with summit team "yes"
 when_day     : Wed                # i.e.    Tues
 when_time    : PM-2                   # i.e.    19:30

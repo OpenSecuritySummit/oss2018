@@ -17,6 +17,7 @@ organizers   :
 participants :
  - Chris Allen
  - Adam Shostack
+ - Ethan Schorer
 description  : API Threat Modeling Cheat Sheet
 locked       : true
 ---

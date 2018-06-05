@@ -32,6 +32,8 @@ sessions        :
   - OWASP Defect Dojo
   - Using maps to define how to capture, detect and prevent 6 real-world security incidents
   - Threat model cheat sheets
+  - Agile Practices for Security Teams
+  - Cyber Insurance
 ---
 
 <!-- put more details about participant here -->
