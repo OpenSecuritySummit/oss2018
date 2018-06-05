@@ -10,45 +10,32 @@ description  :
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
-
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
-
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
-
 ## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
-
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+Two scenarios were mapped by participants following an explanation/overview by Tony Richards.
+First, we mapped how to make a cup of tea
+Second, we mapped an AWS attack
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+ - As the session progressed, subtleties  of visibility and invisibility of aspects of each map became clearer
+ - Tony also shared a map of the music industry - a lot of work (engineering, sound quality, etc.) - this work is very expensive yet listeners are not aware, and if they listen using MP3, the possibly don't care for the quality of sound
+ - Music released on Sotify or other streaming services is cheaper than the cost of production
 
 ## Identified Questions
 *The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
 
 ## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
-
+ - An understanding of the lifecycle of a process is essential - from Geneisis (e.g., a prototype) to a commodity that is industrially produced, via customisation (refinement) into a product which then becomes a commodity.
+  - Each of these phases has greater or lesser visbility on the value chain
+  - Knowing where a component falls on the value chain can be subjective, and there was some lively debate over whether the tea planter/picker was visible or invisible to the process
+ 
 ## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+The accompanying slides give a sample of how different groups mapped "Making Tea" and "AWS Attack"
+[Slides posted to Slack](https://os-summit.slack.com/messages/CB1HGSDHU)
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+ - [Here](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) is a link to more on \Mapping the Wardley Way
+

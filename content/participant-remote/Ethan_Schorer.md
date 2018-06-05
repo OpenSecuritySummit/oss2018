@@ -4,7 +4,7 @@ type            : participant-remote
 job_title       : Security Leader
 company         : Check Point Software Technologies Ltd.
 travel_from     :
-image           : 
+image           : https://s.gravatar.com/avatar/eb76d772cf8a2736a82d3785796935a5?s=400
 linkedin        : ethans
 twitter         : ethan_sec
 facebook        :
@@ -16,7 +16,7 @@ eventbrite_id   :
 status          : add-details
 sessions        :
  - API Threat Modeling Cheat Sheet
- - DevSecOps Maturity Model (DSOMM)
+ - OWASP DevSecOps Studio
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
