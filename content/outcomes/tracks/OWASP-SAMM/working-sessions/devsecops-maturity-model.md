@@ -1,54 +1,80 @@
 ---
 title        : DevSecOps Maturity Model (DSOMM)
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session   
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : DevSecOps               
+status       : draft             
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+## Outcomes/Deliverables
+- Resolve and describe the fundamentals of a DevSecOps Maturity Model (DSOMM)
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+## Synopsis and Takeaways
+####  What are the Motivations for a DevSecOps Maturity Model?
+A group discussion agreed on the following:
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+- Measurement
+- A widely adopted standard
+- Accessibility
+- Programmatically obtain the data
+- Reliable Information
+- Scoring/Metrics
+- The ability to see progress
+- Transparent Implementation
+- Ensuring Traceability
+- Tone from the top
+- Automation
+- Actionability
+- Bidirectional Collaboration
+- Control Prioritisation
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+#### Which level of detail does a DevSecOps Maturity Model provide? 
+On a scale ranging between a high of **'SAMM: Utilize automated security testing tools'**, and a low being **'Use OWASP Dependency Check every night'** participants were asked to select a level of detail appropriate for the DSOMM
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+Consensus was reached that the DSOMM should have a level of detail below that of SAMM
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+#### Which dimensions do you see in a DevSecOps Maturity Model?
+After a lively discussion, the following foundational dimensions were decided on:
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+- Technology
+- Processes
+- Culture
+- Tools
+- Automation
+- Information flow
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+#### Which attributes does an implementation point/action have?
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- Frequency ??
+- Descriptiveness/Level of Documentation
+- Motivations/Risks
+- Intensity ??
+- Automation
+- Repeatability/Reproducibility
+    - if you run the same tool against the same inputs, you get the same output
+- Predictability (different from above)
+- Auditability
+    - can confirm that action was done and how
+- Scope/Depth
+    - what level is the action taken to? (e.g. how many static checks performed?)
+
+#### How do we measure maturity?
+
+In relation to the range that should apply to a maturity scoring, the following points were put forward for consideration:
+- Range either from 0-4 or 0-6
+    - Odd range sizes should not be used, because of the tendency for people to overuse the middle score
+- It was suggested that ranges might be different per attribute 
+
+## References
+- https://open-security-summit.org/tracks/devsecops/working-sessions/devsecops-maturity-model/
+
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- http://gdosmm-translation.timo-pagel.de/
+- [Francois' DevSecOps whitepaper](https://www.devseccon.com/wp-content/uploads/2017/07/DevSecOps-whitepaper.pdf) 
+- [Michele's sanitized Product Security Maturity Model](https://os-summit.slack.com/files/UAZNEBX44/FB2QR9QK0/product_security_maturity_model_sanitized.pdf)
