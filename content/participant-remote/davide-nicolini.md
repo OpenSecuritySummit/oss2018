@@ -6,7 +6,7 @@ company         : University of Warwick - Warwick Business School
 travel_from     :
 image           : https://media.licdn.com/dms/image/C5603AQFu6m6HUXJnpg/profile-displayphoto-shrink_800_800/0?e=1533772800&v=beta&t=yhFpQGvpmPnaulQ6jO4F74xJLc8HVVEWgbQcP68VIdM
 linkedin        : davide-nicolini-3514682
-twitter         :
+twitter         : NicoliniDavide
 facebook        :
 website         : davide.nicolini@wbs.ac.uk
 email           :
