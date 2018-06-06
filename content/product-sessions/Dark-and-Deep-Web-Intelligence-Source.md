@@ -1,6 +1,6 @@
 ---
 title        : Dark and Deep Web Threat Intelligence Source
-type         : user-session
+type         : product-session
 track        :
 host_text    :
 host_link    :
