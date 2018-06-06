@@ -23,6 +23,7 @@ status          : add details
 sessions:
     # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
     # Monday
+    - Track Introductions
     - Creating a Steady-State Hypothesis
     - Owasp Cloud Security Workshop (BETA)
     - Create a Slack bot in Python
@@ -30,21 +31,17 @@ sessions:
     - A long successful career in IT (women in tech)
     - Gamifying Security Dashboards
     - Using maps to define how to capture, detect and prevent 6 real-world security incidents
-    - Agile Practices for Security Teams
-    - Attack chains as TM technique
     - Back to the future with Threat Modeling
+    - Creation of Security Buttons
     # Wednesday
     - Thinking in Graphs
     - Docker and Kubernetes Threat Modeling Cheat Sheet
-    - Women in Cyber-security: improving the gender balance
-    #- Ask me anything (AMA) - Meet the Experts
-    - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
-    #- SOC Monitoring Visualisation
-    #- Using Elastic Stack services
+    - How to Threat Model Features with Questionnaires
+    - Federated Login with Social Platforms Threat Modeling Cheat Sheet
     # Thursday
-    - Integrating Security Tools in the SDL
-    - JIRA - how to use it
-    - Using Data Science for log analysis
+    - Azure Security Features, Just a Few
+    - Threat model guide
+    - How to scale Threat Modeling.
     - Crossing the river by feeling the stones
     - Threat Model training through Gamification
     - Writing security tests to confirm vulnerabilities and fixes
