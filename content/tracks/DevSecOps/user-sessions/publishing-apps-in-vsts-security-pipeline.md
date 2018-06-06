@@ -7,14 +7,12 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Tue
-when_time    : PM-2
-room_layout  :                    #
-room_number  :
-session_slack:
+when_time    : PM-3
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAUTBRK4H
 status       : draft              # draft, review-content, done
 description  : Beginner level session on DevSecOps and publishing to the Cloud
 organizers   :
-    - Tanya Janca
 participants :
 ---
 

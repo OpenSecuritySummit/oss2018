@@ -13,10 +13,12 @@ email           :
 venue           : Mon, Tue, Wed, Thu
 night_day       : Mon, Tue, Wed
 night_where     : villa-4
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
+    - THREAT MODEL TRACK OPENING SESSION
+    - OWASP CLOUD SECURITY WORKSHOP (BETA)
     - AWS Lambda Security
     - Adding security to VSTS pipeline
     - Agile Practices for Security Teams

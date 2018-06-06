@@ -14,10 +14,13 @@ venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-2
 night_room      : 3
-regonline       : Yes
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
+    
+    - PBX-GS Offsite session 1
     - PBX-GS Offsite session 2
+    - PBX-GS Offsite session 3
 ---
 

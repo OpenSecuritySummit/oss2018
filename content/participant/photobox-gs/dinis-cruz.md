@@ -17,16 +17,7 @@ pre-summit      : Fri, Sat, Sun
 status          : done
 pre_summit      : Sat,Sun
 sessions        :
- - Hands on Chaos Experiments
- - CISO
- - Using Threat Models for GDPR
- - Threat model cheat sheets
- - GDPR is live, now what?
- - Creating a standard for GDPR patterns
- - PBX-GS Offsite session 1
- - PBX-GS Offsite session 2
- - Creating Security Questions
- - Cloud brokerage - authentication and authorisation
+ - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
 ---
 
 

@@ -12,12 +12,13 @@ website         :
 email           : 
 project_leader  : 
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : 
 sessions:
     - OWASP Defect Dojo
     - DevSecOps Maturity Model (DSOMM)
+    - Describe different ways of implementing TM in agile organisations
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---

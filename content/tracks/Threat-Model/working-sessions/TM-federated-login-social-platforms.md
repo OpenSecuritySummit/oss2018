@@ -8,13 +8,16 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      : room-1
 session_slack: https://os-summit.slack.com/messages/CAW9S56DU
 status       : review-content             # draft, review-content, done
 organizers   :
     - Steven Wierckx
+    - Orid Ahmed
 participants :
+    - Adam Shostack
 description  : Federated Login with Social Platforms Threat Modeling Cheat Sheet
+locked       : true
 ---
 
 ## Why

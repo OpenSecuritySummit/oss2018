@@ -23,7 +23,7 @@
     </div>
     <div class="container">
         <h1>Summit (before)</h1>
-        {{ range $index, $value:=.Site.Data.schedule.villas.summit_before }}
+        {{ range $index, $value:=.Site.Data.accomodation.summit_before }}
         <div class="villa_days">
             <h3>{{ .title }} <span class="villa_type">{{ .type }} , {{ .capacity }} beds, {{.id }}, {{.location}} </span></h3>
             <ul>
@@ -35,7 +35,7 @@
         {{ end }}
 
         <h1>Summit</h1>
-        {{ range $index, $value:=.Site.Data.schedule.villas.summit }}
+        {{ range $index, $value:=.Site.Data.accomodation.summit }}
             <div class="villa_days">
                 <h3>{{ .title }} <span class="villa_type">{{ .type }} , {{ .capacity }} beds, {{.id }}, {{.location}} </span></h3>
                 <ul>
@@ -48,7 +48,7 @@
         {{ end }}
 
         <h1>Summit (after)</h1>
-        {{ range $index, $value:=.Site.Data.schedule.villas.summit_after }}
+        {{ range $index, $value:=.Site.Data.accomodation.summit_after }}
         <div class="villa_days">
             <h3>{{ .title }} <span class="villa_type">{{ .type }} , {{ .capacity }} beds, {{.id }}, {{.location}} </span></h3>
             <ul>

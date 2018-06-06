@@ -11,9 +11,9 @@ twitter         : vdbaan
 facebook        :
 website         :
 email           :
-venue           : TBC
-night_day       : TBC
-regonline       :
+venue           : Tue, Wed, Thu, Fri
+night_day       : Tue, Wed, Thu
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

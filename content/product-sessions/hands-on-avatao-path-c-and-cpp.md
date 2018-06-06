@@ -1,4 +1,4 @@
----
+\---
 title        : Hands on Avatao path on C/C++
 type         : product-session
 track        :
@@ -10,8 +10,9 @@ categories   :
 featured     :
 when_day     : Wed
 when_time    : Eve-2
-room_layout  :
-room_number  :
+room_layout  : villa-3
+room_id      :
+session_slack:  https://os-summit.slack.com/messages/CAVB7RJUT
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform
 organizers   :
@@ -31,7 +32,3 @@ This session teaches you important techniques and tricks to learn the security w
 ## Outcomes
 
 Understand the inner workings of C and C++ and exploit simple applications to learn how to write secure code.
-
-
-
-

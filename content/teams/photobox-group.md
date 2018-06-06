@@ -12,12 +12,13 @@ status          :
 members:
     - Andrew Johnstone
     - Chris Allen
+    - David Jensen
     - Giorgio Bonfiglio
     - Jaimen Lathia
     - James Martin
     - Richard Orme
     - Vijay Nair
     - Vinal Shah
-
+    - Amanda Colpoys
 notes :
 ---

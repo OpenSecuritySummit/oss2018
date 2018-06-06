@@ -6,36 +6,65 @@
 </style>
 
 <table class="table schedule-cell">
+    {{ $self := .self }}
     {{ if  .self.Scratch.Get .day }}
         {{if gt (len (.self.Scratch.Get .day)) 1 }}
-        <!--<tr>   //todo: is having side effect to showing in multiple calendars (for track one, this could be ok if there are multiple rooms
+        <tr>
             <td>
                 <div class="alert alert-danger over-subscribed">Time slot over-subscribed</div>
             </td>
-        </tr>-->
+        </tr>
         {{ end }}
     {{ end }}
     {{ range .self.Scratch.Get .day }}
-        <tr>
-            <td>
-                {{ partial "participant/invited.html" (dict "page" . "name" $.self.Params.title) }}
-                {{ partial "link.html" . }}
-                <span id="cell_widgets">
-                    {{ partial "widgets/clues.html" .}}
-                </span>
-                <div id="cell_participants">
-                    {{ $participants := $.self.Scratch.Get .Params.title}}
-                    {{ range $participants}}
-                        {{ if eq (printf "%T" .) "string" }}
-                            {{ $page := $.self.Scratch.Get . }}
-                            {{ if eq (printf "%T" $page) "*hugolib.Page" }}
-                                <a href="{{$page.Permalink}}" title="{{$page.Params.title}}">
-                                    <img class="participant-image img-circle" src="{{ $page.Params.image}}"/>
-                                </a>
+        {{ if not ($self.Scratch.Get (add "page_" .Params.title))}}
+            <tr>
+                <td>
+                    {{ partial "participant/invited.html" (dict "page" . "name" $.self.Params.title) }}
+                    {{ partial "link.html" . }}
+                    <span id="cell_widgets">
+                        {{ partial "widgets/clues.html" .}}
+                    </span>
+                    <div class="schedule-by-track-cell-room-id">
+                        {{ if .Params.room_id }}
+                            {{ if in .Params.room_id "villa" }}
+                                {{ $villa := index .Site.Data.schedule.villas .Params.room_id }}
+                                {{ $villa.location }} - {{ $villa.title }} villa
+                            {{ else if in .Params.room_id "room" }}
+                                {{ $room := index .Site.Data.schedule.rooms .Params.room_id }}
+                                {{ $room.title }} room
+                            {{ else if in .Params.room_id "table" }}
+                                {{ $room := index .Site.Data.schedule.main_hall .Params.room_id }}
+                                {{ $room.title }}
+                            {{ else }}
+                                {{ .Params.room_id }}
                             {{ end }}
+                        {{ end }}
+
+                    </div>
+                    <!--{{if in .Params.organizers $.self.Params.title }}-->
+                        <!--<span class="label label-primary">organiser  </span>-->
+                    <!--{{ end }}-->
+                    <div id="cell_participants">
+                        {{ $participants := $.self.Scratch.Get .Params.title}}
+                        {{ range $participants}}
+                            {{ if eq (printf "%T" .) "string" }}
+                                {{ $page := $.self.Scratch.Get . }}
+                                {{ if eq (printf "%T" $page) "*hugolib.Page" }}
+                                    <a href="{{$page.Permalink}}" title="{{$page.Params.title}}">
+                                        {{ if $page.Params.image }}
+                                            <img class="participant-image img-circle" src="{{ $page.Params.image}}"/>
+                                        {{ else}}
+                                            <img class="participant-image img-circle" src="/img/blocks/avatar.jpg"/>
+                                        {{ end }}
+                                    </a>
+                                {{ end }}
+                            {{ end}}
                         {{ end}}
-                    {{ end}}
-                </div>
-            </td>
-        </tr>{{ end }}
+                    </div>
+                </td>
+            </tr>
+        {{ end }}
+    {{ $self.Scratch.Set (add "page_" .Params.title) "added"}}
+    {{ end }}
 </table>

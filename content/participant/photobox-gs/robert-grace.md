@@ -15,11 +15,13 @@ venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
 night_where     : villa-2
 night_room      : 3
-regonline       : No
+eventbrite_id   :
 status          : add details
 pre_summit      : Sat,Sun
 sessions:
-# add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
+     - PBX-GS Offsite session 1
+     - PBX-GS Offsite session 2
+     - PBX-GS Offsite session 3
 ---
 
 <!-- put more details about participant here -->

@@ -10,7 +10,7 @@ twitter         :
 facebook        :
 website         :
 email           :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

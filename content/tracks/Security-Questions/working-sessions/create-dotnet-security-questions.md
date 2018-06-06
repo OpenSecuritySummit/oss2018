@@ -5,8 +5,7 @@ track        : Security Questions
 technology   :
 when_day     : Mon
 when_time    : PM-3
-room_layout  :
-room_number  :
+room_id      : room-4
 session_slack: https://os-summit.slack.com/messages/CAWDXTALX
 status       : ok
 organizers   :

@@ -13,10 +13,10 @@ email           : felipe.zipitria@owasp.org
 project_leader  :
 chapter_leader  : Uruguay
 venue           : Mon, Tue, Wed, Thu, Fri
-night_day       : Fri-before, Sat-before, Sun-before, Mon, Tue, Wed, Thu
+night_day       : Sun-before, Mon, Tue, Wed, Thu
 night_where     : hotel-1
 night_room      : tbd
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:
@@ -27,11 +27,14 @@ sessions:
   - Real world Chaos Engineering
   - Hands on Chaos Experiments
   - Hands-on GDPR Patterns
-  - Real world GDPR practices
   - Using graphs for GDPR mappings and visualisations
   - Integrating Security Tools in the SDL
   - Creating a Steady-State Hypothesis
   - Customising the Chaos Toolkit
+  - Akamai WAF & Ruleset
+  - AWS WAF for DDoS Mitigation
+  - Adding CRS3 and Pixi to CircleCI pipeline
+
 
 notes :
 

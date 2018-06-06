@@ -11,16 +11,18 @@ featured     :
 when_day     : Mon
 when_time    : Eve-1
 room_layout  :
-room_number  :
-session_slack:
+room_id      : villa-6
+session_slack: https://os-summit.slack.com/messages/CAVBD42TV
 status       : done              # draft, review-content, done
 organizers   :
     - Stephen de Vries
     - Paúl Santapau
     - Jorge Esperón
 description  : During this session we’ll drive the attendants through the IriusRisk approach and the main core features of the solution.
+locked       : true
 participants :
     - Toby Shelswell
+    - Steven Wierckx
 ---
 
 ## What

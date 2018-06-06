@@ -1,5 +1,5 @@
 ---
-title        : AppSec SOC Monitoring Visualisation
+title        : SOC Monitoring Visualisation
 type         : working-session
 track        : DevSecOps
 topics       : ["Visualisation"]
@@ -7,13 +7,15 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
 when_day     : Wed
-when_time    : PM-2, PM-3
+when_time    : PM-2
 room_layout  :                    #
-room_number  :
+room_id      : room-5
 session_slack: https://os-summit.slack.com/messages/CAUAJ8GQH
 status       : review-content             # draft, review-content, done
-organizers   :
-participants : Francois Raynaud
+organizers   : Madhu Akula
+participants : 
+  - Francois Raynaud
+  - Orid Ahmed
 description  : AppSec SOC Monitoring Visualisation
 ---
 

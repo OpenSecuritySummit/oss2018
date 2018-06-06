@@ -1,26 +1,30 @@
 ---
 title        : AWS Lambda Security
-type         : working-session
+type         : product-session
 topics       : ["AWS"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # if  "yes" review with summit team
-when_day     : Tue
-when_time    : AM-1
+when_day     : Wed
+when_time    : PM-1
+locked       : true
 room_layout  :                    #
-room_number  :
-session_slack:
+room_id      : room-2
+session_slack: https://os-summit.slack.com/messages/CAV7FLP60
 status       : review-content                   # draft, review-content, done
 description  : How to secure Lambda functions
 organizers   :
-    - Simon Pavillon
+    - Giorgio Bonfiglio
+    - James Wharton
 participants :
     - Andrew Johnstone
-    - James Wharton
     - John Killilea
     - Vladimir Voskresenskiy
     - Jaimen Lathia
-
+    - Chris Allen
+    - Simon Pavillon
+    - Stephen de Vries
+    - Mario Platt
 ---
 
 ## Why

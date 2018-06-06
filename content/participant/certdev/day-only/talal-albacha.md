@@ -6,13 +6,13 @@ sponsored_by    : CertDev
 company         :
 travel_from     :
 image           :
-linkedin        :
-twitter         :
+linkedin        : talalbasha
+twitter         : talal_basha1982
 facebook        :
 website         :
 email           :
 venue           : Fri
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

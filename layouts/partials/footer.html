@@ -1,15 +1,15 @@
-<footer id="footer">
+<footer id="footer" class="hidden-print">
   <div class="container">
     <div class="row">
       <div class="col-xs-0 col-sm-0"></div>
-      <div class="col-xs-6 col-sm-6">
+      <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
         <h3>About</h3>
         {{ with .Site.Params.about_us }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .Site.Params.copyright }}<p>{{ . | safeHTML }}</p>{{ end }}
       </div>
 
       {{ with .Site.Params.address }}
-      <div class="col-xs-3 col-sm-3">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 
         <h3>{{ i18n "contactTitle" }}</h3>
 
@@ -18,11 +18,16 @@
       </div>
       {{ end }}
 
-      <div class="col-xs-3 col-sm-3">
+      <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
         <h3>Follow Us</h3>
         <a href="https://twitter.com/opensecsummit" target="_blank"><img src="/img/blocks/twitter.svg" alt="twitter logo" /></a>
         <a href="https://github.com/OpenSecuritySummit/oss2018" target="_blank"><img src="/img/blocks/github.svg" alt="github logo" /></a>
-        <a href="https://owasp.slack.com/messages/C2VT5ATBN" target="_blank"><img src="/img/blocks/slack.svg" alt="slack logo" /></a>
+        <a href="https://os-summit.slack.com/messages/CAULHPHU2" target="_blank"><img src="/img/blocks/slack.svg" alt="slack logo" /></a>
+        <p style="margin-top:5px;">
+          {{ with .Site.Params.help_center }}
+            {{ . | safeHTML }}
+          {{ end }}
+        </p>
       </div>
 
     </div><!-- row -->

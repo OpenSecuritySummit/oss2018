@@ -1,4 +1,4 @@
-<div class="clues">
+<div class="clues hidden-print">
    <ul class="visual-clues">
      {{ if eq .Params.locked true }}
         <li><a><i class="fa fa-lock"></i></a></li>
@@ -27,16 +27,5 @@
         <li><a  class="bg-danger" href="{{ ref . "faq/Organisers-duties.md" }}"><i class="fa fa-exclamation-circle"></i> needs organizer </a></li>
     {{ end }}
 
-    {{ with .Params.session_slack }}
-      <li class="pull-right"><a class="bg-default" href="{{ . }}"><i class="fa fa-slack"></i> Messaging/Info </a></li>
-   {{ end }}
-
-   {{ with .Params.outcomes }}
-     <li class="pull-right"><a class="bg-default" href="{{ . }}"><i class="fa fa-slack"></i> Outcomes </a></li>
-  {{ end }}
-
-  {{ with .Params.outcomes_2017 }}
-    <li class="pull-right"><a class="bg-default" href="{{ . }}"><i class="fa fa-slack"></i> Past Outcomes </a></li>
- {{ end }}
  </ul>
 </div>

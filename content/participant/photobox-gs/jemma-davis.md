@@ -17,7 +17,7 @@ night_where     : villa-1
 night_room      : 2
 pre_summit      : Fri, Sat, Sun
 ticket          : 5x24h
-regonline       : Yes
+eventbrite_id   :
 pre_summit      : Fri,Sat,Sun
 status          : add details
 sessions:

@@ -11,8 +11,8 @@ featured     :
 when_day     : Wed
 when_time    : Eve-1
 room_layout  :
-room_number  :
-session_slack:
+room_id      :
+session_slack: https://os-summit.slack.com/messages/CAWFP318F
 status       : draft              # draft, review-content, done
 description  : When to move the Elastic (ELK) stack from Open source into the commercial services provided by Elastic
 organizers   :

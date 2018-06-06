@@ -120,6 +120,12 @@ a.nav {
 
 .inner_main_product_sessions{ height:284px; position:relative; background:url(/img/pages/working_sessions.jpg) no-repeat center bottom; background-size:cover;}
 
+.inner_main_outcomes{ height:284px; position:relative; background:url(/img/pages/outcomes.png) no-repeat center bottom; background-size:cover;}
+
+.background-outcomes {
+    background: url(/img/pages/outcomes.png) center center repeat;
+}
+
 .background-default {
     background: url(/img/banners/default.png) center center repeat;
 }
@@ -1142,6 +1148,11 @@ div.google-map {
   margin-right: auto;
 }
 
+.customers {
+  display: flex;
+  flex-direction: column;
+}
+
 .customers .item img {
   opacity: 0.5;
 }
@@ -1382,6 +1393,20 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .list_attendees ul li:active a h4{ color:#fff;}
 
 
+/* 30/05/2018 the following style is for the summit teams page */
+.list_team_attendees h2{ padding-top:40px; font-size:48px; text-align:center; margin-top:0; position:relative; padding-bottom:30px; margin-bottom:60px; color:#00549e; font-family: 'Oswald', sans-serif; font-weight:600; text-transform:uppercase;} .list_team_attendees h2:before{ content:""; width:100px; height:10px; margin-left:-50px; position:absolute; left:50%; bottom:0; background:#98c1df;}
+.list_team_attendees ul{ margin:0; padding:0; list-style:none; display:table; border-collapse: separate; border-spacing:16px 8px;}
+.list_team_attendees ul li:nth-child(5n+5){ margin-right:0;}
+.list_team_attendees ul li { display:table-cell; text-align:center; width:20%; background:#fff; border:#eceff1 1px solid; border-radius:8px; padding:30px 10px;}
+.list_team_attendees ul li a{ display:block;}
+.list_team_attendees ul li a i img{ object-fit:cover; width:150px;}
+.list_team_attendees ul li a h4{ font-size:18px; text-transform:uppercase; font-family: 'Oswald', sans-serif; font-weight:500; margin:30px 0px 0px; color:#78909c;}
+.list_team_attendees ul li:hover{ background:#eceff1; border:#eceff1 1px solid; text-decoration:none;}
+.list_team_attendees ul li:focus a{ text-decoration:none;}
+.list_team_attendees ul li:hover a h4{ color:#00549e;}
+.list_team_attendees ul li:hover a, .list_team_attendees ul li a:focus{ text-decoration: none;}
+.list_team_attendees ul li:active { background:#00549e; border:#00549e 1px solid;}
+.list_team_attendees ul li:active a h4{ color:#fff;}
 
 
 @media (min-width:768px){
@@ -1400,6 +1425,9 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 	.list_attendees ul li a h4{ font-size:14px;}
 	.list_attendees ul li a i img{ width:115px; height:115px;}
 
+  .list_team_attendees ul li a h4{ font-size:14px;}
+  .list_team_attendees ul li a i img{ width:115px; height:115px;}
+
 	}
 
 @media (min-width:768px) and (max-width:991px){
@@ -1408,6 +1436,10 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 .list_attendees ul{ border-spacing:10px 5px;}
 .list_attendees ul li a i img{ width:80px; height:80px;}
 .list_attendees ul li a h4{ font-size:12px;}
+
+.list_team_attendees ul{ border-spacing:10px 5px;}
+.list_team_attendees ul li a i img{ width:80px; height:80px;}
+.list_team_attendees ul li a h4{ font-size:12px;}
 
 	}
 
@@ -1424,6 +1456,9 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 
 .list_attendees ul{  display:block; border-collapse: separate; border-spacing: 0px;}
 .list_attendees ul li{ display:block; width:100%; margin-bottom:25px;}
+
+.list_team_attendees ul{  display:block; border-collapse: separate; border-spacing: 0px;}
+.list_team_attendees ul li{ display:block; width:100%; margin-bottom:25px;}
 
 
 }
@@ -1489,9 +1524,6 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 
 /* About 2017 - Previous summit page */
-.about2017_sec{
-  margin-bottom:40px;
-}
 
 .about2017_sec .row{
   display:flex;
@@ -1523,7 +1555,7 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
 }
 
 /** OSS Card */
-.oss-card {
+.oss-card-small {
   background:#fff;
   border:#cfd8dc 2px solid;
   margin-bottom:20px;
@@ -1531,41 +1563,41 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   flex-direction: column;
   min-width: 100%;
 }
-.oss-card:hover {
+.oss-card-small:hover {
   border:#00549e 2px solid;
 }
-.oss-card:hover .oss-card-title {
+.oss-card-small:hover .oss-card-small-title {
   text-align: center;
   border-bottom:#00549e 2px solid;
   background:#00549e;
 }
-.oss-card:hover .oss-card-title h3 {
+.oss-card-small:hover .oss-card-small-title h3 {
   color:#fff;
 }
-.oss-card:hover { color:#00549e;}
+.oss-card-small:hover { color:#00549e;}
 
-.oss-card-title {
+.oss-card-small-title {
   border-bottom:#cfd8dc 2px solid; padding:20px 10px; text-align:center;
 }
-.oss-card-title h3{ margin:0; color:#546e7a;}
+.oss-card-small-title h3{ margin:0; color:#546e7a;}
 
-.oss-card-body {
+.oss-card-small-body {
   display: flex;
   flex-direction: column;
   padding:25px 35px 30px;
 }
 
-.oss-card .featured {
+.oss-card-small .featured {
   flex-grow: 1;
   justify-content: space-between;
 }
-.oss-card-body ul{ margin:0px; padding:0;}
+.oss-card-small-body ul{ margin:0px; padding:0;}
 
-.oss-card-body ul li {
+.oss-card-small-body ul li {
   margin-bottom:15px;
 }
 
-.oss-card-bottom {
+.oss-card-small-bottom {
   display: flex;
   flex-grow: 1;
   margin-top: auto;
@@ -1573,12 +1605,12 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   padding:25px 35px 30px;
 }
 
-.oss-card-lead {
+.oss-card-small-lead {
   padding: 10px;
   border-bottom:#cfd8dc 1px solid;
   color:#546e7a;
 }
-.oss-card-button {
+.oss-card-small-button {
   display: flex;
   margin-top: auto;
   justify-content: center; /* align horizontal */
@@ -1587,8 +1619,143 @@ font-family: 'Roboto', sans-serif; font-weight:400;} .remote_participant span{ c
   background:#87bb40; outline:none !important; border:none !important;
 }
 
-.oss-card-button:hover, .oss-card-button:focus{
+.oss-card-small-button:hover, .oss-card-small-button:focus{
   color:#fff;
   background:#1fc4f4;
 }
-.oss-card-button:active { background:#00549e; }
+.oss-card-small-button:active { background:#00549e; }
+
+/* FAQ pages - VBU was here 30/05/2018 */
+.FAQs_main_content, .FAQs_list_main_content
+{
+  padding:20px 0 20px 0;
+}
+
+/* Sponsored by image size */
+.sponsored-by {
+  width:150px;
+}
+
+/* sidebars */
+.grey-sidebar {
+  background: #f5f7fa;
+}
+
+.grey-sidebar.onsite h2 {
+  font-family: 'Oswald';
+  color: #87BB40;
+  font-weight: 400;
+}
+
+.outcome-content h1 {
+  font-family: 'Roboto Slab';
+  font-weight: bold;
+  font-size: 36pt;
+}
+
+.oswald-blue {
+  font-family: 'Oswald';
+  font-size: 16px;
+  font-weight: 400;
+  color: #00549E;
+}
+
+/** OSS Small Card */
+.oss-card-small {
+  background:#fff;
+  border:#cfd8dc 2px solid;
+  margin-bottom:5px;
+  display: flex;
+  flex-direction: column;
+  min-width: 100%;
+}
+.oss-card-small:hover {
+  border:#00549e 2px solid;
+}
+.oss-card-small:hover .oss-card-small-title {
+  text-align: center;
+  border-bottom:#00549e 2px solid;
+  background:#00549e;
+}
+.oss-card-small:hover .oss-card-small-title h3 {
+  color:#fff;
+}
+.oss-card-small:hover { color:#00549e;}
+
+.oss-card-small-title {
+  border-bottom:#cfd8dc 2px solid; padding:20px 10px; text-align:center;
+}
+.oss-card-small-title h3{ margin:0; color:#546e7a;}
+
+.oss-card-small-body {
+  display: flex;
+  flex-direction: column;
+  padding:5px 5px 10px;
+}
+
+.oss-card-small .featured {
+  flex-grow: 1;
+  justify-content: space-between;
+}
+.oss-card-small-body ul{ margin:0px; padding:0;}
+
+.oss-card-small-body ul li {
+  margin-bottom:5px;
+}
+
+.oss-card-small-bottom {
+  display: flex;
+  flex-grow: 1;
+  margin-top: auto;
+  text-align: center;
+  padding:5px 5px 10px;
+}
+
+.oss-card-small-lead {
+  padding: 5px;
+  border-bottom:#cfd8dc 1px solid;
+  color:#546e7a;
+}
+.oss-card-small-button {
+  display: flex;
+  margin-top: auto;
+  justify-content: center; /* align horizontal */
+  align-items: center; /* align vertical */; border-radius:0; width:100%; text-align:center; height:40px; font-size:15px; color:#fff; text-transform:uppercase;
+  font-family: 'Oswald', sans-serif; font-weight:500;
+  background:#87bb40; outline:none !important; border:none !important;
+}
+
+.oss-card-small-button:hover, .oss-card-small-button:focus{
+  color:#fff;
+  background:#1fc4f4;
+}
+.oss-card-small-button:active { background:#00549e; }
+
+ul.nav.nav-pills.nav-oss > li > a {
+  text-decoration: none;
+  font-family: 'Oswald'; font-weight:900;
+  font-size: 22px;
+  text-transform:uppercase;
+  background-color: #87bb40 !important;
+  color: #fff;
+}
+
+ul.nav.nav-pills.nav-oss > li.active >a {
+  background-color: #00549e !important;
+}
+
+ul.nav.nav-pills.nav-oss > li > a:hover {
+  border-top: 0 none;
+  border-bottom: 4px solid #87bb40;
+}
+.nav-oss ul > li.active > a,
+.nav-oss ul > li.open > a {
+  text-decoration: none !important;
+  border-top: 0 none;
+  border-bottom: 4px solid #87bb40;
+}
+
+ul.customers li.item.sponsors {
+  display: inline-block;
+  padding-left: 0px;
+}

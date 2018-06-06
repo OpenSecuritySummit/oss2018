@@ -11,7 +11,7 @@ website         :
 email           :
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : add-details
 sessions:
 notes :

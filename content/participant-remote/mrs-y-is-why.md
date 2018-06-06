@@ -12,7 +12,7 @@ website         : https://postmodernsecurity.com/
 email           :
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : add-details
 sessions        :
     - Integrating Security Tools in the SDL using OWASP DevSecOps Studio

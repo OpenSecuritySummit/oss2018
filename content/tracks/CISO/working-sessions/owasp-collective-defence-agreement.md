@@ -1,19 +1,21 @@
 ---
-title        : OWASP Collective Defence Cluster (CDC)
+title        : OWASP Collective Defence Cluster (CDC) - One year on
 type         : working-session
 track        : CISO
 topics       : ["Owasp Project"]
 featured     : yes                   # review with summit team "yes"
 when_day     : Tue
-when_time    : PM-1
+when_time    : DS-2
 room_layout  :
-room_number  :
+room_id      : table-3
 session_slack: https://os-summit.slack.com/messages/CAUSJ7P4H
 status       : review-content     # draft, review-content, done
 organizers   :
 description  :
 participants :
 ---
+
+This Working Session aims to continue the work done at the last Summit on this CDC model.
 
 ## Why
 
@@ -29,19 +31,17 @@ companies should share information, knowledge, and resources so that malicious a
 The framework created at the Working Session will promote collaboration between companies and create a shared mission to
 protect customer data and company assets.
 
-This Working Session aims to discuss and agree a first draft of 'AppSec Article 5'.
-
 ## What
 
- - Quickly review current similar efforts and learn from what worked and what didn't work (i.e. no need to re-invent the wheel)
- - Create a first definition of AppSec Article 5 (with rules of engagement)
- - Create a first list of companies that will sign the first version
+ - Review model created last year
+ - Share experiences from companies that tried it
+
 
 ## Outcomes
 
 - Create one page document with the statement supported by FAQ
-- Commitment to go to the boards for commitment
-- Signed letter of intent (CISO's and Heads of)
+- Commitment for more companies to try it
+- Commitment to explore further integrations and collaboration workflows
 
 ## Who
 

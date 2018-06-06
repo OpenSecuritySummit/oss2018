@@ -11,8 +11,8 @@ twitter         :
 facebook        :
 website         :
 email           :
-venue           : Wed
-regonline       :
+venue           : Tue
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

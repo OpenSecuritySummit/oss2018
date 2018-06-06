@@ -11,8 +11,8 @@ featured     :
 when_day     : Mon
 when_time    : Eve-2
 room_layout  :
-room_number  :
-session_slack:
+room_id      : villa-3
+session_slack: https://os-summit.slack.com/messages/CAUP56U8G
 status       : draft              # draft, review-content, done
 description  : Try the Avatao learning platform
 organizers   :
@@ -31,4 +31,3 @@ The session runs on the [avatao](https://avatao.com) platform, an online tool th
 ## Outcomes
 
 The goal of the session is to raise awareness about the most common and most important web application security weaknesses by finding vulnerabilities and learning how to avoid/fix them.
-

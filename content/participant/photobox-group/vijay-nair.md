@@ -16,7 +16,7 @@ email           : vijay.nair@photobox.com
 venue           : Tue
 night_day       :
 night_where     :
-regonline       :
+eventbrite_id   :
 status          : add-details
 sessions:
     - Creating a standard for GDPR patterns

@@ -25,13 +25,12 @@
         </div>
     </div>
 
+    {{ partial "schedule/by-room/links-to-days.html" }}
 
-    {{ $working_sessions   := where .Site.Pages ".Params.type" "working-session" }}
-    {{ $user_sessions      := where .Site.Pages ".Params.type" "user-session"    }}
-    {{ $product_sessions   := where .Site.Pages ".Params.type" "product-session"    }}
+    <h3>Schedule for Today</h3>
 
-    {{ $pages := union (union $working_sessions $user_sessions) $product_sessions }}
 
-    {{ partial "schedule/track-by-days.html" (dict "self" . "pages" $pages ) }}
+    <h1>Wednesday</h1>
+    {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Wed" ) }}
 
 {{ end }}

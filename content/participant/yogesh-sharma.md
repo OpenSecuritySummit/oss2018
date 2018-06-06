@@ -12,7 +12,7 @@ website         : https://yog3shsharma.wordpress.com/
 email           :
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

@@ -1,4 +1,5 @@
 ---
+draft : true
 title: Sponsored Participants
 layout: sponsored-participants
 ---

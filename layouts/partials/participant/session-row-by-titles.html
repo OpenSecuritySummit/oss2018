@@ -1,6 +1,6 @@
 {{ range .titles }}
     {{ $title   := .}}
-    {{ $matches := (where $.this.Site.Pages ".Params.title" $title) }}
+    {{ $matches := where (where $.this.Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome" }}
     <tr>
         {{ if $matches }}
             {{ $page := (index $matches 0) }}

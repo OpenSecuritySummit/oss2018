@@ -12,7 +12,7 @@ website         :
 email           : clydevassallo93@gmail.com
 project_leader  : 
 chapter_leader  : 
-regonline       :
+eventbrite_id   :
 status          : 
 sessions        :
     - Creating a Steady-State Hypothesis

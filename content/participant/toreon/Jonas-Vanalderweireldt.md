@@ -10,8 +10,12 @@ twitter         : _JVAW
 facebook        :
 website         :
 email           : Jonas.Vanalderweireldt@toreon.com
-regonline       :
+eventbrite_id   :
 status          : done
 sessions        : 
+  - Owasp Cloud Security Workshop (BETA)
+  - OWASP Defect Dojo
+  - Integrating Security Tools in the SDL using OWASP DevSecOps Studio
+  - JIRA-NeoVis tool
 notes           :
 ---

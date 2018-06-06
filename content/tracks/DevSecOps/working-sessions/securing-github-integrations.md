@@ -6,10 +6,10 @@ topics       : ["CI Pipeline"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :                    # review with summit team "yes"
-when_day     :  Wed
-when_time    :  AM-1
+when_day     :  
+when_time    :  
 room_layout  :                    #
-room_number  :
+room_id      : table-4
 session_slack: https://os-summit.slack.com/messages/CAVDGHD1Q
 status       : review-content              # draft, review-content, done
 outcomes_2017: https://owaspsummit.org/Outcomes/GitHub-Security-Feature-Request.html

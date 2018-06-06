@@ -14,7 +14,7 @@ email           :
 venue           : TBC
 night_day       : TBC
 night_where     :
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :

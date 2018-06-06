@@ -9,10 +9,10 @@ linkedin        :
 twitter         :
 facebook        :
 website         :
-email           : 
+email           : wcao@zendesk.com
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : 
 sessions        :
     - OWASP Defect Dojo

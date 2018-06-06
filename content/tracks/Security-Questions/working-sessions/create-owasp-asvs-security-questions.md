@@ -5,8 +5,7 @@ track        : Security Questions
 technology   :
 when_day     : Thu
 when_time    : PM-2
-room_layout  :
-room_number  :
+room_id      : room-4
 session_slack: https://os-summit.slack.com/messages/CAV5Y63GC
 status       : ok
 organizers   :

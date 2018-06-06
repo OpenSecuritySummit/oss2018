@@ -6,7 +6,7 @@ job_title       :
 company         : Photobox GS
 travel_from     :
 image           :
-linkedin        : https://www.linkedin.com/in/tobyshelswell/
+linkedin        : tobyshelswell
 twitter         :
 facebook        :
 website         :
@@ -14,7 +14,7 @@ email           :
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-4
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

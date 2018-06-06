@@ -1,0 +1,19 @@
+<table class="table">
+    <thead>
+    <th class="schedule-by-track-row-time"></th>
+    {{ range $key ,$value := .where}}
+    <th>
+        <div class="schedule-by-track-cell-room-name">{{ $value.title}}</div>
+        <div class="schedule-by-track-cell-room-id">{{ if hasPrefix $key "villa" }} {{ (index $.self.Site.Data.schedule.villas $key).location }}
+        {{ else }}
+            {{ $key }}
+        {{ end }}
+
+        {{ .self.Scratch.Get "name"}}    </div>
+    </th>
+    {{ end }}
+    </thead>
+    {{range .times }}
+        {{ partial "schedule/by-room/row.html" (dict "self" $.self "where" $.where "time" . )}}
+    {{end }}
+</table>

@@ -13,9 +13,9 @@ facebook        :
 website         :
 email           :
 venue           : Wed, Thu
-night_day       : Tue, Wed
+night_day       : Tue, Wed, Thu
 night_where     : villa-6
-regonline       :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

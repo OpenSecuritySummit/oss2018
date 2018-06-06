@@ -12,9 +12,17 @@ website         : https://faculty.bentley.edu/details.asp?uname=mclaugh_mark
 email           :
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : add-details
 sessions        :
+ - SAMM2 Kickoff
+ - OwaspSAMM - Best Practices
+ - SAMM Introduction 
+ - SAMMv2 working session - Governance
+ - SAMMv2 working session - Verification
+ - SAMM DevSecOps Version
+ - DevSecOps Maturity Model (DSOMM)
+ - SAMM Project Meeting
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---

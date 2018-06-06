@@ -1,5 +1,5 @@
 {{ $title           := .Params.title }}
-{{ $site_Pages      := .Site.Pages }}
+{{ $site_Pages      := where .Site.Pages ".Params.type" "!=" "outcome" }}
 
 <h3>{{ .Params.title }} Daily Schedule</h3>
 
@@ -30,7 +30,7 @@
         {{ end }}
     {{end }}
 
-    {{ if in .Params.title $.Params.sessions}}                          {{/* add current user's sessions */}}
+    {{ if in .Params.title $.Params.sessions }}                          {{/* add current user's sessions */}}
         {{ $.Scratch.Add "pages" (slice $page) }}
     {{ end }}
 
@@ -39,6 +39,16 @@
             {{if eq $.Params.title . }}
                 {{ $.Scratch.Add "pages" (slice $page) }}
             {{ end }}
+        {{ end }}
+    {{ end }}
+
+    {{ if eq .Params.type "team" }}
+        {{ if in .Params.members $title }}
+            {{ $matches := where (where $site_Pages ".Params.title" "in" .Params.sessions) ".Params.type" "!=" "outcome" }}
+            {{ range $matches }}
+                {{ $.Scratch.Add "pages" (slice .) }}
+            {{ end }}
+
         {{ end }}
     {{ end }}
 
@@ -65,5 +75,4 @@
 {{ end }}
 
 {{ $pages := .Scratch.Get "pages" }}
-
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
