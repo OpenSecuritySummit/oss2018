@@ -27,6 +27,7 @@ sessions        :
   - Adding security to VSTS pipeline
   - Thinking in Graphs
   - Describe different ways of implementing TM in agile organisations
+  - Informational Awareness
   - Creating Appsec metrics and visualisation
   - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
   - Integrating Security into an Spotify Model (and using Squads for Security teams)
