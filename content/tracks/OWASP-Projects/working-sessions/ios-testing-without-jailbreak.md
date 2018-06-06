@@ -14,6 +14,7 @@ session_slack: https://os-summit.slack.com/messages/CAWEZBWJK
 status       : done              # draft, review-content, done
 organizers   : Sven Schleier
 participants :
+    - Arne Zismer
 description  : Mobile Security Working Session
 ---
 
