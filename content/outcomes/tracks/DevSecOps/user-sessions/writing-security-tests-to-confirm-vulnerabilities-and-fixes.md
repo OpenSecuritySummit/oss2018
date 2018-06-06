@@ -1,5 +1,5 @@
 ---
-title        : CISO Ask Me Anything (AMA)
+title        : Writing security tests to confirm vulnerabilities and fixes
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
