@@ -45,7 +45,7 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010157-be617710-692d-11e8-9eee-5d73f0c1568b.jpg" caption="Risk management"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010166-bf34333a-692d-11e8-8723-34decd02fae2.jpg" caption="The Presenter"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010167-bf58e4d2-692d-11e8-8e94-7ba79099a096.jpg" caption="DPO on GDPR"  >}}
-  {{< figure link="https://user-images.githubusercontent.com/15072044/41010164-bef84eec-692d-11e8-89b4-b1b957bc8264.jpg" caption="Drop your mind. Join us in #Sluck"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41010164-bef84eec-692d-11e8-89b4-b1b957bc8264.jpg" caption="Drop your mind. Join us in #Slack"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010165-bf11c99e-692d-11e8-9d83-fc40789f4cb6.jpg" caption="We organized the first session on the Summit with a remote organizer"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010155-be2fea9c-692d-11e8-9bd2-3d6532189fbe.jpg" caption="#Slack me!"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010142-bcd4f30e-692d-11e8-9efb-c424b7694ff6.jpg" caption="Another diagram in the wall"  >}}
