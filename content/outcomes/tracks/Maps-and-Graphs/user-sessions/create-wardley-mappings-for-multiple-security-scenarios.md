@@ -1,5 +1,5 @@
 ---
-title        : Wardley Mapping – a practical session on how to use value chain mapping
+title        : Create Wardley Maps for multiple security scenarios
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
