@@ -14,6 +14,21 @@ description  : Best practice cheat sheet for integrating Agile Security into the
 organizers   :
     - Stu Hirst
 participants :
+    - James WHarton
+    - Jemma Davis-Smith
+    - Simon Pavillion
+    - Dan Gapco
+    - John Killilea
+    - Naushad Saboor
+    - Ann-Marie Grace
+    - Christoph Jung
+    - Goher Mohammad
+    - Robert Grace
+    - David Cervigni
+    - Dinis Cruz
+    - Sotiraki Sima
+    - Felicia Hislop
+    - Manuel Almeida
 ---
 
 ## Why
