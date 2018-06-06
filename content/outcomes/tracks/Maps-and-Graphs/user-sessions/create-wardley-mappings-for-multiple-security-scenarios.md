@@ -27,10 +27,11 @@ Second, we mapped an AWS attack
  - An understanding of the lifecycle of a process is essential - from Geneisis (e.g., a prototype) to a commodity that is industrially produced, via customisation (refinement) into a product which then becomes a commodity.
   - Each of these phases has greater or lesser visbility on the value chain
   - Knowing where a component falls on the value chain can be subjective, and there was some lively debate over whether the tea planter/picker was visible or invisible to the process
- 
+
 ## Working Materials (recommend)
 The accompanying slides give a sample of how different groups mapped "Making Tea" and "AWS Attack"
 [Slides posted to Slack](https://os-summit.slack.com/messages/CB1HGSDHU)
+[SEssion Outcome](https://files.slack.com/files-pri/TAULHPATC-FB1H5KG4R/wardley-maps-outcomes-d1.pdf)
 
 ## References (recommend)
 
@@ -38,4 +39,3 @@ The accompanying slides give a sample of how different groups mapped "Making Tea
 ### Additional/External References
 
  - [Here](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) is a link to more on \Mapping the Wardley Way
-
