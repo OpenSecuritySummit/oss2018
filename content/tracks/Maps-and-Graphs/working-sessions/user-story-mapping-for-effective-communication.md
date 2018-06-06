@@ -17,6 +17,7 @@ organizers   :
 participants :
     - Vladimir Voskresenskiy
     - Orid Ahmed
+    - Tony Richards
 ---
 
 
