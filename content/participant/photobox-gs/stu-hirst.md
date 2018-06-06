@@ -30,6 +30,12 @@ sessions:
   - Creating ELK Dashboards
   - Gamifying Security Dashboards
   - Running CTF Games with OWASP Juice Shop
+  - AWS Lambda Security
+  - Securing AWS S3 Buckets
+  - Integrating Security into an Spotify Model (and using Squads for Security teams)
+  - Integrating Security Tools in the SDL
+  - Writing security tests to confirm vulnerabilities and fixes
+ 
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
