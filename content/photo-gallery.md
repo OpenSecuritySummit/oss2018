@@ -67,6 +67,9 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41031770-76e1742a-6979-11e8-82d6-88550bf7c989.jpg" caption="Thinking in graphs keynote"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41031772-775d7c1e-6979-11e8-9763-0e82ebb86b59.jpg" caption="To graph or not to graph the quesion is now!"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41031773-7776cca0-6979-11e8-8cc5-c5393367f859.jpg" caption="Mind maps are representation of graphs that communicate ideally with human brain and how it captures the information"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41035303-25016ccc-6984-11e8-8411-28d829b0b9d5.jpg" caption="Just use the force! (OWASP DevSecOps Studio)"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41035304-25364e42-6984-11e8-8439-3b0ab3efd653.jpg" caption="Hands on generation"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41035305-2550a364-6984-11e8-9e9e-79f645189b7e.jpg" caption="AWS WAF for DDoS Mitigation"  >}}
 
 
 {{< /gallery >}}
