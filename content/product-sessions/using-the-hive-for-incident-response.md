@@ -8,7 +8,7 @@ session_type : Chatham house rules
 technology   :
 categories   :
 featured     :
-when_day     : Wed
+when_day     : Thu
 when_time    : Eve-1
 room_layout  :
 room_id      : villa-2
