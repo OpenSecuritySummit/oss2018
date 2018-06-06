@@ -20,6 +20,12 @@ sessions:
     - Security Crowdsourcing
     - Securing GitHub Integrations
     - Securing the CI Pipeline
+    - Security Champions
+    - Agile Practices for Security Teams
+    - Security Playbooks
+    - Adding security to VSTS pipeline
+    - How to scale Threat Modeling
+    - Docker and Kubernetes Threat Modeling Cheat Sheet	
 
 ---
 
