@@ -15,6 +15,7 @@ organizers   :
 participants :
     - Stephen Hookings
     - John Killilea
+    - Arne Zismer
 ---
 
 Hands on session writing security tests
