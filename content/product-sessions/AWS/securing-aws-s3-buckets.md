@@ -18,6 +18,7 @@ participants :
     - Vladimir Voskresenskiy
     - Giorgio Bonfiglio
     - Orid Ahmed
+    - Mario Platt
 ---
 
 Hands on session on how to secure AWS S3 Buckets
