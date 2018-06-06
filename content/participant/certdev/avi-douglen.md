@@ -35,6 +35,7 @@ sessions        :
   - A seat at the table
   - Adding Privacy by Design in Secure Application Development
   - Crossing the river by feeling the stones
+  - Women in Cyber-security: improving the gender balance
 
 ---
 
