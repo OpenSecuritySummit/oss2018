@@ -8,7 +8,7 @@ when_day     : Thu
 when_time    : PM-1
 room_layout  :                    #
 room_id  : room-1
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB1N876EB
 status       : done              # draft, review-content, done
 organizers   : Steven Wierckx
 description  : Threat model guide with levels
