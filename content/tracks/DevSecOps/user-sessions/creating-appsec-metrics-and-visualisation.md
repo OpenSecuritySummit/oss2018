@@ -14,7 +14,6 @@ session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   :
   - Imran Mohammed A
-  - Paul Dubourg
   
 description  : AppSec Metrics and Visualisation
 participants : 
