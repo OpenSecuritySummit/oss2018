@@ -12,14 +12,16 @@ session_slack: https://os-summit.slack.com/messages/CAVB49FRR
 status       : review-content                   # draft, review-content, done
 description  : Hands on user session on how to use Threat Models in GDPR mappings
 organizers   :
-    - Sotiraki Sima
+  - Sotiraki Sima
 participants :
-- Naushad Saboor
+  - Naushad Saboor
 ---
 
 Hands on user session on how to use Threat Models in GDPR mappings
 
-According to https://os-summit.slack.com/messages/CAVB49FRR/ this is now in the Photobox villa, 317, and I do not know what villa # that is to update the page to show that.
+This session will take place in the Photobox villa and not the SAMM villa!!!
+
+This is villa 317
 
 <!--(add intro)
 
