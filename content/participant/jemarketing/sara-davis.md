@@ -35,11 +35,12 @@ sessions:
     - Back to the future with Threat Modeling
     # Wednesday
     - Thinking in Graphs
+    - Docker and Kubernetes Threat Modeling Cheat Sheet
     - Women in Cyber-security: improving the gender balance
-    - Ask me anything (AMA) - Meet the Experts
+    #- Ask me anything (AMA) - Meet the Experts
     - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
-    - AppSec SOC Monitoring Visualisation
-    - Using Elastic Stack services
+    #- SOC Monitoring Visualisation
+    #- Using Elastic Stack services
     # Thursday
     - Integrating Security Tools in the SDL
     - JIRA - how to use it
