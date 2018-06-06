@@ -4,8 +4,8 @@ type         : working-session
 track        : Misc
 topics       :
 when_day     : Thu
-when_time    : PM-1
-room_id      : room-5
+when_time    : DS-2
+room_id      : 
 session_slack: https://os-summit.slack.com/messages/CB2PVA414
 categories   :
 description  : How to use AI and ML for incident response
