@@ -64,5 +64,9 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010152-bde56e04-692d-11e8-9283-2726c1f0702b.jpg" caption="Communication, Collaboration, Success"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010147-bd705f92-692d-11e8-9536-e6c372ba4a55.jpg" caption="Late night SAMM discussions"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41010154-be17a162-692d-11e8-84f8-3cb855ae473d.jpg" caption="Security"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41031770-76e1742a-6979-11e8-82d6-88550bf7c989.jpg" caption="Thinking in graphs keynote"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41031772-775d7c1e-6979-11e8-9763-0e82ebb86b59.jpg" caption="To graph or not to graph the quesion is now!"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41031773-7776cca0-6979-11e8-8cc5-c5393367f859.jpg" caption="Mind maps are representation of graphs that communicate ideally with human brain and how it captures the information"  >}}
+
 
 {{< /gallery >}}
