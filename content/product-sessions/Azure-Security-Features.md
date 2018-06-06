@@ -25,6 +25,46 @@ participants :
  - Gabor Pek
  - Imran Mohammed A
  - John Dileo
+ - abdullah garcia
+ - abhinav sejpal
+ - adam shostack
+ - alex chapman
+ - alina radu
+ - amanda colpoys
+ - andre fourie
+ - ante gulam
+ - aurelijus stanislovaitis
+ - benjamin brunzel
+ - carlos holguera
+ - clara anel mansilla
+ - claudio camerino
+ - colin domoney
+ - cristian torres
+ - davide cioccia
+ - dominik de smit
+ - ian taylor
+ - jacob christiansen
+ - jannik hollenbach
+ - joset zamora
+ - kevin fielder
+ - manish saindane
+ - manuel jeckelmann
+ - marjorie mohammad
+ - matt pendlebury
+ - panagiotis yialouris
+ - pedro laguna
+ - peter turczak
+ - radu tighineanu
+ - roni yaari
+ - ruediger heins
+ - russell coleman
+ - sotiraki sima
+ - stephanie vanroelen
+ - stephen hookings
+ - sven schleier
+ - tony richards
+ - yogesh sharma
+ - yuriy ackermann
  - Nicole Becher
 
 ---
