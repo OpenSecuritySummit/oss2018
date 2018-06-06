@@ -6,7 +6,7 @@ company         : self-employed
 travel_from     :
 image           :
 linkedin        : kevan-bard-4201663
-twitter         : @swisskbar
+twitter         : swisskbar
 facebook        :
 website         :
 email           : kevanrbard@gmail.com
