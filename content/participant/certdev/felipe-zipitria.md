@@ -34,6 +34,7 @@ sessions:
   - Customising the Chaos Toolkit
   - Akamai WAF & Ruleset
   - AWS WAF for DDoS Mitigation
+  - Adding CRS3 and Pixi to CircleCI pipeline
 
 
 notes :
