@@ -18,13 +18,13 @@ description  : A demonstration of a few of Azure's Security features including -
 organizers   :
   - Tanya Janca
 participants : 
- - FRANZISKA BUEHLER
- - DOMINIK DE SMIT
- - FELIPE ZIPITRIA
- - FRASER SCOTT
- - GABOR PEK
- - IMRAN MOHAMMED A
- - JOHN DILEO
+ - Franziska Buehler
+ - Dominik De Smit
+ - Felipe Zipitria
+ - Fraser Scott
+ - Gabor Pek
+ - Imran Mohammed A
+ - John Dileo
  - Nicole Becher
 
 ---
