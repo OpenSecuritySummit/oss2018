@@ -1,36 +1,48 @@
 ---
 title        : Using User Story Mapping for effective communication
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session    
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : Mapping
+status       : draft              
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
-
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
-
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
-
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
-
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+## Outcomes/Deliverables 
+- A number of visualisations of user mappings
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+- Methodology of user mapping was discussed:
+   - Write a high-level story or epic
+   - Break it down into a series of smaller stories
+   - The stories should be written from the user's perspective:
+      - Describe the type of user, what they want, and why 
+      
+ ### 'Invest' mnemonic
+ - **I**ndependent
+ - **N**egotiable
+ - **V**aluable
+ - **E**stimable
+ - **S**mall
+ - **T**estable
+ 
+ ### Session examples
+First example:
+    - A Chief Compliance Officer (the user)
+    - I want to be PCI compliant (what they want)
+    - So I can process credit card payments (why)
+
+The various elements of this epic can be analysed as smaller stories or tasks within the epic, that can be done by the devs, for example:
+- Encryption 
+- OWASP Top 10
+- Card holder data
+- Intrusion detection
+
+Or, reverse engineer what makes sense to the devs
+
+
 
 ## Identified Questions
 *The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
