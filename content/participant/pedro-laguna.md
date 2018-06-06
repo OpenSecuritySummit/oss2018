@@ -23,7 +23,14 @@ sessions        :
   - Creation of Security Buttons
   - A long successful career in IT (women in tech)
   - Agile Practices for Security Teams
-  - Using JIRA to create and execute Security Playbooks
+  - Creating Open Source Avatao exercises
+  - Adding security to VSTS pipeline
+  - Thinking in Graphs
+  - Describe different ways of implementing TM in agile organisations
+  - Creating Appsec metrics and visualisation
+  - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
+  - Integrating Security into an Spotify Model (and using Squads for Security teams)
+  - Using The Hive for Incident Response
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
