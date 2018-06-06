@@ -5,7 +5,7 @@ job_title       : consultant
 company         : self-employed
 travel_from     :
 image           :
-linkedin        : https://www.linkedin.com/in/kevan-bard-4201663
+linkedin        : kevan-bard-4201663
 twitter         : @swisskbar
 facebook        :
 website         :
