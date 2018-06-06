@@ -17,6 +17,7 @@ organizers   :
 participants : 
   - Stephanie Vanroelen
   - Yasmin Martin
+  - Clara Anel Mansilla
     
 
 ---

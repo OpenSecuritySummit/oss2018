@@ -17,7 +17,15 @@ status       : done
 description  : A demonstration of a few of Azure's Security features including - Access Control (AIM), Just in Time (JIT), Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
 organizers   :
   - Tanya Janca
-participants :
+participants : 
+ - Franziska Buehler
+ - Dominik De Smit
+ - Felipe Zipitria
+ - Fraser Scott
+ - Gabor Pek
+ - Imran Mohammed A
+ - John Dileo
+ - Nicole Becher
 
 ---
 
