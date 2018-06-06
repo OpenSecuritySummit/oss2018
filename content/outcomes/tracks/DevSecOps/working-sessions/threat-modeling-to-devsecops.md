@@ -1,5 +1,5 @@
 ---
-title        : CISO Ask Me Anything (AMA)
+title        : From Threat Modeling to DevSecOps metrics
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
