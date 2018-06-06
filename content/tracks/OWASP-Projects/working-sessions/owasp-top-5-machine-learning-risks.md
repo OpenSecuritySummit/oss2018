@@ -15,6 +15,8 @@ status       : review-content              # draft, review-content, done
 description  :
 organizers   :
     - Talal Albacha
+    - Jean-Noël Colin
+    
 participants :
     - Sebastien Deleersnyder
 ---
