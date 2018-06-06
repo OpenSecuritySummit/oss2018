@@ -7,7 +7,7 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Thu
-when_time    : PM-1
+when_time    : AM-1
 room_id      : room-3
 locked       : true
 session_slack: https://os-summit.slack.com/messages/CAUP1P2U8
@@ -16,6 +16,8 @@ organizers   :
   - Tony Richards
   - Simon Wardley
 description  : Practical session on how to use value chain mapping.
+participants : 
+ - Manish Saindane
 ---
 
 Value Chain Mapping is used for all manner of initiatives; to aid corporate strategy development, to aid organizational development, to writing Sci-Fi books, to developing huge engineering projects, or to gain situational awareness.

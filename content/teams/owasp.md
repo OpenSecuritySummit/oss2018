@@ -9,7 +9,7 @@ twitter         :
 website         : https://www.owasp.org/
 email           :
 status          :
-sessions:
+_sessions:
     - Application Security Verification Standard
     - Create Owasp Top 10 Questions
     - Create Owasp AWS Security Questions
