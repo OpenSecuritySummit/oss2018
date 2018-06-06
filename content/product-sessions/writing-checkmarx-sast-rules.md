@@ -10,8 +10,8 @@ categories   :
 featured     :
 when_day     : Wed
 when_time    : Eve-2
-room_layout  :
-room_id      :
+room_layout  : 
+room_id      : villa-2
 session_slack   : https://os-summit.slack.com/messages/CAUP9KVTJ
 status       : draft              # draft, review-content, done
 description  : Hands on session on how to write custom rules for the Checkmarx SAST engine
