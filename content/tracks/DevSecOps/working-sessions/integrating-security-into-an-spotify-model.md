@@ -12,7 +12,7 @@ session_slack: https://os-summit.slack.com/messages/CAVA3LWPM
 status       : review-content              # draft, review-content, done
 description  : Best practice cheat sheet for integrating Agile Security into the Spotify model
 organizers   :
-    - Tony Richards
+    - Stu Hirst
 participants :
 ---
 
