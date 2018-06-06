@@ -24,6 +24,7 @@ participants :
     - Chris Allen
     - Simon Pavillon
     - Stephen de Vries
+    - Mario Platt
 ---
 
 ## Why
