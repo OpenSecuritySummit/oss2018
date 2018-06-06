@@ -33,6 +33,7 @@ sessions:
   - Creating a Steady-State Hypothesis
   - Customising the Chaos Toolkit
   - Akamai WAF & Ruleset
+  - AWS WAF for DDoS Mitigation
 
 
 notes :
