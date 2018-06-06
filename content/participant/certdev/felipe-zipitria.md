@@ -27,7 +27,6 @@ sessions:
   - Real world Chaos Engineering
   - Hands on Chaos Experiments
   - Hands-on GDPR Patterns
-  - Real world GDPR practices
   - Using graphs for GDPR mappings and visualisations
   - Integrating Security Tools in the SDL
   - Creating a Steady-State Hypothesis
