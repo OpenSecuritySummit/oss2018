@@ -30,6 +30,12 @@ sessions:
   - Using maps to define how to capture, detect and prevent 6 real-world security incidents
   - OWASP Collective Defence Cluster (CDC) - One year on
   - Share your playbooks and release them under Creative Commons
+  - AWS Lambda Security
+  - OWASP DevSecOps Studio
+  - Adding CRS3 and Pixi to CircleCI pipeline
+  - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
+  - Darktrace Tuning Session
+  - Incident handling with DarkTrace
 
  
 notes :
