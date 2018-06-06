@@ -5,6 +5,7 @@ track        : DecSecOps
 when_day     : Wed
 when_time    : PM-3
 room_id      : room-6
+session_slack: https://os-summit.slack.com/messages/CAUNRHQ7J
 status       : draft
 organizers   : Franziska Buehler
 participants : Tanya Janca
