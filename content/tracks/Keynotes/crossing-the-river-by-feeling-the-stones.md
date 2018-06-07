@@ -8,7 +8,7 @@ featured     : yes                   # review with summit team "yes"
 when_day     : Thu
 when_time    : KN-2
 room_id      : main-stage
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB0QMH50V
 status       :                   # draft, review-content, done
 organizers   : ["Simon Wardley"]
 description  : Keynote by Simon Wardley

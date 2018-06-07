@@ -3,6 +3,7 @@ title        : SAMM Introduction
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
+featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : review-content              # draft, review-content, done
 description  :
@@ -84,5 +85,3 @@ Each security practice in turn consists of a set of activities:
 -	Quick start guide
 -	How-to guide
 -	Join the Project Slack channel.
-
-

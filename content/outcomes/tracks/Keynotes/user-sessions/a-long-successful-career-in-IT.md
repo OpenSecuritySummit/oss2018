@@ -1,9 +1,9 @@
 ---
-title        : Crossing the river by feeling the stones
+title        : A long successful career in IT (women in tech)
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
+featured     : yes
 technology   :
-featured   : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :

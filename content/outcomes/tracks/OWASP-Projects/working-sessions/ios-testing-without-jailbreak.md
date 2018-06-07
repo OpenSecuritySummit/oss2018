@@ -1,6 +1,6 @@
 ---
-title        : Crossing the river by feeling the stones
-type         : outcome
+title        : Testing iOS Apps without Jailbreak
+ftype         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 featured   : yes

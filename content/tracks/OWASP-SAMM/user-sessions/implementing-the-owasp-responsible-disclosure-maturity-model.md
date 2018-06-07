@@ -10,7 +10,7 @@ when_day     : Wed
 when_time    : DS-2
 room_layout  :                    #
 room_id      : table-3
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB1MZDJRM
 status       : review-content              # draft, review-content, done
 description  : Hand-on session on creating the OWASP responsible disclosure Maturity Model
 organizers   :
