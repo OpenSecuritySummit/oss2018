@@ -32,10 +32,9 @@ sessions        :
   - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
   - Integrating Security into an Spotify Model (and using Squads for Security teams)
   - Using The Hive for Incident Response
-  - JIRA Risk Workflow
+  - Integrating Security Tools in the SDL
   - Writing security tests to confirm vulnerabilities and fixes
   - How to scale Threat Modeling.
-  - Owasp Testing Guide v5
   - Adding Privacy by Design in Secure Application Development
   - Crossing the river by feeling the stones
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
