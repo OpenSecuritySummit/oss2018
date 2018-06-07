@@ -51,7 +51,6 @@ participants :
  - Marjorie Mohammad
  - Matt Pendlebury
  - Panagiotis Yialouris
- - Pedro Laguna
  - Peter Turczak
  - Radu Tighineanu
  - Roni Yaari
