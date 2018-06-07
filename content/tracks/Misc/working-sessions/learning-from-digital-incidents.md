@@ -3,14 +3,14 @@ title        : Group Discussion on Learning from Digital Incidents
 type         : working-session
 topics       :
 featured     :                    # if  "yes" review with summit team
-when_day     :
-when_time    :
+when_day     : Fri
+when_time    : PM-1
 room_layout  :
-room_id      :
+room_id      : room-6
 session_slack:
 status       : done
 organizers   :
-  - Davide Nicolini
+  - Pedro Monteiro
 track        : Misc
 participants :
 description  : A group discussion with participants on their ideas about the state of art of the community in terms of policies and procedures for promoting learning from incidents
