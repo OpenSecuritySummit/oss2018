@@ -1,9 +1,8 @@
 ---
-title        : Using graphs for GDPR mappings and visualisations
+title        : Owasp Top 5 Machine Learning risks
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
-featured : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :

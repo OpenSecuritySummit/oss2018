@@ -1,5 +1,5 @@
 ---
-title        : SAMM Project Meeting
+title        : Using Jira to handle Incident Response - simulations
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :

@@ -25,46 +25,46 @@ participants :
  - Gabor Pek
  - Imran Mohammed A
  - John Dileo
- - abdullah garcia
- - abhinav sejpal
- - adam shostack
- - alex chapman
- - alina radu
- - amanda colpoys
- - andre fourie
- - ante gulam
- - aurelijus stanislovaitis
- - benjamin brunzel
- - carlos holguera
- - clara anel mansilla
- - claudio camerino
- - colin domoney
- - cristian torres
- - davide cioccia
- - dominik de smit
- - ian taylor
- - jacob christiansen
- - jannik hollenbach
- - joset zamora
- - kevin fielder
- - manish saindane
- - manuel jeckelmann
- - marjorie mohammad
- - matt pendlebury
- - panagiotis yialouris
- - pedro laguna
- - peter turczak
- - radu tighineanu
- - roni yaari
- - ruediger heins
- - russell coleman
- - sotiraki sima
- - stephanie vanroelen
- - stephen hookings
- - sven schleier
- - tony richards
- - yogesh sharma
- - yuriy ackermann
+ - Abdullah Garcia
+ - Abhinav Sejpal
+ - Adam Shostack
+ - Alex Chapman
+ - Alina Radu
+ - Amanda Colpoys
+ - Andre Fourie
+ - Ante Gulam
+ - Aurelijus Stanislovaitis
+ - Benjamin Brunzel
+ - Carlos Holguera
+ - Clara Anel Mansilla
+ - Claudio Camerino
+ - Colin Domoney
+ - Cristian Torres
+ - Davide Cioccia
+ - Dominik De Smit
+ - Ian Taylor
+ - Jacob Christiansen
+ - Jannik Hollenbach
+ - Joset Zamora
+ - Kevin Fielder
+ - Manish Saindane
+ - Manuel Jeckelmann
+ - Marjorie Mohammad
+ - Matt Pendlebury
+ - Panagiotis Yialouris
+ - Pedro Laguna
+ - Peter Turczak
+ - Radu Tighineanu
+ - Roni Yaari
+ - Ruediger Heins
+ - Russell Coleman
+ - Sotiraki Sima
+ - Stephanie Vanroelen
+ - Stephen Hookings
+ - Sven Schleier
+ - Tony Richards
+ - Yogesh Sharma
+ - Yuriy Ackermann
  - Nicole Becher
  - Mario Platt
 

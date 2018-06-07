@@ -3,6 +3,7 @@ title        : Squad Modelling and Cross Functional Teams
 type         : working-session
 track        : Misc
 topics       :
+locked       : true
 when_day     : Thu
 when_time    : PM-2
 room_id      : room-6

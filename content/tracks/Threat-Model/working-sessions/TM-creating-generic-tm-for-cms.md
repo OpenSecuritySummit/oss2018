@@ -8,7 +8,7 @@ when_day     : Fri                    # i.e.    Tue
 when_time    : AM-1                 # i.e.    AM-1
 room_layout  :                    #
 room_id      : room-1
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB0E3DZ60
 status       : done              # draft, review-content, done
 description  :
 organizers   :
