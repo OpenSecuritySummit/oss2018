@@ -1,9 +1,9 @@
 ---
-title        : Threat model guide
+title        : Using maps to define how to capture, detect and prevent 6 real-world security incidents
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
-featured   :
+featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :
