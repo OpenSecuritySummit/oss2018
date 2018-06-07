@@ -6,7 +6,7 @@ company         : Equal Experts
 travel_from     : London
 image           : /participant/images/phil-parker.jpeg
 linkedin        : parkerphil
-twitter         : @parker0phil
+twitter         : parker0phil
 facebook        :
 website         :
 email           :
@@ -20,5 +20,6 @@ sessions        :
   - SOC Value Chain using Wardley maps
   - Adding Privacy by Design in Secure Application Development
   - Using AI and ML for incident response
+---
   
 <!-- put more details about participant here -->
