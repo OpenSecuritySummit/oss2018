@@ -36,6 +36,10 @@ sessions:
   - secureCodeBox - How to improve your CI/CD pipeline with automated security tests
   - Darktrace Tuning Session
   - Incident handling with DarkTrace
+  - Writing security tests to confirm vulnerabilities and fixes
+  - Azure Security Features, Just a Few
+  - Web Application Honeypot
+  - 
 
  
 notes :
