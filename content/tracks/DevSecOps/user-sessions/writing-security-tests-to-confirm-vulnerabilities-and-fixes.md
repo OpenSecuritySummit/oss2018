@@ -7,7 +7,7 @@ when_day     : Thu
 when_time    : PM-1
 room_id      : room-6
 technology   :
-session_slack: https://os-summit.slack.com/messages/CAVHKD1TP
+session_slack: https://os-summit.slack.com/messages/CB04LVA4R
 description  : Hands on session writing security tests
 status       : draft
 organizers   :
