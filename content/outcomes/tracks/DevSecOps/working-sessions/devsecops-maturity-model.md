@@ -1,5 +1,5 @@
 ---
-title        : Describe different ways of implementing TM in agile organisations
+title        : DevSecOps Maturity Model (DSOMM)
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
