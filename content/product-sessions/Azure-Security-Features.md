@@ -36,7 +36,6 @@ participants :
  - Aurelijus Stanislovaitis
  - Benjamin Brunzel
  - Carlos Holguera
- - Clara Anel Mansilla
  - Claudio Camerino
  - Colin Domoney
  - Cristian Torres
