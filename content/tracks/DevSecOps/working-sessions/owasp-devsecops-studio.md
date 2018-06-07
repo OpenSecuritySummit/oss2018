@@ -24,6 +24,7 @@ participants :
     - Daniel Garcia
     - Claudio Camerino
     - Mario Platt
+    - Franziska Buehler
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 
