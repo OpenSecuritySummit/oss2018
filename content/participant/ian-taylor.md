@@ -22,6 +22,7 @@ sessions:
   - Wardley Mapping – a practical session on how to use value chain mapping
   - SOC Value Chain using Wardley maps
   - Crossing the river by feeling the stones
+  - Dark and Deep Web Threat Intelligence Source
 notes :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 
