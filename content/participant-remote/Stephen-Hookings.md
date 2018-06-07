@@ -15,8 +15,12 @@ chapter_leader  :
 eventbrite_id   :
 status          : add-details
 sessions        :
+    - WRITING SECURITY TESTS TO CONFIRM VULNERABILITIES AND FIXES
+    - OWASP DevSecOps Studio
+    - THREAT MODEL TRAINING THROUGH GAMIFICATION
+    - CREATE GENERIC TM FOR CMS
 notes           :
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
- - WRITING SECURITY TESTS TO CONFIRM VULNERABILITIES AND FIXES
+
 <!-- put more details about participant here -->
