@@ -6,10 +6,10 @@ topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Thu
-when_time    : DS-3
+when_day     : 
+when_time    : 
 room_layout  :                    #
-room_id      : table-2
+room_id      : 
 session_slack:
 status       : draft              # draft, review-content, done
 description  : Map out what these are and what is the best way to measure them
