@@ -4,10 +4,10 @@ type         : working-session
 track        : Misc
 topics       : ["JIRA"]
 featured     :                    # review with summit team "yes"
-when_day     : Thu
-when_time    : AM-1
-room_id      : room-2
-locked       : true
+when_day     : 
+when_time    : 
+room_id      : 
+locked       : 
 session_slack: https://os-summit.slack.com/messages/CAVH3MHPX
 status       : review-content     # draft, review-content, done
 description  : This Working Session should result in an improved JIRA Risk Workflow
