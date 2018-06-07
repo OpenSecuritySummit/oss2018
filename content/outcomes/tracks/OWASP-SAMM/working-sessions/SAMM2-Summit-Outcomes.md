@@ -25,7 +25,7 @@ The outcomes of our SAMM working sessions are:
 ## Synopsis and Takeaways 
 Face to face summits are great to discuss and solve core model questions
 
-## References (recommend)
+## References 
 - Updated model: https://github.com/OWASP/samm/tree/master/v2.0/beta
 - Draft owaspsamm.org website with model: https://itscooper-samm.sandbox1.cloud/
 - Trello board with sprints: https://trello.com/b/bpB99ULp/samm
