@@ -65,7 +65,7 @@ RATs: Riskiest Assumptions Tested
 The group was very engaged and enthusiastic about mapping, and there was significant contribution, and use of the "whiteboard on a roll".
 
 ## Working Materials
-See slides.
+See [Session slides](https://drive.google.com/open?id=1-lug6UzisKtoxVih3SbSvKufGP1h5yRX7FbZkh25004)
 
 ## References 
 - https://open-security-summit.org/tracks/maps-and-graphs/working-sessions/user-story-mapping-for-effective-communication/
