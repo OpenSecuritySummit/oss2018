@@ -1,7 +1,6 @@
 ---
 title        : A long successful career in IT (women in tech)
-type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+Zession_type : user-session    # working-session, user-session, product-sesssion
 featured     : yes
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
