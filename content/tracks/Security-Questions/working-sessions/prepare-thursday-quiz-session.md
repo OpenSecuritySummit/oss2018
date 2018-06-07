@@ -1,5 +1,5 @@
 ---
-title        : Prepare friday Quiz session
+title        : Prepare Thursday Quiz session
 type         : working-session
 track        : Security Questions
 technology   :

@@ -16,6 +16,7 @@ eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions        :
+  - Wardley Mapping – a practical session on how to use value chain mapping
   - How to scale Threat Modeling
   - Recruiting AppSec Talent
 ---
