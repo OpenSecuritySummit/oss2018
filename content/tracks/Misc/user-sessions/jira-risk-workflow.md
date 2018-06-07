@@ -4,9 +4,9 @@ type         : working-session
 track        : Misc
 topics       : ["JIRA"]
 featured     :                    # review with summit team "yes"
-when_day     : 
-when_time    : 
-room_id      : 
+when_day     : Thu
+when_time    : PM-2
+room_id      : room-2
 locked       : 
 session_slack: https://os-summit.slack.com/messages/CAVH3MHPX
 status       : review-content     # draft, review-content, done
