@@ -1,5 +1,5 @@
 ---
-title        : Describe different ways of implementing TM in agile organisations
+title        : Creating an open 3rd Party Supplier Questionnaire and maturity model
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
