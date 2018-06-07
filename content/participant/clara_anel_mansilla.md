@@ -25,6 +25,7 @@ sessions        :
   - Testing iOS Apps without Jailbreak
   - Women in Cyber-security: improving the gender balance
   - Integrating Security Tools in the SDL
+  - Writing security tests to confirm vulnerabilities and fixes
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
 
