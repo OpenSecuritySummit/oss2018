@@ -8,7 +8,7 @@ when_day     : Mon                    # i.e.    Tue
 when_time    : Eve-2              # i.e.    AM-1
 room_layout  :                    #
 room_id      : villa-6
-session_slack: https://os-summit.slack.com/messages/CB154KX1R
+session_slack: https://os-summit.slack.com/messages/CB27W9VP1
 status       : done              # draft, review-content, done
 description  :
 organizers   :
