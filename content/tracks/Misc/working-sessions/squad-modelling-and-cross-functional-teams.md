@@ -13,6 +13,7 @@ status       : review-content             # draft, review-content, done
 organizers   :
     - Amanda Colpoys
 participants :
+    - Ann-Marie Grace
 
 ---
 

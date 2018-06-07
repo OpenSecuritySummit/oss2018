@@ -25,6 +25,7 @@ sessions:
     - Using User Story Mapping for effective communication
     - Wardley Mapping – a practical session on how to use value chain mapping
     - Using Threat Models for GDPR
+    - Squad Modelling and Cross Functional Teams
     - Summit Wrap Up
 
 other:

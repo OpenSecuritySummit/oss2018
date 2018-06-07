@@ -7,7 +7,7 @@ featured     :                    # review with summit team "yes"
 when_day     : Thu
 when_time    : DS-2
 room_layout  :                    #
-room_id      : table-3
+room_id      : table-1
 session_slack: https://os-summit.slack.com/messages/CAWA4F91C
 status       : review-content      # draft, review-content, done
 organizers   :

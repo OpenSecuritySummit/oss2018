@@ -66,6 +66,7 @@ participants :
  - Yogesh Sharma
  - Yuriy Ackermann
  - Nicole Becher
+ - Mario Platt
 
 ---
 
