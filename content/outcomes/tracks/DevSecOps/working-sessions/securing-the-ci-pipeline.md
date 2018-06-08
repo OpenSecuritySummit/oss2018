@@ -26,7 +26,7 @@ This Working Session took an in-depth look at the security risks inherent to the
     - secrets, keys, passwords
     - Developers often store keys and other secrets in spreadsheets, config files, git repositories
 - Assets accessible on the pipeline can be used to escalate privileges
-- Several mechanisms for taking advantage of the above was demonstrated.
+- Several mechanisms for taking advantage of the above were demonstrated.
 - Although true that these risks are lower in a pipeline fully implementing security standards , pipelines practicing less than ideal security hygene are not uncommon.
 
 ####  Categories of risks identified:
@@ -83,7 +83,7 @@ A tool like Hashicorp's Vault can help by providing:
 - Docker registry mis-configurations
 
 
-## References (recommend)
+## References
 - **Session page :** https://open-security-summit.org/tracks/devsecops/working-sessions/securing-the-ci-pipeline/
 - **Summit 2017 session page :** https://owaspsummit.org/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
 
