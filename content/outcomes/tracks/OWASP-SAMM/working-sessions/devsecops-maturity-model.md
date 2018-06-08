@@ -1,10 +1,10 @@
 ---
 title        : DevSecOps Maturity Model (DSOMM)
 type         : outcome
-session_type : user-session
+session_type : user-session   
 technology   :
-categories   : DevSecOps
-status       : review-content
+categories   : DevSecOps               
+status       : review-content             
 description  :
 ---
 
@@ -30,10 +30,10 @@ A group discussion agreed on the following:
 - Automation
 - Actionability
 - Bidirectional Collaboration
-- Control Prioritisation
+- Control Prioritisation 
 - Selection based on assessment of current drivers for business to adopt devops
 
-#### Which level of detail does a DevSecOps Maturity Model provide?
+#### Which level of detail does a DevSecOps Maturity Model provide? 
 On a scale ranging between a high of **'SAMM: Utilize automated security testing tools'**, and a low being **'Use OWASP Dependency Check every night'** participants were asked to select a level of detail appropriate for the DSOMM
 
 Consensus was reached that the DSOMM should have a level of detail below that of SAMM
@@ -76,7 +76,7 @@ In relation to the range that should apply to a maturity scoring, the following 
 
 - Range either from 0-4 or 0-6
     - Odd range sizes should not be used, because of the tendency for people to overuse the middle score
-- It was suggested that ranges might be different per attribute
+- It was suggested that ranges might be different per attribute 
 
 #### Comparisons with other Maturity Models and the Integration of security in the devops operating model:
 
@@ -95,6 +95,6 @@ The following questions and points were also raised:
 
 ### Additional/External References
 - http://gdosmm-translation.timo-pagel.de/
-- [Francois' DevSecOps whitepaper](https://www.devseccon.com/wp-content/uploads/2017/07/DevSecOps-whitepaper.pdf)
+- [Francois' DevSecOps whitepaper](https://www.devseccon.com/wp-content/uploads/2017/07/DevSecOps-whitepaper.pdf) 
 - [Michele's sanitized Product Security Maturity Model](https://os-summit.slack.com/files/UAZNEBX44/FB2QR9QK0/product_security_maturity_model_sanitized.pdf)
 - [CAMS - DevOps Dictionary](http://devopsdictionary.com/wiki/CAMS)
