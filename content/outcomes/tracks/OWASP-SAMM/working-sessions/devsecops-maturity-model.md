@@ -8,7 +8,7 @@ status       : review-content
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables
 - Resolve and describe the fundamentals of a DevSecOps Maturity Model (DSOMM)

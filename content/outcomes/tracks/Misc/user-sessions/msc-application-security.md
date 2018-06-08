@@ -3,13 +3,11 @@ title        : MSc Application Security
 type         : outcome
 session_type : user-session
 technology   :
-featured     : yes 
+featured     : yes
 categories   : Education
-status       : draft
+status       : review-content
 description  :
 ---
-
-@import "/static/img/logo.png"
 
 
 ## Outcomes/Deliverables
