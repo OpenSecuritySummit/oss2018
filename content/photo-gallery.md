@@ -89,6 +89,15 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102232-47807f6a-6a5e-11e8-8cdb-0376240853e2.jpg" caption="Tanya Janca on Azure Security Features"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102235-47a08d96-6a5e-11e8-9b15-7f1932fb5b1e.jpg" caption="Simon Wardley about maps (Wardley Mapping – a practical session on how to use value chain mapping)"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102236-47c1fa62-6a5e-11e8-9cbf-c4a4106800ce.jpg" caption="Jane Frankland about why we are less safe when failing to attract and retain women in Cybersecurity"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163231-09ed2ebe-6b30-11e8-9df6-d46c7710717c.jpg" caption="Women in tech"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163232-0a168ade-6b30-11e8-9fc4-0a1064b16bcf.jpg" caption="InSecurity by Jane Frankland"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163233-0a3487f0-6b30-11e8-8d76-3a0989ff3ee8.jpg" caption="Jane Frankland about women in tech"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163230-09bfdcc0-6b30-11e8-9334-81b630cd5e20.jpg" caption="Open Security Summit 2018 participants"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163234-0a5b0fe2-6b30-11e8-8bd5-6d22af635ba8.jpg" caption="Things that make you go hm..."  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163235-0a7c2f92-6b30-11e8-95df-bd2e5f98d442.jpg" caption="Working session in villa"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163236-0a97e566-6b30-11e8-8b6a-11c0fc7308b3.jpg" caption="Working session in villa"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41163238-0ac8184e-6b30-11e8-9e84-25433de7accc.jpg" caption="Into the zone!"  >}}
+
   {{< figure link="https://user-images.githubusercontent.com/15072044/41160179-c35c28fa-6b26-11e8-9e53-f4c29403037b.jpg" caption="BBQ party has been started"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41160165-c1f285b8-6b26-11e8-848b-8b15c3c35f94.jpg" caption="My burger will be like this!"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41160166-c20f829e-6b26-11e8-93bd-3af34b819851.jpg" caption="Security champion (BBQ Master)"  >}}
@@ -115,6 +124,5 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41162042-955805c2-6b2c-11e8-9c69-d499ede9582a.jpg" caption="Using AI and ML for incident response"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41162043-95767430-6b2c-11e8-8335-4bdbbc42a258.jpg" caption="Summirizing outcomes."  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41162044-9595fcc4-6b2c-11e8-9fdf-89ec6b22f577.jpg" caption="All materials are CC, share..."  >}}
-
 
 {{< /gallery >}}
