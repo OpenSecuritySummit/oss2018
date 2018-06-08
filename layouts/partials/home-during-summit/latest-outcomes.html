@@ -19,7 +19,8 @@
                                 <h4 class="home-outcome pull-left">{{ $element.Title }}</h4>
                             </div>
                             <div class="row">
-                                <p class="home-outcome pull-left">{{ $element.Content | truncate 20 | plainify }}
+                                <p class="home-outcome pull-left">{{/* $element.Content | truncate 20 | plainify */}}
+                                  being worked on</p>
                             </div>
                         </div>
                     {{ end }}
@@ -30,7 +31,7 @@
             <div class="row text-center">
                 <div class="col-md-offset-4 col-md-4">
                   <div class="oss-card-small-bottom">
-                    <a href="/outcome" class="btn oss-card-small-button">See all outcomes</a>
+                    <a href="/outcomes/" class="btn oss-card-small-button">See all outcomes</a>
                   </div>
               </div>
             </div>
