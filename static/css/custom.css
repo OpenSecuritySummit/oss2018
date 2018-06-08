@@ -1781,3 +1781,19 @@ p.home-outcome {
 .line-below {
   border-bottom:#cfd8dc 2px solid;
 }
+
+.status-orange  {
+  color: #ff9966;
+}
+
+.status-green  {
+  color: #339933;
+}
+
+.status-red  {
+  color: #ff0033;
+}
+
+.status-gray  {
+  color: #cccccc;
+}

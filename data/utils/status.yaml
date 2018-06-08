@@ -7,11 +7,11 @@
 # - Done
 #
 # To change this icons, search a glyphicon using: https://glyphsearch.com/?library=glyphicons&copy=name
-featured: flag
-no-content: ban-circle
+featured: flag status-green
+no-content: ban-circle status-red
 default: remove-sign
-review-content: refresh
-draft: check
+review-content: refresh status-orange
+draft: check status-gray
 open: open
 add-details: plus-sign
-done: ok-circle
+done: ok-circle status-green
