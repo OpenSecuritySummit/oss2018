@@ -4,7 +4,7 @@ type         : outcome
 session_type : working-session    # working-session, user-session, product-sesssion
 technology   :
 categories   : OWASP                   # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : review-content              # draft, review-content, done
 description  :
 ---
 
