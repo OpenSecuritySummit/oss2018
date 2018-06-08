@@ -39,7 +39,7 @@ In relation to Security the following points were made:
 - Squads work well outside Security; examples were given of squads working succecssfully within marketing and HR
 
 ## Working Materials 
-[Slide deck](
+[Slide deck](https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-into-an-spotify-model/)
 
 ## References (recommend)
 - https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-into-an-spotify-model/
