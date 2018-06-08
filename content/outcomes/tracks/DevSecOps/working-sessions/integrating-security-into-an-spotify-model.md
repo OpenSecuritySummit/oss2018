@@ -1,54 +1,48 @@
 ---
 title        : Integrating Security into an Spotify Model (and using Squads for Security teams)
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session   
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   :                   
+status       : draft              
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+## Outcomes/Deliverables
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+- The session's aim was to produce a best practice cheat sheet
+- However in session there was a general discussion about what squads are and how their work can be optimised.
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+## Synopsis and Takeaways
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+- Squads are small, usually numbering no more than eight people
+- Squads operate within Tribes, and both operate within Chapters
+- Cross-functional teams
+- Squads provide a framework for autonomy
+- Autonomy is paramount: the squad can decide what to build, how to build it, and how to work together while building it 
+- Squads work better when they have reached a certain level of maturity
+- Success of the squad system depends on the management style and corporate culture - there may need to be adjustments
+- A Pilot should offer proof, or at least show where changes/tweaks are needed in order for the squad to succeed
+- Squads allow for speedy restructuring and disbandment 
+- They need [Retros](see https://labs.spotify.com/2017/12/15/spotify-retro-kit/) - regular health checks for squads 
+- It is important that squad members don't block other members from delivering value
+- It is possible to assign security people to your squad on a part-time basis, for example, two days a week. This will work as long as their time for those two days is fully utilised
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+In relation to Security the following points were made:
+- Security team members can be embedded in a different squad, e.g. TechOps, WebOps, etc.
+   - or vice versa: embed a TechOps/WebOps member in the Security team for six months, so they can learn the methods and priorities of Security
+- A Security expert within a business should ideally be part of a number of squads
+- This practice will help to grow a network of Security Champions
+- Squads work well outside Security; examples were given of squads working successfully within marketing and HR
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
-
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
-
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+## Working Materials 
+[Slide deck](https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-into-an-spotify-model/)
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-into-an-spotify-model/
 
-### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+
