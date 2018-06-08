@@ -35,6 +35,7 @@ sessions        :
     - JIRA Risk Workflow
     - Meet the ICO
     - Security Playbooks
+    - Adding Privacy by Design in Secure Application Development
 ---
 
 <!-- put more details about participant here -->
