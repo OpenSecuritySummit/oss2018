@@ -1,5 +1,5 @@
 ---
-title        : Securing the CI Pipeline
+title        : Threat Modeling Website Structure
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :

@@ -1,16 +1,17 @@
 ---
 title        : Using User Story Mapping for effective communication
 type         : outcome
-session_type : user-session    
+session_type : user-session
 technology   :
+featured     : yes
 categories   : Mapping
-status       : draft              
+status       : draft
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-## Outcomes/Deliverables 
+## Outcomes/Deliverables
 - A number of visualisations of user mappings
 - See attached slides for images
 - Including initial sketches taken by an illustrator (Owen Williams) during the session
@@ -20,9 +21,9 @@ description  :
    - Write a high-level story or epic
    - Break it down into a series of smaller stories
    - The stories should be written from the user's perspective:
-      - Describe the type of user, what they want, and why 
+      - Describe the type of user, what they want, and why
    - Threat Modeling should be part of the mapping process
-      
+
  ### User maps should consider the 'Invest' mnemonic:
  - **I**ndependent
  - **N**egotiable
@@ -30,7 +31,7 @@ description  :
  - **E**stimable
  - **S**mall
  - **T**estable
- 
+
  ### Session examples
 First example:
     - A Chief Compliance Officer (the user)
@@ -38,7 +39,7 @@ First example:
           - So I can process credit card payments (why)
 
 The various elements of this epic can be analysed as smaller stories or tasks within the epic, that can be done by the devs, for example:
-- Encryption 
+- Encryption
 - OWASP Top 10
 - Card holder data
 - Intrusion detection
@@ -57,7 +58,7 @@ Second (related) example:
 
 Once Threat Modelling has been completed and options are presented to Decision Makers, a Brief Lock was suggested, to ensure that subsequent requests for changes/redesign could be met with the brief lock which makes people think about what they are asking - for the threat model sprint to have to start again, and another decision (or set of decisions) to be made, and possibly a project slowed or halted.
 
-Other mnemonics quoted were 
+Other mnemonics quoted were
 
 MVP:  Minimum Viable Product
 RATs: Riskiest Assumptions Tested
@@ -67,10 +68,8 @@ The group was very engaged and enthusiastic about mapping, and there was signifi
 ## Working Materials
 See [Session slides](https://drive.google.com/open?id=1-lug6UzisKtoxVih3SbSvKufGP1h5yRX7FbZkh25004)
 
-## References 
+## References
 - https://open-security-summit.org/tracks/maps-and-graphs/working-sessions/user-story-mapping-for-effective-communication/
 
 ### Additional/External References
 Patton, J (2014), User Story Mapping: Discover the Whole Story, Build the Right Product, O'Reilly Media [Amazon link](20https://www.amazon.co.uk/User-Story-Mapping-Discover-Product/dp/1491904909)
-
-

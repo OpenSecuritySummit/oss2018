@@ -34,7 +34,6 @@ sessions        :
   - Using The Hive for Incident Response
   - Integrating Security Tools in the SDL
   - Writing security tests to confirm vulnerabilities and fixes
-  - How to scale Threat Modeling.
   - Adding Privacy by Design in Secure Application Development
   - Crossing the river by feeling the stones
   - Squad Modelling and Cross Functional Teams

@@ -79,6 +79,17 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41041378-ca52de6a-6996-11e8-9560-a6a2223e6f5a.jpg" caption="The Security Expert"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41041379-ca72b460-6996-11e8-931c-7e08e29b0658.jpg" caption="Thinking in Graphs"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41041380-ca8c7742-6996-11e8-82f4-a72aa1f1e039.jpg" caption="Docker and Kubernetes Threat Modeling Cheat Sheet"  >}}
-  {{< figure link="https://user-images.githubusercontent.com/15072044/41041374-c9e72580-6996-11e8-854d-71fb4c2f9c30.jpg" caption="Logistings team is always happy to help the participants of the Summit"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41041374-c9e72580-6996-11e8-854d-71fb4c2f9c30.jpg" >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102230-4740b178-6a5e-11e8-9eb6-49d07877b9dc.jpg" caption="Today is all about maps"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102231-4758c6aa-6a5e-11e8-87ec-a8b6c995ddfb.jpg" caption="Simon Wardley about maps"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102227-46ce7dd8-6a5e-11e8-8183-eaa7e29ee457.jpg" caption="Talking about how maps are useful"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102226-46b22caa-6a5e-11e8-9262-6dd54c3c2efe.jpg" caption="Mapping is fun"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102228-46f42326-6a5e-11e8-8f15-59366fab7392.jpg" caption="It's more fun to mapping"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102225-4697db98-6a5e-11e8-970f-820554294f40.jpg" caption="Finding my session"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102232-47807f6a-6a5e-11e8-8cdb-0376240853e2.jpg" caption="Tanya Janca on Azure Security Features"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102235-47a08d96-6a5e-11e8-9b15-7f1932fb5b1e.jpg" caption="Simon Wardley about maps (Wardley Mapping – a practical session on how to use value chain mapping)"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41102236-47c1fa62-6a5e-11e8-9cbf-c4a4106800ce.jpg" caption="Jane Frankland about why we are less safe when failing to attract and retain women in Cybersecurity"  >}}
+
+
 
 {{< /gallery >}}

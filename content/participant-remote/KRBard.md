@@ -15,6 +15,7 @@ chapter_leader  :
 eventbrite_id   :
 status          : Remote
 sessions        :
-    - GDPR Appropriate Security Controls
     - Azure Security Features, Just a Few
+    - Adding Privacy by Design in Secure Application Development
+    - Owasp Top 5 Machine Learning risks
 ---
