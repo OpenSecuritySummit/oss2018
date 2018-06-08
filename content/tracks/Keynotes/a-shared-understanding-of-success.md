@@ -6,7 +6,7 @@ technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 #featured     : yes                  # review with summit team "yes"
 when_day     : Fri
-when_time    : KN-1
+when_time    : DS-2
 room_id      : main-stage
 session_slack:
 status       :                   # draft, review-content, done
