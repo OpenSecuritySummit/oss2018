@@ -89,6 +89,20 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102232-47807f6a-6a5e-11e8-8cdb-0376240853e2.jpg" caption="Tanya Janca on Azure Security Features"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102235-47a08d96-6a5e-11e8-9b15-7f1932fb5b1e.jpg" caption="Simon Wardley about maps (Wardley Mapping – a practical session on how to use value chain mapping)"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102236-47c1fa62-6a5e-11e8-9cbf-c4a4106800ce.jpg" caption="Jane Frankland about why we are less safe when failing to attract and retain women in Cybersecurity"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160179-c35c28fa-6b26-11e8-9e53-f4c29403037b.jpg" caption="BBQ party has been started"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160165-c1f285b8-6b26-11e8-848b-8b15c3c35f94.jpg" caption="My burger will be like this!"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160166-c20f829e-6b26-11e8-93bd-3af34b819851.jpg" caption="Security champion (BBQ Master)"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160167-c229f99e-6b26-11e8-9531-0655849a07ad.jpg" caption="Discussions, discussions"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160168-c245afa4-6b26-11e8-9423-f6465dadabdc.jpg" caption="Fun"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160171-c2619674-6b26-11e8-9c3e-848f6b2d9d0f.jpg" caption="The table is long because of the community"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160172-c27c845c-6b26-11e8-90f2-47fef2e64f0c.jpg" caption="Collaboration, Friendship, Outcomes"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160173-c29fdce0-6b26-11e8-8c6a-c7dbf913dd97.jpg" caption="SAMM"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160174-c2bb6d70-6b26-11e8-85de-29e160ebd774.jpg" caption="Threes are specific types of graphs. Graphs are all around us."  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160176-c2f227d4-6b26-11e8-88fb-b7e016c5c985.jpg" caption="Hello there!"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160177-c311f7b2-6b26-11e8-8873-d050c1cd8b38.jpg" caption="Participants enjoy"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160178-c33a5de2-6b26-11e8-928f-c23e556b0a64.jpg" caption="Constructive debate"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160181-c3796af0-6b26-11e8-9a26-b916ad3950d8.jpg" caption="Teamwork"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41160182-c39a4e96-6b26-11e8-903d-e1c076bfd6b9.jpg" caption="Beautiful surroundings"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41158114-b9a22c12-6b1f-11e8-8f03-f687a4c9f130.jpg" caption="Adding privacy by design to secure application development"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41158115-b9bf2786-6b1f-11e8-9b42-0224bd95c2fc.jpg" caption="Expressing JIRA itams through graphs"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41158116-b9dfbfa0-6b1f-11e8-88c3-ff6e4b657360.jpg" caption="We keep improving outcomes in Slack"  >}}
@@ -97,5 +111,10 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41158120-ba39f506-6b1f-11e8-9f5b-21133b3604f5.jpg" caption="If you turn this graph clockwise..."  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41158121-ba573846-6b1f-11e8-8180-2424c90a3b20.jpg" caption="Owasp Top 5 Machine Learning risks"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41158122-ba71871e-6b1f-11e8-9ed5-dda53044445f.jpg" caption="Owasp Top 5 Machine Learning risks"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41162041-953aa7f2-6b2c-11e8-98fc-35546f4d57a1.jpg" caption="Group Discussion on Learning from Digital Incidents"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41162042-955805c2-6b2c-11e8-9c69-d499ede9582a.jpg" caption="Using AI and ML for incident response"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41162043-95767430-6b2c-11e8-8335-4bdbbc42a258.jpg" caption="Summirizing outcomes."  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41162044-9595fcc4-6b2c-11e8-9fdf-89ec6b22f577.jpg" caption="All materials are CC, share..."  >}}
+
 
 {{< /gallery >}}
