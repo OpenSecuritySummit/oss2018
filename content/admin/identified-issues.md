@@ -22,5 +22,6 @@ layout: identified-issues
 
 ### Organization related
 * People were not able to find the location of villas which hosts some of the evening sessions.
+* People were making comments that there sessions disappeared from the scheduled (participants that were interested) - too much agility but on the other hand they linked the dynamics
 
 ### Accommodation & Food Related
