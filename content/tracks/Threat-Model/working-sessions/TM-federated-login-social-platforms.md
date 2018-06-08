@@ -8,11 +8,15 @@ featured     :                    # review with summit team "yes"
 when_day     : Wed
 when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAW9S56DU
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
+    - Adam Shostack
 description  : Federated Login with Social Platforms Threat Modeling Cheat Sheet
+locked       : true
 ---
 
 ## Why
@@ -22,11 +26,11 @@ We all love Cheat Sheets. They are great to use when you need it but they are al
 
 ## What
 
- - What are the main Threats against a Federated Login with Social Platforms? 
- - Can we find common Threats that apply to Federated Login with Social Platforms? 
+ - What are the main Threats against a Federated Login with Social Platforms?
+ - Can we find common Threats that apply to Federated Login with Social Platforms?
  - Are there generic Threats we could check for applicability?
- - Could we organize the Threats in Risk Patterns for Federated Login with Social Platforms? 
- - Can they be summarized on a Cheat Sheet form? 
+ - Could we organize the Threats in Risk Patterns for Federated Login with Social Platforms?
+ - Can they be summarized on a Cheat Sheet form?
 
 ## Outcomes
 

@@ -2,28 +2,31 @@
 title        : Cyber Insurance
 type         : working-session
 track        : CISO
-featured     :                    # review with summit team "yes"
+topics       : ["CISO"]
+featured     : yes                   # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-2
 room_layout  :                    #
-room_number  :
+room_id      : room-2
+session_slack: https://os-summit.slack.com/messages/CAV65AXGU
 status       : review-content     # draft, review-content, done
 categories   : ["CISO"]
-organizers   : ["Yvette Connor"]
+organizers   :
+ - Yvette Connor
 description  : Session on Cyber Insurance
 ---
 
-According to industry veteran and Chief of Security Strategy at SentinelOne, Jeremiah Grossman, the security industry must change. Today, security industry is one of the only businesses that does not offer any guarantees or warranties.
-As a result, almost a third of all U.S companies have some kind of a cyber insurance coverage and PwC estimates that the market for cyber insurance will grow to $7.5 billion by 2020.
+According to industry veteran and Chief of Security Strategy at SentinelOne, Jeremiah Grossman, the security industry must change. Today, the security industry is one of very few businesses that does not offer any guarantees or warranties.
+As a result, almost one third of all U.S. companies have some kind of cyber insurance coverage and PWC estimates that the market for cyber insurance will grow to $7.5 billion by 2020.
 
 ## Why
 
-According to Grossman, companies spend $3.8 billion annually on traditional security equipment like AV, firewalls and intrusion detection, but they also spend $3.2 billion on cyber insurance.
+According to Grossman, companies spend $3.8 billion annually on traditional security equipment like AV, firewalls, and intrusion detection, but they also spend $3.2 billion on cyber insurance.
 This means that a lot of companies opt to spend their money on insurance when they get hit with a breach. But looking at the numbers from some of the biggest incidents, we can conclude that companies are not buying enough cyber insurance:
 
 - Target breach cost the retailer $248 million, but the insurance company only paid out $90 million.
 - Home Depot lost $43 million on its breach, with an insurance payout of about $15 million.
--  Anthem, which experienced a major breach in 02/2015, now has a policy in excess of $150 million,
+- Anthem, which experienced a major breach in February 2015, now has a policy in excess of $150 million
 
 This Working Session will focus on how well the cyber insurance market is working, and how cost-effective it is.
 
@@ -45,18 +48,18 @@ https://custom.cvent.com/C674EF8FB0604BC9BF9B668FCA89DFEB/files/event/2FCD5F30B4
 
 ### How COULD insurance companies measure risk?
 
-There are a couple of different broad categories:
+There are a number of different, broad categories:
  - Events (botnet infections, evidence of spam/scanning/malware hosting)
- - Diligence (exposed services, how they are configured, etc)
+ - Diligence (exposed services, how they are configured, etc.)
  - User behavior
  - Some endpoint data points
 
-Generally speaking all of the security signals coming out of a company are roughly correlated.  If a company is generally bad with their diligence, they also will have problems with botnet infections, user behavior and so on.  This is intuitive since a company who does not prioritize security will probably have a similar commitment to certificate management as they do patching and monitoring.  And it goes the other way, if a company is doing well in some areas they are probably doing well in others. Impact of application security in the equation has not been sufficiently studies, but is expected to fit into the corelation model.
+Generally speaking, all the security signals coming out of a company are roughly correlated.  If a company is generally bad with their diligence, they also will have problems with botnet infections, user behavior and so on.  This is intuitive since a company who does not prioritize security will probably have a similar commitment to certificate management as they do to patching and monitoring.  The converse is also true; if a company is doing well in some areas it is probably doing well in others. The impact of application security in the equation has not been studied sufficiently, but is expected to fit into the correlation model.
 
-Once studied, the Loss Exceedance Curves can answer the question of “how likely is it that my losses will exceed a specific amount” and will generally talk about probability in terms of “return years” which is an intuitive way to talk about probability.	 For example a 1 in 50 year event (written as 50 return years) is just 1/50 or 2% chance.
+Once studied, the Loss Exceedance Curves can answer the question of “How likely is it that my losses will exceed a specific amount?” and will generally talk about probability in terms of “return years” which is an intuitive way to talk about probability.	 For example a 1 in 50 year event (written as 50 return years) is just 1/50 or 2% chance.
 
 ### How DO insurance companies measure risk?
-Majority of the insurance companies are not using all the tools available to "measure" risk, and continue to make decisions on fairly subjective formulations.  In this way, the insurance industry is similar to how risk is measured in majority of the organizations (high/medium/low = based on how I am "feeling" at any moment).  The underwriter makes the risk assessment call and will either reject the applicant or tailor the policy to their perceived level of risk.
+The majority of the insurance companies are not using all the tools available to "measure" risk, and continue to make decisions on fairly subjective formulations.  In this way, the insurance industry is similar to how risk is measured in majority of the organizations (high/medium/low = based on how I am "feeling" at any moment).  The underwriter makes the risk assessment call and will either reject the applicant or tailor the policy to their perceived level of risk.
 
 There are three primary underwriting methodologies:
 
@@ -78,8 +81,9 @@ The Law of Large Numbers Underwriting
     - Simple application
     - Broad coverage rating based on domicile, industry, revenue and number of employees
     - Streamlined claims process & payment (focused on cyber time vs. natural time)
+
 ### Cyber Insurance Trends Worth Watching
-Insurance companies realized that how the cyber event is being handled can have significant impact on the total amount of the claim.  Therefore, many companies are working to develop Cyber Incident Response services that come bundled with the policies.  This way, once an incident takes place, insurance companies can help to minimize the payouts by making sure events are handled appropriately and with all the necessary due-process.
+Insurance companies realized that the handling of a cyber event can have a significant impact on the total amount of the claim.  Therefore, many companies are working to develop Cyber Incident Response services that come bundled with the policies.  This way, once an incident takes place, insurance companies can help to minimize the payouts by making sure events are handled appropriately and with all the necessary due process.
 
 ## Who
 

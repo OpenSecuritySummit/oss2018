@@ -2,18 +2,21 @@
 title        : Cyber Risk Modeling
 type         : working-session
 track        : CISO
-featured     :                    # if  "yes" review with summit team
+topics       : ["CISO","Risk"]
+featured     : yes                # if  "yes" review with summit team
 when_day     : Tue
-when_time    : Eve-1
+when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      : room-2
+session_slack: https://os-summit.slack.com/messages/CAVGVTQ85
 status       : draft              # draft, review-content, done
 organizers   : ["Yvette Connor"]
-participants :
+participants : 
+  - Tony Richards
 description  : Session on Risk Modeling
 ---
 
-(add intro)
+<!--(add intro)
 
 ## Why
 
@@ -23,4 +26,4 @@ description  : Session on Risk Modeling
 
 ## Who
 
-## References
+## References-->

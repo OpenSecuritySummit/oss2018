@@ -2,14 +2,16 @@
 title        : DPO how to become one
 type         : working-session
 track        : GDPR
+topics       : ["GDPR"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
-when_day     : Tue
-when_time    : PM-1
+when_day     : Wed
+when_time    : DS-2
 room_layout  :                    #
-room_number  :
-status       : draft              # draft, review-content, done
+room_id      : table-2
+session_slack: https://os-summit.slack.com/messages/CAW9P1E06
+status       : review-content              # draft, review-content, done
 description  : What is the best way to become an DPO (Data Protection Officer)
 organizers   :
 participants :

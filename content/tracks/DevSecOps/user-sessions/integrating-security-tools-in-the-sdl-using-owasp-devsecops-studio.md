@@ -2,16 +2,24 @@
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : user-session
 track        : DevSecOps
+topics       : ["SDL"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     : yes                   # review with summit team "yes"
 when_day     : Mon
 when_time    : PM-1
 room_layout  :                    #
-room_number  :
+room_id      : room-5
+session_slack: https://os-summit.slack.com/messages/CAVDX9TS6
 status       : done              # draft, review-content, done
 organizers   : Imran Mohammed A
-participants : Francois Raynaud
+participants :
+    - Francois Raynaud
+    - Timo Pagel
+    - Jim Newman
+    - Orid Ahmed
+    - Russell Coleman
+    - Alex Chapman
 description  : Using DevSecOps studio to learn and teach Integrating security tools in the SDL
 ---
 

@@ -1,14 +1,16 @@
-<h3>{{ .Params.title }} team Members</h3>
-<div class="list_attendees">
-    <ul>
-        {{ range $index, $local := .Params.members }}
-            {{ $page := (where $.Site.Pages ".Params.title" .) }}
-            {{ if $page }}
-                {{ $member := (index $page 0) }}
-                {{ partial "participant/card.html" $member }}
+<div class="hidden-print">
+    <h3>{{ .Params.title }} team members</h3>
+    <div class="list_attendees">
+        <ul>
+            {{ range $index, $local := .Params.members }}
+                {{ $page := (where $.Site.Pages ".Params.title" .) }}
+                {{ if $page }}
+                    {{ $member := (index $page 0) }}
+                    {{ partial "participant/card.html" $member }}
+                {{ end }}
+            {{ if eq (mod $index 6) 5 }}</ul><ul>{{ end }}
             {{ end }}
-        {{ if eq (mod $index 6) 5 }}</ul><ul>{{ end }}
-        {{ end }}
-    </ul>
+        </ul>
 
+    </div>
 </div>

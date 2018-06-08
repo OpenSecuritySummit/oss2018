@@ -2,8 +2,9 @@
 title           : Toreon
 type            : team
 team_type       : Sponsor
-image           : https://www.toreon.com/wp-content/uploads/2016/07/logo.png
+image           : /img/sponsors/toreon.png
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.toreon.com/
 email           :
@@ -15,12 +16,10 @@ sessions:
 members:
     - Sebastien Deleersnyder
     - Steven Wierckx
+    - Frederic Tollens
+    - Jonas Vanalderweireldt
+    - Ruben Tronçon
+    - Fabien Thalgott
 
 notes :
 ---
-
-
-{{< img src="https://www.toreon.com/wp-content/uploads/2016/07/logo.png" >}}
-
-
-

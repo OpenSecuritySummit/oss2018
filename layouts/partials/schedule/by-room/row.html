@@ -1,0 +1,27 @@
+<tr>
+    <td>{{ .time }}
+        <div class="session-time">
+        {{ index .self.Site.Data.schedule.times .time}}
+        </div>
+    </td>
+    {{ range $key ,$value := .where}}
+        <td>
+            {{range $.self.Scratch.Get $key }}
+                {{ $page := .}}
+                {{ $time := $.time}}
+                {{ range (split .Params.when_time ",")}}
+                    {{ if eq . $time}}
+                        <div class="hidden-print">
+                            <a href="{{$page.Permalink }}">{{$page.Params.title}}</a>
+                            <div class="schedule-by-track-cell-track-name">{{$page.Params.track}}</div>
+                        </div>
+
+                         <div class="visible-print">
+                            <b>{{$page.Params.title}}</b>
+                        </div>
+                    {{ end }}
+                {{ end }}
+            {{ end }}
+        </td>
+    {{ end }}
+</tr>

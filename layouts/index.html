@@ -10,31 +10,22 @@
         <header class="full-bg background-photogrid">
 
           <div class="dark-mask"></div>
-
-          {{ partial "top.html" . }}
-
-          {{ partial "nav.html" . }}
-
-          {{ partial "carousel.html" . }}
-
+          {{ partial "top.html"         . }}
+          {{ partial "nav.html"         . }}
+          {{/* partial "carousel.html"  . */}}
         </header>
-
-        {{ partial "features.html" . }}
-
-        {{ partial "testimonials.html" . }}
-
-        {{ partial "see_more.html" . }}
-
-        {{ partial "recent_posts.html" . }}
-
-        {{ partial "sponsors.html" . }}
-
-        {{ partial "footer.html" . }}
+        {{ partial "home-during-summit/question-cards.html"  . }}
+        {{ partial "home-during-summit/today-schedule.html"  . }}
+        {{ partial "home-during-summit/photo-galery.html"  . }}
+        {{/* partial "home-during-summit/latest-outcomes.html" . */}}
+        {{ partial "home-during-summit/whats-next.html" . }}
+        {{ partial "home-during-summit/sponsors.html" . }}
+        {{ partialCached "footer.html"                       . }}
 
     </div>
     <!-- /#all -->
 
-    {{ partial "scripts.html" . }}
+    {{ partialCached "scripts.html" . }}
 
   </body>
 </html>

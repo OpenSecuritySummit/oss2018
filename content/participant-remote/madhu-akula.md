@@ -11,7 +11,7 @@ website         : https://madhuakula.com
 email           : madhu.akula@hotmail.com
 project_leader  :
 chapter_leader  :
-regonline       :
+eventbrite_id   :
 status          : add-details
 pre_summit      : Sat,Sun
 sessions:

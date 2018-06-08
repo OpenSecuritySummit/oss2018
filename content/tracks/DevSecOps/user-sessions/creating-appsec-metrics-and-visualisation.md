@@ -2,17 +2,22 @@
 title        : Creating Appsec metrics and visualisation
 type         : user-session
 track        : DevSecOps
+topics       : ["Visualisation"]
 technology   :
 categories   :                      # GDPR, Juice Shop, etc.
 featured     :  yes                  # review with summit team "yes"
 when_day     :  Wed
 when_time    :  PM-1
 room_layout  :                    #
-room_number  :
+room_id      : room-5
+session_slack: https://os-summit.slack.com/messages/CAVDU1W4S
 status       : done
 organizers   : Imran Mohammed A
 description  : AppSec Metrics and Visualisation
-participants : Francois Raynaud
+participants : 
+  - Francois Raynaud
+  - Timo Pagel
+  - Jim Newman
 ---
 
 ## Why

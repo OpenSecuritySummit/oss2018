@@ -2,25 +2,21 @@
 title           : Security Champions
 type            : team
 team_type       : Community team
-#image           :
+image           : /img/teams/sec-champ.png
 linkedin        :
 twitter         :
+session_slack   :
 website         :
 email           :
 status          :
-sessions:
-    - OwaspSAMM - Best Practices
+#sessions:
+#    - OwaspSAMM - Best Practices
 members:
-    - Sebastien Deleersnyder
-    - Francois Raynaud
-    - Toby Shelswell
     - David Cervigni
+    - Francois Raynaud
+    - Mark Felegyhazi
+    - Toby Shelswell
+    - Sebastien Deleersnyder
 
 notes :
 ---
-
-
-{{< img src="https://www.toreon.com/wp-content/uploads/2016/07/logo.png" >}}
-
-
-

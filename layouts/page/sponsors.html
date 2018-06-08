@@ -13,67 +13,81 @@
 <div class="inner_main_sponsors">
   <div class="center_heading">
     <div class="container">
-        <h1>{{ .Title }}</h1>
+      <h1>{{ .Title }}</h1>
     </div>
   </div>
 </div>
 
 {{ end }}
 
-{{ define "content" }}
+{{ define "full-content" }}
 
 <section id="sponsors">
+  <div class="container-fluid bg-sponsors">
     <div class="container">
+      <div class="row sponsor-spacing">
+        <div class="col-md-12">
+          {{ .Content }}
+        </div>
+      </div>
 
-      {{ $sponsor_type := (slice "platinum" "gold" "silver" "community") }}
-      {{ range $sponsor_type }}
+      <div class="row sponsor-spacing">
+        <div class="col-md-12">
+          {{ $sponsor_type := (slice "platinum" "gold" "silver" "community") }}
+          {{ range $sponsor_type }}
           {{ $sponsors := (index $.Site.Data.sponsors .) }}
 
           {{ partial "sponsors/type-list.html" (dict "category" . "sponsors" $sponsors) }}
 
-      {{ end }}
-
-<div class="sponsorship-options">
-    <div class="container">
-        <h1>Sponsorship packages</h1>
-        <p>If you are interested in one of the sponsorships packages below please contact <a href="mailto:francois@devseccon.com">Francois Raynaud</a></p>
-        <div class="row">
-            <div class="col-xs-6">
-                <h3>Platinum sponsor: £10,000 (villa and project)</h3>
-                <ul>
-                    <li>5 full tickets (including accommodation and food) and named/branded villa</li>
-                    <li>sponsored project</li>
-                    <li>promotional materials in accommodation</li>
-                    <li>logo posted on event website</li>
-                    <li>logo included in printed summit guide</li>
-                    <li>social media announcement</li>
-                    <li>logo on tote bag</li>
-                </ul>
-
-                <h3>Gold sponsor: £7,000 (project)</h3>
-                <ul>
-                    <li>4 full tickets (including accommodation and food)</li>
-                    <li>sponsor a project</li>
-                    <li>promotional materials in accommodation</li>
-                    <li>company name within project work</li>
-                    <li>logo posted on event website</li>
-                    <li>logo included in printed summit guide</li>
-                    <li>social media announcement</li>
-                    <li>logo on tote bag</li>
-                </ul>
-                <h3>Silver sponsor: £3,500</h3>
-                <ul>
-                    <li>2 full tickets (including accommodation and food)</li>
-                    <li>promotional materials in accommodation</li>
-                    <li>logo posted on event website</li>
-                    <li>logo included in printed summit guide</li>
-                    <li>social media announcement</li>
-                </ul>
-
-
-            </div>
+          {{ end }}
         </div>
+      </div>
     </div>
-</div>
+  </div><!-- container-fluid -->
+
+  <div class="sponsorship-options">
+    <div class="container">
+      <h1>Sponsorship packages</h1>
+      <p>If you are interested in one of the sponsorships packages below please contact <a href="mailto:francois@devseccon.com">Francois Raynaud</a></p>
+      <div class="row">
+        <div class="col-xs-6">
+          <h3>Platinum sponsor: £10,000 (villa and project)</h3>
+          <ul>
+            <li>5 full tickets (including accommodation and food) and named/branded villa</li>
+            <li>sponsored project</li>
+            <li>promotional materials in accommodation</li>
+            <li>logo posted on event website</li>
+            <li>logo included in printed summit guide</li>
+            <li>social media announcement</li>
+            <li>logo on tote bag</li>
+          </ul>
+
+          <h3>Gold sponsor: £7,000 (project)</h3>
+          <ul>
+            <li>4 full tickets (including accommodation and food)</li>
+            <li>sponsor a project</li>
+            <li>promotional materials in accommodation</li>
+            <li>company name within project work</li>
+            <li>logo posted on event website</li>
+            <li>logo included in printed summit guide</li>
+            <li>social media announcement</li>
+            <li>logo on tote bag</li>
+          </ul>
+          <h3>Silver sponsor: £3,500</h3>
+          <ul>
+            <li>2 full tickets (including accommodation and food)</li>
+            <li>promotional materials in accommodation</li>
+            <li>logo posted on event website</li>
+            <li>logo included in printed summit guide</li>
+            <li>social media announcement</li>
+          </ul>
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
 
 {{ end }}

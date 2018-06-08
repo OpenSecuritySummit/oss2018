@@ -2,7 +2,8 @@
 title           : Women in Tech
 type            : team
 team_type       : Community team
-#image           :
+image           : /img/teams/women-in-tech.png
+session_slack   :
 linkedin        :
 twitter         :
 website         :
@@ -11,23 +12,26 @@ status          :
 #sessions:
 #    - OwaspSAMM - Best Practices
 members:
+    - Alina Radu
     - Anne Currie
     - Anne-Marie Grace
+    - Barbara Schachner
     - Barbara Prevel
     - Charlotte Bullock
     - Elizabeth Lawler
     - Fernanda Almeida
+    - Felicia Hislop
     - Franziska Buehler
     - PBX GS Head of Risk
-    - Jane Frankland
     - Jemma Davis-Smith
+    - Leila Powell
     - Lisa Raynaud
+    - Sara Davis
+    - Sarah Cruz
     - Rachel Power
     - Tanya Janca
+    - Tash Norris
+    - Þórdís Stella Þorsteins
+
+
 ---
-
-
-{{< img src="https://www.toreon.com/wp-content/uploads/2016/07/logo.png" >}}
-
-
-

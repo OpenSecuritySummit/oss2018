@@ -1,0 +1,29 @@
+---
+title        : Azure Security Features, Just a Few
+type         : product-session
+track        : DevSecOps
+host_text    : Microsoft Azure
+host_link    : https://azure.microsoft.com/en-us/
+session_type : public
+technology   : Microsoft Azure Security Center
+categories   : DevSecOps, Cloud
+featured     : Microsoft Azure Security Center
+when_day     : Tues
+when_time    : Eve-1
+room_layout  :
+room_number  :
+session_slack: https://os-summit.slack.com/messages/CAX20DZBJ
+status       : draft
+description  : A demonstration of a few of Azure's Security features including - Access Control (AIM), Just in Time (JIT), Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
+organizers   : Tanya Janca
+participants :
+
+---
+
+## What
+
+A demonstration of a few of Azure's Security features including - Access Control (AIM), Just in Time (JIT) access control, Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
+
+## Outcomes
+
+Knowledge sharing and learning the newer security features of Azure.

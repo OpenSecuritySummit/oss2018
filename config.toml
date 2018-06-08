@@ -5,6 +5,8 @@ languageCode            = "en-us"
 defaultContentLanguage  = "en"
 googleAnalytics         = "UA-97001849-2"
 enableGitInfo           = false
+preserveTaxonomyNames   = true
+disableKinds            = ["taxonomy"]
 #disqusShortname = "devcows"
 
 # Define the number of posts per page
@@ -24,7 +26,7 @@ paginate = 10
     identifier = "schedule"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 1
-    url = "/Schedule/"
+    url = "/Schedule/all"
 [[menu.main]]
     name = "Sessions"
     identifier = "sessions"
@@ -39,27 +41,40 @@ paginate = 10
     parent = "sessions"
     url = "/tracks/"
 [[menu.main]]
+    name = "Topics"
+    identifier = "topics"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 4
+    parent = "sessions"
+    url = "/topics/"
+[[menu.main]]
     name = "Working Sessions"
     identifier = "working-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 4
+    weight = 5
     parent = "sessions"
     url = "/working-sessions/"
 [[menu.main]]
     name = "User Sessions"
     identifier = "user-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 5
+    weight = 6
     parent = "sessions"
     url = "/user-sessions/"
 [[menu.main]]
     name = "Teams"
     identifier = "teams"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 6
+    weight = 7
     parent = "sessions"
     url = "/teams"
-
+[[menu.main]]
+    name = "Product Sessions"
+    identifier = "product-sessions"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 7
+    parent = "sessions"
+    url = "/product-sessions"
 [[menu.main]]
     name = "Participants"
     identifier = "participants"
@@ -107,12 +122,6 @@ paginate = 10
     weight = 10
     parent = "about"
     url = "/faq/"
-#[[menu.main]]
-#    name = "Blog"
-#    identifier = "blog"
-#    pre = "<i class='fa fa-road'></i>&nbsp;"
-#    weight = 16
-#    url = "/blog/"
 [[menu.main]]
     name = "Sponsors"
     identifier = "sponsors"
@@ -152,8 +161,7 @@ paginate = 10
     pre = "<i class='fa fa-2x fa-envelope'></i>"
 
 [taxonomies]
-  category = "categories"
-  tag = "tags"
+  category = "topics"
 
 [params]
     viewMorePostLink = "/blog/"
@@ -181,10 +189,11 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "info@open-security-summit.org"
+    email = "info@opensecsummit.org"
 
     about_us = "The Open Security Summit 2018 is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
     copyright = "Copyright &copy; 2018, Open Security Summit"
+    help_center = """<a href="https://os-summit.slack.com/messages/CAVJH8QJV" target="blank">Do you need help <i class="fa fa-question-circle" aria-hidden="true"></i></a>"""
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -194,7 +203,7 @@ paginate = 10
         <br />13 West Hill
         <br />London SW18 1RB
         <br />United Kingdom</p>
-        <a href="mailto:info@open-security-summit.org">info@open-security-summit.org</a>
+        <a href="mailto:info@opensecsummit.org">info@opensecsummit.org</a>
       """
     latitude = "-12.043333"
     longitude = "-77.028333"
@@ -252,6 +261,13 @@ paginate = 10
     # For more informtion take a look at the README.
     title = "Our Sponsors"
     subtitle = ""
+
+[params.featured]
+    # Change this for listing featured in the home pages
+    enable = true
+    size = 4
+
+
 
 [params.recent_posts]
     enable = false

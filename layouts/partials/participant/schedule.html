@@ -1,8 +1,9 @@
 {{ $title           := .Params.title }}
-{{ $site_Pages      := .Site.Pages }}
-{{ $working_sessions := where  .Site.Pages ".Params.type" "working-session" }}
-{{ range $site_Pages }}
+{{ $site_Pages      := where .Site.Pages ".Params.type" "!=" "outcome" }}
 
+<h3>{{ .Params.title }} Daily Schedule</h3>
+
+{{ range $site_Pages }}
     {{ $page := .}}
 
     {{ if eq (printf "%T" .Params.organizers) "[]string" }}
@@ -29,10 +30,43 @@
         {{ end }}
     {{end }}
 
-    {{ if in .Params.title $.Params.sessions}}
+    {{ if in .Params.title $.Params.sessions }}                          {{/* add current user's sessions */}}
         {{ $.Scratch.Add "pages" (slice $page) }}
     {{ end }}
+
+    {{ if eq (printf "%T" .Params.invited) "[]string" }}           {{/* map invited */}}
+        {{ range .Params.invited }}
+            {{if eq $.Params.title . }}
+                {{ $.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
+        {{ end }}
+    {{ end }}
+
+    {{ if eq .Params.type "team" }}
+        {{ if in .Params.members $title }}
+            {{ $matches := where (where $site_Pages ".Params.title" "in" .Params.sessions) ".Params.type" "!=" "outcome" }}
+            {{ range $matches }}
+                {{ $.Scratch.Add "pages" (slice .) }}
+            {{ end }}
+
+        {{ end }}
+    {{ end }}
+
 {{ end }}
+
+
+{{ if .Params.tracks }}
+    <div class="subscribed-to-tracks">
+        {{ range .Params.tracks }}
+            {{ $track_pages := (where $site_Pages ".Params.track" . )}}
+            <div class="subscribed-to-track">Subscribed to track <span class="badge">{{ . }}</span> which has {{ len $track_pages }} sessions </div>
+            {{ range  $track_pages}}
+                {{ $.Scratch.Add "pages" (slice .) }}
+            {{ end }}
+        {{ end }}
+    </div>
+{{ end }}
+
 {{ range .Params.sessions }}
     {{ $matches := (where $site_Pages ".Params.title" . ) }}
     {{ if $matches }}
@@ -41,6 +75,4 @@
 {{ end }}
 
 {{ $pages := .Scratch.Get "pages" }}
-
-<h3>{{ .Params.title }} Daily Schedule</h3>
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}

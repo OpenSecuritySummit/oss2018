@@ -1,0 +1,18 @@
+version: 0.2
+
+environment_variables:
+  plaintext:
+    HUGO_VERSION: "0.40.1"
+
+phases:
+  install:
+    commands:
+      # Install hugo 
+      - curl -Ls https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz
+      - tar xf /tmp/hugo.tar.gz -C /usr/local/bin
+  pre_build:
+    commands:
+      - cd $CODEBUILD_SRC_DIR && git submodule init && git submodule update
+  build:
+    commands:
+      - hugo -vv

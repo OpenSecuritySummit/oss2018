@@ -8,11 +8,15 @@ featured     :                    # review with summit team "yes"
 when_day     : Tue
 when_time    : PM-3
 room_layout  :                    #
-room_number  :
+room_id      : room-1
+session_slack: https://os-summit.slack.com/messages/CAVU2J0AK
 status       : review-content             # draft, review-content, done
 organizers   :
-participants : 
+    - Steven Wierckx
+participants :
+    - Adam Shostack
 description  : Back to the future with Threat Modeling
+locked       : true
 ---
 
 ## Why
@@ -32,4 +36,4 @@ Open discussion: How can we improve our Threat Modeling using a post-mortem of a
 
 ## Outcomes
 
-This Working Session will publish a document (white paper) gathering the conclussions. 
+This Working Session will publish a document (white paper) gathering the conclussions.

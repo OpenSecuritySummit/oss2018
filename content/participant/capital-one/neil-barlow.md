@@ -10,9 +10,10 @@ twitter         :
 facebook        :
 website         :
 email           :
-project_leader  :
-chapter_leader  :
-regonline       :
+venue           : TBD
+night_day       :
+night_where     :
+eventbrite_id   :
 pre-summit      :
 status          : add details
 sessions:

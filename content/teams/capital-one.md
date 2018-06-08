@@ -2,8 +2,9 @@
 title           : Capital One
 type            : team
 team_type       : Company
-#image           :
+image           : https://www.capitalone.com/assets/enterprise/img/logo/capitalone-logo-2x-main.png
 linkedin        :
+session_slack   :
 twitter         :
 website         : https://www.capitalone.com/
 email           :
@@ -12,9 +13,7 @@ status          :
 members:
     - Fraser Scott
     - Neil Barlow
-hidden         : true
+    - Mark Stickley
+    - Capital One 4
 notes :
 ---
-
-
-

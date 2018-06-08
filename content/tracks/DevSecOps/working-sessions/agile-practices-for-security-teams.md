@@ -1,11 +1,13 @@
 ---
 title        : Agile Practices for Security Teams
 type         : working-session
+topics        : ["Agile"]
 featured     :                    # if  "yes" review with summit team
 when_day     : Tue
 when_time    : PM-1
 room_layout  :                    #
-room_number  :
+room_id      : room-3
+session_slack: https://os-summit.slack.com/messages/CAU62737S
 status       : done
 organizers   : Ante Gulam
 track        : DevSecOps

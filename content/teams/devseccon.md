@@ -2,10 +2,11 @@
 title           : DevSecCon
 type            : team
 team_type       : Sponsor
-image           : http://localhost:1313/img/sponsors/devseccon.png
+image           : /img/sponsors/devseccon.png
 linkedin        :
+session_slack   :
 twitter         :
-website         : http://www.devseccon.com/
+website         : https://www.devseccon.com/
 email           :
 status          :
 #sessions       :  # use this to create a custom schedule for this team
@@ -15,12 +16,8 @@ status          :
 members:
     - Francois Raynaud
     - Lisa Raynaud
+    - Paul Dubourg
+    - Thomas Franceschini
 
 notes :
 ---
-
-
-{{< img src="http://localhost:1313/img/sponsors/devseccon.png" width="350">}}
-
-
-

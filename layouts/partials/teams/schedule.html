@@ -6,9 +6,10 @@
 
     {{ range .Params.sessions}}
         {{ $matches := (where $site_Pages ".Params.title" .) }}
-        {{ if $matches }}
-            {{ $page := (index $matches 0) }}
-            {{ $.Scratch.Add "pages" (slice $page) }}
+        {{ range $page :=$matches }}
+            {{ if  ne .Params.type "outcome" }}
+                {{ $.Scratch.Add "pages" (slice $page) }}
+            {{ end }}
         {{ end }}
     {{ end }}
 
@@ -17,6 +18,7 @@
 {{ end}}
 {{ $.Scratch.Delete "pages" }}
 
+<!--
 <h3>What sessions are the {{.Params.title}} team participating</h3>
 {{ range .Params.members }}                                                     {{/* for all members of this team */}}
     {{ $title := . }}
@@ -55,17 +57,18 @@
 
         {{ if (eq $title $page.Params.title) }}                                                    {{/* when we find the page a team member */}}
 
-            {{ if eq (printf "%T" $page.Params.sessions) "[]string"  }}
+            {{ if eq (printf "%T" $page.Params.sessions) "[]string"     }}
                 {{ range $page.Params.sessions}}                                       {{/* add it contents */}}
-                    {{ $.Scratch.Add "pages_Titles" (slice .)   }}
-                    {{ $.Scratch.Add .  (slice $title)          }}
-                {{ end }}
+                    {{ $.Scratch.Add "pages_Titles" (slice .)           }}
+                    {{ $.Scratch.Add .  (slice $title)                  }}
+                {{ end                                                  }}
             {{ end }}
-            {{ $.Scratch.Add $title .                       }}                {{/* store a ref to it on $.Scratch */}}
-        {{ end }}
-    {{ end }}
-{{ end }}
-
+            {{ if not ($.Scratch.Get $title)                            }}
+                {{ $.Scratch.Add $title .                               }}                       {{/* store a ref to it on $.Scratch */}}
+            {{ end                                                      }}
+        {{ end                                                          }}
+    {{ end                                                              }}
+{{ end                                                                  }}
 
 
 {{ $pages_Titles := .Scratch.Get "pages_Titles" }}                                    {{/* .Scratch['pages'] has the titles of the sessions */}}
@@ -79,3 +82,5 @@
 {{ $pages := $.Scratch.Get "pages"}}
 
 {{ partial "schedule/table.html" (dict "self" . "pages" $pages ) }}
+
+-->
