@@ -44,5 +44,5 @@ All designs are released under the [Creative Commons Share-Alike License](http:/
 
 ### Additional/External References
 
-* [Tim's security buttons github repo](https://github.com/wurstbrot/security-buttons)
+* [Timo's security buttons github repo](https://github.com/wurstbrot/security-buttons)
 * [Where the badge-maker was bought](https://www.badgematic.de/en/index)
