@@ -24,7 +24,7 @@ description  :
 - Squads provide a framework for autonomy
 - Autonomy is paramount: the squad can decide what to build, how to build it, and how to work together while building it 
 - Squads work better when they have reached a certain level of maturity
-- Success of the squad system depends on the managemant style and corporate culture - there may need to be adjustments
+- Success of the squad system depends on the management style and corporate culture - there may need to be adjustments
 - A Pilot should offer proof, or at least show where changes/tweaks are needed in order for the squad to succeed
 - Squads allow for speedy restructuring and disbandment 
 - They need [Retros](see https://labs.spotify.com/2017/12/15/spotify-retro-kit/) - regular health checks for squads 
@@ -36,7 +36,7 @@ In relation to Security the following points were made:
    - or vice versa: embed a TechOps/WebOps member in the Security team for six months, so they can learn the methods and priorities of Security
 - A Security expert within a business should ideally be part of a number of squads
 - This practice will help to grow a network of Security Champions
-- Squads work well outside Security; examples were given of squads working succecssfully within marketing and HR
+- Squads work well outside Security; examples were given of squads working successfully within marketing and HR
 
 ## Working Materials 
 [Slide deck](https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-into-an-spotify-model/)
