@@ -1,55 +1,94 @@
 ---
 title        : Securing the CI Pipeline
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session
 technology   :
 featured     : yes
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : 
+status       : draft
 description  :
 ---
 
-@import "/static/img/logo.png"
+## Outcomes
+This Working Session took an in-depth look at the security risks inherent to the CI Pipeline, and what could be done to mitigate these risks.
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+## Synopsis and Takeaways
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+#### Why do we need to secure the CI Pipeline?
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+- The CI pipeline is 'huge'
+    - consists of multiple hosts/machines
+    - with multiple points of access
+    - running multiple processes
+- The pipeline contains high value targets for attackers
+    - access to compilers
+    - config files
+    - secrets, keys, passwords
+    - Developers often store keys and other secrets in spreadsheets, config files, git repositories
+- Assets accessible on the pipeline can be used to escalate privileges
+- Several mechanisms for taking advantage of the above was demonstrated.
+- Although true that these risks are lower in a pipeline fully implementing security standards , pipelines practicing less than ideal security hygene are not uncommon.
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+####  Categories of risks identified:
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+- Misconfigurations
+- Secret management
+- Environment security
+- Developer machines 
+- Access management
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+#### What to do?
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+- Enable Authentication and Two Factor Authentication methods, using Secret Engines if possible (see tools below)
+- Check for misconfigurations
+    - hooks
+    - secret variables (CI,prod,VCS,Artefacts)
+    - VCS Security
+    - Docker configuration/registry
+    - Artefact hardening
+- Code review, 
+- Secrets management
+- Auditing and Monitoring CI/CD servers
+- Harden CI boxes
+- Protect the CI master machines
+- Check Registries/Artefact storage
+- Secure Developer's machines - they are part of CI Pipeline
+- Consider using secret management and automated access provision tools (see below)
+- Use Docker best practices for security
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+**In general, the security of the CI/CD pipelines should be considered as important as your production security!**
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+
+#### Tools for Securing the Pipeline, covered in session:
+
+- Automated access management/provision:
+    - [repokid](https://github.com/Netflix/repokid)
+    - [hubcommander](https://github.com/Netflix/hubcommander)
+- Secret management and automated access provision
+    - [Hashicorp Vault](https://www.vaultproject.io/) - getting to know and use Vault is highly recommended
+
+A tool like Hashicorp's Vault can help by providing:
+
+- Secret management
+- Automated/on demand access provision - Lets you control who has access, how long she has access for (limited time to live)
+- whitelist IPs
+- Two Factor Authentication - Team based authentication available
+
+#### Other Miscellaneous Threats mentioned:
+
+- npm typosquatting
+    - typosquatting vector could provide access to your CI pipleline..
+- Logs - can be a risk (eg. recent GitHub log incident)
+- Docker image integrity
+- Docker registry mis-configurations
+
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- **Session page :** https://open-security-summit.org/tracks/devsecops/working-sessions/securing-the-ci-pipeline/
+- **Summit 2017 session page :** https://owaspsummit.org/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
 
-### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
+#### Additional/External References
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- [How to Secure a Continuous Integration Process](https://www.nccgroup.trust/uk/our-research/securing-the-continuous-integration-process)
+- [DEF CON 22 - Kyle Kelley and Greg Anderson - Is This Your Pipe? Hijacking the Build Pipeline](https://www.youtube.com/watch?v=nBR7Kru6JX0)
+- [Blackhat Kubernetes: preventing attacks at scale - Dino Dai Zovi](https://www.youtube.com/watch?v=P8891Z_uj-0)
