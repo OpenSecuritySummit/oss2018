@@ -36,7 +36,6 @@ participants :
  - Aurelijus Stanislovaitis
  - Benjamin Brunzel
  - Carlos Holguera
- - Clara Anel Mansilla
  - Claudio Camerino
  - Colin Domoney
  - Cristian Torres
@@ -52,7 +51,6 @@ participants :
  - Marjorie Mohammad
  - Matt Pendlebury
  - Panagiotis Yialouris
- - Pedro Laguna
  - Peter Turczak
  - Radu Tighineanu
  - Roni Yaari
