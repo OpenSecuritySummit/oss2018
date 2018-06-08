@@ -5,7 +5,7 @@ session_type : user-session
 technology   :
 featured     : yes
 categories   : 
-status       : draft
+status       : review-content
 description  :
 ---
 
