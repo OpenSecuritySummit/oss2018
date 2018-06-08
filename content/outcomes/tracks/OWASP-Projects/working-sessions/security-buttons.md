@@ -19,7 +19,7 @@ The work session walked participants through the button design process and gave 
 - A teams effort in security is visible and therefore measureable
 - Teams are able to compare each others achievements, especially with different skill levels (e.g. XSS Basics and XSS Advanced events)
 - Security Champions are able to get some kind of certification
-- Helping to engange others on the topics of security
+- Helping to engage others on the topics of security
 
 
 #### Legal and Technical Considerations:
