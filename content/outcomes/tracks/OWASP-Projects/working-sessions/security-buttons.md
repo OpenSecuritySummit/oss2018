@@ -35,7 +35,7 @@ All designs are released under the [Creative Commons Share-Alike License](http:/
 
 ##### Button Sheet 1:
 
-<a href="https://github.com/OpenSecuritySummit/oss2018/files/2080686/button-all.copy.pdf" target="_blank"><img src="https://raw.githubusercontent.com/jaysen/oss2018/f63533dd468f805ae08be56790e433b922d1aa44/content/outcomes/tracks/OWASP-Projects/working-sessions/button-all.png"/></a>
+<a href="https://github.com/OpenSecuritySummit/oss2018/files/2080686/button-all.copy.pdf" target="_blank"><img src="https://raw.githubusercontent.com/jaysen/oss2018/f63533dd468f805ae08be56790e433b922d1aa44/content/outcomes/tracks/OWASP-Projects/working-sessions/button-all.png" width="100%"/></a>
 
 
 ## References
@@ -44,5 +44,5 @@ All designs are released under the [Creative Commons Share-Alike License](http:/
 
 ### Additional/External References
 
-* [Tim's security buttons github repo](https://github.com/wurstbrot/security-buttons)
+* [Timo's security buttons github repo](https://github.com/wurstbrot/security-buttons)
 * [Where the badge-maker was bought](https://www.badgematic.de/en/index)
