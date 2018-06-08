@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Best Practices
+title        : Create a Slack bot in Python
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :

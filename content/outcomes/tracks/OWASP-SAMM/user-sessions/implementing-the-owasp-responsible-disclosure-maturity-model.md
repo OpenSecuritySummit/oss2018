@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Best Practices
+title        : Implementing the OWASP responsible disclosure Maturity Model
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
