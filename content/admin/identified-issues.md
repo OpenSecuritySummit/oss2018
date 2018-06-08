@@ -19,8 +19,11 @@ layout: identified-issues
 * The website provides information for remote participation for sessions that we do not have environment for remote participation at all.
 
 ### Content Related
+* Some of the sessions didn't had description
 
 ### Organization related
 * People were not able to find the location of villas which hosts some of the evening sessions.
+* People were making comments that there sessions disappeared from the scheduled (participants that were interested) - too much agility but on the other hand they linked the dynamics
+* Some of the sessions (especially those evening sessions) the representatives of the organizers were not showing on those sessions at all.
 
 ### Accommodation & Food Related
