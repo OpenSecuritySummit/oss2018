@@ -1,5 +1,5 @@
 ---
-title        : Planning for Success
+title        : A shared understanding of Success
 type         : user-session
 track        : Keynotes
 technology   :
