@@ -89,7 +89,13 @@ layout   : photo-gallery
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102232-47807f6a-6a5e-11e8-8cdb-0376240853e2.jpg" caption="Tanya Janca on Azure Security Features"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102235-47a08d96-6a5e-11e8-9b15-7f1932fb5b1e.jpg" caption="Simon Wardley about maps (Wardley Mapping – a practical session on how to use value chain mapping)"  >}}
   {{< figure link="https://user-images.githubusercontent.com/15072044/41102236-47c1fa62-6a5e-11e8-9cbf-c4a4106800ce.jpg" caption="Jane Frankland about why we are less safe when failing to attract and retain women in Cybersecurity"  >}}
-
-
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158114-b9a22c12-6b1f-11e8-8f03-f687a4c9f130.jpg" caption="Adding privacy by design to secure application development"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158115-b9bf2786-6b1f-11e8-9b42-0224bd95c2fc.jpg" caption="Expressing JIRA itams through graphs"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158116-b9dfbfa0-6b1f-11e8-88c3-ff6e4b657360.jpg" caption="We keep improving outcomes in Slack"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158118-ba013400-6b1f-11e8-8253-9d969f6605d5.jpg" caption="Taking notes for the future"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158119-ba1dccfa-6b1f-11e8-9091-436cd6c39ee0.jpg" caption="Using JIRA-NeoVis to create graphical representations of JIRA data"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158120-ba39f506-6b1f-11e8-9f5b-21133b3604f5.jpg" caption="If you turn this graph clockwise..."  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158121-ba573846-6b1f-11e8-8180-2424c90a3b20.jpg" caption="Owasp Top 5 Machine Learning risks"  >}}
+  {{< figure link="https://user-images.githubusercontent.com/15072044/41158122-ba71871e-6b1f-11e8-9ed5-dda53044445f.jpg" caption="Owasp Top 5 Machine Learning risks"  >}}
 
 {{< /gallery >}}
