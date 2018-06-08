@@ -1,5 +1,5 @@
 ---
-title        : SAMM - Best Practices
+title        : Creating ELK Dashboards
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
