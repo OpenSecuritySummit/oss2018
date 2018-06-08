@@ -5,7 +5,7 @@ track        : Misc
 topics       :
 when_day     : Fri
 when_time    : AM-1
-room_id      : room-2
+room_id      :
 locked       : true
 technology   :
 session_slack: https://os-summit.slack.com/messages/CAWPHNHPA
