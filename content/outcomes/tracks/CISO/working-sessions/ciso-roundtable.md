@@ -3,6 +3,7 @@ title        : CISO Ask Me Anything (AMA)
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
+featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :

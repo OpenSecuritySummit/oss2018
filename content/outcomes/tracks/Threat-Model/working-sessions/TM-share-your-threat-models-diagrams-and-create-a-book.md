@@ -3,6 +3,7 @@ title        : Share your Threat Models diagrams and create a Book
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
+faeture      : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :

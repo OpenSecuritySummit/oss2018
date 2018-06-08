@@ -3,6 +3,7 @@ title        : Real world Chaos Engineering
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
+feature      : yes
 categories   :                    # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :
