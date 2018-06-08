@@ -4,7 +4,7 @@ type         : outcome
 session_type : user-session
 technology   :
 categories   : ["OWASP projects"]
-status       : draft
+status       : review-content
 description  :
 ---
 
