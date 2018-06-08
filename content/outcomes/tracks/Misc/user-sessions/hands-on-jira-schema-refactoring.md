@@ -1,5 +1,5 @@
 ---
-title        : SAMMv2 working session - Implementation
+title        : Hands-on JIRA Schema refactoring
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
