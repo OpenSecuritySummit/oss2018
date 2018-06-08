@@ -8,7 +8,7 @@ status       : draft              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables (recommend)
 
