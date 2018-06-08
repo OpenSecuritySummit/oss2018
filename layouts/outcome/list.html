@@ -9,7 +9,7 @@
 
             <ul>
             {{ range where .Pages ".Params.title" "!=" ""}}
-                <li><a href="{{.Permalink}}">{{ .Title }}</a> ({{.Params.status}})</li>
+                <li><a href="{{.Permalink}}">{{ .Title }}</a> ({{ partial "outcomes/status-badge.html" . }})</li>
             {{ end }}
             </ul>
 
