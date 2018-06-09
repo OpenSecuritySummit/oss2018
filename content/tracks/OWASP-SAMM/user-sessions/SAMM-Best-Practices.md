@@ -11,7 +11,7 @@ when_day     : Mon
 when_time    : PM-2
 room_layout  :                    #
 room_id      : room-2
-session_slack: https://os-summit.slack.com/messages/CAX0FLQ9E
+session_slack: https://os-summit.slack.com/messages/CB04KLJ5P
 status       : review-content              # draft, review-content, done
 description  : User session on how to use Owasp SAMM
 organizers   :
