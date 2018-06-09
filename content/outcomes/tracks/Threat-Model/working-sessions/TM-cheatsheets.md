@@ -1,55 +1,98 @@
 ---
 title        : Threat model cheat sheets
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : working-session   
 technology   :
 featured     : yes
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
-description  :
+categories   : Threat Model                    
+status       : review-content             # draft, review-content, done
+description  : Creation of three new TM cheat sheets
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+## Outcomes
+Three Cheat Sheets for Central Questions 2 to 4
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+## Synopsis and Takeaways 
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+The OWASP Threat Model Project seeks to document threat modeling techniques grouped around four key questions that form the basis of most TM methodologies:
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+- What are we building?
+- What can go wrong?
+- What are we going to do about that?
+- Did we do a good enough job?
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+### Cheet Sheet Structure & Process
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+- Each cheat sheet has a maximum of 5 key points
+- Each key point is as simple and concise as possible
+- Each point starts with either DO or DON’T
+- Ideas are collected in a collaborative environment
+- The top five are chosen by consensus to be documented
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+### Reference
+Cheat Sheet created for Question 1 at 2017 Summit
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+#### Question 1: What are we building?
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+- **DO** Scope to what is under your control.
+- **DO** Understand the context your system will live in. This includes but is not limited to the environment, security controls, etc
+- **DO** If you get stuck, either look at the entry and exit points OR let the Subject Matter Expert (SME) tell a story to get back on track.
+- **DON’T** Go beyond/deeper than design level.
+- **DON’T** Use Threat Modeling like a kitchen sink, don’t try to put everything in.
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+![q1](https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg)
+
+## Working Materials
+
+### Question Two: WHAT CAN GO WRONG?
+
+- **DO** Use the whole team: including security operations, product owner, marketing and design usability (don’t limit yourself or shut down the brainstorm too early)
+- **DO** Use existing libraries, practices and structures such as STRIDE, CAPEC, Kill Chain, Story Mapping (don’t reinvent the wheel)
+- **DON’T** Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
+- **DO** Capture good notes, use open questions, and own the follow-up process 
+- **DO** Engage constructively and blamelessly - create a safe space 
+
+![q2 what can go wrong](https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg)
+![Q2 graphic](https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg)
+
+### Question Three: WHAT ARE WE GOING TO DO ABOUT IT?
+
+- **DO** Collaborate, validate and prioritise (findings, threats and first assumptions)
+- **DO** Draw on, extend and customise existing countermeasures
+  - Organisational standards - SSO and WAF
+  - Common standards - USE ACL and Hash PW
+- **DO** Write tests and test cases
+- **DO** Integrate with partner or team tools and processes
+- **DON’T** Confuse can and should
+
+![q3 what can we do](https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg)
+![question 3](https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg)
+
+
+### Question Four: DID WE DO A GOOD ENOUGH JOB?
+
+- **DON’T** Skip this step!
+- **DO** Follow Up and Actionable Outputs
+- **DO** Follow up with Survey and Lessons Learned
+- **DO** Keep what works and lose what fails
+- **DO** Actioned Items
+- **DO** Continuous Validation
+- **DO** Compare Q1 (what we are building) with Q3 (what we built)
+- **DO** Validate Assumptions
+- **DO** Compare outputs with Bug Bounty, Pen Test and Audit Findings
+- **DO** Share outputs with whole team
+
+![q4 did we do a good job](https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg)
+
+
+## References 
+
+- **Session page :** [Threat Model Cheat Sheets](https://open-security-summit.org/tracks/threat-model/working-sessions/tm-cheatsheets/)
+- **Summit 2017 session page :** [2017 Threat Model Sessions](https://owaspsummit.org/Working-Sessions/Threat-Model/index.html)
+- **Summit 2017 outcome page :** [Outcomes OWASP Projects: Cheat Sheets](https://owaspsummit.org/Outcomes/Owasp-Projects/Cheatsheets.html)
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
+OSWASP Cheat Sheet Guidelines: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series#tab=Cheat_sheet_Guideline
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
