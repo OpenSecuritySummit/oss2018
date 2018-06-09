@@ -1,54 +1,97 @@
 ---
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+categories   : DevOpsSec
+status       : review-content              # draft, review-content, done
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+## Outcomes
+After a discussion of DevSecOps and its history and motivations, participants were introduced to OWASP DevSecOps Studio. This included the following topics:
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+- Benefits of Integrating security tools in SDL
+- CI/CD and security tools
+- Different challenges involved while integration
+- Using DevSecOps Studio to do hands-on exercise with open source projects
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+## Synopsis and Takeaways
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+Integrating security tools in the software development lifecycle ensures appropriate protection for all the information that the system will transmit, process, and store.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+#### Typical Security Activities in DevOps:
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+- Plan
+    - Threat Modelling 
+    - ASVS
+- Code 
+    - Git Secrets
+    - Dependency scanning
+- Build
+    - Dependency scanning
+    - SAST
+    - Security Unit Tests
+    - Git Secrets scanning
+    - Component scanning
+- Test
+    - ZAP testing - baseline 
+    - Container Scanning 
+    - Modsecurity CRS
+- Release
+    - Docker/Third Party 
+    - SSL scanning 
+    - Nikto/dirbuster 
+    - WPScan/JoomScan 
+    - ZAP + selenium + python 
+    - Component scanning
+- Deploy
+    - Docker Benchmark 
+    - System Hardening 
+    - Application Hardening
+- Operate
+    - Compliance as code 
+    - SOC with ELK 
+    - Verify Controls
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+#### OWASP DevSecOps Studio:
+DevSecOps Studio project aims to reduce the time to bootstrap the environment and help you in concentrating on learning/teaching DevSecOps practices. 
+
+#### The Benefitts of DevSecOps Studio 
+
+- Easy to setup environment - Takes only few mins to setup and start with just one command (“vagrant up”)
+- Free & Open Source Software - this project is a free and open software to help more people learn about DevSecOps
+- Reproducible - the aim of this project is to setup reproducible DevSecOps Lab environment for learning and testing different tools
+
+#### Some of the Python Security Tools discussed:
+
+- **SAST:** Bandit
+- **DAST:** ZAP Proxy
+- **Hardening:** Ansible
+- **Compliance:** Inspect
+- **Git Secrets:** Trufflehog
+
+
+## DevSecOps Studio Setup
+DevSecOps Studio uses vagrant, virtualbox and ansible to setup the lab environment. You can visit the vendor's website to download the above software for on Windows/Linux/macOS.
+
+Install [Vagrant](https://www.vagrantup.com/downloads.html), [Virtualbox](https://www.virtualbox.org/wiki/Downloads) , [Ansible](http://docs.ansible.com/ansible/latest/intro_installation.html#installation)  and follow the below steps.
+
+- [Download DevSecOps-Studio Appliance](https://drive.google.com/open?id=1b3Z6BLndohpn_2HHcBfPFUpoSx78OKgG) (4.45 GB)
+- Import the above Appliance by following [these steps](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html)
+- Follow the [wiki](https://github.com/teacheraio/DevSecOps-Studio/wiki) to embed security as part of DevOps Pipeline.
+
+
+## References
+- **Session page :** https://open-security-summit.org/tracks/devsecops/user-sessions/integrating-security-tools-in-the-sdl-using-owasp-devsecops-studio/
+
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+* [OWASP DevSecOps Studio Project Page](https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project) 
+* [DevSecOps Studio Project on GitHub](https://github.com/teacheraio/DevSecOps-Studio)
