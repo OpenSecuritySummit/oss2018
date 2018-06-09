@@ -16,18 +16,14 @@ This Working Session took an in-depth look at the security risks inherent to the
 
 #### Why do we need to secure the CI Pipeline?
 
-- The CI pipeline is 'huge'
-    - consists of multiple hosts/machines
-    - with multiple points of access
-    - running multiple processes
-- The pipeline contains high value targets for attackers
-    - access to compilers
-    - config files
-    - secrets, keys, passwords
-    - Developers often store keys and other secrets in spreadsheets, config files, git repositories
+- The CI pipeline is ‘huge’,consisting of multiple hosts/machines with multiple points of access and processes.
+- The pipeline contains high value targets for attackers, such as:
+    - Access to compilers
+    - Config files
+    - Secrets, keys, passwords. Developers often store keys and other secrets in spreadsheets, config files, git repositories
 - Assets accessible on the pipeline can be used to escalate privileges
 - Several mechanisms for taking advantage of the above were demonstrated.
-- Although true that these risks are lower in a pipeline fully implementing security standards , pipelines practicing less than ideal security hygene are not uncommon.
+- Although true that these risks are lower in a pipeline fully implementing security standards, pipelines practicing less than ideal security hygene are not uncommon.
 
 ####  Categories of risks identified:
 
@@ -37,22 +33,22 @@ This Working Session took an in-depth look at the security risks inherent to the
 - Developer machines 
 - Access management
 
-#### What to do?
+#### What can you do?
 
-- Enable Authentication and Two Factor Authentication methods, using Secret Engines if possible (see tools below)
-- Check for misconfigurations
+- Enable Authentication and Two Factor Authentication methods.
+- Check for misconfigurations:
     - hooks
-    - secret variables (CI,prod,VCS,Artefacts)
-    - VCS Security
+    - secret variables (CI, prod, VCS, artefacts)
+    - VCS security
     - Docker configuration/registry
     - Artefact hardening
-- Code review, 
-- Secrets management
-- Auditing and Monitoring CI/CD servers
+- Get your code review right.
+- Implement secure secrets management
+- Auditing and monitoring CI/CD servers
 - Harden CI boxes
 - Protect the CI master machines
-- Check Registries/Artefact storage
-- Secure Developer's machines - they are part of CI Pipeline
+- Check registries/artefact storage
+- Secure developer's machines.
 - Consider using secret management and automated access provision tools (see below)
 - Use Docker best practices for security
 
@@ -70,17 +66,15 @@ This Working Session took an in-depth look at the security risks inherent to the
 A tool like Hashicorp's Vault can help by providing:
 
 - Secret management
-- Automated/on demand access provision - Lets you control who has access, how long she has access for (limited time to live)
-- whitelist IPs
-- Two Factor Authentication - Team based authentication available
+- Automated and on demand access provision. This provides you with processes that lets you control who has access, how long she has access for (limited time to live)
+- Whitelist IPs
+- Two Factor Authentication, with team based authentication available
 
 #### Other Miscellaneous Threats mentioned:
 
 - npm typosquatting
-    - typosquatting vector could provide access to your CI pipleline..
-- Logs - can be a risk (eg. recent GitHub log incident)
-- Docker image integrity
-- Docker registry mis-configurations
+- Logs can be a risk (eg. recent GitHub log incident)
+- Docker image integrity and registry mis-configurations
 
 
 ## References

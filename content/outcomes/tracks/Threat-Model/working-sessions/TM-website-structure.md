@@ -5,11 +5,11 @@ session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : review-content             # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables (recommend)
 
@@ -19,13 +19,17 @@ description  :
 - Anyone is free to participate in the knowledge-based documentation published on the OWASP Threat Model pages.
 - Content is produced in collaboration, published by consensus and reviewed by wiki-users from around the world.
 
+
 ### OWASP Threat Model Pages
 
 A list of pages is found at the OWASP TM landing page. The main subpages are:
+
 - Application Threat Modelling
 - Risk Threat Modelling
 
+
 ## New Website Content
+
 ### What
 
 Threat modelling works to identify, communicate and understand threats and mitigations within the context of protecting something of value.
@@ -39,6 +43,7 @@ Most of the time, a threat model include:
 - A list of potential threats to the system
 - A list of actions to be taken for each threat
 - A way of validating the model and threats, and verification of success of actions taken
+
 
 Our motto is: Threat modelling; the sooner the better, but never too late.
 
@@ -54,7 +59,7 @@ The inclusion of threat modelling in the SDLC can help
  - Balance risks, controls, and usability
  - Identify where building a control is unnecessary, based on acceptable risk
  - Document threats and mitigations
- - Ensure business requirements (or goals) are adequately protected in the face of a malicious actor, accidents or other causes of impact 
+ - Ensure business requirements (or goals) are adequately protected in the face of a malicious actor, accidents or other causes of impact
  - Identification of security test cases / security test scenarios to test the security requirements
 
 ## 4 Questions
@@ -82,18 +87,18 @@ In this phase you turn your findings into specific actions.
 
 Finally, carry out a retrospective activity over the work you have done to check quality, feasibility, progress, and/or planning.
 
-### H1 Process
+### Process
 
 The technical steps in threat modelling involve answering questions:
  - What are we working on
  - What can go wrong
  - What will we do with the findings
- - Did we do a good job? 
+ - Did we do a good job?
  The work to answer these questions is embedded in some sort of process, ranging from incredibly informal Kanban with Post-its on the wall to strictly structured waterfalls.
 
 The effort, work, and timeframes spent on threat modelling relate to the process in which engineering is happening and products/services are delivered. The idea that threat modelling is waterfall or ‘heavyweight’ is based on threat modelling approaches from the early 2000s. Modern threat modelling building blocks fit well into agile and are in wide use.
 
-### H2 When to threat model
+### When to threat model
 
 When the system changes, you need to consider the security impact of those changes. Sometimes those impacts are not obvious.
 
@@ -101,18 +106,18 @@ Threat modelling integrates into Agile by asking “what are we working on, now,
 
 After a security incident, going back and checking the threat models can be an important process.
 
-### H2 Threat modelling: engagement versus review
+### Threat modelling: engagement versus review
 
 Threat modelling at a whiteboard can be a fluid exchange of ideas between diverse participants. Using the whiteboard to construct a model that participants can rapidly change based on identified threats is a high-return activity. The models created there (or elsewhere) can be meticulously transferred to a high-quality archival representation designed for review and presentation. Those models are useful for documenting what’s been decided and sharing those decisions widely within an organization. These two activities are both threat modelling, yet quite different.
 
-### H2 Validating assumptions
+### Validating assumptions
 
-#### H2 Agile approaches
+#### Agile approaches
 
 Main agile threat modelling page
 Specific agile approach1 TM page
 Specific agile approach2 TM page
-H2 Waterfall approaches
+Waterfall approaches
 
 ## Main waterfall TM page
 
@@ -120,11 +125,10 @@ Working Materials
 Session participants created and worked on a Google Drive Document
 
 ## References
-Session page: [Threat Modelling Website Structure](https://open-security-summit.org/outcomes/tracks/threat-model/working-sessions/tm-website-structure/)
-Summit 2017 session page: [Threat Modeling OWASP Pages](https://open-security-summit.org/outcomes/tracks/threat-model/working-sessions/tm-website-structure/)
-Summit 2017 outcome page: OUTCOMES - [Threat Modeling OWASP Pages](https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Tools.html)
+-  Session page: [Threat Modelling Website Structure](https://open-security-summit.org/outcomes/tracks/threat-model/working-sessions/tm-website-structure/)
+-  Summit 2017 session page: [Threat Modeling OWASP Pages](https://open-security-summit.org/outcomes/tracks/threat-model/working-sessions/tm-website-structure/)
+-  Summit 2017 outcome page: OUTCOMES - [Threat Modeling OWASP Pages](https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Tools.html)
 
 ## Additional/External References
 [About OWASP](https://www.owasp.org/index.php/About_The_Open_Web_Application_Security_Project)
 OWASP Project Page
-

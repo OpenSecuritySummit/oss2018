@@ -3,5 +3,4 @@ title: Outcomes
 type : outcome
 ---
 
-Here are the outcomes from the Summit
-
+This list contains the outcomes that are under review or have been made final.
