@@ -1,9 +1,10 @@
+---
 title        	: Cyber Insurance
 type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
-status      	: draft           	# draft, review-content, done
+status      	: review-content   	# draft, review-content, done
 description	:
 ---
 @import “/static/img/logo.png”

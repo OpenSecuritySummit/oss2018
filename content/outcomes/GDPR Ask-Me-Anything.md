@@ -1,9 +1,10 @@
+---
 title        	: GDPR Ask-Me-Anything
 type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
-status      	: draft           	# draft, review-content, done
+status      	: review-content   	# draft, review-content, done
 description	:
 ---
 @import “/static/img/logo.png”
@@ -12,7 +13,7 @@ In this ‘Ask Me Anything’ session on the General Data Protection Regulation 
 
 ### What steps are involved in handling a DSAR (Data Subject Access Request)?
 
-- Verification of subject/customer ID by organisation handling the request 
+- Verification of subject/customer ID by organisation handling the request
 - 28-day turnaround to verify records and email exactly what is needed
 - Offer as much subject/customer data as is available to the subject/customer for the given ID
 - No proof is required for meeting a request for deletion
@@ -46,7 +47,7 @@ In this ‘Ask Me Anything’ session on the General Data Protection Regulation 
 
 ### Threat modelling as a way of identifying GDPR risks
 
-- Take data, connect the dots, see where it goes, which systems handle it, what the data journey is. 
+- Take data, connect the dots, see where it goes, which systems handle it, what the data journey is.
 - Threat modelling identifies the associated risk. GDPR is the legal obligation. Tie the two together.
 
 ### Next steps on the GDPR journey

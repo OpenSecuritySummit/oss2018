@@ -1,12 +1,12 @@
+---
 title        	: Cyber Risk Modeling
 type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
-status      	: draft           	# draft, review-content, done
+status      	: review-content   	# draft, review-content, done
 description	:
 ---
-@import “/static/img/logo.png”
 
 ### Cyber Risk Quantification for insurance and underwriting transactions
 
@@ -21,7 +21,7 @@ Leverage Information + Evaluate Risks + Measure Exposure = Inform Strategies & S
 
 ### The NIST Cybersecurity Framework (NIST CSF)
 
-The Framework consists of three (3) parts; the Core, Implementation Tiers and the Profile. 
+The Framework consists of three (3) parts; the Core, Implementation Tiers and the Profile.
 
 1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions: Identify, Protect, Detect, Respond, and Recover.
 2. The Implementation Tiers provide context on how you view cybersecurity risk and your processes currently in place to manage risk.
@@ -35,7 +35,7 @@ In responding to the Framework Core questionnaire, large (more than $1 billion a
 - Cyber Vulnerability Evaluation
 - Cyber Compromise Evaluation (current or historical)
 - Cyber Threat Management Exercise
-- Cyber Attack & Response (Pen Testing).  
+- Cyber Attack & Response (Pen Testing).
 - Internal and External Threat Actor Profiling
 
 Regulators coming into a business are still learning about cyber. They may operate more from playbooks then skillsets, running standard checks. An organisation may need to explain the criticality of cyber to its regulators.

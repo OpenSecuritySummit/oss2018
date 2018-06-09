@@ -1,3 +1,4 @@
+---
 title        	: OWASP DefectDojo
 type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
@@ -27,8 +28,8 @@ More organizations are using Defect Dojo as their go-to tool for vulnerability m
 Specific actions planned are:
 
 - Add Scan Integration 2.0 (uploads to APIs)
-- Test new API v2 to cover all use cases 
-- Add the ability for Dojo to check for and apply updates. 
+- Test new API v2 to cover all use cases
+- Add the ability for Dojo to check for and apply updates.
 - Add support for GitHub Issues
 - A more readable code base with PEP8 standards
 
@@ -46,7 +47,7 @@ We also need better ways to collaborate and handle code merge master.
 - **Session page :** •	https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-defect-dojo/
 
 ### Additional/External References
-- https://www.owasp.org/index.php/OWASP_DefectDojo_Project 
+- https://www.owasp.org/index.php/OWASP_DefectDojo_Project
 - https://owasp.blogspot.com/2016/12/combating-vulnerability-chaos-with.html
 - https://github.com/secfigo/django-DefectDojo
-- https://github.com/DefectDojo/django-DefectDojo/projects/5 
+- https://github.com/DefectDojo/django-DefectDojo/projects/5
