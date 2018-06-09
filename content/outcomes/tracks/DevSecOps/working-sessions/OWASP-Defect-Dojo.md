@@ -1,55 +1,53 @@
 ---
-title        : OWASP Defect Dojo
-type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
-technology   :
-feature      : yes
-categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content      # draft, review-content, done
-description  :
+title        	: OWASP Defect Dojo
+type         	: outcome
+session_type 	: user-session   # working-session, user-session, product-session
+technology	:
+categories   	:
+featured      : yes                 	# GDPR, Juice Shop, etc.
+status      	: draft           	# draft, review-content, done
+description	:
 ---
 
-@import "/static/img/logo.png"
+### What is OWASP DefectDojo?
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+OWASP DefectDojo is an open source vulnerability management tool written in Python/Django. Its top goal is to reduce the amount of time security professionals spend logging vulnerabilities. DefectDojo does this by offering:
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+- A templating system for vulnerabilities
+- Baseline self-service tools
+- Imports for common vulnerability scanners
+- Report generation
+- Metrics.
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+DefectDojo collects vulnerabilities in single system. It enables a testing pipeline, currently with manual collection/entry, some upload functions, and parsers for known problems. If multiple tests are run on the same application, DefectDojo can deduplicate findings for a simpler overview.
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+### DefectDojo Roadmap and Requirements
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+More organizations are using Defect Dojo as their go-to tool for vulnerability management. It is important to maintain the project with latest technology trends like API-first, GitHub issue support, and uniform deployment strategy.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+Specific actions planned are:
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+- Add Scan Integration 2.0 (uploads to APIs)
+- Test new API v2 to cover all use cases
+- Add the ability for Dojo to check for and apply updates.
+- Add support for GitHub Issues
+- A more readable code base with PEP8 standards
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+To use DefectDojo on a broader scale, we also need to improve the production grade code quality:
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+- Application of model changes
+- Data model (use case documentation, relationships, etc.)
+- Performance aspects
+- Test coverage
+- Production deployment best practices
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+We also need better ways to collaborate and handle code merge master.
+
+## References
+- **Session page :** •	https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-defect-dojo/
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- https://www.owasp.org/index.php/OWASP_DefectDojo_Project
+- https://owasp.blogspot.com/2016/12/combating-vulnerability-chaos-with.html
+- https://github.com/secfigo/django-DefectDojo
+- https://github.com/DefectDojo/django-DefectDojo/projects/5
