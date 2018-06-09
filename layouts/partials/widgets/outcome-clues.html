@@ -1,3 +1,7 @@
+{{ $title := .Params.title }}
+
+{{ $session := index (where (where .Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome") 0 }}
+
 <div class="clues">
    <ul class="visual-clues">
      {{ if eq .Params.locked true }}
@@ -24,13 +28,13 @@
 
       <li class="pull-right"><a class="bg-default" href="https://join.slack.com/t/os-summit/shared_invite/enQtMzY4NTk4MzYxNDExLTZjMDFlNDc5YTBkNDU1ZWM5NjM2MDNlZjI0Njc5MDc1NDljOGZjMjliYzNkOTA3OWEyMzczMzI2MjgyYzZlMzc" target="_blank"><i class="fa fa-slack"></i> Invite link </a></li>
 
-    {{ with .Params.session_slack }}
-      <li class="pull-right"><a class="bg-default" href="{{ . }}" target="_blank"><i class="fa fa-slack"></i> This session </a></li>
+    {{ with $session.Params.session_slack }}
+      <li class="pull-right"><a class="bg-default" href="{{ . }}" target="_blank"><i class="fa fa-slack"></i> Session </a></li>
     {{ end }}
 
     {{ partial "outcomes/by-title.html" . }}
 
-    <li class="pull-right"><a class="bg-default" href="https://owaspsummit.org/Outcomes/" target="_blank"><i class="fa"></i> 2017 Outcomes </a></li>
+    <li class="pull-right"><a class="bg-default" href="https://owaspsummit.org/Outcomes/" target="_blank"><i class="fa"></i> 2017 Outcome</a></li>
 
  </ul>
 </div>
