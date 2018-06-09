@@ -1,55 +1,85 @@
 ---
-title        : Cyber Risk Modeling
-type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
-technology   :
-featured     : yes
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
-description  :
+title        	: Cyber Risk Modeling
+type         	: outcome
+session_type 	: user-session   # working-session, user-session, product-session
+technology	:
+categories   	:                  	# GDPR, Juice Shop, etc.
+status      	: review-content   	# draft, review-content, done
+description	:
 ---
 
-@import "/static/img/logo.png"
+### Cyber Risk Quantification for insurance and underwriting transactions
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+Use a 4-step process to evaluate risk:
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+1. LEVERAGE: Leverage responses to the NIST Cybersecurity Framework (CSF) questionnaire.
+2. EVALUATE: Online NIST Self-Evaluation (only), and/or deeper Cyber Readiness Evaluation (CRE) at a level matching the organisation’s needs.
+3. MEASURE: test to measure scenario-based impacts, measure mitigation options / ROI, measure overall cyber risk profile.
+4. INFORM: Define an Appropriate Risk Strategy, fill gaps with potential solutions, optimization of insurance pricing, coverage, limits, and deductible/sir’s. Helps CISO’s selection/business case around security & resiliency investments.
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+Leverage Information + Evaluate Risks + Measure Exposure = Inform Strategies & Solutions
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+### The NIST Cybersecurity Framework (NIST CSF)
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+The Framework consists of three (3) parts; the Core, Implementation Tiers and the Profile.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions: Identify, Protect, Detect, Respond, and Recover.
+2. The Implementation Tiers provide context on how you view cybersecurity risk and your processes currently in place to manage risk.
+3. The Framework Profile aligns your cybersecurity activities with business requirements, risk tolerances, and resources, enables you to describe your current and target cybersecurity postures, identify and prioritize opportunities for improvement, and evaluate your progress toward your target state.
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+In responding to the Framework Core questionnaire, large (more than $1 billion annual rev) enterprises currently only average about 1.5 out of a possible 4 (a poor rating). Protection, detection, and recovery get the most attention. Response often gets less. Identify is often the weakest part.
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+### Cyber Readiness Evaluation (CRE) Components
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+- NIST CSF Evaluation
+- Cyber Vulnerability Evaluation
+- Cyber Compromise Evaluation (current or historical)
+- Cyber Threat Management Exercise
+- Cyber Attack & Response (Pen Testing).
+- Internal and External Threat Actor Profiling
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+Regulators coming into a business are still learning about cyber. They may operate more from playbooks then skillsets, running standard checks. An organisation may need to explain the criticality of cyber to its regulators.
+
+### Framework Implementation Tiers Scoring and Gap Prioritization
+
+- Tier 1 – Partial: cybersecurity risk management practices are either not formulated or are ad-hoc
+- Tier 2 – Risk Informed: cybersecurity risk management practices are not organization-wide
+- Tier 3 – Repeatable: there is an organization-wide management of cybersecurity risk
+- Tier 4 – Adaptive: cybersecurity risk management is part of the organizational culture
+
+### Monte Carlo Simulation Overview
+
+- Use Monte Carlo if past data is insufficient or non-existent (making regression analysis impossible).
+- Modelling a real system to learn about its behavior
+- Building a set of mathematical and logical relationships
+- Establishing and varying conditions to test different scenarios
+
+### Monte Carlo in practice
+
+- Random Number Generation: Simulates the uncertainty in the assumptions
+- Program selects a value for the assumption, recalculates the spreadsheet, plots the forecast and repeats
+- Application of Model: Build frequency and severity distributions for each selected Cyber Risk Factor (e.g., Access Control, Protective Technology, etc.)
+- The model simulates different loss outcomes and applied correlation and aggregate views to link results
+- This then provides an overall loss distribution along with a view of the associated variability around mean estimate (average) calculations.
+
+### Conduct Simulated Cyber Loss Scenarios
+
+- Total potential losses with no insurance
+- Total potential losses after insurance
+- Total potential losses beyond $50k deductible
+- Total potential losses using recommended security solution, such as 2FA
+
+### For Future Consideration: Updating and Extending Analysis
+
+- Determine an acceptable risk tolerance level
+- Select Operating Margin or Net Income (vs Revenue) as a basis for analysis
+- Update analysis on an annual basis
+- Add new inputs, looking at the effects of other operational changes
+- Add new external data about different insurance coverage options available in the market
+
+## References
+- **Session page :** •	https://open-security-summit.org/tracks/ciso/working-sessions/cyber-risk-modeling/
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- PowerPoint/PDF presentation by Yvette Connor
+(URL is TBD, see separate file called owasp_cyber_risk_quantification_2018.pdf)

@@ -1,5 +1,5 @@
 ---
-title        	: GDPR Ask-Me-Anything
+title        	: GDPR Ask Me Anything GDPR
 type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:

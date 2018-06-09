@@ -4,7 +4,7 @@ type         : outcome
 session_type : user-session    
 technology   :
 categories   : Threat Model                 
-status       : draft              
+status       : done              
 description  :
 ---
 
