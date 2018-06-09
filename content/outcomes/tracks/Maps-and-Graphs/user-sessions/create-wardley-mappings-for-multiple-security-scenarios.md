@@ -13,7 +13,7 @@ status       : done              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables (recommend)
 Two scenarios were mapped by participants following an explanation/overview by Tony Richards.

@@ -12,7 +12,7 @@ status       : done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables
 

@@ -12,7 +12,7 @@ status       : draft
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables
 

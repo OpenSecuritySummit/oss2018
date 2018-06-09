@@ -12,7 +12,7 @@ status       : review-content              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes
 After a discussion of DevSecOps and its history and motivations, participants were introduced to OWASP DevSecOps Studio. This included the following topics:

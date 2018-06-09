@@ -13,7 +13,7 @@ status       : review-content             # draft, review-content, done
 description  : Creation of three new TM cheat sheets
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes
 Three Cheat Sheets for Central Questions 2 to 4

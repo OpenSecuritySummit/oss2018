@@ -12,7 +12,7 @@ status       : review-content              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 *This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
 
