@@ -17,7 +17,6 @@ night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-6
 pre_summit      : tbd
 sessions        :
-sessions        :
  - Threat model cheat sheets
  - PBX-GS Offsite session 1
  - PBX-GS Offsite session 2
