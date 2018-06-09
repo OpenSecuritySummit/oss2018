@@ -1,6 +1,10 @@
 ---
 title        : Create Wardley Maps for multiple security scenarios
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 featured     : yes
@@ -9,7 +13,7 @@ status       : done              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables (recommend)
 Two scenarios were mapped by participants following an explanation/overview by Tony Richards.

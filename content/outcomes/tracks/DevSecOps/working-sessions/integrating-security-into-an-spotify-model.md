@@ -1,6 +1,10 @@
 ---
 title        : Integrating Security into an Spotify Model (and using Squads for Security teams)
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session   
 technology   :
 categories   :                   
@@ -8,7 +12,7 @@ status       : draft
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables
 

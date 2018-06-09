@@ -1,6 +1,10 @@
 ---
 title        : Threat model track opening session
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session    
 technology   :
 categories   : Threat Model                 
@@ -8,7 +12,7 @@ status       : done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables
 

@@ -1,6 +1,10 @@
 ---
 title        : European GDPR variations
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :
@@ -9,7 +13,7 @@ status       : draft              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 *This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
 

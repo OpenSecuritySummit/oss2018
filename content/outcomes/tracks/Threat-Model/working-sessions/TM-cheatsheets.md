@@ -1,6 +1,10 @@
 ---
 title        : Threat model cheat sheets
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : working-session   
 technology   :
 featured     : yes
@@ -9,7 +13,7 @@ status       : review-content             # draft, review-content, done
 description  : Creation of three new TM cheat sheets
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes
 Three Cheat Sheets for Central Questions 2 to 4

@@ -1,6 +1,10 @@
 ---
 title        : Cell based Structures for Security
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session    
 technology   :
 featured     : yes
@@ -9,7 +13,7 @@ status       : review-content             # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes/Deliverables 
 The session looked at how security functions can take advantage of Cell Based Structures to be more responsive to business needs. The session also focussed on the application of points of doctrine, and the division of teams into Pioneers, Settlers, and Town Planners as an efficient way to meet business needs that improves on the Squad model. 

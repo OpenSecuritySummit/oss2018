@@ -1,6 +1,10 @@
 ---
 title        : Integrating Security Tools in the SDL using OWASP DevSecOps Studio
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session
 technology   :
 categories   : DevOpsSec
@@ -8,7 +12,7 @@ status       : review-content              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
+
 
 ## Outcomes
 After a discussion of DevSecOps and its history and motivations, participants were introduced to OWASP DevSecOps Studio. This included the following topics:
