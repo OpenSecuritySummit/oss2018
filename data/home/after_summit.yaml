@@ -1,0 +1,13 @@
+cards:
+  # to add cards, just copy from the id below here to the more_info, and increment the id
+  - id        : card-1
+    title     : empty
+    outcomes  :
+      - title :
+        link  :
+      - title :
+        link  :
+      - title :
+        link  :
+    # this shows the green button below th card
+    more_info:
