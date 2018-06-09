@@ -5,7 +5,7 @@ session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content      # draft, review-content, done
+status       : draft      # draft, review-content, done
 description  :
 ---
 
