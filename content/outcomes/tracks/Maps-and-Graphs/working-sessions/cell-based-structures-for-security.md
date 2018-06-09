@@ -5,7 +5,7 @@ session_type : user-session
 technology   :
 featured     : yes
 categories   : Graphs and Maps
-status       : draft              # draft, review-content, done
+status       : review-content             # draft, review-content, done
 description  :
 ---
 

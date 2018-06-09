@@ -5,11 +5,10 @@ session_type : user-session
 technology   :
 featured     : yes
 categories   : Mapping
-status       : draft
+status       : done
 description  :
 ---
 
-@import "/static/img/logo.png"
 
 ## Outcomes/Deliverables
 - A number of visualisations of user mappings
@@ -24,7 +23,7 @@ description  :
       - Describe the type of user, what they want, and why
    - Threat Modeling should be part of the mapping process
 
- ### User maps should consider the 'Invest' mnemonic:
+### User maps should consider the 'Invest' mnemonic:
  - **I**ndependent
  - **N**egotiable
  - **V**aluable
@@ -32,7 +31,7 @@ description  :
  - **S**mall
  - **T**estable
 
- ### Session examples
+### Session examples
 First example:
     - A Chief Compliance Officer (the user)
        - I want to be PCI compliant (what they want)
