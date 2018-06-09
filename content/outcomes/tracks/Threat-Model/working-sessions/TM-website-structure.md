@@ -10,14 +10,23 @@ description  :
 ---
 
 
-The OWASP mission is to document and share impartial and practical software security information that is accessible to individuals and organisations. Anyone is free to participate in the knowledge-based documentation published on the OWASP Threat Model pages. Content is produced in collaboration, published by consensus and reviewed by wiki-users from around the world.
+
+## Outcomes/Deliverables (recommend)
+
+## Context
+
+- The OWASP mission is to document and share impartial and practical software security information that is accessible to individuals and organisations.
+- Anyone is free to participate in the knowledge-based documentation published on the OWASP Threat Model pages.
+- Content is produced in collaboration, published by consensus and reviewed by wiki-users from around the world.
+
 
 ### OWASP Threat Model Pages
 
 A list of pages is found at the OWASP TM landing page. The main subpages are:
 
--	Application Threat Modelling
--	Risk Threat Modelling
+- Application Threat Modelling
+- Risk Threat Modelling
+
 
 ## New Website Content
 
@@ -29,11 +38,12 @@ Threat modelling can be applied to a wide range of things, including software, a
 
 Most of the time, a threat model include:
 
--	A description / design / model of what you’re worried about
--	A list of assumptions that can be checked or challenged in the future as the threat landscape changes
--	A list of potential threats to the system
--	A list of actions to be taken for each threat
--	A way of validating the model and threats, and verification of success of actions taken
+- A description / design / model of what you’re worried about
+- A list of assumptions that can be checked or challenged in the future as the threat landscape changes
+- A list of potential threats to the system
+- A list of actions to be taken for each threat
+- A way of validating the model and threats, and verification of success of actions taken
+
 
 Our motto is: Threat modelling; the sooner the better, but never too late.
 
