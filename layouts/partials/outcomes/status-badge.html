@@ -1,1 +1,4 @@
 <i class="glyphicon glyphicon-{{ index .Site.Data.utils.status (.Params.status | default "default") }}"></i>
+{{ if and (isset .Params "featured") (eq .Params.featured true) }}
+<i class="glyphicon glyphicon-{{ .Site.Data.utils.status.featured }}"></i>
+{{ end }}
