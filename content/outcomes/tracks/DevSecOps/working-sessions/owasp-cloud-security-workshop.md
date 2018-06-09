@@ -1,6 +1,10 @@
 ---
 title        : Owasp Cloud Security Workshop (BETA)
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : working-session    # working-session, user-session, product-sesssion
 technology   :
 categories   : OWASP

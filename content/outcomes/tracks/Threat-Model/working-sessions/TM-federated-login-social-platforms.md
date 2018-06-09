@@ -1,6 +1,10 @@
 ---
 title        : Federated Login with Social Platforms Threat Modeling Cheat Sheet
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.

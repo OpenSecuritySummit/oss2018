@@ -1,6 +1,10 @@
 ---
 title        : Share your Threat Models diagrams and create a Book
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 faeture      : yes

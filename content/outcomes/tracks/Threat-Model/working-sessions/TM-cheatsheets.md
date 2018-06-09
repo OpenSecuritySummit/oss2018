@@ -1,6 +1,10 @@
 ---
 title        : Threat model cheat sheets
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : working-session   
 technology   :
 featured     : yes

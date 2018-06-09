@@ -1,6 +1,10 @@
 ---
 title        : Update Threat Modeling website 1
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 track        : Threat Model
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :

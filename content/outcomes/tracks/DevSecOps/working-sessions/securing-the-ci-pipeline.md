@@ -1,6 +1,10 @@
 ---
 title        : Securing the CI Pipeline
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session
 technology   :
 featured     : yes

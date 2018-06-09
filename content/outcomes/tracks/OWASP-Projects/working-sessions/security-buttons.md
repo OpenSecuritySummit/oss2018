@@ -1,6 +1,10 @@
 ---
 title        : Creation of Security Buttons
 type         : outcome
+track        :
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
 session_type : user-session
 technology   :
 categories   : ["OWASP projects"]
