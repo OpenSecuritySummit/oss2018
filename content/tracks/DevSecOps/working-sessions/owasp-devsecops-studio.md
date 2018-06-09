@@ -23,7 +23,8 @@ participants :
     - Luis Saiz
     - Daniel Garcia
     - Claudio Camerino
-    - Ethan Schorer
+    - Mario Platt
+    - Franziska Buehler
 description  : Working Sessions for Owasp DevSecOps Studio
 ---
 

@@ -15,8 +15,10 @@ chapter_leader  :
 regonline       :
 status          : add-details
 sessions        :
-notes           :
-    # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line):
+    - Integrating Security into an Spotify Model
+    - Describe different ways of implementing TM in agile organisations
+    - Creating Appsec metrics and visualisation
+    - Using JIRA to create and execute Security Playbooks
     - Creating a Steady-State Hypothesis
     - Creating a standard for GDPR patterns
     - Integrating Security into an Spotify Model
@@ -24,8 +26,6 @@ notes           :
     - Securing the CI Pipeline
     - Creating Appsec metrics and visualisation
     - Using Jira to handle Incident Response - simulations
-
-
+notes           :
+    # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line):
 ---
-
-<!-- put more details about participant here -->

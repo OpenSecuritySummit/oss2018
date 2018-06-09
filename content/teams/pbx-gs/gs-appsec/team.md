@@ -14,7 +14,7 @@ sessions:
     - GS AppSec Daily Scrum (Thu)
     - GS AppSec Daily Scrum (Fri)
 
-    - Using JIRA-NeoVis to create graphical representations of JIRA data
+#    - Using JIRA-NeoVis to create graphical representations of JIRA data
     - Using JIRA-NeoVis to graph Threat Models
     - Using AI and ML for incident response
     - SOC value chain using Wardley maps

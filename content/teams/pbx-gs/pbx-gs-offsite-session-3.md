@@ -1,12 +1,12 @@
 ---
-title        : PBX-GS Offsite session 3
+title        : PBX-GS Offsite session 3 - Room cancelled please go to ROOM 5
 type         : private-session
 when_day     : Wed
 when_time    : PM-3
 room_layout  :                     #
-room_id      : villa-5
+room_id      :
 locked       : true
-session_slack: 
+session_slack:
 status       : done
 description  :
 organizers   :

@@ -12,12 +12,14 @@ session_slack: https://os-summit.slack.com/messages/CB12V219S
 status       : add-content              # draft, review-content, done
 description  :
 organizers   :
+    - Naushad Saboor
     - PBX-GS
 participants :
     - Andrew Johnstone
     - James Martin
     - Francois Raynaud
     - Orid Ahmed
+    - Franziska Buehler
 
 
 

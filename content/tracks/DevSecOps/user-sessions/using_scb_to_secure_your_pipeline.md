@@ -9,10 +9,11 @@ when_day     : Wed                # i.e.    Tues
 when_time    : PM-2                   # i.e.    19:30
 room_layout  :                    #
 room_id      : room-6
-session_slack:
-status       : draft              # draft, review-content, done
+session_slack: https://os-summit.slack.com/messages/CB29Q9TQV
+status       : done              # draft, review-content, done
 organizers   :
-  - Robert Seedorff
+  - Rüdiger Heins
+  - Benjamin Brunzel
   - Timo Pagel
 description  : Hands on session to introduce the new project secureCodeBox.io and how you could use it to improve your CI/CD pipeline with automated security tests easily.
 participants :
@@ -23,11 +24,11 @@ Awareness of security challenges is crucial for delivering high-quality software
 
 ## WHY
 
-The [secureCodeBox](https://github.com/secureCodeBox/) provide a open source toolchain for continuous security scanning of your applications to find the low-hanging fruit issues early in the development process and free the resources of the penetration tester to concentrate on the major security issues. Under the hood we use well-known and open source licensed security scanners like OWASP ZAP, Arachni, NMAP, Nikto, SSLyze. The peculiarity of the solution is the high integration capability in existing build processes, which we will show in a live demo.
+The [secureCodeBox](https://github.com/secureCodeBox/) provides an open source toolchain for continuous security scanning of your applications. It helps you to find the low-hanging fruit issues early in the development process, freeing the resources of human penetration testers to concentrate on the major security issues. Under the hood we use well-known and open source licensed security scanners like OWASP ZAP, Arachni, NMAP, Nikto, SSLyze. The peculiarity of the solution is the high integration capability in existing build processes, which we will show in a live demonstration.
 
 ## What
 
-The goal of this User Session is to teach participants about how they can integrate security tools in their continuous delivery pipeline based on the open source project secureCodeBox. The project aims to reduce the time to bootstrap your environment with a bunch of security tools.
+The goal of this User Session is to teach participants how they can integrate security tools in their continous delivery pipeline based on the open source project secureCodeBox. The project aims to reduce the time to bootstrap your environment with a bunch of security tools.
 
 ## Outcomes
 

@@ -27,12 +27,13 @@ sessions:
   - Real world Chaos Engineering
   - Hands on Chaos Experiments
   - Hands-on GDPR Patterns
-  - Real world GDPR practices
   - Using graphs for GDPR mappings and visualisations
   - Integrating Security Tools in the SDL
   - Creating a Steady-State Hypothesis
   - Customising the Chaos Toolkit
   - Akamai WAF & Ruleset
+  - AWS WAF for DDoS Mitigation
+  - Adding CRS3 and Pixi to CircleCI pipeline
 
 
 notes :

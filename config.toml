@@ -58,28 +58,34 @@ paginate = 10
     name = "User Sessions"
     identifier = "user-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 6
+    weight = 16
     parent = "sessions"
     url = "/user-sessions/"
 [[menu.main]]
     name = "Teams"
     identifier = "teams"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 7
+    weight = 17
     parent = "sessions"
     url = "/teams"
 [[menu.main]]
     name = "Product Sessions"
     identifier = "product-sessions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 7
+    weight = 18
     parent = "sessions"
     url = "/product-sessions"
+[[menu.main]]
+    name = "Outcomes"
+    identifier = "outcomes"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 6
+    url = "/outcomes/"
 [[menu.main]]
     name = "Participants"
     identifier = "participants"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 6
+    weight = 7
     url = "/participant/"
 [[menu.main]]
     name = "Onsite Participants"
@@ -99,27 +105,27 @@ paginate = 10
     name = "About"
     identifier = "about"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 7
+    weight = 8
     url = "/about/"
 [[menu.main]]
     name = "The Summit"
     identifier = "about-the-summit"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 8
+    weight = 20
     parent = "about"
     url = "/about/"
 [[menu.main]]
     name = "Venue"
     identifier = "venue"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 9
+    weight = 21
     parent = "about"
     url = "/venue/"
 [[menu.main]]
     name = "Faq"
     identifier = "faq"
     pre = "<i class='fa fa-road'></i>&nbsp;"
-    weight = 10
+    weight = 22
     parent = "about"
     url = "/faq/"
 [[menu.main]]

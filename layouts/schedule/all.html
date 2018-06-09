@@ -27,22 +27,9 @@
 
     {{ partial "schedule/by-room/links-to-days.html" }}
 
-    <h3>Schedule for all days</h3>
+    <h3>Schedule for Today</h3>
 
-    --------------------------------------------------------
-    <h1>Monday</h1>
-    {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Mon" ) }}
 
-    --------------------------------------------------------
-    <h1>Tuesday</h1>
-    {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Tue" ) }}
-    --------------------------------------------------------
-    <h1>Wednesday</h1>
-    {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Wed" ) }}
-    --------------------------------------------------------
-    <h1>Thursday</h1>
-    {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Thu" ) }}
-    --------------------------------------------------------
     <h1>Friday</h1>
     {{ partial "schedule/by-room/day.html" (dict "self" . "day" "Fri" ) }}
 

@@ -22,4 +22,6 @@ Two cornerstones for a successful implementation of PbD will be pitched:
 1) the integration of GDPR in a Secure Development Lifecycle approach 
 2) threat modeling and GDPR risk patterns
 
+Link to the presentation:
+https://www.slideshare.net/sdeleersnyder/toreon-adding-privacy-by-design-in-secure-application-development-oss18-v20180608
 

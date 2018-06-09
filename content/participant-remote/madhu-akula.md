@@ -15,11 +15,16 @@ eventbrite_id   :
 status          : add-details
 pre_summit      : Sat,Sun
 sessions:
+    - SOC Monitoring Visualisation
     - AWS Lambda Security
-    - AppSec SOC Monitoring Visualisation
     - Security Crowdsourcing
     - Securing GitHub Integrations
     - Securing the CI Pipeline
+    - Security Champions
+    - Agile Practices for Security Teams
+    - Security Playbooks
+    - Adding security to VSTS pipeline
+    - Docker and Kubernetes Threat Modeling Cheat Sheet	
 
 ---
 

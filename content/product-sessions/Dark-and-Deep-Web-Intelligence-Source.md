@@ -1,6 +1,6 @@
 ---
 title        : Dark and Deep Web Threat Intelligence Source
-type         : user-session
+type         : product-session
 track        :
 host_text    :
 host_link    :
@@ -9,9 +9,9 @@ technology   : OSINT
 categories   : Cyber Security
 featured     :
 when_day     : Thu
-when_time    : Eve-1
+when_time    : PM-3
 room_layout  :
-room_id      :
+room_id      : room-6
 session_slack: https://os-summit.slack.com/messages/CAX6AT63B
 status       : review-content              # draft, review-content, done
 description  : Understand the Deep Web and the Dark Web How to Guard Your Network Sharing knowledge on Dark and Deep Web Open Source Intelligence
@@ -41,11 +41,11 @@ We will explain how you can use the Dark Web
 
 Included are some examples from the Dark Web of how companies were saved before an attack even occurred
 
-This workshop is “produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for addressing a specific intelligence requirement.” 
+This workshop is “produced from publicly available information that is collected, exploited, and disseminated in a timely manner to an appropriate audience for addressing a specific intelligence requirement.”
 
 We use numerous tools that act as a silver bullet in terms of accessing public sources.
 
-## Outcomes 
+## Outcomes
 
 Why should businesses care about the threat of the dark web?
 
@@ -54,6 +54,3 @@ We will cover the most popular and important tools for security researchers.
 Dark Web tools are used in the reconnaissance phase to gather as much information about the target as possible.
 
 Open source intelligence tools utilize artificial intelligence features to mine data from the Web about all possible matches to the desired target.
-
-
-

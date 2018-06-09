@@ -10,7 +10,7 @@ when_day     : Thu
 when_time    : PM-2
 room_layout  :                    #
 room_id      : villa-1
-session_slack:
+session_slack: https://os-summit.slack.com/messages/CB00716FJ
 status       : review-content              # draft, review-content, done
 description  : Create a common 3rd Party Supplier Maturity Model
 organizers   :

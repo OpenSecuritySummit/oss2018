@@ -1,54 +1,63 @@
 ---
 title        : Cell based Structures for Security
 type         : outcome
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : user-session    
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
+featured     : yes
+categories   : Graphs and Maps
 status       : draft              # draft, review-content, done
 description  :
 ---
 
 @import "/static/img/logo.png"
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
-
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
-
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
-
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
-
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+## Outcomes/Deliverables 
+The session looked at how security functions can take advantage of Cell Based Structures to be more responsive to business needs. The session also focussed on the application of points of doctrine, and the division of teams into Pioneers, Settlers, and Town Planners as an efficient way to meet business needs that improves on the Squad model. 
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+- All maps are imperfect, but this doesn't mean they can't be useful.
+- Maps are a means of learning, and they are a common language
+- Different people can look at the same map and use it to challenge others' assumptions 
+- Sharing maps also allows for the discovery of duplications
+   - The example was given of a spend control group that receives maps for proposals from all sectors of a business. Sharing such maps with a central point facilitates the identification of duplication of efforts
+- Maps give better guidance for planning and investment
+- Maps are a much faster way to analyse scenarios than wading through a written report
+- Maps facilitate the identification of patterns
+- Patterns that are universally useful become Doctrine
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+### Points of Doctrine
+- Understand the user need
+- Use appropriate methods
+- Start small (use cells) and understand the details
+   - Break large problems into small doable tasks
+   - Use small teams
+   - Build metrics so they know what to deliver
+   - Design the organisation for constant evolution
+- Doctrine is associated with adaptability
+   
+### Pioneers, Settlers, and Town Planners
+- The attitude and culture of different teams within a business are very different
+- Teams can be created as groups of pioneers, settlers, and town planners, according to attitude as much as aptitude 
+- A critical part of this system is that to evolve, there must be a system of theft from the pioneer group by the settlers, and from the settlers by the town planners, so that the cycle of creation (pioneer), execution (settler), and industrialisation (town planner) doesn't succumb to inertia.
+- As on a Wardley map, the team should move from left to right, from genesis to industrialisation
+- Allow your teams to self-select
+- Create your teams around the objective
+- Keep people in multiple teams but keep the multiple teams in the same area, i.e. in settler/pioneer/town planner groups
+- If the team grows too big, break it down
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+### Hiring Pioneers/Settlers/Town Planners
+- Knowing the numbers of each type in your staff allows for better hiring decisions
+- Hiring for attitude can be as important as aptitude, and can improve attrition rates
+- Companies should hire for attitude AND aptitude
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+### Weak Signals
+- Can be useful for anticipating next moves
+- When I want to attack a space, is there a weak signal I can exploit?
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+https://open-security-summit.org/tracks/maps-and-graphs/working-sessions/cell-based-structures-for-security/
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+[Boiling Frogs](https://github.com/gchq/BoilingFrogs/blob/master/GCHQ_Boiling_Frogs.pdf)
+[Accidental Empires](https://www.amazon.co.uk/Accidental-Empires-Silicon-Millions-Competition/dp/0140258264)
+[Tool for creating Wardley maps](https://atlas2.wardleymaps.com)

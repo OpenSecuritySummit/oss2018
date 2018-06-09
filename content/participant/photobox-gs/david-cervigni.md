@@ -8,8 +8,8 @@ skills          :
     - Secure Coding
     - DevSecOps
 company         : PhotoBox Group
-image           : https://pbs.twimg.com/profile_images/925960059695259648/bxq0RO6s_400x400.jpg
-#email           : dcervigni*gmail
+image           : https://mayaseven.com/wp-content/uploads/2013/05/david.jpg
+#email          : dcervigni*gmail
 linkedin        : david-cervigni-229569a
 twitter         : DavCervigni
 venue           : Mon, Tue, Wed, Thu, Fri
@@ -18,10 +18,29 @@ night_where     : villa-6
 status          : todo
 pre_summit      : tbd
 sessions        :
- - Using Threat Models for GDPR
+sessions        :
  - Threat model cheat sheets
  - PBX-GS Offsite session 1
  - PBX-GS Offsite session 2
+ - Hands on Chaos Experiments
+ - CISO
+ - Hands-on GDPR Patterns
+ - Using Threat Models for GDPR
+ - Threat model cheat sheets
+ - Creating a standard for GDPR patterns
+ - Cloud brokerage - authentication and authorisation
+ - DevSecOps Maturity Model (DSOMM)
+ - JIRA Risk Workflow
+ - Real world Chaos Engineering
+ - Security Champions
+ - Running CTF Games with OWASP Juice Shop
+ - Owasp Testing Guide v5
+ - Creation of Security Buttons
+ - SAMM Introduction
+ - Create Java Security Quiz
+ - Docker and Kubernetes Threat Modeling Cheat Sheet
+ - How to scale Threat Modeling.
+ - Security Champions
 ---
 
 

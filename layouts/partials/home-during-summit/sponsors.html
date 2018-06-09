@@ -13,19 +13,18 @@
                   {{ .Site.Params.sponsors.subtitle }}
                 </p>
 
-                <div class="customers">
+                <div class="flexbox sponsor-front-page">
                     {{ range .Site.Data.sponsors.platinum }}
-                    <div class="item" title="{{ .name }}">
-                        {{ if .url }}
-                          <a href="{{ .url }}" target="_blank">
-                            <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                          </a>
-                        {{ else }}
-                          <img src="{{ .image }}" alt="{{ .name }}" class="img-responsive" />
-                        {{ end }}
+                    <div class="flexbox-vertical-center col-md-3">
+                      <div class="sponsors-item text-center">
+                        <a href="{{ .url }}" target="_blank">
+                        <img class="img img-responsive centered" src="{{ .image }}" alt="{{ .name }}" />
+                        </a>
+                      </div>
                     </div>
                     {{ end }}
                 </div>
+
                 <!-- /.owl-carousel -->
             </div>
         </div>

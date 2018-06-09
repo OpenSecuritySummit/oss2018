@@ -8,8 +8,8 @@
             {{ .Content }}
 
             <ul>
-            {{ range .Pages  }}
-                <li><a href="{{.Permalink}}">{{ .Title }}</a></li>
+            {{ range where .Pages ".Params.title" "!=" ""}}
+                <li><a href="{{.Permalink}}">{{ .Title }}</a> ({{ partial "outcomes/status-badge.html" . }})</li>
             {{ end }}
             </ul>
 

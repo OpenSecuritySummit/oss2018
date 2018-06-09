@@ -14,6 +14,6 @@ members:
     - Fraser Scott
     - Neil Barlow
     - Mark Stickley
-    - Capital One 4
+    - Lee Tunnicliffe
 notes :
 ---

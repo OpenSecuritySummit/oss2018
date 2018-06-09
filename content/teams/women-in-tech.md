@@ -32,6 +32,7 @@ members:
     - Tanya Janca
     - Tash Norris
     - Þórdís Stella Þorsteins
+    - Amanda Colpoys
 
 
 ---
