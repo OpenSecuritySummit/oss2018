@@ -114,8 +114,6 @@ Overview of STRIDE:
 - Transfer - make the risk someone else’s problem (e.g. through legal contract, or physical security for Cloud services)
 - Accept - don’t do anything about the threat and hope for the best (the default even if you don’t threat model)
 
-- Track your threats and mitigations
-
 #### Example: Agile threat modeling
 
 1. Start threat modeling with a one-off session that has broad scope and then don't go too deep.
