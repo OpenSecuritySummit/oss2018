@@ -23,10 +23,14 @@
 
 {{ define "content" }}
 
+{{ $title := .Params.title }}
+
+{{ $session := index (where (where .Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome") 0 }}
+
 <div class="col-md-12">
   <div class="outcome-content col-md-8">
     <h1>{{ .Title }}</h1>
-    View the <a href="#">original Working Session content</a>
+    View the <a href="{{ $session.Permalink }}">original Working Session content</a>
     <hr />
   </div>
   <div class="grey-sidebar col-md-4">
@@ -37,7 +41,9 @@
 <div class="col-md-12">
   <div class="outcome-content col-md-8">
     {{ partial "widgets/outcome-clues.html" . }}
-
+    &nbsp;
+  </div>
+  <div class="outcome-content col-md-8">
     {{ .Content }}
   </div>
   <div class="outcome-sidebar col-md-4">
