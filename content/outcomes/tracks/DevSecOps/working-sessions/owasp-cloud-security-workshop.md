@@ -8,8 +8,6 @@ status       : review-content              # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
-
 ## Outcomes
 
 Through this workshop, the OWASP Cloud Security Project hopes to:
