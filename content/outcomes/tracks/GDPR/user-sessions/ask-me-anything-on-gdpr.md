@@ -1,10 +1,10 @@
 ---
-title        : Using graphs for GDPR mappings and visualisations
+title        : Ask me anything (AMA) on GDPR
 type         : outcome
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
-featured     : yes
-categories   :                    # GDPR, Juice Shop, etc.
+categories   :
+featured     :  yes                  # GDPR, Juice Shop, etc.
 status       : draft              # draft, review-content, done
 description  :
 ---
