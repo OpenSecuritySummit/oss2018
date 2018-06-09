@@ -15,9 +15,7 @@ twitter         : DavCervigni
 venue           : Mon, Tue, Wed, Thu, Fri
 night_day       : Mon, Tue, Wed, Thu
 night_where     : villa-6
-status          : todo
 pre_summit      : tbd
-sessions        :
 sessions        :
  - Threat model cheat sheets
  - PBX-GS Offsite session 1
