@@ -84,7 +84,8 @@ The DevSecOps Studio was used as a lab environment to show participants how to g
 
 
 ## References
-- **Session page :** https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/
+
+- [Session page](https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/)
 
 ### Additional/External References
 
