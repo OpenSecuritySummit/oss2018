@@ -8,7 +8,6 @@ status       : review-content     # draft, review-content, done
 description  :
 ---
 
-@import "/static/img/logo.png"
 
 ## Outcomes/Deliverables
 The stated outcomes were given as:
