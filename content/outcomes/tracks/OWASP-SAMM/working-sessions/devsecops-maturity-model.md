@@ -38,9 +38,9 @@ A group discussion agreed on the following:
 - Selection based on assessment of current drivers for business to adopt devops
 
 #### Which level of detail does a DevSecOps Maturity Model provide? 
-On a scale ranging between a high of **'SAMM: Utilize automated security testing tools'**, and a low being **'Use OWASP Dependency Check every night'** participants were asked to select a level of detail appropriate for the DSOMM
+On a scale ranging between a high of **'SAMM: Utilize automated security testing tools'**, and a low being **'Use OWASP Dependency Check every night'**, participants were asked to select a level of detail appropriate for the DSOMM.
 
-Consensus was reached that the DSOMM should have a level of detail below that of SAMM
+Consensus was reached that the DSOMM should have a level of detail below that of SAMM.
 
 #### Which dimensions do you see in a DevSecOps Maturity Model?
 After a lively discussion, the following foundational dimensions were decided on:
@@ -52,7 +52,7 @@ After a lively discussion, the following foundational dimensions were decided on
 - Automation
 - Information flow
 
-Another option for foundational dimensions was given as:
+Other options for foundational dimensions were given as:
 
 - Culture and Organisation
 - Infrastructure
@@ -62,10 +62,10 @@ Another option for foundational dimensions was given as:
 
 #### Which attributes does an implementation point/action have?
 
-- Frequency ??
+- Frequency
 - Descriptiveness/Level of Documentation
 - Motivations/Risks
-- Intensity ??
+- Intensity
 - Automation
 - Repeatability/Reproducibility
     - if you run the same tool against the same inputs, you get the same output
@@ -84,17 +84,20 @@ In relation to the range that should apply to a maturity scoring, the following 
 
 #### Comparisons with other Maturity Models and the Integration of security in the devops operating model:
 
-- OpenSAMM is built around “functions of software development with security practices tied to each.” Not people-centric the way DevOps is.
+- OpenSAMM is built around “functions of software development with security practices tied to each”. It is not people-centric the way DevOps is.
 - DevSecOps = people and collaboration over tools and processes
 - OpenSAMM is not really embedded into software development in the way it is expected to be with DevSecOps. OpenSAMM doesn’t embed the value of DevOps into the model (e.g. automation, cross-functional teams).
 
 The following questions and points were also raised:
 
-- Why should security be scored separately, in a vacuum? Why not make it a product team that is embedded in the process and scored along with everyone else? Shouldn’t we be scored on the overall success of the product, not our own values? Because if the product/business fails to deliver value to customer, ultimately, security fails.
+- Why should security be scored separately, in a vacuum? 
+- Why not make it a product team that is embedded in the process and scored along with everyone else? 
+- Shouldn’t we be scored on the overall success of the product, not our own values? 
+   - If the product/business fails to deliver value to customers, ultimately, security fails.
 
 
 ## References
-- https://open-security-summit.org/tracks/devsecops/working-sessions/devsecops-maturity-model/
+[Session page](https://open-security-summit.org/tracks/devsecops/working-sessions/devsecops-maturity-model/)
 
 
 ### Additional/External References
