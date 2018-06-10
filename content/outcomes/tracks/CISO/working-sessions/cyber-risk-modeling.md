@@ -4,13 +4,13 @@ type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
-status      	: review-content   	# draft, review-content, done
+status      	: done
 description	:
 ---
 
 ### Cyber Risk Quantification for insurance and underwriting transactions
 
-Use a 4-step process to evaluate risk:
+Use a four step process to evaluate risk:
 
 1. LEVERAGE: Leverage responses to the NIST Cybersecurity Framework (CSF) questionnaire.
 2. EVALUATE: Online NIST Self-Evaluation (only), and/or deeper Cyber Readiness Evaluation (CRE) at a level matching the organisation’s needs.
@@ -21,13 +21,13 @@ Leverage Information + Evaluate Risks + Measure Exposure = Inform Strategies & S
 
 ### The NIST Cybersecurity Framework (NIST CSF)
 
-The Framework consists of three (3) parts; the Core, Implementation Tiers and the Profile.
+The Framework consists of three parts; the Core, Implementation Tiers and the Profile.
 
 1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions: Identify, Protect, Detect, Respond, and Recover.
 2. The Implementation Tiers provide context on how you view cybersecurity risk and your processes currently in place to manage risk.
 3. The Framework Profile aligns your cybersecurity activities with business requirements, risk tolerances, and resources, enables you to describe your current and target cybersecurity postures, identify and prioritize opportunities for improvement, and evaluate your progress toward your target state.
 
-In responding to the Framework Core questionnaire, large (more than $1 billion annual rev) enterprises currently only average about 1.5 out of a possible 4 (a poor rating). Protection, detection, and recovery get the most attention. Response often gets less. Identify is often the weakest part.
+In responding to the Framework Core questionnaire, large (more than $1 billion annual revenue) enterprises currently only average about 1.5 out of a possible 4 (a poor rating). Protection, detection, and recovery get the most attention. Response often gets less. Identify is often the weakest part.
 
 ### Cyber Readiness Evaluation (CRE) Components
 
@@ -78,7 +78,7 @@ Regulators coming into a business are still learning about cyber. They may opera
 - Add new external data about different insurance coverage options available in the market
 
 ## References
-- **Session page :** •	https://open-security-summit.org/tracks/ciso/working-sessions/cyber-risk-modeling/
+- [Session page](https://open-security-summit.org/tracks/ciso/working-sessions/cyber-risk-modeling/)
 
 ### Additional/External References
 - PowerPoint/PDF presentation by Yvette Connor
