@@ -9,7 +9,7 @@ session_type : working-session
 technology   :
 featured     : yes
 categories   : Threat Model                    
-status       : review-content             # draft, review-content, done
+status       : done             
 description  : Creation of three new TM cheat sheets
 ---
 
@@ -54,9 +54,9 @@ Cheat Sheet created for Question 1 at 2017 Summit
 
 - **DO** Use the whole team: including security operations, product owner, marketing and design usability (don’t limit yourself or shut down the brainstorm too early)
 - **DO** Use existing libraries, practices and structures such as STRIDE, CAPEC, Kill Chain, Story Mapping (don’t reinvent the wheel)
-- **DON’T** Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
 - **DO** Capture good notes, use open questions, and own the follow-up process 
 - **DO** Engage constructively and blamelessly - create a safe space 
+- **DON’T** Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
 
 ![q2 what can go wrong](https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg)
 ![Q2 graphic](https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg)
