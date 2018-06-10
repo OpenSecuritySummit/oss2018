@@ -73,8 +73,7 @@ cards:
        link  : /outcomes/tracks/Misc/user-sessions/msc-application-security/
      - title : Women in Cyber-security - improving the gender balance
        link  : /outcomes/tracks/Misc/user-sessions/Women-in-cyber-security/
-     - title :
-       link  :
+
    # this shows the green button below th card
    more_info: /outcomes/tracks/
  - id        : card-1
@@ -82,10 +81,7 @@ cards:
    outcomes  :
      - title : SAMM Introduction
        link  : /outcomes/tracks/OWASP-SAMM/user-sessions/SAMM-introduction/
-     - title :
-       link  :
-     - title :
-       link  :
+
    # this shows the green button below th card
    more_info: /outcomes/tracks/
  - id        : card-1
@@ -93,10 +89,7 @@ cards:
    outcomes  :
      - title : Creation of Security Buttons
        link  : /outcomes/tracks/owasp-projects/working-sessions/security-buttons/
-     - title :
-       link  :
-     - title :
-       link  :
+
    # this shows the green button below th card
    more_info: /outcomes/tracks/
  - id        : card-1
@@ -104,10 +97,7 @@ cards:
    outcomes  :
      - title : Security Questions Workshop
        link  : /outcomes/tracks/Security-Questions/working-sessions/security-questions-workshop/
-     - title :
-       link  :
-     - title :
-       link  :
+
    # this shows the green button below th card
    more_info: /outcomes/tracks/
  - id        : card-1

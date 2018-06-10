@@ -8,7 +8,7 @@ images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   : Threat Model
-status       : done              
+status       : done
 description  :
 ---
 
@@ -48,7 +48,9 @@ Cheat Sheet created for Question 1 at 2017 Summit
 - Go beyond/deeper than design level.
 - Use Threat Modeling like a kitchen sink, don’t try to put everything in.
 
-![q1](https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg)
+### !Q1{{< img src="https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg" width="720px" >}}
+
+
 
 ### Question Two: WHAT CAN GO WRONG?
 
@@ -61,8 +63,11 @@ Cheat Sheet created for Question 1 at 2017 Summit
 **DON’T**:
 - Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
 
-![q2 what can go wrong](https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg)
-![Q2 graphic](https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg)
+### !Q2 what can go wrong
+{{< img src="https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg" width="720px" >}}
+
+### !Q2 graphic
+{{< img src="https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg" width="720px" >}}
 
 ### Question Three: WHAT ARE WE GOING TO DO ABOUT IT?
 
@@ -77,8 +82,11 @@ Cheat Sheet created for Question 1 at 2017 Summit
 **DON’T**:
 - Confuse can and should
 
-![q3 what can we do](https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg)
-![question 3](https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg)
+###  !Q3 what can we do
+{{< img src="https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg" width="720px" >}}
+
+### !Q3
+{{< img src="https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg" width="720px" >}}
 
 
 ### Question Four: DID WE DO A GOOD ENOUGH JOB?
@@ -97,13 +105,21 @@ Cheat Sheet created for Question 1 at 2017 Summit
 - Compare outputs with Bug Bounty, Pen Test and Audit Findings
 - Share outputs with whole team
 
-![q4 did we do a good job](https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg)
+### !Q4 did we do a good job
+{{< img src="https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg" width="720px" >}}
 
 ## References
 
 - **Session page :** [Threat Model Cheat Sheets](https://open-security-summit.org/tracks/threat-model/working-sessions/tm-cheatsheets/)
+
+{{< img src="url" width="size" >}}
 - **Summit 2017 session page :** [2017 Threat Model Sessions](https://owaspsummit.org/Working-Sessions/Threat-Model/index.html)
+
+{{< img src="url" width="size" >}}
+
 - **Summit 2017 outcome page :** [Outcomes OWASP Projects: Cheat Sheets](https://owaspsummit.org/Outcomes/Owasp-Projects/Cheatsheets.html)
+
+{{< img src="url" width="size" >}}
 
 ### Additional/External References
 OSWASP Cheat Sheet Guidelines: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series#tab=Cheat_sheet_Guideline
