@@ -18,7 +18,7 @@ description  :
 - Resolve and describe the fundamentals of a DevSecOps Maturity Model (DSOMM)
 
 ## Synopsis and Takeaways
-####  What are the Motivations for a DevSecOps Maturity Model?
+###  What are the Motivations for a DevSecOps Maturity Model?
 A group discussion agreed on the following:
 
 - Measurement
@@ -37,12 +37,12 @@ A group discussion agreed on the following:
 - Control Prioritisation 
 - Selection based on assessment of current drivers for business to adopt devops
 
-#### Which level of detail does a DevSecOps Maturity Model provide? 
+### Which level of detail does a DevSecOps Maturity Model provide? 
 On a scale ranging between a high of **'SAMM: Utilize automated security testing tools'**, and a low being **'Use OWASP Dependency Check every night'**, participants were asked to select a level of detail appropriate for the DSOMM.
 
 Consensus was reached that the DSOMM should have a level of detail below that of SAMM.
 
-#### Which dimensions do you see in a DevSecOps Maturity Model?
+### Which dimensions do you see in a DevSecOps Maturity Model?
 After a lively discussion, the following foundational dimensions were decided on:
 
 - Technology
@@ -60,7 +60,7 @@ Other options for foundational dimensions were given as:
 - Test and Verification
 - Information Gathering
 
-#### Which attributes does an implementation point/action have?
+### Which attributes does an implementation point/action have?
 
 - Frequency
 - Descriptiveness/Level of Documentation
@@ -75,14 +75,14 @@ Other options for foundational dimensions were given as:
 - Scope/Depth
     - what level is the action taken to? (e.g. how many static checks performed?)
 
-#### How do we measure maturity?
+### How do we measure maturity?
 In relation to the range that should apply to a maturity scoring, the following points were put forward for consideration:
 
 - Range either from 0-4 or 0-6
     - Odd range sizes should not be used, because of the tendency for people to overuse the middle score
 - It was suggested that ranges might be different per attribute 
 
-#### Comparisons with other Maturity Models and the Integration of security in the devops operating model:
+### Comparisons with other Maturity Models and the Integration of security in the devops operating model:
 
 - OpenSAMM is built around “functions of software development with security practices tied to each”. It is not people-centric the way DevOps is.
 - DevSecOps = people and collaboration over tools and processes
