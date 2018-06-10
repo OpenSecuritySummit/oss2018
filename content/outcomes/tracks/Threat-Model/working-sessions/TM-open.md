@@ -50,6 +50,7 @@ description  :
 As this was an introductory session, the conclusions will develop as the week continues.
 
 ## References 
+
 - https://open-security-summit.org/tracks/threat-model/working-sessions/tm-open/ 
 - https://owaspsummit.org/Working-Sessions/Threat-Model/index.html
 - https://owaspsummit.org/Outcomes/Threat-Model/Threat-Modeling-Where-do-I-Start.html
