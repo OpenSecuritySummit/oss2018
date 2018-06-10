@@ -6,7 +6,7 @@
         </div>
 
         {{ range where .Site.Data.home.after_summit.cards ".title" "!=" "empty"}}
-        <div class="col-lg-3 col-md-3 col-sm-12">
+        <div class="col-lg-3 col-md-3 col-sm-12" style="height:300px;">
           <div class="oss-card-small">
             <div class="oss-card-small-title">
               <a href="{{ .more_info }}">
