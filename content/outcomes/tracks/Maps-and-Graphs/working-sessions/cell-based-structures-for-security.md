@@ -9,11 +9,9 @@ session_type : user-session
 technology   :
 featured     : yes
 categories   : Graphs and Maps
-status       : review-content             # draft, review-content, done
+status       : done
 description  :
 ---
-
-
 
 ## Outcomes/Deliverables 
 The session looked at how security functions can take advantage of Cell Based Structures to be more responsive to business needs. The session also focussed on the application of points of doctrine, and the division of teams into Pioneers, Settlers, and Town Planners as an efficient way to meet business needs that improves on the Squad model. 
@@ -58,10 +56,10 @@ The session looked at how security functions can take advantage of Cell Based St
 - Can be useful for anticipating next moves
 - When I want to attack a space, is there a weak signal I can exploit?
 
-## References (recommend)
-https://open-security-summit.org/tracks/maps-and-graphs/working-sessions/cell-based-structures-for-security/
+## References
+- https://open-security-summit.org/tracks/maps-and-graphs/working-sessions/cell-based-structures-for-security/
 
 ### Additional/External References
-[Boiling Frogs](https://github.com/gchq/BoilingFrogs/blob/master/GCHQ_Boiling_Frogs.pdf)
-[Accidental Empires](https://www.amazon.co.uk/Accidental-Empires-Silicon-Millions-Competition/dp/0140258264)
-[Tool for creating Wardley maps](https://atlas2.wardleymaps.com)
+- [Boiling Frogs](https://github.com/gchq/BoilingFrogs/blob/master/GCHQ_Boiling_Frogs.pdf)
+- [Accidental Empires](https://www.amazon.co.uk/Accidental-Empires-Silicon-Millions-Competition/dp/0140258264)
+- [Tool for creating Wardley maps](https://atlas2.wardleymaps.com)
