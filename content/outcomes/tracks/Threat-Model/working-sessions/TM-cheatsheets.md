@@ -9,7 +9,7 @@ session_type : working-session
 technology   :
 featured     : yes
 categories   : Threat Model                    
-status       : review-content             # done
+status       : done             
 description  : Creation of three new TM cheat sheets
 ---
 
