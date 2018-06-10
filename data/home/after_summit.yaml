@@ -1,123 +1,15 @@
 cards:
  # to add cards, just copy from the id below here to the more_info, and increment the id
  - id        : card-1
-   title     : CISO
+   title     : 
    outcomes  :
-     - title : Cyber Insurance
-       link  : /outcomes/tracks/ciso/working-sessions/cyber-insurance/
-     - title : eexample
-       link  : example
-     - title : Example
-       link  : example
+     - title : 
+       link  : 
+     - title : 
+       link  : 
+     - title : 
+       link  : 
    # this shows the green button below th card
    more_info:
- - id        : card-2
-   title     : Chaos Engineering
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-3
-   title     : DevSecOps
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-4
-   title     : GDPR
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : Keynotes
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : Maps and Graphs
-   outcomes  :
-     - title : Cell based Structures for Security
-       link  : /outcomes/maps-and-graphs/working-sessions/cell-based-structures-for-security/
-     - title : Create Wardley Maps for multiple security scenarios
-       link  : /outcomes/maps-and-graphs/user-sessions/create-wardley-mappings-for-multiple-security-scenarios/
-     - title : eexample
-       link  : example
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : Misc
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : OWASP SAMM
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : OWASP Projects
-   outcomes  :
-     - title : Creation of Security Buttons
-       link  : /outcomes/tracks/owasp-projects/working-sessions/security-buttons/
-     - title : eexample
-       link  : example
-     - title : Example
-       link  : example
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : Security Questions
-   outcomes  :
-     - title :
-       link  :
-     - title :
-       link  :
-     - title :
-       link  :
-   # this shows the green button below th card
-   more_info: /outcomes/
- - id        : card-1
-   title     : Threat Model
-   outcomes  :
-     - title : API Threat Modeling Cheat Sheet
-       link  : /outcomes/threat-model/working-sessions/tm-api-cheatsheet/
-     - title : eexample
-       link  : example
-     - title : Example
-       link  : example
-   # this shows the green button below th card
-   more_info: /outcomes/
+
+ 
