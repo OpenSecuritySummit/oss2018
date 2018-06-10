@@ -7,9 +7,9 @@ slides       :                    #url i.e. slideshare
 images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
-featured   : yes
+featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content              # draft, review-content, done
+status       : draft             # draft, review-content, done
 description  :
 ---
 
