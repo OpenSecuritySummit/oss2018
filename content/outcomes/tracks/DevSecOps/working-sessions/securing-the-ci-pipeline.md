@@ -9,7 +9,7 @@ session_type : user-session
 technology   :
 featured     : yes
 categories   : 
-status       : review-content
+status       : done
 description  :
 ---
 
@@ -20,14 +20,14 @@ This Working Session took an in-depth look at the security risks inherent to the
 
 #### Why do we need to secure the CI Pipeline?
 
-- The CI pipeline is ‘huge’,consisting of multiple hosts/machines with multiple points of access and processes.
+- The CI pipeline is huge,consisting of multiple hosts/machines with multiple points of access and processes.
 - The pipeline contains high value targets for attackers, such as:
     - Access to compilers
     - Config files
-    - Secrets, keys, passwords. Developers often store keys and other secrets in spreadsheets, config files, git repositories
+    - Secrets, keys, passwords. Developers often store keys and other secrets in spreadsheets, config files, Git repositories
 - Assets accessible on the pipeline can be used to escalate privileges
 - Several mechanisms for taking advantage of the above were demonstrated.
-- Although true that these risks are lower in a pipeline fully implementing security standards, pipelines practicing less than ideal security hygene are not uncommon.
+- Although risks are lower in a pipeline that fully implements security standards, pipelines practicing less than ideal security hygiene are not uncommon.
 
 ####  Categories of risks identified:
 
@@ -46,13 +46,13 @@ This Working Session took an in-depth look at the security risks inherent to the
     - VCS security
     - Docker configuration/registry
     - Artefact hardening
-- Get your code review right.
+- Get your code review right
 - Implement secure secrets management
 - Auditing and monitoring CI/CD servers
 - Harden CI boxes
 - Protect the CI master machines
 - Check registries/artefact storage
-- Secure developer's machines.
+- Secure developer's machines
 - Consider using secret management and automated access provision tools (see below)
 - Use Docker best practices for security
 
@@ -70,7 +70,7 @@ This Working Session took an in-depth look at the security risks inherent to the
 A tool like Hashicorp's Vault can help by providing:
 
 - Secret management
-- Automated and on demand access provision. This provides you with processes that lets you control who has access, how long she has access for (limited time to live)
+- Automated and on demand access provision. This provides you with processes that lets you control who has access, how long they have access for (limited time to live)
 - Whitelist IPs
 - Two Factor Authentication, with team based authentication available
 
@@ -82,8 +82,8 @@ A tool like Hashicorp's Vault can help by providing:
 
 
 ## References
-- **Session page :** https://open-security-summit.org/tracks/devsecops/working-sessions/securing-the-ci-pipeline/
-- **Summit 2017 session page :** https://owaspsummit.org/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html
+- [Session page](https://open-security-summit.org/tracks/devsecops/working-sessions/securing-the-ci-pipeline/)
+- [Summit 2017 session page](https://owaspsummit.org/Working-Sessions/DevSecOps/Securing-the-CI-Pipeline.html)
 
 #### Additional/External References
 
