@@ -4,7 +4,7 @@ type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
-status      	: review-content   	# draft, review-content, done
+status      	: done
 description	:
 ---
 
@@ -13,7 +13,7 @@ In this ‘Ask Me Anything’ session on the General Data Protection Regulation 
 
 ### What steps are involved in handling a DSAR (Data Subject Access Request)?
 
-- Verification of subject/customer ID by organisation handling the request
+- Verification of subject/customer ID by the organisation handling the request
 - 28-day turnaround to verify records and email exactly what is needed
 - Offer as much subject/customer data as is available to the subject/customer for the given ID
 - No proof is required for meeting a request for deletion
@@ -35,14 +35,17 @@ In this ‘Ask Me Anything’ session on the General Data Protection Regulation 
 
 ### What could be worst-case scenarios for GDPR non-compliance?
 
-- Losing personal data twice. For example, one organisation was fined £225,000 for losing videos with sensitive information, 2nd time fined £335,000 for losing videos again
-- Multiple levels of management knowing that the organisation is not compliant with GDPR, but not acting to correct the situation.
+- Losing personal data twice. For example, one organisation was fined £225,000 for losing videos with sensitive information. The second time, it was fined £335,000 for losing videos again
+- Multiple levels of management knowing that the organisation is not compliant with GDPR, but not acting to correct the situation
 
 ### GDPR as an opportunity
 
 - A good opportunity to take data more seriously and do better housekeeping. For example, stop keeping photos longer than X, if there is a consensus that there is no value in keeping them longer anyway.
-- Ask pertinent data questions linked to GDPR compliance, like do we need to keep it, have we been taking care of 'this', how have we been taking care of 'this', etc. This can improve security generally.
-- By clearing out data, a further benefit is that less storage is needed, costs are reduced
+- Ask pertinent data questions linked to GDPR compliance:
+   - Do we need to keep it?
+   - Have we been taking care of 'this'?
+   - How have we been taking care of 'this', etc. This can improve security generally.
+- By clearing out data, a further benefit is that less storage is needed and costs are reduced
 - An opportunity to mature the way the business works.
 
 ### Threat modelling as a way of identifying GDPR risks
@@ -56,7 +59,7 @@ In this ‘Ask Me Anything’ session on the General Data Protection Regulation 
 - Maturing processes and practices
 - Ongoing improvements of systems
 - Start looking at data retention
-- GDPR is not 'done', it is a continuing process.
+- GDPR is not 'done', it is a continuing process
 
 ## References
-- **Session page :** •	https://open-security-summit.org/tracks/gdpr/user-sessions/ask-me-anything-on-gdpr/
+- [Session page](https://open-security-summit.org/tracks/gdpr/user-sessions/ask-me-anything-on-gdpr/)
