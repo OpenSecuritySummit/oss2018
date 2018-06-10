@@ -46,7 +46,7 @@ Cheat Sheet created for Question 1 at 2017 Summit
 - **DON’T** Go beyond/deeper than design level.
 - **DON’T** Use Threat Modeling like a kitchen sink, don’t try to put everything in.
 
-![q1](https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg)
+<img src="https://user-images.githubusercontent.com/1088314/41206935-c686ee88-6d0c-11e8-81b5-aff77d2b61ef.jpg" width="100%">
 
 ## Working Materials
 
@@ -58,8 +58,8 @@ Cheat Sheet created for Question 1 at 2017 Summit
 - **DO** Engage constructively and blamelessly - create a safe space 
 - **DON’T** Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
 
-![q2 what can go wrong](https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg)
-![Q2 graphic](https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg)
+<img src="https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg" width="100%"> 
+<img src="https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg" width="100%"> 
 
 ### Question Three: WHAT ARE WE GOING TO DO ABOUT IT?
 
@@ -71,8 +71,8 @@ Cheat Sheet created for Question 1 at 2017 Summit
 - **DO** Integrate with partner or team tools and processes
 - **DON’T** Confuse can and should
 
-![q3 what can we do](https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg)
-![question 3](https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg)
+<img src="https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg" width="100%">
+<img src="https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg" width="100%">
 
 
 ### Question Four: DID WE DO A GOOD ENOUGH JOB?
@@ -88,7 +88,7 @@ Cheat Sheet created for Question 1 at 2017 Summit
 - **DO** Compare outputs with Bug Bounty, Pen Test and Audit Findings
 - **DO** Share outputs with whole team
 
-![q4 did we do a good job](https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg)
+<img src="https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg" width="100%">
 
 
 ## References 
