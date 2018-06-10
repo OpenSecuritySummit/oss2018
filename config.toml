@@ -22,11 +22,11 @@ paginate = 10
 #    weight = 1
 #    url = "/"
 [[menu.main]]
-    name = "Schedule"
-    identifier = "schedule"
+    name = "Reactions"
+    identifier = "reactions"
     pre = "<i class='fa fa-road'></i>&nbsp;"
     weight = 1
-    url = "/Schedule/all"
+    url = "/Reactions"
 [[menu.main]]
     name = "Sessions"
     identifier = "sessions"
@@ -40,6 +40,13 @@ paginate = 10
     weight = 3
     parent = "sessions"
     url = "/tracks/"
+[[menu.main]]
+    name = "Schedule"
+    identifier = "schedule"
+    pre = "<i class='fa fa-road'></i>&nbsp;"
+    weight = 23
+    parent = "sessions"
+    url = "/schedule/all"
 [[menu.main]]
     name = "Topics"
     identifier = "topics"

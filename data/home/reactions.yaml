@@ -1,0 +1,39 @@
+cards:
+ # to add cards, just copy from the id below here to the more_info, and increment the id
+ - id        : card-1
+   title     : Tanya
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "TODO: A game changer event1 "
+ - id        : card-1
+   title     : Francesca
+   youtubeid : QvUMy32YJqQ
+   quote     : "TODO: A game changer event2"
+ - id        : card-1
+   title     : Tanya TODO
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "TODO: A game changer event3"
+ - id        : card-1
+   title     : Tanya
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "TODO: A game changer event1 "
+ - id        : card-1
+   title     : Francesca
+   youtubeid : QvUMy32YJqQ
+   quote     : "TODO: A game changer event2"
+ - id        : card-1
+   title     : Tanya TODO
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "TODO: A game changer event3"
+ - id        : card-1
+   title     : Tanya
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "TODO: A game changer event1 "
+ - id        : card-1
+   title     : Francesca
+   youtubeid : QvUMy32YJqQ
+   quote     : "TODO: A game changer event2"
+ - id        : card-1
+   title     : Tanya TODO
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "TODO: A game changer event3"
+
