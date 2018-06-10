@@ -9,12 +9,12 @@ session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 featured     : yes
 categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content             # draft, review-content, done
+status       : done            
 description  :
 ---
 
 
-The OWASP mission is to document and share impartial and practical software security information that is accessible to individuals and organisations. Anyone is free to participate in the knowledge-based documentation published on the OWASP Threat Model pages. Content is produced in collaboration, published by consensus and reviewed by wiki-users from around the world.
+The OWASP mission is to document and share impartial and practical software security information accessible to individuals and organisations. Anyone is free to participate in the knowledge-based documentation published on the OWASP Threat Model pages. Content is produced in collaboration, published by consensus, and reviewed by wiki-users around the world.
 
 ### OWASP Threat Model Pages
 
@@ -27,11 +27,11 @@ A list of pages is found at the OWASP TM landing page. The main subpages are:
 
 ### What
 
-Threat modelling works to identify, communicate and understand threats and mitigations within the context of protecting something of value.
+Threat modelling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value.
 
 Threat modelling can be applied to a wide range of things, including software, applications, systems, networks, distributed systems, things in the internet of things, business processes, etc. There are very few technical products which cannot be threat modelled; more or less rewarding, depending on how much it communicates, or interacts, with the world. Threat modelling can be done at any stage of development, preferably early - so that the findings can inform the design.
 
-Most of the time, a threat model include:
+Most of the time, a threat model includes:
 
 -	A description / design / model of what you’re worried about
 -	A list of assumptions that can be checked or challenged in the future as the threat landscape changes
@@ -39,21 +39,21 @@ Most of the time, a threat model include:
 -	A list of actions to be taken for each threat
 -	A way of validating the model and threats, and verification of success of actions taken
 
-Our motto is: Threat modelling; the sooner the better, but never too late.
+Our motto is: Threat modelling: the sooner the better, but never too late.
 
 ### Why
 
 The inclusion of threat modelling in the SDLC can help
 
  - Build a secure design
- - Efficient investment of resources; appropriately prioritize security, development and other tasks
+ - Efficient investment of resources; appropriately prioritize security, development, and other tasks
  - Bring Security and Development together to collaborate on a shared understanding, informing development of the system
  - Identify threats and compliance requirements, and evaluate their risk
  - Define and build required controls.
  - Balance risks, controls, and usability
  - Identify where building a control is unnecessary, based on acceptable risk
- - Document threats and mitigations
- - Ensure business requirements (or goals) are adequately protected in the face of a malicious actor, accidents or other causes of impact
+ - Document threats and mitigation
+ - Ensure business requirements (or goals) are adequately protected in the face of a malicious actor, accidents, or other causes of impact
  - Identification of security test cases / security test scenarios to test the security requirements
 
 ## 4 Questions
