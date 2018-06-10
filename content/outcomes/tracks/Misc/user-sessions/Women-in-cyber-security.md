@@ -8,27 +8,28 @@ images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : done
 description  :
 ---
 
 
 
-## Outcomes/Deliverables (recommend)
+## Outcomes/Deliverables 
 
 - List of practical, valuable actions that help ourselves as well as others
 - Agreement to check back with the group in three or six months, rather than waiting until next year
 
-## Synopsis and Takeaways (recommend)
-The following list of action was agreed:
+## Synopsis and Takeaways 
+The following list of actions was agreed:
 - The next summit should have a number of sessions which every participant should attend
    - e.g. Ethics in Security, Women in CyberSec
 - Reach out to schools:
    - Schoolchildren came to AppSec Belfast & AppSec Israel
    - The next summit could invite schools to participate?
    - School programmes need to be longer term, one day or one visit isn't sufficient to engage long term interest
+   - If you are going to give a talk in a school, make sure it is pitched correctly and interesting for the students
 - Share opportunities:
-   - If you are asked to speak at an even but cannot attend, nominate a woman to take your place
+   - If you are asked to speak at an event but cannot attend, nominate a woman to take your place
    - Personally invite women to events you participate in 
       - The Ottawa OWASP chapter increased its attendance rate from 100 to 800 using this method
 - Be inclusive, not exclusive
@@ -43,10 +44,10 @@ The following list of action was agreed:
 - Watch the Body Language Ted Talk (See References)
 
 
-## Working Materials (recommend)
+## Working Materials 
 - https://drive.google.com/open?id=1hQee-NduUAWX_Nx9LhtLY7JDB3DhDJTnP6k35jDGheY
 
-## References (recommend)
+## References 
 - https://open-security-summit.org/tracks/misc/working-sessions/women-in-cyber-security/
 - https://owaspsummit.org/Working-Sessions/CISO/Women-in-Cyber.html
 - https://owaspsummit.org/Outcomes/CISO/Women-in-Cyber.html
