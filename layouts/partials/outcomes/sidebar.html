@@ -12,3 +12,13 @@
     <a href="{{ . | safeURL }}">Links</a>
   {{ end }}
 {{ end }}
+
+{{ with .Params.video }}
+  <h2 class="oswald-blue">Video</h2>
+  <a href="{{ . | safeURL }}">Video link</a>
+{{ end }}
+
+{{ with .Params.slides }}
+  <h2 class="oswald-blue">Slides</h2>
+  <a href="{{ . | safeURL }}">slides link</a>
+{{ end }}
