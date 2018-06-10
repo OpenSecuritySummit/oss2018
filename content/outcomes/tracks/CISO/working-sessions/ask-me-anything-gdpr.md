@@ -7,7 +7,8 @@ categories   	:                  	# GDPR, Juice Shop, etc.
 status      	: review-content   	# draft, review-content, done
 description	:
 ---
-@import “/static/img/logo.png”
+
+
 
 In this ‘Ask Me Anything’ session on the General Data Protection Regulation (GDPR), topics and questions from the audience were:
 
