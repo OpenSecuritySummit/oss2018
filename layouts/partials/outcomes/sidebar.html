@@ -6,8 +6,9 @@
 {{ partial "session/organisers-as-list.html" $session }}
 <h2 class="oswald-blue">Participants</h2>
 {{ partial "session/participants-as-list.html" $session }}
-<h2 class="oswald-blue">References</h2>
+
 {{ with .Params.links }}
+  <h2 class="oswald-blue">References</h2>
   {{ range . }}
     <a href="{{ . | safeURL }}">Links</a>
   {{ end }}
@@ -22,3 +23,4 @@
   <h2 class="oswald-blue">Slides</h2>
   <a href="{{ . | safeURL }}">slides link</a>
 {{ end }}
+
