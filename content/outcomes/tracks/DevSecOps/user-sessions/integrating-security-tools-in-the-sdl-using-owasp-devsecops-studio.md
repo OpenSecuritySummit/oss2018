@@ -8,7 +8,7 @@ images       :
 session_type : user-session
 technology   :
 categories   : DevOpsSec
-status       : review-content              # draft, review-content, done
+status       : done
 description  :
 ---
 
@@ -66,11 +66,11 @@ Integrating security tools in the software development lifecycle ensures appropr
 #### OWASP DevSecOps Studio:
 DevSecOps Studio project aims to reduce the time to bootstrap the environment and help you in concentrating on learning/teaching DevSecOps practices. 
 
-#### The Benefitts of DevSecOps Studio 
+#### The Benefits of DevSecOps Studio 
 
-- Easy to setup environment - Takes only few mins to setup and start with just one command (“vagrant up”)
-- Free & Open Source Software - this project is a free and open software to help more people learn about DevSecOps
-- Reproducible - the aim of this project is to setup reproducible DevSecOps Lab environment for learning and testing different tools
+- Easy to setup environment - takes only a few minutes to setup and start with just one command (“vagrant up”)
+- Free & Open Source Software - this project is free and open software to help more people learn about DevSecOps
+- Reproducible - the aim of this project is to setup a reproducible DevSecOps Lab environment for learning and testing different tools
 
 #### Some of the Python Security Tools discussed:
 
@@ -84,16 +84,14 @@ DevSecOps Studio project aims to reduce the time to bootstrap the environment an
 ## DevSecOps Studio Setup
 DevSecOps Studio uses vagrant, virtualbox and ansible to setup the lab environment. You can visit the vendor's website to download the above software for on Windows/Linux/macOS.
 
-Install [Vagrant](https://www.vagrantup.com/downloads.html), [Virtualbox](https://www.virtualbox.org/wiki/Downloads) , [Ansible](http://docs.ansible.com/ansible/latest/intro_installation.html#installation)  and follow the below steps.
+Install [Vagrant](https://www.vagrantup.com/downloads.html), [Virtualbox](https://www.virtualbox.org/wiki/Downloads), [Ansible](http://docs.ansible.com/ansible/latest/intro_installation.html#installation) and follow the below steps.
 
 - [Download DevSecOps-Studio Appliance](https://drive.google.com/open?id=1b3Z6BLndohpn_2HHcBfPFUpoSx78OKgG) (4.45 GB)
 - Import the above Appliance by following [these steps](https://docs.oracle.com/cd/E26217_01/E26796/html/qs-import-vm.html)
 - Follow the [wiki](https://github.com/teacheraio/DevSecOps-Studio/wiki) to embed security as part of DevOps Pipeline.
 
-
 ## References
-- **Session page :** https://open-security-summit.org/tracks/devsecops/user-sessions/integrating-security-tools-in-the-sdl-using-owasp-devsecops-studio/
-
+- [Session page](https://open-security-summit.org/tracks/devsecops/user-sessions/integrating-security-tools-in-the-sdl-using-owasp-devsecops-studio/)
 
 ### Additional/External References
 
