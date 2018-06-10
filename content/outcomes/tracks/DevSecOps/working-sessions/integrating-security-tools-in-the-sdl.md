@@ -1,58 +1,95 @@
 ---
 title        : Integrating Security Tools in the SDL
 type         : outcome
-track        :
-video        :                    #url i.e. youtube, vimeo, etc
-slides       :                    #url i.e. slideshare
-images       :
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : working-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : review-content     # draft, review-content, done
 description  :
 ---
 
+@import "/static/img/logo.png"
+
+## Outcomes/Deliverables
+The stated outcomes were given as:
+
+- To identify common areas where security and development can work together to make improvements.
+- To document identified areas like culture, automation, measurement and sharing in OWASP wiki page.
+
+## Synopsis and Takeaways
+
+### Why Integrate Security Tools in SDL?
+Most of today´s application security problems can be traced to flaws in the code. It does not matter whether security issues affect operating system components, client applications, web applications, or other systems, most well-known vulnerabilities are caused by coding errors and implementation issues.
+
+The best way to make security ‘just happen’ is to integrate it within the normal SDL (Software Development Lifecycle) practices. Security teams can focus on confidentiality and integrity of data which often requires development teams to slow down and assess code differently. Similarly, businesses want developers to write and revise code faster than ever, which often results in the developers focusing on what works best instead of on what is secure.
+
+Recapping what is needed (the core values of DevSecOps):
+
+- **Culture**: DevOps is about breaking down barriers between teams; without culture other practices fail
+- **Measurement**: Measuring activities in CI/CD helps in informed decision making among teams
+- **Automation**: Often mistaken as DevOps itself but a very important aspect of the initiative. 
+- **Sharing**: Sharing tools, best practices etc., among the teams/organization improves confidence for collaboration.
 
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+### Takeaways for Integrating Security into SDL:
+ 
+- Have open communication.
+- Consider the differences in culture between teams. For instance, the jargon used in DevSecOps is not familiar to developers.
+- Showing appreciation with small things like security t-shirts and badges can help with motivation and measurement.
+- Properly demonstrate the value to management to get true buy-in.
+- Use CI/CD pipeline to embed security. Each of the DevOps steps (Plan, Code, Build, Test, Release, Deplay, Operate) should have security activities built in. 
+- When choosing a paid tool, make sure that there is an available API, so that you can integrate properly. This one of the most important criteria when purchasing a tool! At the very least there should be a CLI. If they have neither, drop that tool.
+- Give developers and operations visibility into security activities.
+- Presenting motivations at an abstract, high level is not as successful as showing real tools, already setup, that technicians can see and properly grasp.
+- Liaise with developers and work with them step by step.
+- Developers should train on Threat Modeling.
+- As far as possible, express compliance as code. This helps with testing and developer familiarity and understanding.
+- Use secure by default frameworks and services. Security should have some leverage when selecting tools, frameworks and services.
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+### DevSecOps Maturity Model (DSOMM)
+The DevSecOps Maturity Model was described along the following axes:
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+- **Static Depth:** How deep is static code analysis?
+- **Dynamic Depth:** How deep are dynamic scans executed?
+- **Consolidation:** How complete is the process of handling findings?
+- **Intensity:** How intense are the majority of the executed attacks?
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+#### DSOMM Level 1:
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+- **Static Depth:** Run SAST, component analysis and secrets scanning as it is.
+- **Dynamic Depth:** Run DAST tools as it is with default settings.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+#### DSOMM Level 2:
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+- **Static Depth:** Run SAST, component analysis and secrets scanning with minor tweaks to the rulesets 
+- **Dynamic Depth:** Run DAST tools with minor tweaks to tools.
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+### OWASP DevSecOps Studio:
+DevSecOps Studio project aims to reduce the time to bootstrap the environment and help you in concentrating on learning/teaching DevSecOps practices. 
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+#### The Benefits of DevSecOps Studio 
+
+- Easy to setup environment - takes only a few minutes to setup and start with just one command (“vagrant up”)
+- Free & Open Source Software - this project is free and open software to help more people learn about DevSecOps
+- Reproducible - the aim of this project is to setup a reproducible DevSecOps Lab environment for learning and testing different tools
+
+### The Demonstration
+The DevSecOps Studio was used as a lab environment to show participants how to go from DSOMM level 0 to DSOMM level 1. 
+
+### Working Materials
+
+- [The Security Development Lifecycle](https://www.owasp.org/images/7/78/OWASP_AppSec_Research_2010_Keynote_2_by_Lipner.pdf)
+- [SDL in Practice](https://www.owasp.org/images/4/45/SDL_in_practice.pdf)
+
+
+## References
+- **Session page :** https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-tools-in-the-sdl/
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+* [Secure programming with Static Analysis book](https://www.e-reading.club/bookreader.php/142130/Secure_programming_with_Static_Analysis.pdf)
+* [Continuous Delivery - by Jez Humble, Daveid Farley](http://www.synchronit.com/downloads/Continuous%20Delivery%20-%20Reliable%20Software%20Releases%20Through%20Build,%20Test%20And%20Deployment%20Automation.pdf)
+* [Chess Static Analysis book](https://www.e-reading.club/bookreader.php/142130/Secure_programming_with_Static_Analysis.pdf)
+* [Netflix culture slideset](https://www.slideshare.net/BarbaraGill3/netflix-culture-deck)
+* [Postmodern Security](https://postmodernsecurity.com/)
