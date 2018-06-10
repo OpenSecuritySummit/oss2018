@@ -28,6 +28,14 @@
 {{ $session := index (where (where .Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome") 0 }}
 
 <div class="col-md-12">
+<div class="outcome-content col-md-8">
+    {{ partial "widgets/outcome-clues.html" . }}
+    &nbsp;
+</div>
+</div>
+
+<div class="col-md-12">
+
   <div class="outcome-content col-md-8">
     <h1>{{ .Title }}</h1>
     View the <a href="{{ $session.Permalink }}">original Working Session content</a>
@@ -39,10 +47,7 @@
 </div>
 
 <div class="col-md-12">
-  <div class="outcome-content col-md-8">
-    {{ partial "widgets/outcome-clues.html" . }}
-    &nbsp;
-  </div>
+
   <div class="outcome-content col-md-8">
     {{ .Content }}
   </div>
@@ -50,7 +55,6 @@
     {{ partial "outcomes/sidebar.html" . }}
   </div>
   <hr/>
-  <a href="/outcomes/">Back to list of all Outcomes</a>
 </div>
 
 {{ end }}

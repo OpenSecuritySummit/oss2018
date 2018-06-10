@@ -4,17 +4,17 @@ type         	: outcome
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
-status      	: review-content   	# draft, review-content, done
+status      	: done
 description	:
 ---
 
 ### Cyber insurance market (2017 cyber insurance data from Best)
 
 - US direct premiums by US P&C insurers rose 32% to $1.8bn
-- Policies in force increased 24% to 26mn
+- Policies in force increased 24% to 26 mn
 - Cyber claims increased from 5,955 to 9,017
 
-### Top five cyberattacks (2017 AIG claims data)
+### Top five cyber attacks (2017 AIG claims data)
 
 - Ransomware - 26%
 - Data breach by hackers - 12%
@@ -57,15 +57,15 @@ Security involves managing technical risk, but a contractual response is also ne
 ### Application process
 The application process is a critical step for proper, viable insurance
 
-- Precise declaration of volumes & types of data
-- Written, attorney-approved policies & procedures
+- Precise declaration of volumes and types of data
+- Written, attorney-approved policies and procedures
 - Existing network security programs (firewalls, antivirus software, etc.)
 - Cyber security personnel
 - History of cyber events
-- Awareness of facts & circumstances that reasonably could give rise to a claim
+- Awareness of facts and circumstances that reasonably could give rise to a claim
 - Practices around encryption, passwords, patching, access controls
 - Third party audits
-- Employee hiring & termination practices
+- Employee hiring and termination practices
 - Third-party service providers
 - Backup procedures
 - Physical security controls
@@ -75,7 +75,7 @@ The application process is a critical step for proper, viable insurance
 
 Cyber is often unclear to people running businesses, let alone cybersecurity. They may not know or understand what could cause a breach, what the path could be, even in very simple terms and concepts. Yet this is potentially a huge issue and exposure.
 
-- Claimed cyber practices and procedures & other representations
+- Claimed cyber practices and procedures and other representations
 - Exclusion for failure to follow minimum required practices
 - Notice condition
 - Prior written consent requirements
@@ -93,16 +93,19 @@ For example, a pre-existing cyber condition could arise because attack dwell tim
 
 The General Data Protection Regulation (GDPR) raises new challenges for insureds and insurers.
 
-- 3 types of personal data breach under the regulation: Confidentiality, Availability, Integrity
+- Three types of personal data breach under the regulation: 
+   - Confidentiality
+   - Availability
+   - Integrity
 - Collection, use, storage, and disposal of personal data
 - Policies and other documentation
 - Data Protection Officer
 - Fines and penalties
 - Management liability
 
-Unless an organisation understands where the risks are concerning GDPR, it will not get the right coverage. For example:
-
-- A data breach, confidentiality breach is often covered by insurance for GDPR
+Unless an organisation understands where the risks are concerning GDPR, it will not get the right coverage. 
+For example:
+- A data breach or confidentiality breach is often covered by insurance for GDPR
 - An availability might or might not be covered under GDPR or you need to ask
 - It is much harder to get coverage in GDPR insurance for an integrity breach
 
@@ -113,7 +116,7 @@ Unless an organisation understands where the risks are concerning GDPR, it will 
 - Coverage and price benchmarking is improving, but still volatile
 - A business needs to understand how much of a ‘bad thing’ it can withstand, and how much it is prepared to pay in insurance. The business should then lay off just the part of the risk that it can't/doesn't want to handle.
 - Boards are being put in notice that they are responsible for risk and mis-managing risk. Directors and officers may need coverage, so remember to consider this.
-- To avoid confusion, consult with a risk manager and collaborate with Infosec, Audit and /or Compliance teams to help build an approach and determine the appropriate work plan for hedging the cyber risk profile.
+- To avoid confusion, consult with a risk manager and collaborate with Infosec, Audit and/or Compliance teams to help build an approach and determine the appropriate work plan for hedging the cyber risk profile.
 
 ### Key Takeaway
 
@@ -126,8 +129,8 @@ Unless an organisation understands where the risks are concerning GDPR, it will 
 5. Understand and operationalize policy requirements and obligations
 
 
-## References
-- **Session page :** •	•	https://open-security-summit.org/tracks/ciso/working-sessions/cyber-insurance/
+### References
+- [Session page](https://open-security-summit.org/tracks/ciso/working-sessions/cyber-insurance/)
 
 ### Additional/External References
 - PowerPoint/PDF presentation by Yvette Connor and Judy Selby
