@@ -9,7 +9,6 @@ description	:
 ---
 
 
-
 In this ‘Ask Me Anything’ session on the General Data Protection Regulation (GDPR), topics and questions from the audience were:
 
 ### What steps are involved in handling a DSAR (Data Subject Access Request)?

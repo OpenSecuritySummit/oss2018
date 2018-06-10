@@ -7,13 +7,13 @@ slides       :                    #url i.e. slideshare
 images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content              # draft, review-content, done
+categories   : Threat Model
+status       : done              
 description  :
 ---
 
 ## Outcomes
-Three Cheat Sheets for Central Questions 2 to 4
+Three Cheat Sheets for central questions 2 to 4
 
 ## Synopsis and  Takeaways
 
@@ -24,49 +24,58 @@ The OWASP Threat Model Project seeks to document threat modeling techniques grou
 - What are we going to do about that?
 - Did we do a good enough job?
 
-### Cheet Sheet Structure & Process
+### Cheat Sheet Structure & Process
 
-- Each cheat sheet has a maximum of 5 key points
+- Each cheat sheet has a maximum of five key points
 - Each key point is as simple and concise as possible
 - Each point starts with either DO or DON’T
 - Ideas are collected in a collaborative environment
 - The top five are chosen by consensus to be documented
 
-### Reference
+### References
 Cheat Sheet created for Question 1 at 2017 Summit
-
-#### Question 1: What are we building?
-
-- **DO** Scope to what is under your control.
-- **DO** Understand the context your system will live in. This includes but is not limited to the environment, security controls, etc
-- **DO** If you get stuck, either look at the entry and exit points OR let the Subject Matter Expert (SME) tell a story to get back on track.
-- **DON’T** Go beyond/deeper than design level.
-- **DON’T** Use Threat Modeling like a kitchen sink, don’t try to put everything in.
-
-![q1](https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg)
 
 ## Working Materials
 
+#### Question 1: What are we building?
+
+**DO**:
+- Scope to what is under your control.
+- Understand the context your system will live in. This includes but is not limited to the environment, security controls, etc
+- If you get stuck, either look at the entry and exit points OR let the Subject Matter Expert (SME) tell a story to get back on track.
+
+**DON’T**:
+- Go beyond/deeper than design level.
+- Use Threat Modeling like a kitchen sink, don’t try to put everything in.
+
+![q1](https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg)
+
 ### Question Two: WHAT CAN GO WRONG?
 
-- **DO** Use the whole team: including security operations, product owner, marketing and design usability (don’t limit yourself or shut down the brainstorm too early)
-- **DO** Use existing libraries, practices and structures such as STRIDE, CAPEC, Kill Chain, Story Mapping (don’t reinvent the wheel)
-- **DON’T** Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
-- **DO** Capture good notes, use open questions, and own the follow-up process
-- **DO** Engage constructively and blamelessly - create a safe space
+**DO**:
+- Use the whole team: including security operations, product owner, marketing and design usability (don’t limit yourself or shut down the brainstorm too early)
+- Use existing libraries, practices and structures such as STRIDE, CAPEC, Kill Chain, Story Mapping (don’t reinvent the wheel)
+- Capture good notes, use open questions, and own the follow-up process
+- Engage constructively and blamelessly - create a safe space
+
+**DON’T**:
+- Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
 
 ![q2 what can go wrong](https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg)
 ![Q2 graphic](https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg)
 
 ### Question Three: WHAT ARE WE GOING TO DO ABOUT IT?
 
-- **DO** Collaborate, validate and prioritise (findings, threats and first assumptions)
-- **DO** Draw on, extend and customise existing countermeasures
+**DO**:
+- Collaborate, validate and prioritise (findings, threats and first assumptions)
+- Draw on, extend and customise existing countermeasures
   - Organisational standards - SSO and WAF
   - Common standards - USE ACL and Hash PW
-- **DO** Write tests and test cases
-- **DO** Integrate with partner or team tools and processes
-- **DON’T** Confuse can and should
+- Write tests and test cases
+- Integrate with partner or team tools and processes
+
+**DON’T**:
+- Confuse can and should
 
 ![q3 what can we do](https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg)
 ![question 3](https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg)
@@ -74,19 +83,21 @@ Cheat Sheet created for Question 1 at 2017 Summit
 
 ### Question Four: DID WE DO A GOOD ENOUGH JOB?
 
-- **DON’T** Skip this step!
-- **DO** Follow Up and Actionable Outputs
-- **DO** Follow up with Survey and Lessons Learned
-- **DO** Keep what works and lose what fails
-- **DO** Actioned Items
-- **DO** Continuous Validation
-- **DO** Compare Q1 (what we are building) with Q3 (what we built)
-- **DO** Validate Assumptions
-- **DO** Compare outputs with Bug Bounty, Pen Test and Audit Findings
-- **DO** Share outputs with whole team
+**DON’T**:
+- Skip this step!
+
+**DO**:
+- Follow Up and Actionable Outputs
+- Follow up with Survey and Lessons Learned
+- Keep what works and lose what fails
+- Actioned Items
+- Continuous Validation
+- Compare Q1 (what we are building) with Q3 (what we built)
+- Validate Assumptions
+- Compare outputs with Bug Bounty, Pen Test and Audit Findings
+- Share outputs with whole team
 
 ![q4 did we do a good job](https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg)
-
 
 ## References
 
