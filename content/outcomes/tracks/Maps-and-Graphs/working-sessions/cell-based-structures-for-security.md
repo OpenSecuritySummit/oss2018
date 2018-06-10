@@ -18,7 +18,7 @@ description  :
 ## Outcomes/Deliverables 
 The session looked at how security functions can take advantage of Cell Based Structures to be more responsive to business needs. The session also focussed on the application of points of doctrine, and the division of teams into Pioneers, Settlers, and Town Planners as an efficient way to meet business needs that improves on the Squad model. 
 
-## Synopsis and Takeaways (recommend)
+## Synopsis and Takeaways
 - All maps are imperfect, but this doesn't mean they can't be useful.
 - Maps are a means of learning, and they are a common language
 - Different people can look at the same map and use it to challenge others' assumptions 
@@ -58,7 +58,7 @@ The session looked at how security functions can take advantage of Cell Based St
 - Can be useful for anticipating next moves
 - When I want to attack a space, is there a weak signal I can exploit?
 
-## References (recommend)
+## References
 https://open-security-summit.org/tracks/maps-and-graphs/working-sessions/cell-based-structures-for-security/
 
 ### Additional/External References
