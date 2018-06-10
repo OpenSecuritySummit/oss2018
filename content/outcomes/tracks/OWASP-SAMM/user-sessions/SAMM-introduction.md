@@ -8,10 +8,9 @@ images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content              # draft, review-content, done
+status       : done
 description  :
 ---
-
 
 
 ### What is the Software Assurance Maturity Model for?
@@ -48,7 +47,6 @@ Software development is now largely a business-centric activity. For practical o
 -	Construction
 -	Verification
 -	Deployment.
-
 
 Within each business function, three security practices are defined.
 
@@ -88,5 +86,11 @@ Each security practice in turn consists of a set of activities:
 -	Quick start guide
 -	How-to guide
 -	Join the Project Slack channel.
+
+### References
+[Session page](https://open-security-summit.org/outcomes/tracks/owasp-samm/user-sessions/samm-introduction/)
+[2017 Session page](https://owaspsummit.org/Working-Sessions/OwaspSAMM/SAMM-Introduction-GDOSMM.html)
+[2017 Outcomes](https://owaspsummit.org/Outcomes/OwaspSAMM/OWASP-SAMM.html)
+
 
 
