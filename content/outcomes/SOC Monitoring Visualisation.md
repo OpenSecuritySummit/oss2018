@@ -5,7 +5,6 @@ technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.
 status      	: review-content          	# draft, review-content, done
 description	:
----
 
 
 ### Logging as the Basis of SOC (Security Operations Centre) Monitoring

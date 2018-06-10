@@ -6,7 +6,6 @@ categories   	:                  	  # GDPR, Juice Shop, etc.
 status      	: review-content          	# draft, review-content, done
 description	  :
 ---
-@import “/static/img/logo.png”
 
 ### How Have We Been Moving towards DevSecOps?
 

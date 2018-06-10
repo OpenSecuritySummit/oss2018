@@ -6,7 +6,6 @@ categories   	:                  	# GDPR, Juice Shop, etc.
 status      	: review-content           	# draft, review-content, done
 description	:
 ---
-@import “/static/img/logo.png”
 
 ### Why Must We Now Address Machine Learning Risks
 
