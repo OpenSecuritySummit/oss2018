@@ -8,7 +8,7 @@ images       :
 session_type : working-session    # working-session, user-session, product-sesssion
 technology   :
 categories   : OWASP
-status       : review-content              # draft, review-content, done
+status       : done
 description  :
 ---
 
@@ -20,35 +20,32 @@ Through this workshop, the OWASP Cloud Security Project hopes to:
 - Help grow the project community by raising awareness
 - Increase the number of contributed threat and control stories
 
-Participants were made aware of the purposes and advantages of BDD, the makeup of good BDD stories, and the basics of threat modeling.
-Scheduled individual and group activities included creation of BDD stories and threat models.
+Participants were made aware of the purpose and advantages of Behavior Driven Development (BDD), the makeup of good BDD stories, and the basics of threat modeling.
 
-These discussions and activities gave participants:
+Discussions and activities allowed participants to:
 
-- An understanding of the purpose and advantages of BDD
-- An understand of what makes a good story
+- Understand the purpose and advantages of BDD
+- Understand what makes a good story
 - Experience writing BDD stories, particularly for security
-- An understanding of the purpose and advantages of threat modeling
-- An understanding of the basics of threat modeling
-- Experience threat modeling a cloud environment
-- An opportunity to contribute threat and control stories to the OWASP Cloud Security project 
+- Understand the purpose and advantages of threat modeling
+- Experience threat modeling in a cloud environment
+- Contribute threat and control stories to the OWASP Cloud Security project 
 
 ---------
 ## Synopsis and Takeaways
 
 ### Behaviour Driven Development
-The history of the preceding concepts including unit tests, test-driven development and user stories were outlined before BDD was introduced
 
-- BDD Extends user stories with scenarios and steps: The “Feature”
+- BDD extends user stories with scenarios and steps: The “Feature”
 - It puts people and desired behaviour at the heart
 - Features are (more or less) technology agnostic
 - As much about communication as it is testing
 
-#### Behavioral specifications / BDD Stories:
+#### Behavioral specifications/BDD Stories:
 
 BDD specifies that business analysts and developers should collaborate in this area and should specify behavior in terms of user stories, which are each explicitly written down in a dedicated document. Each user story should, in some way, follow the following structure:
 
-- The Feature: The user story. A free-text description of the feature. Generally covers who, what and why, but not necessarily in that order. More than one story is possible.
+- The Feature: The user story. Generally covers who, what and why. More than one story is possible.
 - The Scenario: A free-text description of the test case. A feature can have one or more scenarios. 
 - Scenarios are made up of Given, When, Then statements (also And, But). Each statement is a step that is executed by the BDD framework.
 - A BDD language called Gherkin was used in the examples covered in this workshop.
@@ -70,22 +67,22 @@ The group was given three examples to choose from as an activity:
 ------
 
 ### Threat Modeling
-Threat modeling was described as the process of understanding and communicating threats and mitigations in the context of something of value, typically applications or services
+Threat modeling was described as the process of understanding and communicating threats and mitigations in the context of something of value, typically applications or services.
 
 #### Why threat model?
  
-- Addresses security at a fundamental, architectural level. 
-- Design flaws that turn into vulnerabilities are hard to pick up in code scans. 
-- Help guide and prioritise other controls and make the best use of them. Less reliance on band-aid solutions. 
-- Find problems sooner, fix them sooner, cheaper.
-- Brings development teams closer to security. 
+- Addresses security at a fundamental, architectural level
+- Design flaws that turn into vulnerabilities are hard to pick up in code scans
+- Help guide and prioritise other controls and make the best use of them. Less reliance on band-aid solutions 
+- Find problems sooner, fix them sooner, cheaper
+- Brings development teams closer to security
 
 #### An Overview of Threat Modeling Methodologies:
 
-- There is no one right way to threat model. 
-- Modeling serves the purpose of simplifying complex things to aid understanding.
-- Models are never perfect - all models are wrong, some are useful. 
-- Be lean - start simple, try something, learn, tweak, experiment and repeat.
+- There is no one right way to threat model
+- Modeling serves the purpose of simplifying complex things to aid understanding
+- Models are never perfect - all models are wrong, some are useful
+- Be lean - start simple, try something, learn, tweak, experiment and repeat
 
 There are many different approaches and methodologies for identifying threats. **STRIDE** was identified as a good starting point.
 
@@ -117,18 +114,18 @@ Once your threat model is done, you should track your threats and mitigations. D
 
 #### Example: Agile threat modeling
 
-1. Start threat modeling with a one-off session that has broad scope and then don't go too deep.
-2. Use a tool like STRIDE to identify threats and document them so they can be shared.
-3. Identify mitigations and add them to the product backlog.
-4. Prioritise and work on the mitigations as you would any other story, ideally having them as linked acceptance criteria for other feature stories.
-5. Allow a bit of time at the end of the first session to do a brief retro, identify next steps such as a follow up session.
-6. If needed run a separate deep-dive session for complex or security-critical areas.
-7. Once you've got the hang of threat modeling, look at embedding it into the existing development ceremonies. For example, if you're already running architecture/design planning sessions at the beginning of a release, include extra time to threat model the new feature or other changes.
-8. You might also want to include micro sessions in a more regular basis, e.g. during sprint planning or ad-hoc after a stand up. 10 minutes might be enough to identify a critical threat early on.
-9. The product owner should only accept feature stories if all the related threat mitigation stories are also complete.
-10. Find a time to review the approach to threat modeling and methodology, scope coverage, types of threats identified, outstanding mitigations etc. Also think about whether the environment has changed.
-11. In parallel to the above, ensure that the threat models, threats and mitigations are visible to the security SMEs so that they can review to identify areas that might need further focus, and to offer their expertise when needed.
-12. Be lean in your approach - start simple; measure success, e.g. through pentest results; if something isn’t working, experiment; teach and share with the community.
+1. Start threat modeling with a one-off session that has broad scope; don't go too deep
+2. Use a tool like STRIDE to identify threats and document them so they can be shared
+3. Identify mitigations and add them to the product backlog
+4. Prioritise and work on the mitigations as you would any other story, ideally having them as linked acceptance criteria for other feature stories
+5. Allow time at the end of the first session to do a brief retro, identify next steps such as a follow up session
+6. If needed run a separate deep-dive session for complex or security-critical areas
+7. Once you've got the hang of threat modeling, look at embedding it into the existing development ceremonies. For example, if you're already running architecture/design planning sessions at the beginning of a release, include extra time to threat model the new feature or other changes
+8. You might also want to include micro sessions in a more regular basis, e.g. during sprint planning or ad-hoc after a stand up. 10 minutes might be enough to identify a critical threat early on
+9. The product owner should only accept feature stories if all the related threat mitigation stories are also complete
+10. Find a time to review the approach to threat modeling and methodology, scope coverage, types of threats identified, outstanding mitigations etc. Also think about whether the environment has changed
+11. In parallel to the above, ensure that the threat models, threats and mitigations are visible to the security SMEs so that they can review to identify areas that might need further focus, and to offer their expertise when needed
+12. Be lean in your approach - start simple; measure success, e.g. through pentest results; if something isn’t working, experiment; teach and share with the community
 
 #### Hands-on: Group threat model
 The following 3 examples were given for participants to choose from and model as an activity:
@@ -188,7 +185,7 @@ The OWASP Cloud Security project aims to help people secure their products and s
 The two main uses of the project are:
 
 1. Using the threat stories in threat modeling sessions.
-2. Using the control stories for continuous testing of mitigations.
+2. Using the control stories for continuous testing of mitigations
 
 
 
@@ -196,15 +193,12 @@ The two main uses of the project are:
 
 ## References
 
-- **Session page :** https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-cloud-security-workshop/
+- [Session page](https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-cloud-security-workshop/)
 
 
 ### Additional/External References
 
 - https://www.owasp.org/index.php/OWASP_Cloud_Security_Project
-
-The following links were given as further reading:
-
 - https://www.owasp.org/index.php/Application_Threat_Modeling
 - https://www.owasp.org/index.php/OWASP_Threat_Model_Project
 - https://automationpanda.com/bdd/
