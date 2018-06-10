@@ -15,12 +15,12 @@ description  :
 
 
 
-## Outcomes/Deliverables (recommend)
+## Outcomes/Deliverables
 Two scenarios were mapped by participants following an explanation/overview by Tony Richards.
 First, we mapped how to make a cup of tea
 Second, we mapped an AWS attack
 
-## Synopsis and Takeaways (recommend)
+## Synopsis and Takeaways
  - As the session progressed, subtleties  of visibility and invisibility of aspects of each map became clearer
  - Tony also shared a map of the music industry - a lot of work (engineering, sound quality, etc.) - this work is very expensive yet listeners are not aware, and if they listen using MP3, the possibly don't care for the quality of sound
  - Music released on Sotify or other streaming services is cheaper than the cost of production
@@ -33,12 +33,12 @@ Second, we mapped an AWS attack
   - Each of these phases has greater or lesser visbility on the value chain
   - Knowing where a component falls on the value chain can be subjective, and there was some lively debate over whether the tea planter/picker was visible or invisible to the process
 
-## Working Materials (recommend)
+## Working Materials
 The accompanying slides give a sample of how different groups mapped "Making Tea" and "AWS Attack"
 [Slides posted to Slack](https://os-summit.slack.com/messages/CB1HGSDHU)
 [Wardley Maps Outcome](https://files.slack.com/files-pri/TAULHPATC-FB1H5KG4R/wardley-maps-outcomes-d1.pdf)
 
-## References (recommend)
+## References
 
 
 ### Additional/External References
