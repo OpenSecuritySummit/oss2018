@@ -5,121 +5,119 @@ track        :
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :
-session_type : user-session    # working-session, user-session, product-sesssion
-technology   :
+session_type : working-session
 categories   : Threat Model
-status       : done
-description  :
+status       : review-content
+description  : a generic cheat sheet for a generic api
 ---
 
 ## Outcomes
-Three Cheat Sheets for central questions 2 to 4
+A Cheat Sheet covering most common threats against APIs.
 
 ## Synopsis and  Takeaways
 
-The OWASP Threat Model Project seeks to document threat modeling techniques grouped around four key questions that form the basis of most TM methodologies:
+Cheat sheets are an important learning tool because they force us to distill threat models to their most simple, essential parts.
 
-- What are we building?
-- What can go wrong?
-- What are we going to do about that?
-- Did we do a good enough job?
+### Identified Questions
 
-### Cheat Sheet Structure & Process
+- What are the main Threats against an API?
+- Can we find common Threats that apply to APIs?
+- Are there generic Threats we could check for applicability?
+- Could we organize the Threats in Risk Patterns for APIs?
+- Can they be summarized on a Cheat Sheet form?
 
-- Each cheat sheet has a maximum of five key points
-- Each key point is as simple and concise as possible
-- Each point starts with either DO or DON’T
-- Ideas are collected in a collaborative environment
-- The top five are chosen by consensus to be documented
+### Reference
+A list of threats from "Threat Modeling: Designing for Security" by Adam Shostack:
 
-### References
-Cheat Sheet created for Question 1 at 2017 Summit
-
-## Working Materials
-
-#### Question 1: What are we building?
-
-**DO**:
-- Scope to what is under your control.
-- Understand the context your system will live in. This includes but is not limited to the environment, security controls, etc
-- If you get stuck, either look at the entry and exit points OR let the Subject Matter Expert (SME) tell a story to get back on track.
-
-**DON’T**:
-- Go beyond/deeper than design level.
-- Use Threat Modeling like a kitchen sink, don’t try to put everything in.
-
-### !Q1{{< img src="https://user-images.githubusercontent.com/39884432/41194889-2c6d9e80-6c23-11e8-8bac-88235c5423cd.jpg" width="720px" >}}
+- Perform security checks inside the boundary
+- Copy before validation-for-purpose
+    - Is http://evil.org/pwnme.html “valid”?
+- Define the purpose for data, validate near that definition
+- Manage error reporting
+- Document what checks happen where
+- Do crypto in constant time
+- Address the security requirements of your API
 
 
+## A Generic Cheat Sheet for a Generic API
 
-### Question Two: WHAT CAN GO WRONG?
+#### Controls  
+TLS
 
-**DO**:
-- Use the whole team: including security operations, product owner, marketing and design usability (don’t limit yourself or shut down the brainstorm too early)
-- Use existing libraries, practices and structures such as STRIDE, CAPEC, Kill Chain, Story Mapping (don’t reinvent the wheel)
-- Capture good notes, use open questions, and own the follow-up process
-- Engage constructively and blamelessly - create a safe space
+#### Assumptions
 
-**DON’T**:
-- Get stuck in a framework, or discredit ideas because they don’t fit the framework (do admit when you are stuck and be wary of diminishing returns)
+- Multiparameter API
+- Server logs requests including I.P address
+- GDPR is applicable (see 2)
 
-### !Q2 what can go wrong
-{{< img src="https://user-images.githubusercontent.com/39884432/41194977-14b4d3f6-6c25-11e8-8458-2c6747bd266c.jpg" width="720px" >}}
+#### Scope
 
-### !Q2 graphic
-{{< img src="https://user-images.githubusercontent.com/39884432/41194945-372503ee-6c24-11e8-99f8-89847d3efd46.jpg" width="720px" >}}
+- API
+- Server
+- Data Flows 1 and 2
 
-### Question Three: WHAT ARE WE GOING TO DO ABOUT IT?
+#### Out of Scope
 
-**DO**:
-- Collaborate, validate and prioritise (findings, threats and first assumptions)
-- Draw on, extend and customise existing countermeasures
-  - Organisational standards - SSO and WAF
-  - Common standards - USE ACL and Hash PW
-- Write tests and test cases
-- Integrate with partner or team tools and processes
+- Provision of code
+- Provision of server/hardware
+(Be explicit about what you are excluding ie server hardware and software)
 
-**DON’T**:
-- Confuse can and should
+### Model A
 
-###  !Q3 what can we do
-{{< img src="https://user-images.githubusercontent.com/39884432/41195029-2aee353a-6c26-11e8-995a-247bbfe62865.jpg" width="720px" >}}
+<img src="https://user-images.githubusercontent.com/39884432/41207604-037b4f1c-6d19-11e8-8d28-ddd1d8c0d2fa.JPG" width="100%"/>
 
-### !Q3
-{{< img src="https://user-images.githubusercontent.com/39884432/41195031-3b61ad3e-6c26-11e8-92ee-268e15de0a7b.jpg" width="720px" >}}
+- **S**
+1. The wrong server responds
 
+- **T**  	
+Client receives tampered data
+2.Compromised Server
+3. Man in Middle
+4. Server receives tampered data
 
-### Question Four: DID WE DO A GOOD ENOUGH JOB?
+- **R**	
+5. Client repudiates request
+6. Server repudiates sent
+	
+- **I**
+Server Logs
+7. Confidential data is disclosed through the connection
+8. Information is disclosed through error messages
 
-**DON’T**:
-- Skip this step!
+- **D**	
+DoS through:
+9. API overload
+10. Network overload
+11. Budget overload
+FINDOS
 
-**DO**:
-- Follow Up and Actionable Outputs
-- Follow up with Survey and Lessons Learned
-- Keep what works and lose what fails
-- Actioned Items
-- Continuous Validation
-- Compare Q1 (what we are building) with Q3 (what we built)
-- Validate Assumptions
-- Compare outputs with Bug Bounty, Pen Test and Audit Findings
-- Share outputs with whole team
+- **E**	
+12. Unauthorised access to API
+13. Code Execution
 
-### !Q4 did we do a good job
-{{< img src="https://user-images.githubusercontent.com/39884432/41195046-80e7b3b2-6c26-11e8-8964-be83aff3f56d.jpg" width="720px" >}}
+### Model B
+
+<img src="https://user-images.githubusercontent.com/39884432/41207605-04f6e432-6d19-11e8-8f0b-ff407c86c17d.JPG" width="100%"/>
+
+- No state change
+- Public Data
+- No Authorisation
+
 
 ## References
 
-- **Session page :** [Threat Model Cheat Sheets](https://open-security-summit.org/tracks/threat-model/working-sessions/tm-cheatsheets/)
+- **Session page :** [API Threat Modeling Cheat Sheet](https://open-security-summit.org/tracks/threat-model/working-sessions/tm-api-cheatsheet/)
 
-{{< img src="url" width="size" >}}
 - **Summit 2017 session page :** [2017 Threat Model Sessions](https://owaspsummit.org/Working-Sessions/Threat-Model/index.html)
-
-{{< img src="url" width="size" >}}
 
 - **Summit 2017 outcome page :** [Outcomes OWASP Projects: Cheat Sheets](https://owaspsummit.org/Outcomes/Owasp-Projects/Cheatsheets.html)
 
-{{< img src="url" width="size" >}}
 
 ### Additional/External References
-OSWASP Cheat Sheet Guidelines: https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series#tab=Cheat_sheet_Guideline
+
+- [Threat Modeling: Designing for Security](https://threatmodelingbook.com/)
+- [OWASP Cheat Sheet Series](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)
+- [An open source tool related to this session: API Test](https://github.com/BBVA/apitest)
+
+
+
