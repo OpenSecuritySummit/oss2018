@@ -3,11 +3,12 @@ cards:
  - id        : card-1
    title     : Jim Newman
    youtubeid : Hyj_uWFyeCo
-   quote     : "I don´t know everything yet ... but now I know the people who do! "
+   quote     : "I don´t know everything yet... but now, I know the people who do! "
  - id        : card-1
    title     : Tanya Janca
    youtubeid : 2hRGxI6Ddf0
    quote     : "...from different countries and languages ... we are here to plan the future "
+ - id        : card-1
    title     : Imran Mohammed A
    youtubeid : sE8GmcISlqI
    quote     : "An amazing  event... with new projects comming"
