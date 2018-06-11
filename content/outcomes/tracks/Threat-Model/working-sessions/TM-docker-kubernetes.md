@@ -5,54 +5,76 @@ track        :
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : uworking-session
 technology   :
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
-description  :
+categories   : Threat Model                   
+status       : review-content            # draft, review-content, done
+description  : Creating a cheat sheet for the main threats against Docker and Kubernetes
 ---
 
 
+## Outcomes
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+A Cheat Sheet covering most common threats against Docker and Kubernetes.
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+## Synopsis and Takeaways 
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+This working session aimed to answer the following questions:
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+- Can we identify the main or generic threats?
+- Can we organize the Threats in Risk Patterns 
+- Can they be summarized on a Cheat Sheet form?
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+Example: As a tester I want to run a baseline scan of a website in order to sanity check.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+### Threats
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+Threats were listed and grouped according to the four questions:
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+- What are we building?
+- What can go wrong?
+- What are we going to do about that?
+- Did we do a good enough job?
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+#### Question 1: What are we building?
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- Insufficient Authentication Protection
+    - Password Policy
+    - Brute Force protection
+    - Username enumeration
+- Information  Disclosure
+    - Usernames
+- Insider Threat
+- Tamperproof Dockerfile
+- Sensitive data in Docker file or image
 
-### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
+#### Question 2:  What can go wrong?
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- Sensitive Data
+- Dangerous commands on boot
+
+#### Question 3: What are we going to do about that? 
+
+- Documentation Group
+- Run = Access
+- Docker inspection used
+- Exposing daemon socket
+- Segregation of duties not forced
+- User can mass download
+- “Latest” user awareness
+- Escalation of privilege to a deeper level
+
+## Working Materials 
+
+<img src="https://user-images.githubusercontent.com/39884432/41210861-4f283e32-6d34-11e8-83f8-2b7fd17cca2b.jpg" width="100%"/>
+<img src="https://user-images.githubusercontent.com/39884432/41210862-4f62b5b2-6d34-11e8-9e2c-086c05d14602.jpg" width="100%"/>
+                                                                                                               
+## References
+- **Session page :**[TM Docker / Kubernetes](https://open-security-summit.org/tracks/threat-model/working-sessions/tm-docker-kubernetes/) 
+- **Summit 2017 session page :** [Docker Security](https://owaspsummit.org/Working-Sessions/DevSecOps/Docker-Security.html)
+- **Summit 2017 outcome page :** [Docker Security Outcomes](https://owaspsummit.org/Outcomes/DevSecOps/Docker-Security.html)
+
+### External References
+- [CIS Docker Benchmarks](https://www.cisecurity.org/benchmark/docker/)
+- [Securing Kubernetes](https://www.cisecurity.org/benchmark/kubernetes/)
+
