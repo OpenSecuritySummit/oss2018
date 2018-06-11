@@ -3,23 +3,23 @@ cards:
  - id        : card-1
    title     : Jim Newman
    youtubeid : Hyj_uWFyeCo
-   quote     : "I don´t know everything yet... but now, I know the people who do! "
- - id        : card-1
+   quote     : "I don´t know everything yet... but now I know the people who do! "
+ - id        : card-2
    title     : Tanya Janca
    youtubeid : 2hRGxI6Ddf0
-   quote     : "...from different countries and languages ... we are here to plan the future "
- - id        : card-1
-   title     : Imran Mohammed A
+   quote     : "different countries and languages...here to plan the future "
+ - id        : card-3
+   title     : Imran Mohammed
    youtubeid : sE8GmcISlqI
    quote     : "An amazing  event... with new projects comming"
- - id        : card-1
+ - id        : card-4
    title     : Francesca Buehler
    youtubeid : QvUMy32YJqQ
    quote     : "it was about meeting amazing, open and friendly people...yeah!"
- - id        : card-1
+ - id        : card-5
    title     : Stu Hirst
    youtubeid : d_QEIl_WxG0
-   quote     : "TODO: A game changer event2"
+   quote     : ""
  - id        : card-1
    title     : Talal Albacha
    youtubeid : 0vbwws1QZeQ
@@ -27,7 +27,7 @@ cards:
  - id        : card-1
    title     : Claudio Camerino
    youtubeid : JzhbZMmWPeM
-   quote     : "TODO: A game changer event3"
+   quote     : ""
  - id        : card-1
    title     : Phil Parker
    youtubeid : xwfGG0T0eGo
