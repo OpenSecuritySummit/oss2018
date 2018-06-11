@@ -66,34 +66,53 @@ TLS
 
 <img src="https://user-images.githubusercontent.com/39884432/41207604-037b4f1c-6d19-11e8-8d28-ddd1d8c0d2fa.JPG" width="100%"/>
 
-- **S**
+**S**
+
 1. The wrong server responds
 
-- **T**  	
+**T**  
+
 Client receives tampered data
-2.Compromised Server
+
+2. Compromised Server
+
 3. Man in Middle
+
 4. Server receives tampered data
 
-- **R**	
+**R**	
+
 5. Client repudiates request
+
 6. Server repudiates sent
-	
-- **I**
+
+**I**
+
 Server Logs
+
 7. Confidential data is disclosed through the connection
+
 8. Information is disclosed through error messages
 
-- **D**	
+**D**	
+
 DoS through:
+
 9. API overload
+
 10. Network overload
+
 11. Budget overload
+
 FINDOS
 
-- **E**	
+
+**E**
+
 12. Unauthorised access to API
+
 13. Code Execution
+
 
 ### Model B
 
