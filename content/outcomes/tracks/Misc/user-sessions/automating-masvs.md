@@ -14,45 +14,40 @@ description  :
 ---
 
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+* The session has been focused on creating BDD tests to automated the OWASP MSTG test cases, in order to integrate those tests in the CI/CD pipeline*
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+## Outcomes/Deliverables
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+The main outcome of the working sessions is a set of BDD tests for Android and iOS, using the MSTG playground and iOS iGoat as target apps. The repo with the developed tests cabn be found here. 
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
-
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+[Automation of MASVS with BDD](https://github.com/ing-bank/bdd-mobile-security-automation-framework/)
 
 ## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+
+We want to create a complete set of BDD tests, that will automate the OWASP MASVS. At the moment the BDD tests have been created using Calaba.sh as a third party framework, but the goal is to provide multiple solutions using also native frameworks
 
 ## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+
+* Do we need an external framework (Appium, TestNG, Espresso), or is it better to create native tests?
+* Which third party tools do we need to expand the test cases (Frida ,Drozer etc)?
 
 ## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+* Develop new BDD tests following the MSTG is the way to go
+* Next activities:
+  * Explore native solutions (iOS and Android) to write BDD tests
+  * Expand the current tests
 
 ## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+
+* [Automation of MASVS with BDD (GitHub)](https://github.com/ing-bank/bdd-mobile-security-automation-framework/)
 
 ## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- Session page :[Automating MASVS with BDD](https://open-security-summit.org/tracks/owasp-projects/working-sessions/automating-masvs/)
+
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+* A complete guide on how to setup the working environment and the Docker image can be found [here] (https://github.com/david3107/oss2018-tools)
+* [BDD Mobile security testing with OWASP MASVS, OWASP MSTG and Calabash](https://www.owasp.org/images/f/fb/V2_-_OWASP_Buscharest_Davide_Cioccia.pdf)
+* [BDD Security](https://www.continuumsecurity.net/bdd-security)
+* [BDD Security Github](https://github.com/continuumsecurity/bdd-security)
+* [Calabash](http://calaba.sh/)
