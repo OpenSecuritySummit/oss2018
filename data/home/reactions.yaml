@@ -1,38 +1,65 @@
 cards:
  # to add cards, just copy from the id below here to the more_info, and increment the id
  - id        : card-1
-   title     : Tanya Janca
-   youtubeid : 2hRGxI6Ddf0
-   quote     : "...from different countries to  different languages...we are here to plan the future "
- - id        : card-1
-   title     : Francesca Buehler
-   youtubeid : QvUMy32YJqQ
-   quote     : "it was about meeting amazing, open and friendly people...yeah"
- - id        : card-1
-   title     : Imran Mohammed A
-   youtubeid : sE8GmcISlqI
-   quote     : "An amazing  event... with new projects comming"
- - id        : card-1
    title     : Jim Newman
    youtubeid : Hyj_uWFyeCo
    quote     : "I don´t know everything yet ... but now I know the people who do! "
  - id        : card-1
-   title     : Francesca
+   title     : Tanya Janca
+   youtubeid : 2hRGxI6Ddf0
+   quote     : "...from different countries and languages ... we are here to plan the future "
+   title     : Imran Mohammed A
+   youtubeid : sE8GmcISlqI
+   quote     : "An amazing  event... with new projects comming"
+ - id        : card-1
+   title     : Francesca Buehler
    youtubeid : QvUMy32YJqQ
+   quote     : "it was about meeting amazing, open and friendly people...yeah!"
+ - id        : card-1
+   title     : Stu Hirst
+   youtubeid : d_QEIl_WxG0
    quote     : "TODO: A game changer event2"
  - id        : card-1
-   title     : Tanya TODO
-   youtubeid : 2hRGxI6Ddf0
+   title     : Talal Albacha
+   youtubeid : 0vbwws1QZeQ
+   quote     : ""
+ - id        : card-1
+   title     : Claudio Camerino
+   youtubeid : JzhbZMmWPeM
    quote     : "TODO: A game changer event3"
  - id        : card-1
-   title     : Tanya
-   youtubeid : 2hRGxI6Ddf0
-   quote     : "TODO: A game changer event1 "
+   title     : Phil Parker
+   youtubeid : xwfGG0T0eGo
+   quote     : ""
  - id        : card-1
-   title     : Francesca
-   youtubeid : QvUMy32YJqQ
-   quote     : "TODO: A game changer event2"
+   title     : Sven Schleier
+   youtubeid : AC5vjIda1ZM
+   quote     : ""
  - id        : card-1
-   title     : Tanya TODO
-   youtubeid : 2hRGxI6Ddf0
-   quote     : "TODO: A game changer event3"
+   title     : Stuart Winter-Tear
+   youtubeid : 9lJb9GEStaI
+   quote     : ""
+ - id        : card-1
+   title     : Fraser Scott
+   youtubeid : uZlXoOD4b1Q
+   quote     : ""
+ - id        : card-1
+   title     : Stephen de Vries
+   youtubeid : ndavYt8uqkc
+   quote     : ""
+ - id        : card-1
+   title     : Avi Douglen
+   youtubeid : TfhZg6_uLTo
+   quote     : ""
+ - id        : card-1
+   title     : Adrian Wilkes
+   youtubeid : fa9ePMROmGk
+   quote     :
+ - id        : card-1
+   title     : Jonhn Dileo
+   youtubeid : y1SAFUxtm_8
+   quote     : " "
+ - id        : card-1
+   title     : Stephanie Vanroelen
+   youtubeid : sUrDi609ljs
+   quote     : " "
