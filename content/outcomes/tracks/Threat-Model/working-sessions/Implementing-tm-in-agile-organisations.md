@@ -5,55 +5,44 @@ track        :
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :
-session_type : user-session    # working-session, user-session, product-sesssion
+session_type : working-session
 technology   :
 featured     : yes
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft      # draft, review-content, done
-description  :
+categories   : Threat Model                # GDPR, Juice Shop, etc.
+status       : review-content    # draft, review-content, done
+description  : Using Threat Modeling in Agile Organisations
+
 ---
 
+## Outcomes
 
+Describe a typical SCRUM and Kanban process and show where threat model related building blocks fit.
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+## Synopsis and Takeaways 
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
-
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
-
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
-
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
-
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+Presentation of SCRUM and Kanban processes with discussion on how Threat Modeling would fit in. The session used the Four Questions that form the basis of all Threat Models in relation to team members and generic activities in the software development lifecycle.
 
 ## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+- Threat model can be a good training model but how do we capture it in terms of  SCRUM or Agile?
+- Can a generic diagram capture this?
+- Is this a management issue, a developer issue or a security issue?
+- Do you apply security to the design, or does the developer design to security issues?
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+## Working Materials
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+<img src="https://user-images.githubusercontent.com/39884432/41209332-2bd4ecf4-6d2b-11e8-900a-177cf6886b4d.jpg" width="100%"/>
 
-### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
+<img src="https://user-images.githubusercontent.com/39884432/41209334-2c0c5c52-6d2b-11e8-894e-cd55806be870.jpg" width="100%"/>
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+<img src="https://user-images.githubusercontent.com/39884432/41209335-2c44b782-6d2b-11e8-8b03-20bc26f2cf27.jpg" width="100%"/>
+
+<img src="https://user-images.githubusercontent.com/39884432/41209336-2c7c6c40-6d2b-11e8-8d72-aa5b064895d0.png" width="100%"/>
+
+## References
+
+- **Session page :** [TM in Agile Organisations](https://open-security-summit.org/tracks/threat-model/working-sessions/implementing-tm-in-agile-organisations/)
+- **Summit 2017 session page :** [Agile Practices for Security Teams](https://owaspsummit.org/Working-Sessions/Agile-AppSec/Agile-Practices-for-Security-Teams.html)
+- **Summit 2017 outcome page :**  [Outcomes - Agile Practices for Security Teams](https://owaspsummit.org/Outcomes/Agile-AppSec/Agile-Practices-for-Security-Teams.html)
+
+
