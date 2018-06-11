@@ -14,46 +14,59 @@ description  :
 ---
 
 
+### How Have We Been Moving towards DevSecOps?
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+- Traditional SDLC becomes Agile
+- Speed at which changes are being made is beyond security’s (operations) reach
+- Wall of confusion arises (dev/ops)
+- DevOps cycle is invented – Release, configure, monitor, plan & create, verify, package
+- Wall of compliance arises (DevOps/Security)
+- Security is outnumbered: 100 dev to 10 ops to 1 security
+- From DevOps to DevSecOps: culture, measurement in CI/CD, automation, sharing (tools, best practices)
+- Scale security with DevOps
+- Shift security left – use CI/CD pipeline to embed security
+- Self-service – give developers and operations visibility into security activities
+- Security as Code – compliance as code and hardening via configuration management systems
+- ‘Secure by default’ – use secure by default frameworks and services
+- Apply DevSecOps Maturity Model (DSOMM) for static depth, dynamic depth, intensity, consolidation
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+### What is DevSecOps Studio?
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+DevSecOps Studio is a self-contained DevSecOps environment/distribution for learning DevSecOps concepts.
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+DevSecOps Studio:
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+- Makes it easy to set up the environment for training/demos
+- Is mostly automatic
+- Teaches Security as Code, Compliance as Code, and Infrastructure as Code
+- Has built-in support for CI/CD pipeline
+- Security tools can be added as jobs to DevSecOps Studio.
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+### Practical Installation Points
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+DevSecOps Studio quick start has these steps:
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+1. Download the code (git clone from GitHub repo)
+2. Download Ansible dependency roles
+3. Set up the environment with one command (‘vagrant up’).
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+For an in-session lab environment at this Open Security Summit:
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+1. Install Virtualbox, Vagrant, and (if not rep-existing) Git bash
+2. Download Virtualbox Appliance
+3. Import the Appliance into Virtualbox
+
+### Additional Session Question
+
+- Could DevSecOps Studio be extended to include business logic by combining with another suitable application (perhaps OWASP Juice Shop)?
+
+## References
+- **Session page :** •	https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-devsecops-studio/
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
+- https://dso-studio.teachera.io/
+- https://github.com/teacheraio/DevSecOps-Studio/wiki
+- https://www.teachera.io/devsecops-course/
 
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- PowerPoint/PDF presentation by Imran Mohammed A
+(URL is TBD, see separate file called devsecops-studio.pdf)

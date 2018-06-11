@@ -8,51 +8,79 @@ images       :
 session_type : user-session    # working-session, user-session, product-sesssion
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
+status       : review-content             # draft, review-content, done
 description  :
 ---
 
 
+### Logging as the Basis of SOC (Security Operations Centre) Monitoring
 
-*This document includes headings that can be used to describe the outcomes of a sessions. Combine the headings as you see fit to ensure coherence and clarity.*
+- A log (file) is a collection of records or events
+- Logs are a critical part of any system giving you an insight into the working of a system
 
-*If you feel that additional headings will improve the outcomes, feel free to add them.*
+### What Challenges are Associated with Logging?
 
-***NOTE:*** *The italic text in this page/document is used only to explain the different parts of the document. Replace them with other useful content.*
+- Historically, logs have been (often indecipherable) lines of text intended for offline human analysis of what went wrong
+- Logs can be large and correlation can be painful
+- Managing logs and accessing them can get complicated with multiple hosts
+- Searching for an error across hundreds of log files on hundreds of servers is difficult without good tools
 
-## Outcomes/Deliverables (recommend)
-*The outcomes are the results produced from a session regardless of the session type. These can be:*
+A common approach to this problem is to setup a centralised logging solution so that multiple logs can be aggregated in a central location
 
-- *Artefacts (Diagrams)*
-- *Documents or Books*
-- *Playbooks*
-- *Roadmaps (for next meeting)*
-- *Wiki pages (namely on owasp.org)*
-- *Code*
-- *Statement or Position (signed by the Working Sessions Participants)*
-- *Security Review (or a particular application or api)*
-- *Lessons Learned*
+### How is Centralized Logging different from Traditional Logging?
 
-## Synopsis and Takeaways (recommend)
-*Clear and concise. Use bullet points/lists as much as possible.*
+- Logs are collected at a central server
+- Parsing becomes simpler since data is accessible at a single location
+- A common issue across multiple hosts/services can be identified by correlating specific time frames
 
-## Identified Questions
-*The aim of this heading is to record the questions that might trigger follow-up discussions and initiate additional development of the topic covered by the session.*
+### What is the ELK stack?
 
-## Important Conclusions
-*Make a simple list of conclusions that were taken at the session.*
+- Elasticsearch, Logstash and Kibana (E, L, and K) + Beats
+- Different open source modules working together
+- Helps users/admins to collect, analyse and visualize data in (near) real-time
+- Each module fits based on your use case and environment
 
-## Working Materials (recommend)
-*Make a list of references to working materials that were created during the session*
+### What is Elasticsearch?
 
-## References (recommend)
-- **Session page :** *put a link to the session page*
-- **Summit 2017 session page :** *put a link to the summit 2017 session page*
-- **Summit 2017 outcome page :** *put a link to the summit 2017 outcome page*
+- Distributed and highly available search engine, written in Java and uses Groovy (painless scripting)
+- Scale can come from bigger servers (vertical scale, or scaling up) or from more servers (horizontal scale, or scaling out)
+- Built on top of Lucene
+- Multi-tenant with Multi types and a set of APIs
+- Document-oriented providing (near) real time search
+
+### What is Logstash?
+
+- Tool for managing events and logs written in Ruby
+- Centralized data processing of all types of logs
+
+#### What are the 3 Main Components of Logstash?
+
+- Input: Passing logs to process them into machine understandable format
+- Filter: Set of conditions to perform specific action on an event
+- Output: Decision maker for processed events/logs
+
+### What is Kibana?
+
+- Powerful front-end dashboard written in JavaScript
+- Browser based analytics and search dashboard for Elasticsearch
+- Flexible analytics & visualisation platform
+- Provides data in the form of charts, graphs, counts, maps, etc. in real-time
+
+### What is Beats?
+
+- Lightweight shippers for Elasticsearch & Logstash
+- Capture all sorts of operational data like logs or network packet data
+- Can send logs to either Elasticsearch or Logstash
+
+### How do ELK and Beats Work Together?
+
+- Beats = collect, parse, and ship
+- Logstash = enrich and transport
+- Elasticsearch = search and analyse
+- Kibana = explore and visualize
+
+## References
+- **Session page :** •	https://open-security-summit.org/tracks/devsecops/working-sessions/appsec-soc-monitoring-visualisation/
 
 ### Additional/External References
-*Make a bullet list with additional references that might be useful in a given context*
-
-* *Link 1 Title: URL 1*
-* *Link 2 Title: URL 2*
-* *Link 3 Title: URL 3*
+- https://appsecco.com/books/elk-workshop/
