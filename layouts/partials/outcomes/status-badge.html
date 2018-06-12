@@ -2,3 +2,9 @@
 {{ if and (isset .Params "featured") (eq .Params.featured true) }}
 <i class="glyphicon glyphicon-{{ .Site.Data.utils.status.featured }}"></i>
 {{ end }}
+{{ with .Params.video }}
+<i class="fa fa-file-video-o"></i>
+{{ end }}
+{{ with .Params.slides }}
+<i class="fa fa-file-powerpoint-o"></i>
+{{ end }}
