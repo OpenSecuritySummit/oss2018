@@ -11,7 +11,7 @@
 
 {{ define "breadcrumbs" }}
 
-    <div class="inner_main_outcomes">
+    <div class="inner_main_outcomes hidden-print">
         <div class="center_heading">
             <div class="container">
                 <h1>Outcomes</h1>
@@ -27,7 +27,7 @@
 
 {{ $session := index (where (where .Site.Pages ".Params.title" $title) ".Params.type" "!=" "outcome") 0 }}
 
-<div class="col-md-12">
+<div class="col-md-12 hidden-print">
 <div class="outcome-content col-md-8">
     {{ partial "widgets/outcome-clues.html" . }}
     &nbsp;
@@ -51,7 +51,7 @@
   <div class="outcome-content col-md-8">
     {{ .Content }}
   </div>
-  <div class="outcome-sidebar col-md-4">
+  <div class="outcome-sidebar col-md-4 hidden-print">
     {{ partial "outcomes/sidebar.html" . }}
   </div>
   <hr/>
