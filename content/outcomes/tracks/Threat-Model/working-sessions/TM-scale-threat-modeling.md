@@ -1,5 +1,5 @@
 ---
-title        : How to scale Threat Modeling.
+title        : How to Scale Threat Modeling.
 type         : outcome
 track        : Threat Model
 video        :                    #url i.e. youtube, vimeo, etc
@@ -8,16 +8,16 @@ images       :
 session_type : working-session
 technology   :
 categories   :                    # GDPR, Juice Shop, etc.
-status       : review-content           # draft, review-content, done
+status       : done           # draft, review-content, done
 description  : Scaling the threat model process within an organisation
 
 ---
 
 ## Outcomes
-A document gathering the problems identified and solutions proposed.
+A document gathering problems identified and solutions proposed.
 
 ## Synopsis 
-This session looked into how to scale the threat model process within an organisation. A broad discussion produced a list of problems organised around the Four Key Questions but there was not enough time to produce comprehensive solutions. The discussion will continue on the OWASP TM slack channel and the OWASP TM website.
+This session looked at how to scale the threat model process within an organisation. A broad discussion produced a list of problems organised around the Four Key Questions but there was not enough time to produce comprehensive solutions. The discussion will continue on the OWASP TM slack channel and the OWASP TM website.
 
 ### Context
 Organizations face three main causes of bottlenecks when integrating Threat Modeling activities in the SDLC:
@@ -28,7 +28,7 @@ Organizations face three main causes of bottlenecks when integrating Threat Mode
  
 #### Constraints
 
-- Lack of incentives to allocate resources to do initial risk inventory and thread modeling
+- Lack of incentive to allocate resources to do initial risk inventory and thread modeling
 - Momentum is lost when Threat Modeling is seen as a continuous process
 - Absence of experienced people in the team to do Threat Modeling
 - Threat Modeling requires security experience
@@ -36,7 +36,7 @@ Organizations face three main causes of bottlenecks when integrating Threat Mode
 - Guidance is written for security people but not for developers
 - There is already a lot of “stuff” for developers to know
 - Lack of accessible case studies of effectiveness
-- Maturity, or lack thereof, in the team
+- Maturity, or lack of it, in the team
 - Teams do not know the level of granularity of Threat Modeling
 - Concerns about subjectivity - no measurable value
 - Consistency of methodology and results
@@ -44,8 +44,8 @@ Organizations face three main causes of bottlenecks when integrating Threat Mode
 #### Solutions
 
 - Model security bugs in JIRA and make them visible
-- Heuristics to triage if,  and where, Threat Modeling is required
-- Five minute  and 30 minute Threat Models (incremental investment)
+- Heuristics to triage if, and where, Threat Modeling is required
+- Five- and 30-minute Threat Models (incremental investment)
 - SPIKE ™ TimeBox guidance
 - Triage system guidance 
 - Sorry points

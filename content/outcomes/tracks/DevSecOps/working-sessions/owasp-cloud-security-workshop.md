@@ -3,7 +3,7 @@ title        : Owasp Cloud Security Workshop (BETA)
 type         : outcome
 track        :
 video        :                    #url i.e. youtube, vimeo, etc
-slides       :                    #url i.e. slideshare
+slides       : https://www.slideshare.net/opensecsummit/owasp-cloud-security-workshop                   #url i.e. slideshare
 images       :
 session_type : working-session    # working-session, user-session, product-sesssion
 technology   :
@@ -29,7 +29,7 @@ Discussions and activities allowed participants to:
 - Experience writing BDD stories, particularly for security
 - Understand the purpose and advantages of threat modeling
 - Experience threat modeling in a cloud environment
-- Contribute threat and control stories to the OWASP Cloud Security project 
+- Contribute threat and control stories to the OWASP Cloud Security project
 
 ---------
 ## Synopsis and Takeaways
@@ -46,7 +46,7 @@ Discussions and activities allowed participants to:
 BDD specifies that business analysts and developers should collaborate in this area and should specify behavior in terms of user stories, which are each explicitly written down in a dedicated document. Each user story should, in some way, follow the following structure:
 
 - The Feature: The user story. Generally covers who, what and why. More than one story is possible.
-- The Scenario: A free-text description of the test case. A feature can have one or more scenarios. 
+- The Scenario: A free-text description of the test case. A feature can have one or more scenarios.
 - Scenarios are made up of Given, When, Then statements (also And, But). Each statement is a step that is executed by the BDD framework.
 - A BDD language called Gherkin was used in the examples covered in this workshop.
 
@@ -70,10 +70,10 @@ The group was given three examples to choose from as an activity:
 Threat modeling was described as the process of understanding and communicating threats and mitigations in the context of something of value, typically applications or services.
 
 #### Why threat model?
- 
+
 - Addresses security at a fundamental, architectural level
 - Design flaws that turn into vulnerabilities are hard to pick up in code scans
-- Help guide and prioritise other controls and make the best use of them. Less reliance on band-aid solutions 
+- Help guide and prioritise other controls and make the best use of them. Less reliance on band-aid solutions
 - Find problems sooner, fix them sooner, cheaper
 - Brings development teams closer to security
 
@@ -139,7 +139,7 @@ The following 3 examples were given for participants to choose from and model as
 ### Why use BDD for security?
 
 - Security is just a branch of Quality Assurance (QA), applied to adversaries instead of systematic and random failures.
-- Can we use some of the same tools from testing and QA and apply them to security? 
+- Can we use some of the same tools from testing and QA and apply them to security?
 - If you can use BDD to specify and test a feature, why not use BDD to specify and test a security feature.
 - Security concepts and threats need to be shared and communicated - ideal use case for BDD
 - Developers writing security tests scales
@@ -153,7 +153,7 @@ BDD security examples where discussed from the perspective of writing a threat s
 **Title**: Phishing
 
 **Feature**: Phishing corporate users. In order to bypass the security perimeter, As an attacker, I want users to visit a malicious URL sent via email
- 
+
 **Scenario**: Targeted phishing
 
 - **Given** background information on the target
