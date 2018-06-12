@@ -8,7 +8,7 @@ images       :
 session_type : working-session   
 technology   :
 categories   : Threat Model                  
-status       : review-content            # draft, review-content, done
+status       : done            # draft, review-content, done
 description  : A list of questions and associated threats and mitigations to serve as inspiration when threat modeling
 
 ---
@@ -17,17 +17,17 @@ description  : A list of questions and associated threats and mitigations to ser
 A set of questions and associated threats and mitigations to serve as a list to be used as inspiration when threat modeling. 
 
 ## Synopsis
-Instead of diagramming (which takes a lot of time)  can we use questions to create new features? This would allow the developers to Threat Model new features and scale threat modeling in an organisation.
+Instead of diagramming (which takes a lot of time)  can we use questions to create new features? This would allow developers to Threat Model new features and scale threat modeling in an organisation.
 
-This type of questionnaire is used in the Slack SDL and Irius tool, however they are open source and should not be confused with these products.
+This type of questionnaire is used in the Slack SDL and Irius tool; however, they are open source and should not be confused with these products.
 
 ### The Scope
 
-The scope for the change the developers wants to do is:
-- a new feature is requested
-- it has a textbox with Nickname
-- it has a button to say hello
-- the username is reflected when pressing the button
+The scope for the changes the developers want to make is:
+- A new feature is requested
+- It has a textbox with Nickname
+- It has a button to say hello
+- The username is reflected when pressing the button
 
 What questions do we need to ask developers to replace threat modeling?
 
