@@ -9,7 +9,7 @@ session_type : working-session
 technology   :
 featured     : yes
 categories   : Threat Model                # GDPR, Juice Shop, etc.
-status       : review-content    # draft, review-content, done
+status       : done    # draft, review-content, done
 description  : Using Threat Modeling in Agile Organisations
 
 ---
@@ -24,9 +24,9 @@ Presentation of SCRUM and Kanban processes with discussion on how Threat Modelin
 
 ## Identified Questions
 
-- Threat model can be a good training model but how do we capture it in terms of  SCRUM or Agile?
+- A threat model is a good training model but how do we capture it in terms of SCRUM or Agile?
 - Can a generic diagram capture this?
-- Is this a management issue, a developer issue or a security issue?
+- Is this a management, developer, or security issue?
 - Do you apply security to the design, or does the developer design to security issues?
 
 ## Working Materials
