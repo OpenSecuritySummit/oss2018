@@ -140,12 +140,12 @@ paginate = 10
     identifier = "sponsors"
     weight = 11
     url = "/sponsors/"
-[[menu.main]]
-    name = "Tickets"
-    identifier = "tickets"
-    pre = "<i class='fa fa-ticket'></i>&nbsp;"
-    weight = 12
-    url = "/tickets/"
+#[[menu.main]]
+#    name = "Tickets"
+#    identifier = "tickets"
+#    pre = "<i class='fa fa-ticket'></i>&nbsp;"
+#    weight = 12
+#    url = "/tickets/"
 
 
 # Top bar social links menu
