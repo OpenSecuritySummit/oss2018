@@ -30,7 +30,7 @@ The outcomes of our SAMM working sessions are:
 Face to face summits are great to discuss and solve core model questions
 
 ## References 
-*[SAMM Session pages](https://open-security-summit.org/tracks/owasp-samm/) 
+* [SAMM Session pages](https://open-security-summit.org/tracks/owasp-samm/) 
 * Updated model: https://github.com/OWASP/samm/tree/master/v2.0/beta
 * New owaspsamm.org website with model: https://owaspsamm.org
 * Trello board with sprints: https://trello.com/b/bpB99ULp/samm
