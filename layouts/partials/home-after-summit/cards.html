@@ -18,7 +18,7 @@
                 <ul class="featured">
                   {{ range .outcomes }}
                   <li class="featured">
-                    <a href="{{ .link }}">{{ .title }}</a>
+                    <a href="{{ lower .link }}">{{ .title }}</a>
                   </li>
                   {{ end }}
                 </ul>
