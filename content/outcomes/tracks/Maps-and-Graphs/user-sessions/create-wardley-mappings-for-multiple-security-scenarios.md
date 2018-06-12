@@ -1,5 +1,5 @@
 ---
-title        : Create Wardley Maps for multiple security scenarios
+title        : Create Wardley Maps for Multiple Security Scenarios
 type         : outcome
 track        :
 video        :                    #url i.e. youtube, vimeo, etc
@@ -43,5 +43,4 @@ The accompanying slides give a sample of how different groups mapped "Making Tea
 
 ### Additional/External References
 
- - [Here](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/) is a link to more on \Mapping the Wardley Way
- - Link to presentation on mapping the Wardley way [here](https://www.slideshare.net/opensecsummit/wardley-maps-practical-session-2-hour)
+ - Links to presentations on Wardley maps [Here](https://www.cio.co.uk/it-strategy/introduction-wardley-value-chain-mapping-3604565/), and [here](https://www.slideshare.net/opensecsummit/wardley-maps-practical-session-2-hour)
