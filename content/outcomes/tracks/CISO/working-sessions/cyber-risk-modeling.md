@@ -1,11 +1,15 @@
 ---
 title        	: Cyber Risk Modeling
 type         	: outcome
+track         :
+video         :                    #url i.e. youtube, vimeo, etc
+slides        : https://www.slideshare.net/opensecsummit/owasp-cyber-risk-quantification-2018                    #url i.e. slideshare
+images        :
 session_type 	: user-session   # working-session, user-session, product-session
-technology	:
+Technology    :
 categories   	:                  	# GDPR, Juice Shop, etc.
 status      	: done
-description	:
+description	  :
 ---
 
 ### Cyber Risk Quantification for insurance and underwriting transactions

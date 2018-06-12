@@ -1,11 +1,15 @@
 ---
 title        	: Cyber Insurance
 type         	: outcome
+track         :
+video         :                    #url i.e. youtube, vimeo, etc
+slides        : https://www.slideshare.net/opensecsummit/cyber-insurance-102132613                    #url i.e. slideshare
+images        :
 session_type 	: user-session   # working-session, user-session, product-session
-technology	:
+technology    :
 categories   	:                  	# GDPR, Juice Shop, etc.
 status      	: done
-description	:
+description	  :
 ---
 
 ### Cyber insurance market (2017 cyber insurance data from Best)
@@ -93,7 +97,7 @@ For example, a pre-existing cyber condition could arise because attack dwell tim
 
 The General Data Protection Regulation (GDPR) raises new challenges for insureds and insurers.
 
-- Three types of personal data breach under the regulation: 
+- Three types of personal data breach under the regulation:
    - Confidentiality
    - Availability
    - Integrity
@@ -103,7 +107,7 @@ The General Data Protection Regulation (GDPR) raises new challenges for insureds
 - Fines and penalties
 - Management liability
 
-Unless an organisation understands where the risks are concerning GDPR, it will not get the right coverage. 
+Unless an organisation understands where the risks are concerning GDPR, it will not get the right coverage.
 For example:
 - A data breach or confidentiality breach is often covered by insurance for GDPR
 - An availability might or might not be covered under GDPR or you need to ask
