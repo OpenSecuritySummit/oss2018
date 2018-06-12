@@ -3,7 +3,7 @@ title        : Cell based Structures for Security
 type         : outcome
 track        :
 video        :                    #url i.e. youtube, vimeo, etc
-slides       :                    #url i.e. slideshare
+slides       : https://www.slideshare.net/opensecsummit/wardley-maps-cell-bases-structures-for-security                   #url i.e. slideshare
 images       :
 session_type : user-session    
 technology   :
@@ -13,13 +13,13 @@ status       : done
 description  :
 ---
 
-## Outcomes/Deliverables 
-The session looked at how security functions can take advantage of Cell Based Structures to be more responsive to business needs. The session also focussed on the application of points of doctrine, and the division of teams into Pioneers, Settlers, and Town Planners as an efficient way to meet business needs that improves on the Squad model. 
+## Outcomes/Deliverables
+The session looked at how security functions can take advantage of Cell Based Structures to be more responsive to business needs. The session also focussed on the application of points of doctrine, and the division of teams into Pioneers, Settlers, and Town Planners as an efficient way to meet business needs that improves on the Squad model.
 
 ## Synopsis and Takeaways
 - All maps are imperfect, but this doesn't mean they can't be useful.
 - Maps are a means of learning, and they are a common language
-- Different people can look at the same map and use it to challenge others' assumptions 
+- Different people can look at the same map and use it to challenge others' assumptions
 - Sharing maps also allows for the discovery of duplications
    - The example was given of a spend control group that receives maps for proposals from all sectors of a business. Sharing such maps with a central point facilitates the identification of duplication of efforts
 - Maps give better guidance for planning and investment
@@ -36,10 +36,10 @@ The session looked at how security functions can take advantage of Cell Based St
    - Build metrics so they know what to deliver
    - Design the organisation for constant evolution
 - Doctrine is associated with adaptability
-   
+
 ### Pioneers, Settlers, and Town Planners
 - The attitude and culture of different teams within a business are very different
-- Teams can be created as groups of pioneers, settlers, and town planners, according to attitude as much as aptitude 
+- Teams can be created as groups of pioneers, settlers, and town planners, according to attitude as much as aptitude
 - A critical part of this system is that to evolve, there must be a system of theft from the pioneer group by the settlers, and from the settlers by the town planners, so that the cycle of creation (pioneer), execution (settler), and industrialisation (town planner) doesn't succumb to inertia.
 - As on a Wardley map, the team should move from left to right, from genesis to industrialisation
 - Allow your teams to self-select
