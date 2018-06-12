@@ -8,22 +8,22 @@ images       :
 session_type : uworking-session
 technology   :
 categories   : Threat Model                   
-status       : review-content            # draft, review-content, done
+status       : done            # draft, review-content, done
 description  : Creating a cheat sheet for the main threats against Docker and Kubernetes
 ---
 
 
 ## Outcomes
 
-A Cheat Sheet covering most common threats against Docker and Kubernetes.
+A Cheat Sheet covering the most common threats against Docker and Kubernetes.
 
 ## Synopsis and Takeaways 
 
 This working session aimed to answer the following questions:
 
 - Can we identify the main or generic threats?
-- Can we organize the Threats in Risk Patterns 
-- Can they be summarized on a Cheat Sheet form?
+- Can we organize the threats in Risk Patterns 
+- Can they be summarized on a Cheat Sheet?
 
 Example: As a tester I want to run a baseline scan of a website in order to sanity check.
 
