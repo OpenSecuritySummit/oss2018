@@ -14,22 +14,30 @@ description	  :
 
 ### Cyber Risk Quantification for insurance and underwriting transactions
 
-Use a four step process to evaluate risk:
+Use a four-step process to evaluate risk:
 
-1. LEVERAGE: Leverage responses to the NIST Cybersecurity Framework (CSF) questionnaire.
-2. EVALUATE: Online NIST Self-Evaluation (only), and/or deeper Cyber Readiness Evaluation (CRE) at a level matching the organisation’s needs.
-3. MEASURE: test to measure scenario-based impacts, measure mitigation options / ROI, measure overall cyber risk profile.
-4. INFORM: Define an Appropriate Risk Strategy, fill gaps with potential solutions, optimization of insurance pricing, coverage, limits, and deductible/sir’s. Helps CISO’s selection/business case around security & resiliency investments.
+1. **Leverage** Leverage responses to the NIST Cybersecurity Framework (CSF) questionnaire.
+2. **Evaluate** Online NIST Self-Evaluation (only), and/or deeper Cyber Readiness Evaluation (CRE) at a level matching the organisation’s needs.
+3. **Measure** Test to measure scenario-based impacts, measure mitigation options / ROI, measure overall cyber risk profile.
+4. **Inform** Define an Appropriate Risk Strategy, fill gaps with potential solutions, optimization of insurance pricing, coverage, limits, and deductible/sirs. Helps CISOs selection/business case around security & resiliency investments.
 
 Leverage Information + Evaluate Risks + Measure Exposure = Inform Strategies & Solutions
 
 ### The NIST Cybersecurity Framework (NIST CSF)
 
-The Framework consists of three parts; the Core, Implementation Tiers and the Profile.
+The Framework consists of three parts:  the Core; Implementation Tiers; the Profile.
 
-1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions: Identify, Protect, Detect, Respond, and Recover.
+1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions: 
+  - Identify
+  - Protect
+  - Detect
+  - Respond
+  - Recover.
 2. The Implementation Tiers provide context on how you view cybersecurity risk and your processes currently in place to manage risk.
-3. The Framework Profile aligns your cybersecurity activities with business requirements, risk tolerances, and resources, enables you to describe your current and target cybersecurity postures, identify and prioritize opportunities for improvement, and evaluate your progress toward your target state.
+3. The Framework Profile aligns your cybersecurity activities with business requirements, risk tolerances, and resources; it enables you to 
+  - Describe your current and target cybersecurity postures
+  - Identify and prioritize opportunities for improvemen
+  - Evaluate your progress toward your target state.
 
 In responding to the Framework Core questionnaire, large (more than $1 billion annual revenue) enterprises currently only average about 1.5 out of a possible 4 (a poor rating). Protection, detection, and recovery get the most attention. Response often gets less. Identify is often the weakest part.
 
@@ -53,7 +61,7 @@ Regulators coming into a business are still learning about cyber. They may opera
 
 ### Monte Carlo Simulation Overview
 
-- Use Monte Carlo if past data is insufficient or non-existent (making regression analysis impossible).
+- Use Monte Carlo if historical data is insufficient or non-existent (making regression analysis impossible).
 - Modelling a real system to learn about its behavior
 - Building a set of mathematical and logical relationships
 - Establishing and varying conditions to test different scenarios
@@ -62,7 +70,7 @@ Regulators coming into a business are still learning about cyber. They may opera
 
 - Random Number Generation: Simulates the uncertainty in the assumptions
 - Program selects a value for the assumption, recalculates the spreadsheet, plots the forecast and repeats
-- Application of Model: Build frequency and severity distributions for each selected Cyber Risk Factor (e.g., Access Control, Protective Technology, etc.)
+- Application of Model: Build frequency and severity distributions for each selected Cyber Risk Factor (e.g., Access Control, Protective Technology)
 - The model simulates different loss outcomes and applied correlation and aggregate views to link results
 - This then provides an overall loss distribution along with a view of the associated variability around mean estimate (average) calculations.
 
@@ -70,13 +78,13 @@ Regulators coming into a business are still learning about cyber. They may opera
 
 - Total potential losses with no insurance
 - Total potential losses after insurance
-- Total potential losses beyond $50k deductible
+- Total potential losses beyond $50,000 deductible
 - Total potential losses using recommended security solution, such as 2FA
 
 ### For Future Consideration: Updating and Extending Analysis
 
 - Determine an acceptable risk tolerance level
-- Select Operating Margin or Net Income (vs Revenue) as a basis for analysis
+- Select Operating Margin or Net Income (vs. Revenue) as a basis for analysis
 - Update analysis on an annual basis
 - Add new inputs, looking at the effects of other operational changes
 - Add new external data about different insurance coverage options available in the market
