@@ -14,15 +14,18 @@ description  :
 ---
 
 
-### Why Must We Now Address Machine Learning Risks
+### Why Must We Address Machine Learning Risks
 
-Machine learning and deep learning are now a vital part of critical systems like self-driving cars, advanced authentication and automated detection of lesions/tumors. However, research shows that such technologies have inherent risks originated from the process of how the models are being learnt or used.
+Machine learning and deep learning are a vital part of critical systems such as self-driving cars, advanced authentication, and automated detection of lesions/tumors. However, research shows that such technologies have inherent risks originating from the process of how the models are being learnt or used.
 
 ### What is Machine Learning?
 
-ML is the ability to program computer to do something without it being explicitly being told what to do.
+ML is the ability to program a computer to do something without it being explicitly being told what to do.
 
-1. First, we need data. The data is split between two sets, for instance, as follows. 70% of the data is put into the training set. The other 30% of the data is put into the testing set.
+1. First, we need data. The data is split between two sets, as follows: 
+ - 70% of the data is put into the training set
+ - 30% of the data is put into the testing set.
+ 
 2. Next, the learning algorithm is created, the system is trained using the training dataset to produce suitable outcomes, and performance is evaluated using the testing dataset.
 
 ### What are the Main Security Concerns for ML?
