@@ -1,7 +1,7 @@
 ---
 title        : Hands on Chaos Experiments
 type         : outcome
- : Owasp Projects
+track        : Chaos Engineering
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :
