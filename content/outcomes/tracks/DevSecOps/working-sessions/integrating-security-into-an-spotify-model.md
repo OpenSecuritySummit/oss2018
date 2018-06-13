@@ -44,5 +44,5 @@ In relation to Security the following points were made:
 
 ## Working Materials
 
-## References (recommend)
+## References
 - https://open-security-summit.org/tracks/devsecops/working-sessions/integrating-security-into-an-spotify-model/
