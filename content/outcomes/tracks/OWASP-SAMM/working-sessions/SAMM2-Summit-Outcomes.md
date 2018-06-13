@@ -16,21 +16,22 @@ description  :
 ## Outcomes/Deliverables 
 
 The outcomes of our SAMM working sessions are:
-
  * Processed feedback on Alpha version of SAMMv2 Core Model outline (tracked with GitHub Issues)
- * Beta (improved) SAMMv2 Core Model outline
  * Got feedback/integrated from the DevSecOps maturity model folks
- * Defined source markdown structure of the model
+ * Had input from Jeff Williams on an DevOps version of SAMM
+ * Got review/input from DevSecOps SME (Timo) for the implementation business function
+ * Defined a draft source markdown structure of the model
+ * Create a beta (improved) SAMMv2 Core Model outline (without activity details)
  * First publication to a Hugo based website of the model
- * Plan for six two-week writing sprints Core Model activities (five activity streams per sprint)
+ * Plan for six two-week writing sprints detailing the Core Model activities (five activity streams per sprint)
  * Planned a SAMM Summit in the US mid-October
- * Added more contributors to the project team (John, Chris)
- * Extracted a markdown version of SAMMv1.5
- * Got a publication workflow from markdown to PDF / ePub
+ * More contributors joined the project team (John Dileo, Chris Cooper)
+ * Extracted a markdown version of SAMMv1.5 (from the PDF) - Becky
+ * Got a publication workflow from markdown to PDF / ePub - Sherif
 
 ## Synopsis and Takeaways 
-
-Face to face summits are great to discuss and solve core model questions
+Key takeaways:
+* Face to face summits are great to discuss and solve core model questions
 
 ## References 
 
@@ -45,4 +46,4 @@ Face to face summits are great to discuss and solve core model questions
 ### Additional/External References
 
  * SAMM on OWASP Wiki: https://www.owasp.org/index.php/OWASP_SAMM_Project
- * SAMM on GitHub Pages: https://owaspsamm.org
+ * SAMM on GitHub Pages: https://github.com/OWASP/samm
