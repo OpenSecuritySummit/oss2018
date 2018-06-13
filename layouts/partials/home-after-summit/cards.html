@@ -5,32 +5,40 @@
             <h1 class="no-margin">Featured Outcomes</h1>
         </div>
 
-        {{ range where .Site.Data.home.after_summit.cards ".title" "!=" "empty"}}
-        <div class="col-lg-3 col-md-3 col-sm-12" style="min-height:300px;">
-          <div class="oss-card-small">
-            <div class="oss-card-small-title">
-              <a href="{{ .more_info }}">
-                <h3>{{ .title | upper }}</h3>
-              </a>
-            </div>
-            <div class="oss-card-small-body">
-              <div class="">
-                <ul class="featured">
-                  {{ range .outcomes }}
-                  <li class="featured">
-                    <a href="{{ lower .link }}">{{ .title }}</a>
-                  </li>
-                  {{ end }}
-                </ul>
-                <div class="oss-card-small-bottom">
-                  <a href="{{ .more_info }}" class="btn oss-card-small-button">More information</a>
+        <div class="row">
+        {{ $outcomes := where (where (where .Pages ".Params.type" "outcome") ".Params.title" "!=" "") ".Params.status" "!=" "draft" }}
+
+        {{ $tracks := slice "Chaos Engineering" "CISO" "DevSecOps" "GDPR" "Keynotes" "Maps and Graphs" "Misc" "OWASP Projects" "OWASP SAMM" "Security Questions" "Threat Model" }}
+
+        {{ range $tracks }}
+            {{ $featured := where (where $outcomes ".Params.track" .) ".Params.featured" true }}
+            {{ if gt (len $featured) 0 }}
+            <div class="col-lg-3 col-md-3 col-sm-12">
+              <div class="oss-card-small">
+                <div class="oss-card-small-title">
+                  <a href="">
+                    <h3>{{ . | upper }}</h3>
+                  </a>
+                </div>
+                <div class="oss-card-small-body">
+                  <div class="featured">
+                    <ul class="featured">
+                    {{ range $featured }}
+                      <li class="featured">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </li>
+                      {{ end }}
+                    </ul>
+                    <div class="oss-card-small-bottom">
+                      <a href="{{ . }}" class="btn oss-card-small-button">More information</a>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
+            {{ end }}
         {{ end }}
-        <hr />
+        </div>
         <div class="row text-center">
             <div class="col-md-offset-4 col-md-4">
               <div class="oss-card-small-bottom">
