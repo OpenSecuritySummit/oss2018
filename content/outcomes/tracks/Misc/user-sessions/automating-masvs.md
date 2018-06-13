@@ -1,16 +1,16 @@
 ---
-title        : Automation of MASVS with BDD
-type         : outcome
-track        : Misc
-video        :                    #url i.e. youtube, vimeo, etc
-slides       :                    #url i.e. slideshare
-images       :
-session_type : user-session    # working-session, user-session, product-sesssion
-technology   :
-featured   : yes
-categories   :                    # GDPR, Juice Shop, etc.
-status       : draft              # draft, review-content, done
-description  :
+title         : Automation of MASVS with BDD
+type          : outcome
+track         : Misc
+video         :                    #url i.e. youtube, vimeo, etc
+slides        :                    #url i.e. slideshare
+images        :
+session_type  : user-session    # working-session, user-session, product-sesssion
+technology    :
+featured      : yes
+categories    :                    # GDPR, Juice Shop, etc.
+status        : review-content              # draft, review-content, done
+description   :
 ---
 
 
@@ -18,7 +18,7 @@ description  :
 
 ## Outcomes/Deliverables
 
-The main outcome of the working sessions is a set of BDD tests for Android and iOS, using the MSTG playground and iOS iGoat as target apps. The repo with the developed tests cabn be found here. 
+The main outcome of the working sessions is a set of BDD tests for Android and iOS, using the MSTG playground and iOS iGoat as target apps. The repo with the developed tests cabn be found here.
 
 [Automation of MASVS with BDD](https://github.com/ing-bank/bdd-mobile-security-automation-framework/)
 

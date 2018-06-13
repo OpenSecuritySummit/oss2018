@@ -1,12 +1,16 @@
 ---
-title        	: OWASP Defect Dojo
-type         	: outcome
-session_type 	: user-session   # working-session, user-session, product-session
-technology	:
-categories   	:
-featured      : yes                 	# GDPR, Juice Shop, etc.
-status      	: draft           	# draft, review-content, done
-description	:
+title        : OWASP Defect Dojo
+type         : outcome
+track        : DevSecOps
+video        :                    #url i.e. youtube, vimeo, etc
+slides       :                    #url i.e. slideshare
+images       :
+featured     : yes                 	# GDPR, Juice Shop, etc.
+session_type : working-session    # working-session, user-session, product-sesssion
+technology   :
+categories   :                    # GDPR, Juice Shop, etc.
+status       : review-content             # draft, review-content, done
+description  :
 ---
 
 ### What is OWASP DefectDojo?
@@ -44,7 +48,7 @@ To use DefectDojo on a broader scale, we also need to improve the production gra
 We also need better ways to collaborate and handle code merge master.
 
 ## References
-- **Session page :** •	https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-defect-dojo/
+- **Session page :**	https://open-security-summit.org/tracks/devsecops/working-sessions/owasp-defect-dojo/
 
 ### Additional/External References
 - https://www.owasp.org/index.php/OWASP_DefectDojo_Project
