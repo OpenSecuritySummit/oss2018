@@ -16,6 +16,7 @@ description  :
 ## Outcomes/Deliverables 
 
 The outcomes of our SAMM working sessions are:
+
  * Processed feedback on Alpha version of SAMMv2 Core Model outline (tracked with GitHub Issues)
  * Got feedback/integrated from the DevSecOps maturity model folks
  * Had input from Jeff Williams on an DevOps version of SAMM
@@ -31,7 +32,8 @@ The outcomes of our SAMM working sessions are:
 
 ## Synopsis and Takeaways 
 Key takeaways:
-* Face to face summits are great to discuss and solve core model questions
+
+ * Face to face summits are great to discuss and solve core model questions
 
 ## References 
 
