@@ -1,7 +1,7 @@
 ---
 title        : Integrating Security into an Spotify Model (and using Squads for Security teams)
 type         : outcome
-track        :
+track        : DevSecOps
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

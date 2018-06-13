@@ -1,7 +1,7 @@
 ---
 title        : Using Neo4J to filter and review SAST findings
 type         : outcome
-track        :
+track        : Maps and Graphs
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

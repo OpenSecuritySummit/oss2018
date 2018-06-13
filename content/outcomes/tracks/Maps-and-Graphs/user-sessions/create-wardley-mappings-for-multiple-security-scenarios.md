@@ -1,7 +1,7 @@
 ---
 title        : Create Wardley Maps for Multiple Security Scenarios
 type         : outcome
-track        :
+track        : Maps and Graphs
 video        :                    #url i.e. youtube, vimeo, etc
 slides       : https://www.slideshare.net/opensecsummit/oss2018-outcomes-create-wardley-maps-for-multiple-security-scenarios/opensecsummit/oss2018-outcomes-create-wardley-maps-for-multiple-security-scenarios                 #url i.e. slideshare
 images       :

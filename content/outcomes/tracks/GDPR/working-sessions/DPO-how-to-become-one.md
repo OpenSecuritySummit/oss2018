@@ -1,7 +1,7 @@
 ---
 title        : DPO how to become one
 type         : outcome
-track        :
+track        : GDPR
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

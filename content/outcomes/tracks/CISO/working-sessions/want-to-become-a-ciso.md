@@ -1,7 +1,7 @@
 ---
 title        : Want to become a CISO?
 type         : outcome
-track        :
+track        : CISO
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

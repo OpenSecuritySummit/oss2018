@@ -1,7 +1,7 @@
 ---
 title        : Owasp Cloud Security Workshop (BETA)
 type         : outcome
-track        :
+track        : DevSecOps
 video        :                    #url i.e. youtube, vimeo, etc
 slides       : https://www.slideshare.net/opensecsummit/owasp-cloud-security-workshop                   #url i.e. slideshare
 images       :

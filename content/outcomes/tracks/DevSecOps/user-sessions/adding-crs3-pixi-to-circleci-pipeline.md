@@ -1,7 +1,7 @@
 ---
 title        : Adding CRS3 and Pixi to CircleCI pipeline
 type         : outcome
-track        :
+track        :: DevSecOps
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

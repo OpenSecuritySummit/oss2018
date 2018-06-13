@@ -1,7 +1,7 @@
 ---
 title        : Creating Open Source Avatao exercises
 type         : outcome
-track        :
+track        : Misc
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

@@ -1,6 +1,7 @@
 ---
 title        	: GDPR Ask Me Anything GDPR
 type         	: outcome
+track        : CISO
 session_type 	: user-session   # working-session, user-session, product-session
 technology	:
 categories   	:                  	# GDPR, Juice Shop, etc.

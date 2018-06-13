@@ -1,7 +1,7 @@
 ---
 title        : Lessons learned from public bug bounties programmes
 type         : outcome
-track        :
+track        : Misc
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

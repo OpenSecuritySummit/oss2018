@@ -1,7 +1,7 @@
 ---
 title        	: Cyber Insurance
 type         	: outcome
-track         :
+track         : CISO
 video         :                    #url i.e. youtube, vimeo, etc
 slides        : https://www.slideshare.net/opensecsummit/cyber-insurance-102132613                    #url i.e. slideshare
 images        :

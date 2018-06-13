@@ -1,7 +1,7 @@
 ---
 title        : Security Crowdsourcing
 type         : outcome
-track        :
+track        : DevSecOps
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

@@ -1,7 +1,7 @@
 ---
 title        : WebAuthn - Getting started workshop
 type         : outcome
-track        :
+track        : DevSecOps
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

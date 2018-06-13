@@ -1,7 +1,7 @@
 ---
 title        : Running CTF Games with OWASP Juice Shop
 type         : outcome
-track        :
+track        : Misc
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

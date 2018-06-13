@@ -1,7 +1,7 @@
 ---
 title        : Using User Story Mapping for effective communication
 type         : outcome
-track        :
+track        : Maps and Graphs
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

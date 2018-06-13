@@ -1,7 +1,7 @@
 ---
 title        : Agile Practices for Security Teams
 type         : outcome
-track        :
+track        : DevSecOps
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

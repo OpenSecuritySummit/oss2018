@@ -1,7 +1,7 @@
 ---
 title        : "Women in Cyber-security: improving the gender balance"
 type         : outcome
-track        :
+track        : Misc
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

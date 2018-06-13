@@ -1,7 +1,7 @@
 ---
 title        : Using AI and ML for incident response
 type         : outcome
-track        :
+track        : Misc
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :

@@ -1,7 +1,7 @@
 ---
 title        	: Cyber Risk Modeling
 type         	: outcome
-track         :
+track         : CISO
 video         :                    #url i.e. youtube, vimeo, etc
 slides        : https://www.slideshare.net/opensecsummit/owasp-cyber-risk-quantification-2018                    #url i.e. slideshare
 images        :
@@ -27,14 +27,14 @@ Leverage Information + Evaluate Risks + Measure Exposure = Inform Strategies & S
 
 The Framework consists of three parts:  the Core; Implementation Tiers; the Profile.
 
-1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions: 
+1. The Framework Core provides a set of five activities to achieve specific cybersecurity outcomes, divided into five functions:
   - Identify
   - Protect
   - Detect
   - Respond
   - Recover.
 2. The Implementation Tiers provide context on how you view cybersecurity risk and your processes currently in place to manage risk.
-3. The Framework Profile aligns your cybersecurity activities with business requirements, risk tolerances, and resources; it enables you to 
+3. The Framework Profile aligns your cybersecurity activities with business requirements, risk tolerances, and resources; it enables you to
   - Describe your current and target cybersecurity postures
   - Identify and prioritize opportunities for improvemen
   - Evaluate your progress toward your target state.

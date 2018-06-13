@@ -1,7 +1,7 @@
 ---
 title        : A seat at the table
 type         : outcome
-track        :
+track        : Keynotes
 video        :                    #url i.e. youtube, vimeo, etc
 slides       :                    #url i.e. slideshare
 images       :
