@@ -15,7 +15,11 @@ description  :
 
 ## Outcomes
 
+People came and learned about the security features of Azure and other features.
+
 An informal session for knowledge sharing and learning the newer security features of Azure, including: Access Control (AIM), Just in Time (JIT) access control, Security Center Recommendations, Virtual Machine Security Recommendations, and Key Vault.
+
+People now know more and got to try Azure.  They now know about security centre, and we all agreed that now we are in a DevOps world and we now have to worry about not only AppSec but also OpSec.
 
 Specific features and aspects demonstrated/discussed in the session:
 
@@ -33,6 +37,11 @@ Specific features and aspects demonstrated/discussed in the session:
 - Resource creation in the Security Center also allows push-button creation of a DevOps project.
 - Security Center subscription is/starts from $15, which is affordable to many.
 - People do not always realize that Security Center is available in Azure. They might benefit from knowing this.
+
+## Next Steps
+
+1. Tanya (the organizer) to learn more about the features and make a much better demo.  She will add all new things to Patty the pipeline in DevSlop.
+2. Write Microsoft Docs about each step, or if one exists send feedback.
 
 ## References
 - **Session page :** •	https://open-security-summit.org/product-sessions/azure-security-features/
