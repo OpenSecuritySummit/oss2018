@@ -1,8 +1,8 @@
-weight: 5
+weight: 50
 type: "Summit + Accommodation"
-early_bird: (Super Early Bird)
+early_bird: (Early Bird)
 # price is in pounds. don't add VAT nor fees
-cost: 945
+cost: 1250
 duration: "5 days x 24h participant"
 buy: "https://www.eventbrite.co.uk/e/open-security-summit-2019-tickets-46684822561#tickets"
 description:

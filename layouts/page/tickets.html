@@ -25,20 +25,23 @@
 <section class="mid_wrap" >
 
 <div class="container">
-  <div class="t_rw text-center"><h2>We have 5 types of tickets available at the Summit, please see below for details.</h2></div>
+  <div class="t_rw text-center"><h1>Summit 2019 tickets are now for sale</h1></div>
+  <div class="t_rw text-center"><h2>Limited number of Super Early Bird tickets available!</h2></div>
+
+  <!--<div class="t_rw text-center"><h2>We have multiple types of tickets available at the Summit, please see below for details.</h2></div>-->
 
   <div class="sec_4 ">
     <div class="row">
       <div class="col-sm-8">
-        <div class="group_discount ul_bx">
-          <h3>Group Discount (for the 5 day tickets)</h3>
-          <ul>
-            <li>If you buy 5 to 9 tickets you get 10% discount</li>
-            <li>If you buy more than 10 tickets you get 20% discount</li>
-          </ul>
+        <!--<div class="group_discount ul_bx">-->
+          <!--<h3>Group Discount (for the 5 day tickets)</h3>-->
+          <!--<ul>-->
+            <!--<li>If you buy 5 to 9 tickets you get 10% discount</li>-->
+            <!--<li>If you buy more than 10 tickets you get 20% discount</li>-->
+          <!--</ul>-->
 
 
-        </div>
+        <!--</div>-->
 
         <div class="buy_using ul_bx">
           <h3>Buy using invoice</h3>
@@ -63,7 +66,10 @@
         <div class="col-lg-4 col-md-4 col-sm-12">
           <div class="price_bx">
             <div class="head_price text-center">
-              <h3>{{ $ticket.type }}</h3>
+              <a href="{{ $ticket.buy }}" target="_blank">
+                <h3>{{ $ticket.type }}</h3>
+                <h4>{{ $ticket.early_bird }}</h4>
+              </a>
             </div>
             <div class="mid_price">
               <div class="text-center price_gbp"><span class="price_cl">&pound;{{ $ticket.cost }}*</span><span class="gbp">GBP</span></div>
@@ -77,9 +83,9 @@
                 </ul>
               </div>
               {{ if eq $ticket.cost 0 }}
-                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">{{$ticket.text }}</a></div>
+                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn" target="_blank">{{$ticket.text }}</a></div>
               {{ else}}
-                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn">Buy Ticket</a></div>
+                <div class="rw text-center"><a href="{{ $ticket.buy }}" class="btn btn_1 green_btn" target="_blank">Buy Ticket</a></div>
               {{ end }}
             </div>
           </div>

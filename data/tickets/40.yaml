@@ -1,10 +1,10 @@
-weight: 4
-type: "5 day ticket (no Accommodation)"
-early_bird:
+weight: 40
+type: "5 days (no Accommodation)"
+early_bird: (Early Bird)
 # price is in pounds. don't add VAT nor fees
-cost: 960
+cost: 800
 duration: "5 days x 24h participant"
-buy: "https://eventbrite.co.uk/tickets-external?eid=42524734626&ref=etckt"
+buy: "https://www.eventbrite.co.uk/e/open-security-summit-2019-tickets-46684822561#tickets"
 description:
   - "Access to all working sessions"
   - "Breakfast, lunch and refreshments during breaks"

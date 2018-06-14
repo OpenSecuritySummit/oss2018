@@ -1,7 +1,7 @@
 ---
 draft : false
 title : "Suggestions for Working Sessions"
-year : 2018
+year : 2019
 
 banner      : ""
 images      : ""
