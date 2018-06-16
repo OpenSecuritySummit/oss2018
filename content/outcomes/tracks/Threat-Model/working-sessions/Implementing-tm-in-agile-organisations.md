@@ -22,12 +22,67 @@ Describe a typical SCRUM and Kanban process and show where threat model related 
 
 Presentation of SCRUM and Kanban processes with discussion on how Threat Modeling would fit in. The session used the Four Questions that form the basis of all Threat Models in relation to team members and generic activities in the software development lifecycle.
 
-## Identified Questions
+### Identified Questions
 
 - A threat model is a good training model but how do we capture it in terms of SCRUM or Agile?
 - Can a generic diagram capture this?
 - Is this a management, developer, or security issue?
 - Do you apply security to the design, or does the developer design to security issues?
+
+### Activities
+
+
+#### Inception
+
+- Value Q1
+
+#### Refinement (EOP)
+ 
+- Design Q2, Q3 and Q4
+    - Create  MSV
+- Epics 
+  - Breakdown Q2 and Q3
+- Roadmap
+- DoD Q4
+    - Create  MSV
+
+MSV = MINIMUM VIABLE SECURITY
+
+#### Sprint Planning
+
+- Planning Poker
+- Refinement Q3
+- Design Q2 and Q3
+- Accept Crit Q4
+
+#### Sprint
+
+- Story Refinement Q1,Q2, Q3 and Q4 -- 3 Amigos
+- Stand Up
+
+#### Product Demo Q4
+
+#### Retrospective Q4
+
+### Team
+
+#### Inception
+
+- Security?
+- Business
+- App Architect
+
+#### 3 Amigos
+
+- Q&A
+- DEV
+- Product Owner
+
+#### Refinement
+
+- Product Owner
+- Team
+
 
 ## Working Materials
 
