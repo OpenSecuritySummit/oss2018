@@ -64,7 +64,12 @@ TLS
 
 ### Model A
 
-<img src="https://user-images.githubusercontent.com/39884432/41207604-037b4f1c-6d19-11e8-8d28-ddd1d8c0d2fa.JPG" width="100%"/>
+{{<mermaid align="left">}}
+graph LR
+A(CLIENT) -->|1|B(SERVER)
+B-->|2|A(CLIENT)
+{{< /mermaid >}}
+
 
 **S**
 
@@ -116,7 +121,14 @@ FINDOS
 
 ### Model B
 
-<img src="https://user-images.githubusercontent.com/39884432/41207605-04f6e432-6d19-11e8-8f0b-ff407c86c17d.JPG" width="100%"/>
+{{<mermaid align="left">}}
+graph LR
+A(CLIENT) -->|1|B(PROXY)
+B -->|2| C(API)
+C-->|3|B(PROXY)
+B-->|4|A(CLIENT)
+{{< /mermaid >}}
+
 
 - No state change
 - Public Data
