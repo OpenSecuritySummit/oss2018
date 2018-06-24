@@ -1797,3 +1797,53 @@ p.home-outcome {
 .status-gray  {
   color: #cccccc;
 }
+
+/* One Day Summit - 03/June/2018 */
+.background-onedaysummit {
+    background: url(/img/pages/one_day_summit.jpg) center center repeat;
+}
+
+.inner_main_onedaysummit {
+  height:284px;
+  position:relative;
+  background:url(/img/pages/one_day_summit.jpg) no-repeat center bottom;
+  background-size:cover;
+}
+
+.ods_label{
+  font-weight: bold;
+}
+
+.ods_value{
+  font-weight: normal;
+}
+
+.ods_value_accent{
+  color: #87bb40;
+}
+
+.ods_timeslot{
+  color:#87bb40;
+  font-size: 1.0em;
+}
+
+.ods_pause{
+  color:#919191;
+  font-size: 1.0em;
+  text-align: center;
+  width: 100%;
+}
+
+.ods_description{
+  margin-top:20px;
+  font-size: 1.0em;
+  color:#919191;
+}
+
+.ids_session h3{
+  margin-top: 40px;
+}
+
+.ids_session h2{
+  margin-top: 50px;
+}
