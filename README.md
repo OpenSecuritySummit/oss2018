@@ -2,6 +2,8 @@
 
 Welcome to the home page of the Open Security Summit 2018
 
+**Open Security Summit 2019, England, 3-7 June 2019**
+
 Registration is open [On EventBrite](https://eventbrite.be/tickets-external?eid=39825671656&ref=etckt) 
 
 **Open Security Summit 2018, England, 4-8 June 2018**
