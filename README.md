@@ -1,4 +1,4 @@
-## Open Security Summit 2018
+## Open Security Summit 2018 ![https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiRkN4c0l4MWcrNE0wUk9NcjhsWkZidHVSM3lVR0ZkU0srSUtmcE1hcXpxTnRtUEg0ZFZ3UmxLT1lNSGxWdERCdXBhWVk4a2NVenVWK1hvc0R6TmhidmM4PSIsIml2UGFyYW1ldGVyU3BlYyI6IjN5eU81L1BLd1RUTGYrT2IiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master]
 
 Welcome to the home page of the Open Security Summit 2018
 
