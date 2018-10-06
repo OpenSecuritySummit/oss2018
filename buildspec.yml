@@ -3,8 +3,8 @@ version: 0.2
 environment_variables:
   plaintext:
     HUGO_VERSION: "0.40.3"
-    STOUT_VERSION: "1.3.1"
     BUCKET_NAME: "open-security-summit.com-cdn"
+    DISTRIBUTION_ID: "E3P57EH6LOF51J"
 
 phases:
   install:
@@ -20,6 +20,6 @@ phases:
       - hugo
   post_build:
     commands:
-      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}
+      - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2018/
       - aws configure set preview.cloudfront true
-      - aws cloudfront create-invalidation --distribution-id E22WEBPD6529KA --paths '/*'
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/2018/*'

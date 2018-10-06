@@ -1,5 +1,5 @@
-baseurl                 = "https://open-security-summit.org/"
-title                   = "Open Security Summit"
+baseurl                 = "https://2018.open-security-summit.org/"
+title                   = "Open Security Summit 2018"
 theme                   = "oss-owasp"
 languageCode            = "en-us"
 defaultContentLanguage  = "en"
@@ -210,7 +210,7 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "info@opensecsummit.org"
 
-    about_us = "The Open Security Summit 2019 is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
+    about_us = "The Open Security Summit 2018 is focused on the collaboration between, Developers and Application Security. Using the same model as the previous OWASP Summits, this 5-day event will be a high-energy experience, during which attendees get the chance to work and collaborate intensively."
     copyright = "Copyright &copy; 2018, Open Security Summit"
     help_center = """<a href="https://os-summit.slack.com/messages/CAVJH8QJV" target="blank">Do you need help <i class="fa fa-question-circle" aria-hidden="true"></i></a>"""
 
