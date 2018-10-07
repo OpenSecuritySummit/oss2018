@@ -22,4 +22,4 @@ phases:
     commands:
       - aws s3 sync --acl "public-read" --sse "AES256" public/ s3://${BUCKET_NAME}/2018/
       - aws configure set preview.cloudfront true
-      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/2018/*'
+      - aws cloudfront create-invalidation --distribution-id ${DISTRIBUTION_ID} --paths '/*'
