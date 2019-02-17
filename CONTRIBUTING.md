@@ -18,7 +18,7 @@ If you need to edit multiple files, or if you want to check the resulting pages 
 [Fork this repo](https://github.com/OpenSecuritySummit/oss2018#fork-destination-box) first, and when cloning your copy install dependent submodules also (the Theme is in a submodule repo):
 
 ```
-$ git clone --recurse-submodules https://github.com/<your github username>/oss2018.git
+$ git clone --recurse-submodules https://github.com/<your github username>/oss2018.git 
 ```
 
 Don't forget to make it recursive, or you will have errors executing _hugo_ afterwards!
