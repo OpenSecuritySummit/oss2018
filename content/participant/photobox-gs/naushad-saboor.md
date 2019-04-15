@@ -1,11 +1,11 @@
 ---
-title           : Naushad Saboor
+title           : Naushad S
 type            : participant
 sponsored_by    : PhotoBox
 job_title       : IT Security Specialist
 company         : Photobox GS
 travel_from     : London
-image           : https://media.licdn.com/dms/image/C4E03AQF-znjZJml1PA/profile-displayphoto-shrink_800_800/0?e=1531958400&v=beta&t=rIvNryNU1JajPWkXAm4kvINPs2HRLY1jzIy7HAVaeFM
+image           : https://pbs.twimg.com/profile_images/1081188873395417088/NeFK51Km_400x400.jpg
 linkedin        : DrNaushad
 twitter         : Naushad_IT
 facebook        :
