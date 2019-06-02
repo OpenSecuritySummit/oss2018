@@ -15,6 +15,26 @@ chapter_leader  : Israel chapter
 eventbrite_id   : 
 status          : add-details
 sessions        :
+- Automated Threat Hunting Project Collaboration
+- Creating a Threat Library
+- Creating a generic diagram of a threat model
+- How do we persist the information from the TM Slack channel?
+- Incremental Threat Modeling
+- Lightweight privacy threat modeling using LINDDUN
+- Lightweight privacy threat modeling using LINDDUN Part II
+- SAMMv2 - Threat Modeling
+- State and future of threat modeling
+- TM maturity
+- TM track introduction
+- Threat Model Examples Project
+- Threat Model Examples Project
+- Towards a unified way of describing threat models
+- Hand's on Wardley Maps creation (Training Session)
+- Introduction to Wardley Maps (Training Session)
+- Mapping boot camp
+- Wardley Mapping - Climatic Patterns and Using Doctrine
+- Wardley Maps for Security
+
 notes           : 
 # add the Working Sessions you would like to attend in the meta above (use the session's title) e.g. sessions (one per line): -Security Playbooks Diagrams -Hackathon Daily Sessions
 ---
