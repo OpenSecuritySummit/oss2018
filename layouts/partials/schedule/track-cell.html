@@ -8,7 +8,7 @@
 <table class="table schedule-cell">
     {{ $self := .self }}
     {{ if  .self.Scratch.Get .day }}
-        {{if gt (len (.self.Scratch.Get .day)) 1 }}
+        {{if (gt (len (.self.Scratch.Get .day)) 1) }}
         <tr>
             <td>
                 <div class="alert alert-danger over-subscribed">Time slot over-subscribed</div>
