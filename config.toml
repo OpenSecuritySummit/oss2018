@@ -6,7 +6,7 @@ defaultContentLanguage  = "en"
 googleAnalytics         = "UA-97001849-2"
 enableGitInfo           = false
 preserveTaxonomyNames   = true
-disableKinds            = ["taxonomy"]
+#disableKinds            = ["taxonomy"]
 #disqusShortname = "devcows"
 
 # Define the number of posts per page
