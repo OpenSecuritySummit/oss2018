@@ -36,4 +36,4 @@ There are two types of participants - Onsite and Remote
 
 If you are going to contribute to a working session it makes sense to fork the repo and push your changes (https://github.com/OpenSecuritySummit/oss2018).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBA6LeZQsuo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="border:1px solid #999;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/rBA6LeZQsuo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen style="border:1px solid #999;"></iframe>

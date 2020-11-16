@@ -6,6 +6,7 @@
         <h3>About</h3>
         {{ with .Site.Params.about_us }}<p>{{ . | safeHTML }}</p>{{ end }}
         {{ with .Site.Params.copyright }}<p>{{ . | safeHTML }}</p>{{ end }}
+        <p><a href="/privacy-notice">Privacy Notice</a></p>
       </div>
 
       {{ with .Site.Params.address }}
